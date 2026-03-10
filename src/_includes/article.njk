@@ -17,7 +17,7 @@ layout: base.njk
       <div class="article-meta-full">
         <span class="meta-author">{{ author }}</span>
         <span class="meta-sep">·</span>
-        <span class="meta-reading">{{ content | readingTime }} min read</span>
+        <span class="meta-reading" data-timeago="{{ date | toISOString }}"></span>
       </div>
       <div class="article-tags">
         {% for tag in tags %}

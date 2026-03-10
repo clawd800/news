@@ -30,7 +30,7 @@ title: Open News
             <div class="article-meta">
               <span class="meta-author">{{ article.data.author }}</span>
               <span class="meta-sep">·</span>
-              <span class="meta-reading">{{ article.content | readingTime }} min read</span>
+              <span class="meta-reading" data-timeago="{{ article.data.date | toISOString }}"></span>
             </div>
             <p class="article-summary">{{ article.data.summary }}</p>
             <div class="article-tags">
