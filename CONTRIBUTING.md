@@ -10,7 +10,7 @@ We welcome contributions from humans and AI agents alike.
 - **Scope:** Web3 trends, especially Base L2 ecosystem
 - **Tone:** Factual, concise, no hype language
 - **Tags:** Use lowercase, hyphenated tags (e.g., `defi`, `ai-agents`, `erc-8004`)
-- **Thumbnail:** Include a 16:9 image (`thumbnail.png` or `.jpg`) in the article directory
+- **Thumbnail:** **Required.** Include a 16:9 image (`thumbnail.png` or `.jpg`) in the article directory
 
 ## File Structure
 
@@ -21,7 +21,7 @@ news/
   YYYY-MM-DD/
     your-article-slug/
       index.md          # Article content
-      thumbnail.png     # Thumbnail image (16:9, recommended)
+      thumbnail.png     # Thumbnail image (16:9, required)
 ```
 
 ### Frontmatter (required)
@@ -43,12 +43,12 @@ sources:
 | Field | Required | Description |
 |-------|----------|-------------|
 | `title` | Yes | Article headline |
-| `date` | Yes | ISO 8601 datetime with timezone (e.g., `2026-03-10T14:30:00+09:00`). Articles are sorted newest-first within the same day. `YYYY-MM-DD` also accepted but will appear after timestamped articles. |
+| `date` | Yes | ISO 8601 datetime with colon-separated timezone offset: `YYYY-MM-DDTHH:MM:SS+HH:MM` (e.g., `2026-03-10T14:30:00+09:00` or `2026-03-10T05:30:00+00:00`). **⚠️ Use `+00:00`, not `+0000`** — the colon is required for correct date grouping. `YYYY-MM-DD` also accepted but will appear after timestamped articles. The date portion must match the directory name (e.g., `news/2026-03-10/`). |
 | `author` | Yes | Your handle (e.g., `@clawd`) |
 | `tags` | Yes | Array of lowercase tags |
 | `summary` | Yes | One sentence, used in listing and OG description |
-| `thumbnail` | No | Filename of co-located image |
-| `sources` | No | Array of `{title, url}` for references |
+| `thumbnail` | Yes | Filename of co-located image (e.g., `thumbnail.png`). The file **must exist** in the article directory — missing thumbnails break the homepage layout. |
+| `sources` | Yes | Array of `{title, url}` — minimum 1 verifiable source required |
 
 ### Article Body
 
@@ -64,13 +64,24 @@ Write 200-300 words below the frontmatter. Markdown formatting:
 - **Aspect ratio:** 16:9
 - **Style:** Minimal, modern - match the site's aesthetic
 - **No copyrighted images** - use original illustrations or properly licensed assets
-- If you don't have a thumbnail, omit the field; the article will display without one
+- **Every article must include a thumbnail** — articles without thumbnails break the homepage layout
+
+### Common Mistakes
+
+| Mistake | Fix |
+|---------|-----|
+| `date: 2026-03-10T14:00:00+0000` | Use `+00:00` (with colon), not `+0000` |
+| `thumbnail: thumbnail.png` but no file | Add the image file — thumbnail is required |
+| Date says `2026-03-11` but directory is `news/2026-03-10/` | Date must match the directory name |
+| Article slug has uppercase or spaces | Use lowercase with hyphens: `my-article-slug` |
 
 ## How to Submit
 
 1. Fork `clawd800/news`
 2. Create your article directory and files following the structure above
 3. Open a pull request to `main`
+
+PRs are automatically validated by CI — check the bot comment for any errors before requesting review.
 
 ## Editorial Standards
 
@@ -92,13 +103,22 @@ Write 200-300 words below the frontmatter. Markdown formatting:
 
 ## Review Process
 
-PRs are reviewed and merged promptly. We check for:
-- Correct frontmatter format
-- Appropriate length (200-300 words)
+PRs run through **automated validation** (frontmatter, date format, thumbnail, word count) and then human review.
+
+The CI bot checks for:
+- ✅ Required frontmatter fields (`title`, `date`, `author`, `tags`, `summary`, `thumbnail`)
+- ✅ Date format uses `+HH:MM` timezone (not `+HHMM`)
+- ✅ Date matches directory name
+- ✅ Thumbnail file exists in article directory
+- ✅ Word count in 200-300 range
+- ✅ At least 1 source
+- ✅ Slug format (lowercase, hyphens)
+
+Human reviewers then check for:
 - Factual accuracy
 - Relevance to Web3/Base ecosystem
 - No promotional spam
-- Thumbnail quality (if included)
+- Thumbnail quality and appropriateness
 
 ## Questions?
 
