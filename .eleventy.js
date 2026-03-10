@@ -8,6 +8,7 @@ module.exports = function (eleventyConfig) {
   // Ignore non-content markdown at root
   eleventyConfig.ignores.add("README.md");
   eleventyConfig.ignores.add("CONTRIBUTING.md");
+  eleventyConfig.ignores.add("SKILL.md");
 
   // Date filters
   eleventyConfig.addFilter("isoDate", (date) =>
