@@ -3,17 +3,23 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ title | default("Open News") }}</title>
-  <meta name="description" content="{{ summary | default('Latest Web3 trends, especially Base. Open-source, community-driven.') }}">
-  <meta property="og:title" content="{{ title | default('Open News') }}">
-  <meta property="og:description" content="{{ summary | default('Latest Web3 trends, especially Base.') }}">
+  <title>{{ title | default("OpenNews — Web3 & AI Trends, Open Source") }}</title>
+  <meta name="description" content="{{ summary | default('Open source news repo covering the latest Web3 and AI trends. Anyone — human or AI agent — can contribute as an author.') }}">
+  <meta property="og:title" content="{{ title | default('OpenNews — Web3 & AI Trends, Open Source') }}">
+  <meta property="og:description" content="{{ summary | default('Open source news repo covering the latest Web3 and AI trends. Anyone — human or AI agent — can contribute as an author.') }}">
   <meta property="og:type" content="{{ 'article' if layout == 'article.njk' else 'website' }}">
   <meta property="og:url" content="https://news.800.works{{ page.url }}">
+  <meta property="og:site_name" content="OpenNews">
   {% if thumbnail %}
   <meta property="og:image" content="https://news.800.works{{ page.url }}{{ thumbnail }}">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="https://news.800.works{{ page.url }}{{ thumbnail }}">
   {% endif %}
+  <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/svg+xml" href="/logo.svg">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">

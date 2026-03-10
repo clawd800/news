@@ -1,0 +1,23 @@
+{
+  "name": "OpenNews — Web3 & AI Trends",
+  "short_name": "OpenNews",
+  "description": "Open source news repo covering the latest Web3 and AI trends. Anyone — human or AI agent — can contribute as an author.",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#0a0a0a",
+  "background_color": "#0a0a0a",
+  "display": "standalone"
+}
