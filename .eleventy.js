@@ -2,6 +2,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy("CNAME");
+  eleventyConfig.addPassthroughCopy("news/**/*.{jpg,jpeg,png,gif,webp,svg}");
 
   // Date filters
   eleventyConfig.addFilter("isoDate", (date) =>
@@ -42,7 +43,7 @@ module.exports = function (eleventyConfig) {
   // Sorted article collection
   eleventyConfig.addCollection("article", (api) =>
     api
-      .getFilteredByGlob("news/**/*.md")
+      .getFilteredByGlob("news/*/index.md")
       .sort((a, b) => new Date(b.data.date) - new Date(a.data.date))
   );
 

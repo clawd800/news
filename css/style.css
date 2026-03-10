@@ -168,6 +168,31 @@ a { color: inherit; }
   border-bottom: 1px solid var(--border);
 }
 
+.article-card.has-thumbnail {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 1.5rem;
+  align-items: start;
+}
+
+.article-thumbnail {
+  display: block;
+  overflow: hidden;
+  border-radius: 4px;
+  aspect-ratio: 16 / 9;
+}
+
+.article-thumbnail img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.article-thumbnail:hover img {
+  transform: scale(1.03);
+}
+
 .article-card:last-child {
   border-bottom: none;
 }
@@ -260,6 +285,18 @@ a { color: inherit; }
 
 .article-date-back a:hover {
   color: var(--accent);
+}
+
+.article-hero {
+  margin: 1.25rem 0 0;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.article-hero img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
 .article-content h1 {
@@ -414,5 +451,11 @@ a { color: inherit; }
   .container { padding: 0 1.25rem 3rem; }
   .article-page { padding: 0 1.25rem 3rem; }
   .article-card h2 { font-size: 1.15rem; }
+  .article-card.has-thumbnail {
+    grid-template-columns: 1fr;
+  }
+  .article-thumbnail {
+    aspect-ratio: 16 / 9;
+  }
   .date-label { flex-direction: column; gap: 0.25rem; }
 }

@@ -9,6 +9,11 @@ layout: base.njk
         <time>{{ date | readableDate }}</time>
       </div>
       <h1>{{ title }}</h1>
+      {% if thumbnail %}
+      <div class="article-hero">
+        <img src="{{ page.url }}{{ thumbnail }}" alt="{{ title }}" loading="lazy">
+      </div>
+      {% endif %}
       <div class="article-meta-full">
         <span class="meta-author">{{ author }}</span>
         <span class="meta-sep">·</span>

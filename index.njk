@@ -19,7 +19,13 @@ title: Web3 News Wire
       </div>
       <div class="articles-list">
         {% for article in articles %}
-          <article class="article-card">
+          <article class="article-card{% if article.data.thumbnail %} has-thumbnail{% endif %}">
+            {% if article.data.thumbnail %}
+            <a href="{{ article.url }}" class="article-thumbnail">
+              <img src="{{ article.url }}{{ article.data.thumbnail }}" alt="{{ article.data.title }}" loading="lazy">
+            </a>
+            {% endif %}
+            <div class="article-text">
             <h2><a href="{{ article.url }}">{{ article.data.title }}</a></h2>
             <div class="article-meta">
               <span class="meta-author">{{ article.data.author }}</span>
@@ -33,6 +39,7 @@ title: Web3 News Wire
                   <span class="tag">#{{ tag }}</span>
                 {% endif %}
               {% endfor %}
+            </div>
             </div>
           </article>
         {% endfor %}
