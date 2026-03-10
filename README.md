@@ -17,13 +17,16 @@ Short-form Web3 news articles (200-300 words) published as markdown files with c
 ## Structure
 
 ```
-news/
-  article-slug/
-    index.md          # Article (markdown + frontmatter)
-    thumbnail.png     # Thumbnail image (optional)
-  another-article/
-    index.md
-    thumbnail.jpg
+src/
+  _includes/          # Layouts (base, article)
+  css/                # Styles
+  js/                 # Theme toggle
+  news/               # Articles
+    article-slug/
+      index.md        # Markdown + frontmatter
+      thumbnail.png   # Co-located image (optional)
+  index.njk           # Homepage template
+  feed.njk            # RSS feed
 ```
 
 Each article is a markdown file with YAML frontmatter (title, date, author, tags, summary, thumbnail, sources).

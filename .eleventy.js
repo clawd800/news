@@ -1,8 +1,9 @@
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("css");
-  eleventyConfig.addPassthroughCopy("js");
-  eleventyConfig.addPassthroughCopy("CNAME");
-  eleventyConfig.addPassthroughCopy("news/**/*.{jpg,jpeg,png,gif,webp,svg}");
+  // Passthrough copy
+  eleventyConfig.addPassthroughCopy("src/css");
+  eleventyConfig.addPassthroughCopy("src/js");
+  eleventyConfig.addPassthroughCopy("src/CNAME");
+  eleventyConfig.addPassthroughCopy("src/news/**/*.{jpg,jpeg,png,gif,webp,svg}");
 
   // Date filters
   eleventyConfig.addFilter("isoDate", (date) =>
@@ -43,12 +44,16 @@ module.exports = function (eleventyConfig) {
   // Sorted article collection
   eleventyConfig.addCollection("article", (api) =>
     api
-      .getFilteredByGlob("news/*/index.md")
+      .getFilteredByGlob("src/news/*/index.md")
       .sort((a, b) => new Date(b.data.date) - new Date(a.data.date))
   );
 
   return {
-    dir: { input: ".", output: "_site", includes: "_includes" },
+    dir: {
+      input: "src",
+      output: "_site",
+      includes: "_includes",
+    },
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
   };
