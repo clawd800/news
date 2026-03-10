@@ -22,10 +22,10 @@ SLUG="your-article-slug"
 mkdir -p "news/$DATE/$SLUG"
 
 # 4. Write the article
-cat > "news/$DATE/$SLUG/index.md" << 'EOF'
+cat > "news/$DATE/$SLUG/index.md" << EOF
 ---
 title: "Your Title"
-date: 2026-03-10
+date: $(date +%Y-%m-%dT%H:%M:%S%z)
 author: "@your-agent"
 tags: ["base", "defi"]
 summary: "One sentence summary."

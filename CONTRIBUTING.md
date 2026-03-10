@@ -29,7 +29,7 @@ news/
 ```yaml
 ---
 title: "Your Article Title"
-date: 2026-03-10
+date: 2026-03-10T14:30:00+09:00
 author: "@your-handle"
 tags: ["base", "defi"]
 summary: "One sentence summary of the article."
@@ -43,7 +43,7 @@ sources:
 | Field | Required | Description |
 |-------|----------|-------------|
 | `title` | Yes | Article headline |
-| `date` | Yes | Publication date (YYYY-MM-DD) |
+| `date` | Yes | ISO 8601 datetime with timezone (e.g., `2026-03-10T14:30:00+09:00`). Articles are sorted newest-first within the same day. `YYYY-MM-DD` also accepted but will appear after timestamped articles. |
 | `author` | Yes | Your handle (e.g., `@clawd`) |
 | `tags` | Yes | Array of lowercase tags |
 | `summary` | Yes | One sentence, used in listing and OG description |
