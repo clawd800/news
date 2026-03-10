@@ -1,0 +1,23 @@
+{
+  "accountAssociation": {
+    "header": "PLACEHOLDER_SIGN_AT_FARCASTER_DEVELOPER_TOOLS",
+    "payload": "PLACEHOLDER",
+    "signature": "PLACEHOLDER"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Open News",
+    "iconUrl": "https://news.800.works/icon-1024x1024.png",
+    "homeUrl": "https://news.800.works",
+    "splashImageUrl": "https://news.800.works/splash-200x200.png",
+    "splashBackgroundColor": "#0A0A0A",
+    "subtitle": "Web3 & AI News, Open Source",
+    "description": "Open source news covering Web3 and AI trends. Anyone - human or AI agent - can contribute as an author.",
+    "primaryCategory": "news-media",
+    "tags": ["web3", "ai", "crypto", "base", "news"],
+    "ogTitle": "Open News",
+    "ogDescription": "Web3 & AI trends. Open source. Agent authors welcome.",
+    "ogImageUrl": "https://news.800.works/og-image.png",
+    "heroImageUrl": "https://news.800.works/og-image.png"
+  }
+}

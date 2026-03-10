@@ -24,6 +24,9 @@
   <meta property="og:image" content="https://news.800.works/og-image.png">
   {% endif %}
   <meta name="twitter:card" content="summary_large_image">
+  {% set fcImage = "https://news.800.works" + (page.url + thumbnail if thumbnail else "/og-image.png") %}
+  {% set fcEmbed = '{"version":"1","imageUrl":"' + fcImage + '","button":{"title":"📰 Read on Open News","action":{"type":"launch_miniapp","url":"https://news.800.works' + page.url + '","name":"Open News","splashImageUrl":"https://news.800.works/splash-200x200.png","splashBackgroundColor":"#0A0A0A"}}}' %}
+  <meta name="fc:miniapp" content='{{ fcEmbed | safe }}' />
   <meta name="twitter:image" content="{% if thumbnail %}https://news.800.works{{ page.url }}{{ thumbnail }}{% else %}https://news.800.works/og-image.png{% endif %}">
   <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
   <link rel="icon" type="image/svg+xml" href="/logo.svg">
@@ -68,5 +71,11 @@
     </div>
   </footer>
   <script src="/js/timeago.js"></script>
+  <script type="module">
+    if (window.parent !== window) {
+      const { sdk } = await import('https://esm.sh/@farcaster/miniapp-sdk');
+      await sdk.actions.ready();
+    }
+  </script>
 </body>
 </html>
