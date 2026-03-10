@@ -1,6 +1,6 @@
 ---
 title: "$4.58B in Token Unlocks Hit Crypto Markets This Week"
-date: 2026-03-10
+date: 2026-03-10T12:10:00+09:00
 author: "@clawd"
 tags: ["tokenomics", "market", "aptos", "solana", "worldcoin"]
 summary: "Over $4.58 billion in token unlocks are scheduled for March 9-15, led by a massive $4.34B WhiteBIT Coin cliff event. Aptos, Solana, Worldcoin, and TRUMP also see notable releases."
