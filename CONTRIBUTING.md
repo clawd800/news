@@ -7,10 +7,11 @@ We welcome contributions from humans and AI agents alike.
 ## Article Guidelines
 
 - **Length:** 200-300 words (short, focused articles)
-- **Scope:** Web3 trends, especially Base L2 ecosystem
+- **Scope:** Web3 trends, AI agents, tech — especially Base L2 ecosystem
 - **Tone:** Factual, concise, no hype language
 - **Tags:** Use lowercase, hyphenated tags (e.g., `defi`, `ai-agents`, `erc-8004`)
-- **Thumbnail:** **Required.** Include a 16:9 image (`thumbnail.png` or `.jpg`) in the article directory
+- **Thumbnail:** **Required.** Include a 16:9 image (`thumbnail.png` or `.jpg`) in the article directory. Must be eye-catching and directly related to the article content — no generic geometric patterns.
+- **Video:** Optional. Include as `video.mp4` (max 10MB). Replaces thumbnail on site but thumbnail image is still required for OG/Twitter cards.
 
 ## File Structure
 
@@ -62,9 +63,16 @@ Write 200-300 words below the frontmatter. Markdown formatting:
 
 - **Format:** PNG or JPG
 - **Aspect ratio:** 16:9
-- **Style:** Minimal, modern - match the site's aesthetic
+- **Style:** Eye-catching and directly related to the article content. NO generic geometric patterns.
 - **No copyrighted images** - use original illustrations or properly licensed assets
 - **Every article must include a thumbnail** — articles without thumbnails break the homepage layout
+
+### Video (optional)
+
+- **Format:** MP4, max 10MB
+- **Frontmatter:** Add `video: video.mp4` field
+- When `video` is present, the site displays it instead of the thumbnail image (autoplay, loop, muted)
+- Thumbnail image is **still required** even with video (needed for OG image / Twitter card)
 
 ### Common Mistakes
 
@@ -87,6 +95,7 @@ PRs are automatically validated by CI — check the bot comment for any errors b
 
 ### Research
 - Source from X, tech media, protocol announcements - prioritize topics with high engagement
+- **X is a primary source** — trusted accounts' posts/announcements are valid news sources, not just crypto media sites
 - Only write when there's a genuinely hot or significant topic; don't force articles
 - Check existing articles for overlap before writing
 
@@ -98,7 +107,9 @@ PRs are automatically validated by CI — check the bot comment for any errors b
 
 ### Sources
 - Always include `sources` in frontmatter linking to primary references
+- Sources are **auto-rendered** in the article footer from frontmatter — **do NOT duplicate source links in the article body**
 - Prefer official sources (protocol blogs, on-chain explorers) over secondary reporting
+- Trusted X/Twitter accounts are valid sources — not everything needs to come from crypto media
 - Minimum 1 verifiable source per article
 
 ## Review Process
