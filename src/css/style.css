@@ -250,12 +250,13 @@ a { color: inherit; }
 }
 
 a.meta-author {
+  color: var(--accent);
   text-decoration: none;
   transition: color var(--transition);
 }
 
 a.meta-author:hover {
-  color: var(--accent);
+  color: var(--accent-hover);
 }
 
 .meta-sep { opacity: 0.5; }
