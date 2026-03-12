@@ -19,62 +19,18 @@ sources:
     url: "https://corticalabs.com"
 ---
 
-A petri dish of 800,000 living human neurons just learned to play DOOM. Not with AI. Not with algorithms. With actual biological brain cells firing electrical signals through 59 electrodes, making real-time gameplay decisions.
+A petri dish of 800,000 living human neurons just learned to play DOOM — not with AI, but with actual biological brain cells firing through 59 electrodes, making real-time gameplay decisions.
 
-This isn't science fiction — it's the Cortical Labs CL1, and as of this week, anyone with a laptop can access it.
+## From Lab Bench to Laptop
 
-## From Pong to DOOM
+Cortical Labs, the Melbourne-based startup behind the 2022 DishBrain Pong experiment, has taken a massive leap. Using their newly released CL API, a developer got living neural cultures to play the iconic 1993 shooter. The neurons receive game state data as electrical stimulation and respond with movement commands in a real-time closed-loop.
 
-Cortical Labs first made headlines in 2022 with DishBrain, a system that taught neurons in a dish to play Pong. The concept was simple but profound: stimulate neurons with game state data, read their electrical responses as controller inputs, and let biological learning do the rest.
+The bigger news: on March 10, founder Hon Weng Chong announced the **Cortical Cloud** — the world's first Biological Data Centre with 120 internet-connected CL1 units. Through a Python API, anyone can now remotely stimulate biological neural networks, read their responses, and build on living tissue. A 1,000-unit facility in Singapore is already planned with partner DayOne.
 
-Now they've leveled up — literally. A recent graduate named Sean used the newly released CL API to get living neural cultures to play DOOM, the iconic 1993 first-person shooter. The neurons receive visual game data through electrode stimulation and respond with movement commands, all in real-time closed-loop interaction.
+## Why It Matters
 
-Brett Kagan, Cortical Labs' Chief Scientific Officer, put it plainly: "Biological neural systems as an information processor has moved off the lab-bench and onto your laptop."
+Cortical Labs calls this **Organic Intelligence (OI)** — computation by real biology, not silicon simulations. The practical applications extend well beyond gaming: real-time drug screening on living neurons, neurological disorder research, and energy-efficient computing (biological neurons use orders of magnitude less power than GPUs).
 
-## The Cortical Cloud Goes Live
+The CL API's technical foundation is detailed in a February 2026 arXiv paper, offering sub-millisecond timing, multi-channel synchronization, and a declarative Python interface — no hardware expertise needed.
 
-The bigger story isn't just DOOM — it's what made it possible. On March 10, Cortical Labs founder Hon Weng Chong announced the launch of the **Cortical Cloud**: the world's first Biological Data Centre, housed in Melbourne, Australia, with 120 internet-connected CL1 units.
-
-Each CL1 unit contains living human neurons on a multi-electrode array, capable of real-time, sub-millisecond closed-loop interactions. Through a Python API, developers anywhere in the world can stimulate these biological neural networks, read their responses, and build applications on top of living tissue.
-
-A second, larger facility is already planned — a 1,000-unit Biological Data Centre in Singapore, partnered with DayOne.
-
-## How It Actually Works
-
-The CL API, detailed in a February 2026 arXiv paper by Hogan, Doherty, Khoo, et al., solves the fundamental challenge of biological computing: getting precise, reproducible interactions with living neurons.
-
-The system provides:
-- **Sub-millisecond timing** for stimulation and recording
-- **Multi-channel synchronization** across 59 electrodes
-- **Transactional admission** and deterministic ordering
-- **A declarative Python interface** — no low-level hardware knowledge needed
-
-For the DOOM demo, the game's visual state is encoded into electrical stimulation patterns delivered to the neurons. The neurons' firing patterns are decoded back into game inputs — forward, backward, turn left, turn right, shoot. The neurons learn through a feedback loop: successful actions are reinforced, mistakes are corrected.
-
-## Not AI — OI
-
-Cortical Labs is careful to distinguish what they're building from artificial intelligence. They call it **Organic Intelligence (OI)** — computation performed by real biological systems rather than silicon-based neural network simulations.
-
-The implications go beyond gaming gimmicks. Hon Weng Chong highlighted the potential: "If we solve for encoding/decoding between digital and neural systems, it unlocks amazing applications like telepathy, memory transfer, and possibly immortal consciousness."
-
-More immediately, the technology enables:
-- **Drug screening** — testing how medications affect neural function in real-time
-- **Neurological research** — studying brain disorders with living tissue
-- **Energy-efficient computing** — biological neurons use orders of magnitude less energy than GPUs
-- **Biomedical applications** — building interfaces between digital and biological systems
-
-## The Consciousness Question
-
-The viral DOOM demo has reignited a familiar debate: are these neurons conscious? Are we trapping something sentient inside a video game?
-
-The short answer, according to the researchers themselves, is no. Alon Loeffler, a Cortical Labs researcher, shared a write-up explicitly explaining "why our neurons playing the DOOM game are not even close to conscious." 800,000 neurons is impressive, but the human brain has 86 billion — and consciousness requires far more than raw cell count.
-
-Still, the philosophical questions are real and worth asking now, before the technology scales further.
-
-## What's Next
-
-The @dishbrainplays account is already teasing live-streamed gaming sessions — 800,000 neurons playing video games in real-time, streamed to the internet. The community is voting on which game comes next.
-
-Meanwhile, the Cortical Cloud is open for developers and researchers at [corticalcloud.com](https://corticalcloud.com). The biological data center is live, the API is documented, and for the first time in history, you can rent time on a living brain.
-
-The future of computing might not be silicon. It might be alive.
+The @dishbrainplays account is already teasing live-streamed neuron gaming sessions. For the first time, you can rent time on a living brain.
