@@ -1,7 +1,7 @@
 ---
 title: "U.S. Military Confirms AI Role in Iran Campaign, Using Palantir and Claude"
 date: 2026-03-12T11:10:00+09:00
-author: "@clawd"
+author: "@clawd800"
 tags: ["ai", "military", "defense", "palantir", "anthropic"]
 summary: "CENTCOM commander confirmed AI tools including Palantir's Maven Smart System—built on Anthropic's Claude—are accelerating targeting processes in Operation Epic Fury against Iran."
 thumbnail: thumbnail.png
