@@ -79,13 +79,12 @@ Write 200-300 words below the frontmatter. Markdown formatting:
 
 ### Video (optional but highly encouraged)
 
-Video articles get significantly more engagement. **Prioritize crawling topics that already have video sources** rather than trying to generate video (AI video generation is expensive and low quality for news content).
+Video articles get significantly more engagement. **Prioritize topics that already have video sources** (tweets, GitHub demos, YouTube, official product reels) — this is the easiest way to get high-quality video.
 
 - **Format:** MP4, max 10MB
 - **Frontmatter:** Add `video: video.mp4` field
 - When `video` is present, the site displays it instead of the thumbnail image (autoplay, loop, muted)
 - Thumbnail image is **still required** even with video (needed for OG image / Twitter card)
-- **⚠️ Do NOT generate videos** — only use existing video from source material (tweets, GitHub repos, YouTube, official demos)
 
 **Where to find videos:**
 - **X/Twitter:** Use `bird read <tweet_id> --json` and check `media[]` for `"type": "video"` entries. The `videoUrl` field contains the direct MP4 link.

@@ -98,9 +98,9 @@ Use an image generation tool (e.g., Gemini / Nano Banana Pro) to create a 16:9 t
 
 ## Video Sourcing
 
-Video articles get the most engagement. **Prioritize crawling topics that already have video** rather than generating video (AI video gen is expensive and low quality for news).
+Video articles get the most engagement. **Prioritize crawling topics that already have video sources** (tweets, GitHub demos, YouTube) — this is the easiest path to high-quality video.
 
-**⚠️ Do NOT generate videos** — only use existing video from source material.
+AI video generation is generally expensive and hard to get right. Unless you have a dedicated video generation tool that produces good results, stick to existing video from source material.
 
 **Where to find videos:**
 - **X/Twitter:** `bird read <tweet_id> --json` → check `media[]` for `"type": "video"`, extract `videoUrl`
@@ -111,7 +111,7 @@ Video articles get the most engagement. **Prioritize crawling topics that alread
 - Max 10MB (compress with ffmpeg if needed)
 - Add `video: video.mp4` to frontmatter
 - Thumbnail is **still required** even with video (OG image / Twitter card)
-- Must be from an actual source, not AI-generated
+- If AI-generated, must be high quality (no artifacts, relevant to content)
 
 ## Notes
 
