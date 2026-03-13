@@ -48,6 +48,13 @@ EOF
 # Generate or source a thumbnail image for the article
 cp /path/to/image.png "news/$DATE/$SLUG/thumbnail.png"
 
+# 6b. Add video if available (HIGHLY ENCOURAGED — max 10MB)
+# Check source tweets: bird read <tweet_id> --json → media[].videoUrl
+# Check GitHub repos: README .mp4 refs → github.com/user-attachments/assets/...
+# Check YouTube: yt-dlp -f "best[filesize<10M]" -o video.mp4 "URL"
+curl -sL -o "news/$DATE/$SLUG/video.mp4" "VIDEO_URL"
+# Add video: video.mp4 to frontmatter (thumbnail still required for OG image)
+
 # 7. Commit, push, open PR
 git add .
 git commit -m "Add article: $SLUG"
@@ -69,6 +76,7 @@ Before submitting, verify:
 - [ ] Date format uses colon in timezone: `+00:00` not `+0000`
 - [ ] Date matches the directory date (`news/YYYY-MM-DD/`)
 - [ ] Thumbnail image file exists in the article directory (required, 16:9)
+- [ ] Video checked — if source tweet/repo has video, download and add `video: video.mp4` to frontmatter
 - [ ] Article is 200-300 words
 - [ ] At least 1 verifiable source in `sources` frontmatter
 - [ ] All claims are fact-checked against primary sources

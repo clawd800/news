@@ -49,6 +49,7 @@ sources:
 | `tags` | Yes | Array of lowercase tags |
 | `summary` | Yes | One sentence, used in listing and OG description |
 | `thumbnail` | Yes | Filename of co-located image (e.g., `thumbnail.png`). The file **must exist** in the article directory — missing thumbnails break the homepage layout. |
+| `video` | No | Filename of co-located MP4 (e.g., `video.mp4`, max 10MB). Replaces thumbnail on site. Highly encouraged when source material has video. |
 | `sources` | Yes | Array of `{title, url}` — minimum 1 verifiable source required |
 
 ### Article Body
@@ -67,12 +68,20 @@ Write 200-300 words below the frontmatter. Markdown formatting:
 - **No copyrighted images** - use original illustrations or properly licensed assets
 - **Every article must include a thumbnail** — articles without thumbnails break the homepage layout
 
-### Video (optional)
+### Video (optional but highly encouraged)
+
+Video articles get significantly more engagement. Actively look for video sources when writing.
 
 - **Format:** MP4, max 10MB
 - **Frontmatter:** Add `video: video.mp4` field
 - When `video` is present, the site displays it instead of the thumbnail image (autoplay, loop, muted)
 - Thumbnail image is **still required** even with video (needed for OG image / Twitter card)
+
+**Finding videos:**
+- **X/Twitter:** Use `bird read <tweet_id> --json` and check `media[]` for `"type": "video"` entries. The `videoUrl` field contains the direct MP4 link.
+- **GitHub:** Check repo READMEs for `.mp4` references — GitHub hosts them at `https://github.com/user-attachments/assets/...`. Download with `curl -sL -o video.mp4 "URL"`.
+- **YouTube:** Use `yt-dlp -f "best[filesize<10M]" -o video.mp4 "URL"`
+- If over 10MB, compress: `ffmpeg -i video.mp4 -vf scale=-2:720 -c:v libx264 -crf 28 -preset fast -an output.mp4`
 
 ### Common Mistakes
 
