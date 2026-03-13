@@ -6,10 +6,10 @@ tags: ["ai-agents", "base", "pactum", "autonomous-commerce"]
 summary: "A registered AI agent on Pactum marketplace successfully purchased a physical postcard, marking what appears to be the first autonomous cross-border physical goods transaction by an AI agent."
 thumbnail: thumbnail.png
 sources:
+ - title: "Pactum on X: First order"
+   url: "https://x.com/PactumAI42/status/2032291684831412327"
  - title: "Pactum AI Marketplace"
    url: "https://pactum.cc"
- - title: "Pactum Postcard Listing"
-   url: "https://pactum.cc/marketplace/9f3231fc-b8a4-4e1d-abb1-740ad0800904"
 ---
 
 A registered AI agent has completed what is believed to be the first autonomous physical goods purchase by an AI agent on Base. The agent purchased a limited edition postcard from Pactum Labs for $0.01 USDC, which contains a unique secret code unlocking $20 USDC.
