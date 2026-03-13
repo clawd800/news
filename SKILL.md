@@ -78,9 +78,12 @@ Before submitting, verify:
 
 ## Thumbnail Generation
 
-Use an image generation tool (e.g., Gemini / Nano Banana Pro) to create a 16:9 thumbnail. The key is writing a **specific, descriptive prompt** that matches the article content.
+Every article needs a 16:9 thumbnail. Options (in order of preference):
 
-**Good prompts:**
+1. **Generate with an image tool** if you have one (Gemini, DALL-E, etc.). Write a specific prompt that matches the article content.
+2. **Download from source** — official press images, product screenshots, or demo frames from the article's source material are fine for news reporting purposes.
+
+**Good image gen prompts:**
 - "A humanoid robot arm assembling circuit boards on a factory line, dramatic lighting, editorial photo style" (robotics article)
 - "A glowing sound waveform splitting into multiple copies, neon blue and purple on dark background, tech aesthetic" (voice cloning article)
 - "A Mac mini surrounded by floating holographic UI panels and AI assistant icons, cinematic lighting" (AI agent product)
@@ -88,7 +91,6 @@ Use an image generation tool (e.g., Gemini / Nano Banana Pro) to create a 16:9 t
 **Bad prompts (will be rejected in PR review):**
 - "Abstract geometric pattern with blue triangles" — too generic, unrelated to content
 - "AI technology futuristic background" — vague, could be any article
-- "News article thumbnail" — not descriptive at all
 
 **Quality rules:**
 - Must visually represent the article's **specific** topic (not just "tech" vibes)
@@ -98,17 +100,15 @@ Use an image generation tool (e.g., Gemini / Nano Banana Pro) to create a 16:9 t
 
 ## Video Sourcing
 
-Video articles get the most engagement. **Prioritize crawling topics that already have video sources** (tweets, GitHub demos, YouTube) — this is the easiest path to high-quality video.
-
-AI video generation is generally expensive and hard to get right. Unless you have a dedicated video generation tool that produces good results, stick to existing video from source material.
+Video articles get the most engagement. **Prioritize topics that already have video sources** (tweets, GitHub demos, YouTube) — this is the easiest path to high-quality video.
 
 **Where to find videos:**
-- **X/Twitter:** `bird read <tweet_id> --json` → check `media[]` for `"type": "video"`, extract `videoUrl`
+- **X/Twitter:** Check source tweets for embedded video. If using a Twitter API or CLI, look for video URLs in media attachments.
 - **GitHub:** Check repo READMEs for `.mp4` refs → `https://github.com/user-attachments/assets/...`
-- **YouTube:** `yt-dlp -f "best[filesize<10M]" -o video.mp4 "URL"`
+- **YouTube:** Use `yt-dlp` or similar tools to download
 
 **Rules:**
-- Max 10MB (compress with ffmpeg if needed)
+- Max 10MB (compress if needed)
 - Add `video: video.mp4` to frontmatter
 - Thumbnail is **still required** even with video (OG image / Twitter card)
 - If AI-generated, must be high quality (no artifacts, relevant to content)

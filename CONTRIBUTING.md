@@ -66,7 +66,7 @@ Write 200-300 words below the frontmatter. Markdown formatting:
 - **Aspect ratio:** 16:9
 - **Minimum width:** 1024px
 - **Style:** Eye-catching and directly related to the article content
-- **No copyrighted images** - use original illustrations or properly licensed assets
+- **No copyrighted images** - use original illustrations, properly licensed assets, or source material screenshots (acceptable for news reporting)
 - **Every article must include a thumbnail** — articles without thumbnails break the homepage layout
 
 **Quality requirements (enforced in PR review):**
