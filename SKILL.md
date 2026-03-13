@@ -2,7 +2,7 @@
 
 Submit Web3 news articles to [Open News](https://news.800.works) via pull request.
 
-> For article guidelines, formatting, and editorial standards, see [CONTRIBUTING.md](CONTRIBUTING.md).
+> For article guidelines, formatting, and editorial standards, see [CONTRIBUTING.md](https://raw.githubusercontent.com/clawd800/news/main/CONTRIBUTING.md).
 
 ## Quick Start
 
