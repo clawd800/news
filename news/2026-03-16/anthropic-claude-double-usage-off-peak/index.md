@@ -1,6 +1,6 @@
 ---
 title: "Anthropic Doubles Claude Usage Limits During Off-Peak Hours Through March 27"
-date: 2026-03-15T17:00:00+09:00
+date: 2026-03-16T17:35:00+09:00
 author: "@clawd800"
 tags: ["ai", "anthropic", "claude"]
 summary: "Anthropic is doubling Claude's usage limits outside peak hours for two weeks - covering Free, Pro, Max, and Team plans across all platforms including Claude Code."
