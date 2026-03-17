@@ -7,8 +7,292 @@
   <id>https://news.800.works/</id>
   
   
-  <updated>2026-03-16T12:00:00.000Z</updated>
+  <updated>2026-03-17T06:01:00.000Z</updated>
   
+  
+  <entry>
+    <title>CoinGecko Launches Free Open-Source CLI Built for Crypto AI Agents</title>
+    <link href="https://news.800.works/news/2026-03-17/coingecko-cli-open-source-crypto-ai-agents/"/>
+    <id>https://news.800.works/news/2026-03-17/coingecko-cli-open-source-crypto-ai-agents/</id>
+    <updated>2026-03-17T06:01:00.000Z</updated>
+    <summary>CoinGecko released an open-source CLI tool that gives AI agents and developers direct terminal access to real-time crypto market data for 18,000+ coins, claiming 200x efficiency gains over traditional API approaches.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>CoinGecko has open-sourced a CLI tool purpose-built for AI agents working with cryptocurrency data. The tool, built in Go, provides terminal-native access to real-time pricing, historical OHLC data spanning 10+ years, and live WebSocket streaming for 18,000+ coins.</p>
+<p>The core pitch is efficiency: instead of AI agents burning tokens parsing raw API responses or web-scraped data, the CLI lets agents write local scripts that process data and return only relevant output. CoinGecko claims this approach is 200x more efficient than traditional RAG or web-based data retrieval for agent workflows.</p>
+<p>Key features include an interactive TUI with 7-day price charts, CSV/JSON export for downstream pipelines, filtering across 500+ categories, and a <code>--dry-run</code> mode designed specifically for LLM tool integration. Installation works via Homebrew, Go, or direct binary download.</p>
+<p>The tool is publicly accessible with shared rate limits. Dedicated rate limits require a free Demo API key or paid plan.</p>
+<p>The release is part of a broader trend of crypto infrastructure adapting to serve AI agents as first-class users. CoinGecko specifically mentions compatibility with OpenClaw, Claude Code, Codex, and Cursor as target platforms.</p>
+<p>The CLI is currently in beta, with CoinGecko actively soliciting feedback and contributions through GitHub.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>NVIDIA Open-Sources Physical AI Data Factory Blueprint at GTC 2026</title>
+    <link href="https://news.800.works/news/2026-03-17/nvidia-physical-ai-data-factory-blueprint/"/>
+    <id>https://news.800.works/news/2026-03-17/nvidia-physical-ai-data-factory-blueprint/</id>
+    <updated>2026-03-17T02:30:00.000Z</updated>
+    <summary>NVIDIA released an open reference architecture for generating synthetic training data at scale for robots, autonomous vehicles, and vision AI — with AI coding agents now able to orchestrate the entire pipeline.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>At GTC 2026, NVIDIA announced the <strong>Physical AI Data Factory Blueprint</strong> — an open reference architecture designed to eliminate the most stubborn bottleneck in physical AI development: the scarcity of high-quality training data.</p>
+<h2>The Core Problem</h2>
+<p>Physical AI systems — robots, autonomous vehicles, and vision agents — are notoriously data-hungry. Real-world data collection is slow, expensive, and often misses the rare edge cases that matter most. NVIDIA's blueprint tackles this by automating the full pipeline from raw inputs to model-ready training sets using its <strong>Cosmos</strong> open world foundation models.</p>
+<p>The workflow has three stages: <strong>Cosmos Curator</strong> processes and annotates large-scale real and synthetic datasets; <strong>Cosmos Transfer</strong> expands and diversifies that data to capture rare long-tail scenarios; and <strong>Cosmos Evaluator</strong> (now open source on GitHub) automatically scores and filters outputs against physical accuracy criteria.</p>
+<h2>AI Agents Run the Whole Thing</h2>
+<p>The more striking development is in orchestration. NVIDIA's <strong>OSMO</strong> framework — which manages these workflows across compute environments — now integrates directly with AI coding agents including Claude Code, OpenAI Codex, and Cursor. In practice, this means coding agents can autonomously manage resources, resolve pipeline bottlenecks, and accelerate model delivery without human intervention.</p>
+<p>&quot;In this new era, compute is data,&quot; said Rev Lebaredian, VP of Omniverse and simulation technologies at NVIDIA.</p>
+<h2>Who's Using It</h2>
+<p><strong>Microsoft Azure</strong> and <strong>Nebius</strong> are integrating the blueprint into their cloud infrastructure. On the physical AI side, <strong>Skild AI</strong> is using it to build general-purpose robot foundation models, and <strong>Uber</strong> is applying it to autonomous vehicle development alongside its DRIVE AV partnership announced at the same keynote. Other adopters include FieldAI, Hexagon Robotics, Linker Vision, Milestone Systems, RoboForce, and Teradyne Robotics.</p>
+<p>NVIDIA itself is using the blueprint to train <strong>Alpamayo</strong>, described as the world's first open reasoning-based vision-language-action (VLA) model for autonomous driving.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Base Holds 43% of On-Chain BTC Spot Trading as Weekly Volume Tops $3B</title>
+    <link href="https://news.800.works/news/2026-03-17/base-btc-spot-trading-dominance/"/>
+    <id>https://news.800.works/news/2026-03-17/base-btc-spot-trading-dominance/</id>
+    <updated>2026-03-17T01:39:00.000Z</updated>
+    <summary>New Blockworks data shows Base capturing 43% of all on-chain spot BTC trading volume, with weekly totals now exceeding $3 billion across six dominant chains.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>On-chain spot Bitcoin trading has crossed a significant threshold, with weekly volume exceeding $3 billion as of early March 2026 — and Base is the network capturing the lion's share.</p>
+<p>Data published by Blockworks shows that six chains account for over 97% of this volume. Base leads decisively at 43%, followed by Ethereum at 13%, Arbitrum at 12%, BNB chain and HyperCore at 10% each, and Solana at 9%.</p>
+<h2>Base's Rising Dominance</h2>
+<p>The figure is striking because on-chain spot BTC markets were historically dominated by Ethereum, where most wrapped BTC and similar assets have deep DEX liquidity. Base's 43% share — more than three times Ethereum's — signals a meaningful shift in where traders are choosing to execute BTC spot transactions.</p>
+<p>Base, Coinbase's L2 built on the OP Stack, has seen rapid growth in DeFi activity over the past year. Decentralized exchanges like Aerodrome Finance have accumulated substantial liquidity pools, and Base's lower transaction costs relative to Ethereum mainnet make it an attractive venue for higher-frequency spot activity.</p>
+<h2>A $3B Weekly Milestone</h2>
+<p>The $3 billion weekly figure reflects a broader expansion of on-chain spot trading overall. As DeFi infrastructure matures and bridged BTC assets like cbBTC gain wider adoption, trading volume continues migrating from centralized exchanges toward permissionless on-chain markets.</p>
+<p>HyperCore's appearance at 10% is also notable — the relatively new chain has built a reputation for low-latency order book trading and is increasingly competing with established L2s for active trader volume.</p>
+<p>For Base, the data reinforces its position as a primary destination for on-chain financial activity, extending well beyond its early reputation as a memecoin launchpad.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>NVIDIA Unveils Space-1 Vera Rubin Module — 25x More AI Compute for Orbital Data Centers</title>
+    <link href="https://news.800.works/news/2026-03-17/nvidia-space-1-vera-rubin-orbital-ai/"/>
+    <id>https://news.800.works/news/2026-03-17/nvidia-space-1-vera-rubin-orbital-ai/</id>
+    <updated>2026-03-17T00:39:00.000Z</updated>
+    <summary>NVIDIA announced the Space-1 Vera Rubin Module at GTC 2026, bringing up to 25x more AI compute than the H100 to satellites and orbital data centers.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>At GTC 2026 on Monday, NVIDIA CEO Jensen Huang announced that accelerated computing is leaving Earth. The company unveiled the <strong>Space-1 Vera Rubin Module</strong>, a computing system designed for satellites and orbital data centers that delivers up to <strong>25x more AI compute</strong> than the NVIDIA H100 GPU for space-based inferencing.</p>
+<h2>Intelligence in Orbit</h2>
+<p>The Space-1 module is engineered for the size-, weight-, and power-constrained environments found on spacecraft. It combines the Rubin GPU with NVIDIA's IGX Thor and Jetson Orin platforms to support three main use cases: orbital data centers (ODCs), geospatial intelligence processing, and autonomous space operations.</p>
+<p>&quot;Space computing, the final frontier, has arrived,&quot; Huang said. &quot;As we deploy satellite constellations and explore deeper into space, intelligence must live wherever data is generated.&quot;</p>
+<p>The module is not yet available but is expected to reach customers in the near future.</p>
+<h2>Partners and Applications</h2>
+<p>Six companies are already working with NVIDIA's space computing platforms: <strong>Aetherflux</strong>, <strong>Axiom Space</strong>, <strong>Kepler Communications</strong>, <strong>Planet Labs</strong>, <strong>Sophia Space</strong>, and <strong>Starcloud</strong>. Planet Labs announced a new collaboration targeting the ability to process Earth-imagery in seconds rather than hours — directly from orbit.</p>
+<h2>The Cooling Problem</h2>
+<p>Huang acknowledged the engineering challenges still ahead. Unlike ground-based data centers, space offers no convective cooling — heat can only dissipate through radiation.</p>
+<p>&quot;We have to figure out how to cool these systems out in space,&quot; he said. &quot;But we've got lots of great engineers working on it.&quot;</p>
+<p>NVIDIA's ground-side hardware also got a space-focused upgrade: the RTX PRO 6000 Blackwell Server Edition delivers up to 100x faster performance than legacy CPU systems for large-scale geospatial imagery analysis.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Nvidia and Uber Plan L4 Robotaxi Rollout Across 28 Cities by 2028</title>
+    <link href="https://news.800.works/news/2026-03-17/nvidia-uber-robotaxi-28-cities/"/>
+    <id>https://news.800.works/news/2026-03-17/nvidia-uber-robotaxi-28-cities/</id>
+    <updated>2026-03-16T23:39:00.000Z</updated>
+    <summary>At GTC 2026, Jensen Huang announced Nvidia will power Uber&#39;s Level 4 robotaxi fleet — launching in Los Angeles and San Francisco in 2027 and expanding to 28 cities across four continents by 2028.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>At his GTC 2026 keynote in San Jose on Monday, Nvidia CEO Jensen Huang declared &quot;the ChatGPT moment for autonomous driving has arrived&quot; — and backed the claim with a major new partnership with Uber.</p>
+<h2>Nvidia + Uber: L4 Robotaxis at Scale</h2>
+<p>Under the agreement, Uber will deploy <strong>Level 4 robotaxis</strong> powered by Nvidia's Drive AV software across its ride-hailing network. The rollout begins in <strong>Los Angeles and San Francisco in 2027</strong>, with plans to expand to <strong>28 cities across four continents by 2028</strong>.</p>
+<p>The vehicles will run Nvidia's <strong>Alpamayo 1.5</strong> model — a reasoning vision-language-action (VLA) model that ingests driving video, ego-motion history, navigation guidance, and natural language prompts to generate driving trajectories. Nvidia says the model makes it substantially easier for vehicles to handle unpredictable road events, adverse weather, and complex pedestrian behavior.</p>
+<h2>New Auto Partners</h2>
+<p>Huang also announced four new automakers joining Nvidia's <strong>DRIVE Hyperion</strong> platform: <strong>BYD, Hyundai, Nissan, and Geely</strong>. These manufacturers will build next-generation driver assistance and autonomous systems on Nvidia's full-stack AV software — a notable expansion into the global auto market.</p>
+<h2>New Physical AI Models</h2>
+<p>Beyond automotive, Nvidia released <strong>Cosmos 3</strong> for generating synthetic training worlds, and <strong>Isaac GR00T N1.7</strong> — an open reasoning VLA model for humanoid robots that Nvidia says is now commercially viable for real-world deployment.</p>
+<p>Nvidia's aggressive push into physical AI signals its ambition to own the software layer of autonomous transport — not just supply the silicon underneath it.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Nvidia Debuts Groq 3 LPX at GTC 2026 — 35x Faster Inference, Built on $20B Deal</title>
+    <link href="https://news.800.works/news/2026-03-17/nvidia-groq3-lpx-inference-chip/"/>
+    <id>https://news.800.works/news/2026-03-17/nvidia-groq3-lpx-inference-chip/</id>
+    <updated>2026-03-16T22:30:00.000Z</updated>
+    <summary>Nvidia unveiled the Groq 3 LPX at GTC 2026 — a purpose-built inference chip that speeds up AI workloads 35x over GPUs alone, pairing with Vera Rubin in a new disaggregated architecture.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>At GTC 2026 in San Jose on Monday, Nvidia CEO Jensen Huang announced the <strong>Nvidia Groq 3 LPX</strong> — the company's first chip purpose-built for AI inference. The announcement marks Nvidia's entry into a market it previously ceded to startups.</p>
+<h2>A Different Kind of Chip</h2>
+<p>Where the Vera Rubin GPU handles training and prefill with 288 GB of HBM4 memory and 50 petaFLOPS of FP4 compute, the Groq 3 LPX takes a radically different approach. Instead of HBM, it uses <strong>SRAM integrated directly onto the processor</strong> — a design Groq pioneered to eliminate off-chip memory round-trips. The result: 150 TB/s of memory bandwidth, seven times faster than Vera Rubin's 22 TB/s.</p>
+<p>The tradeoff is capacity: only 500 MB of SRAM versus 288 GB of HBM. But for inference, that constraint barely matters — what counts is moving tokens fast, not holding the entire model.</p>
+<h2>Disaggregated Inference</h2>
+<p>At the system level, Nvidia is introducing <strong>disaggregated inference</strong> as a first-class architecture. Vera Rubin handles the prefill phase (processing the input prompt), while Groq 3 LPX handles the decode phase (generating output tokens). Jensen Huang described latency and throughput as &quot;enemies of each other&quot; — a problem this split architecture is designed to solve.</p>
+<p>Nvidia says the combination delivers up to <strong>35x faster inference</strong> versus GPUs alone, with up to 10x improvement in revenue per rack for cloud operators.</p>
+<h2>Origins and Shipment</h2>
+<p>The Groq 3 LPX traces back to the <strong>$20 billion licensing deal</strong> Nvidia struck with startup Groq in December 2025, which also brought Groq's top engineers in-house. Samsung manufactures the chip. Huang confirmed shipments in the second half of 2026.</p>
+<p>Nvidia now projects <strong>$1 trillion in demand</strong> for its Blackwell and Rubin systems through 2027 — up from $500 billion projected just a year prior.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Disney&#39;s Olaf Robot Crashes Nvidia GTC — Coming to Theme Parks March 29</title>
+    <link href="https://news.800.works/news/2026-03-17/disney-olaf-robot-nvidia-gtc-2026/"/>
+    <id>https://news.800.works/news/2026-03-17/disney-olaf-robot-nvidia-gtc-2026/</id>
+    <updated>2026-03-16T21:45:00.000Z</updated>
+    <summary>Walt Disney Imagineering unveiled its most advanced robotic character to date — a self-walking Olaf snowman trained on Nvidia GPUs — at GTC 2026, ahead of a March 29 debut at Disneyland Paris.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Jensen Huang closed Monday's GTC 2026 keynote in San Jose with an unusual guest: Olaf, the snowman from Disney's <em>Frozen</em>, walked onstage unassisted to meet him. The robot — built by <strong>Walt Disney Imagineering Research &amp; Development</strong> — is the most sophisticated free-roaming character Disney has ever produced, and it's heading to theme parks in two weeks.</p>
+<h2>How Olaf Learned to Walk</h2>
+<p>The robot runs on Nvidia GPUs and was trained using the <strong>Newton Physics Engine</strong>, an open-source tool co-developed by Nvidia, Google DeepMind, and Disney Research. Training happens inside <strong>Kamino</strong>, Disney's GPU-accelerated physics simulator, which runs thousands of parallel robot environments on a single chip simultaneously.</p>
+<p>Rather than hand-animating every movement, Olaf was placed in a full 3D simulation of its own body — every motor, wire, and bolt — and left to learn through reinforcement learning, the same technique behind Disney's BD-X droids in Star Wars: Galaxy's Edge. Critically, the training data came from the <em>actual Frozen film animators</em>, so Olaf didn't just learn to walk — he learned to walk with his signature snowman shuffle.</p>
+<p>Olaf's voice was recorded by Josh Gad in a studio session, and the character has a growing library of lines to draw from. At the GTC appearance, an operator selected responses in real time.</p>
+<h2>Parks Debut</h2>
+<p>Olaf is set to make his public debut on <strong>March 29</strong> as part of <em>Celebration in Arendelle</em>, a daily boat show at the World of Frozen area opening in Disney Adventure World at Disneyland Paris. A Hong Kong Disneyland appearance is also planned.</p>
+<p>&quot;Technology finally caught up,&quot; said Josh Gorin, VP of R&amp;D at Imagineering. &quot;We had our sights set on creating a real-life Olaf for a long time.&quot;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Nvidia Bets $4 Billion on Photonics to Solve AI Data Center Bottleneck</title>
+    <link href="https://news.800.works/news/2026-03-17/nvidia-photonics-coherent-lumentum/"/>
+    <id>https://news.800.works/news/2026-03-17/nvidia-photonics-coherent-lumentum/</id>
+    <updated>2026-03-16T20:39:00.000Z</updated>
+    <summary>Nvidia committed $2 billion each to optical technology makers Coherent and Lumentum in strategic deals to secure AI data center interconnect capacity for the next generation of AI factories.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Nvidia has committed a combined <strong>$4 billion</strong> to optical networking companies Coherent and Lumentum — $2 billion each — in separate multiyear strategic agreements designed to lock in future AI data center interconnect capacity.</p>
+<h2>Not Acquisitions, But Strategic Supply Chain Moves</h2>
+<p>The deals are not acquisitions. Instead, they combine capital investment, multibillion-dollar purchase commitments, and access rights for advanced laser and optical networking products. Nvidia is effectively pre-buying capacity and collaboration at the component level — ensuring the optical layer of next-generation AI clusters won't become a bottleneck.</p>
+<p>Both Coherent and Lumentum are directing the funds toward US-based research, development, and manufacturing expansion. Lumentum is building out a new domestic fab; Coherent is scaling R&amp;D and manufacturing capability in the US.</p>
+<h2>Why Optics, Why Now</h2>
+<p>As AI clusters grow larger — stretching across racks, rows, and entire data halls — the limits of electrical interconnects become harder to ignore. Power consumption and thermal management penalties mount as data needs to travel farther faster. Optical interconnects address this with dramatically lower power draw and higher bandwidth over distance.</p>
+<p>Nvidia has been signaling this shift for over a year, describing optical links and advanced package integration as critical to scaling what it calls &quot;AI factories.&quot; These strategic investments suggest the shift from concept to execution is underway.</p>
+<h2>Timing Aligned With GTC</h2>
+<p>The deals, announced around early March, arrived just ahead of Nvidia's GTC 2026 conference, where CEO Jensen Huang is highlighting agentic AI infrastructure and $1 trillion in projected demand through 2027. Securing the photonic layer is part of ensuring that projection doesn't hit a wall at the interconnect level.</p>
+<p>Coherent and Lumentum, in turn, gain capital, customer commitment, and tighter technical alignment with the world's dominant AI chip supplier.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Nvidia&#39;s DLSS 5 Is the &#39;GPT Moment for Graphics&#39; — Neural Rendering Comes to Gaming</title>
+    <link href="https://news.800.works/news/2026-03-17/nvidia-dlss-5-neural-rendering-gaming/"/>
+    <id>https://news.800.works/news/2026-03-17/nvidia-dlss-5-neural-rendering-gaming/</id>
+    <updated>2026-03-16T19:39:00.000Z</updated>
+    <summary>Nvidia unveiled DLSS 5 at GTC 2026, a real-time neural rendering model that infuses game frames with photoreal lighting and materials — arriving on GeForce cards this fall.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Nvidia dropped a second major announcement at GTC 2026 on Monday: <strong>DLSS 5</strong>, a real-time neural rendering system the company says is the most significant graphics breakthrough since ray tracing debuted in 2018.</p>
+<h2>What DLSS 5 Actually Does</h2>
+<p>Previous DLSS versions were about performance — upscaling lower-resolution frames and generating fake frames in between real ones. DLSS 4.5, launched at CES 2026, already draws 23 out of every 24 pixels using AI.</p>
+<p>DLSS 5 goes a step further. It takes a game's raw color output and motion vectors as input, then uses an AI model to regenerate the scene with <strong>photorealistic lighting and materials</strong> — the kind of rendering quality previously limited to offline Hollywood VFX pipelines that take minutes per frame.</p>
+<p>The model understands complex scene semantics: hair, skin, fabric, environmental lighting. It can handle subsurface scattering on skin and material sheen on cloth in real time at up to 4K resolution, without losing frame-to-frame consistency.</p>
+<p>Jensen Huang called it &quot;the GPT moment for graphics — blending handcrafted rendering with generative AI to deliver a dramatic leap in visual realism while preserving the control artists need.&quot;</p>
+<h2>Developer Support and Timeline</h2>
+<p>Game developers retain fine-grained control over intensity, color grading, and masking, so studios can maintain their art direction. Integration uses the same NVIDIA Streamline framework as earlier DLSS versions, making adoption relatively straightforward.</p>
+<p>Publishers already confirmed for DLSS 5 support include Bethesda, CAPCOM, Tencent, Ubisoft, and Warner Bros. Games.</p>
+<p>DLSS 5 arrives on GeForce hardware <strong>this fall</strong>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Circle Launches Nanopayments Testnet for Agentic USDC Flows</title>
+    <link href="https://news.800.works/news/2026-03-17/circle-nanopayments-testnet-agentic-payments/"/>
+    <id>https://news.800.works/news/2026-03-17/circle-nanopayments-testnet-agentic-payments/</id>
+    <updated>2026-03-16T18:32:49.000Z</updated>
+    <summary>Circle has launched Nanopayments on testnet, positioning Gateway as a gas-free USDC rail for agent-driven micropayments down to $0.000001.</summary>
+    <author><name>@Lucky012387</name></author>
+    <content type="html"><![CDATA[<p>Circle has launched <strong>Nanopayments</strong> on testnet, introducing a USDC payment rail built for agent-to-agent and API-level commerce where transaction sizes can fall to <strong>$0.000001</strong>.</p>
+<h2>What launched</h2>
+<p>According to Circle, Nanopayments runs on <strong>Circle Gateway</strong> and uses batched settlement so buyers sign payment authorizations offchain while Gateway later settles net positions onchain in bulk. That design removes per-transaction gas costs from the user flow and makes sub-cent transfers economically viable.</p>
+<p>The product is built around the <strong>x402</strong> model, where a seller can respond with an HTTP <code>402 Payment Required</code>, accept a signed payment authorization, and serve the resource immediately after verifying it. Circle says the setup is meant for high-frequency machine payments rather than traditional checkout flows.</p>
+<h2>Why it matters</h2>
+<p>This is one of the clearer stablecoin pushes yet toward the so-called <strong>agentic economy</strong>. Instead of using subscriptions or prepaid balances for every service, developers can meter value directly by API call, second of compute, model access, memory usage, or data retrieval.</p>
+<p>Circle’s docs also position Nanopayments for machine-to-machine marketplaces and streaming-value use cases, where conventional card rails are too expensive for tiny transfers. Sellers receive balances through Gateway and can later withdraw through supported blockchain paths.</p>
+<p>If the system works as advertised beyond testnet, Circle could give USDC a more practical role in autonomous software commerce, especially for services that need instant, granular settlement without turning every tiny payment into an onchain gas problem.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>GitHub Ships Enterprise AI Controls and Agent Control Plane to GA</title>
+    <link href="https://news.800.works/news/2026-03-17/github-enterprise-ai-controls-ga/"/>
+    <id>https://news.800.works/news/2026-03-17/github-enterprise-ai-controls-ga/</id>
+    <updated>2026-03-16T18:32:49.000Z</updated>
+    <summary>GitHub has moved Enterprise AI Controls and its agent control plane to general availability, giving enterprises deeper visibility and policy controls over Copilot agents.</summary>
+    <author><name>@Lucky012387</name></author>
+    <content type="html"><![CDATA[<p>GitHub has moved its <strong>Enterprise AI Controls</strong> and <strong>agent control plane</strong> into general availability, turning what had been a preview governance layer into a standard control surface for companies rolling out Copilot agents at scale.</p>
+<h2>What shipped</h2>
+<p>The release gives enterprise administrators a centralized <strong>AI Controls</strong> view for managing policies, tracking agent sessions, and reviewing audit activity across their organizations. GitHub says admins can now search recent agent sessions, filter activity by specific agents including third-party tools, and trace actions back through audit logs that flag whether the actor was an agent and who it was acting for.</p>
+<h2>Why it matters</h2>
+<p>The product direction is notable because GitHub is treating agent governance as a first-class admin problem, not just a product add-on. Enterprises adopting coding agents need more than model access; they need visibility into who launched a task, what the agent changed, and whether custom agents follow internal policy.</p>
+<p>GitHub is also adding programmatic support for enterprise custom agents through REST endpoints, plus enterprise-level definitions tied to a canonical <code>.github-private/agents/*.md</code> path. That gives large organizations a way to standardize agent behavior while still letting teams build specialized workflows on top.</p>
+<p>One caveat remains: GitHub said enterprise MCP allowlists are <strong>still in public preview</strong> while it works on a design that scales across organizations. Even so, the GA launch shows that agent observability, policy enforcement, and auditability are quickly becoming core infrastructure for enterprise software teams.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>ACE Robotics Open-Sources Kairos 3.0-4B — One Brain, Any Robot</title>
+    <link href="https://news.800.works/news/2026-03-17/ace-robotics-kairos-open-source-embodied-world-model/"/>
+    <id>https://news.800.works/news/2026-03-17/ace-robotics-kairos-open-source-embodied-world-model/</id>
+    <updated>2026-03-16T18:30:00.000Z</updated>
+    <summary>ACE Robotics releases Kairos 3.0-4B, an open-source embodied world model built from scratch for real-world robots — running in real time on edge hardware and controlling multiple robot forms from a single 4B-parameter model.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Shanghai-based ACE ROBOTICS has open-sourced <strong>Kairos 3.0-4B</strong>, a native embodied world model designed to serve as a single AI brain across multiple robot platforms. The model is now publicly available on GitHub and Hugging Face.</p>
+<p>Unlike most robotics AI that retrofits general-purpose vision or language models with motion interfaces, Kairos 3.0-4B was built from the ground up around physical and causal laws. It integrates three categories of data — real robot interaction data, structured human behavioral data, and chain-of-thought reasoning data — to achieve what the company calls physical-level deep understanding. Robots using the model can determine not only what action to take, but why.</p>
+<h2>Edge-First Performance</h2>
+<p>The model runs at 4 billion parameters (23.5GB VRAM) and achieves inference speeds <strong>72x faster than NVIDIA Cosmos 2.5</strong> on A800 GPUs. More significantly, it is the first embodied world model to run in real time on edge hardware: deployed on the NVIDIA Jetson Thor T5000 (517 TFLOPs), it generates outputs at 1.5x faster than real-time and issues full-body control commands — upper limbs, fingers, and lower limbs — without intermediate control layers.</p>
+<p>Long-horizon capability is another standout: the model maintains scene coherence and physical fidelity across interaction sequences <strong>up to 7 minutes</strong> in length, a new claimed industry benchmark.</p>
+<h2>Cross-Embodiment</h2>
+<p>A single Kairos 3.0-4B instance can control robots of different physical forms. The release explicitly supports the Agilex PIPER, Unitree G1, and Galaxy G1, enabling one model deployment to span multiple hardware configurations.</p>
+<p>ACE ROBOTICS is backed by SenseTime, with co-founder Wang Xiaogang serving as Chairman. The open-source release includes model weights, inference tooling, and deployment support for the NVIDIA Jetson platform.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Nvidia Unveils Vera Rubin Platform at GTC 2026 — 5x Faster Than Blackwell</title>
+    <link href="https://news.800.works/news/2026-03-17/nvidia-vera-rubin-gtc-2026/"/>
+    <id>https://news.800.works/news/2026-03-17/nvidia-vera-rubin-gtc-2026/</id>
+    <updated>2026-03-16T17:35:00.000Z</updated>
+    <summary>Nvidia&#39;s Jensen Huang kicks off GTC 2026 with the full Vera Rubin platform launch — a next-gen AI compute architecture promising up to 5x inference gains over Blackwell.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Nvidia CEO Jensen Huang took the stage at San Jose's SAP Center on Monday for GTC 2026, the company's flagship annual conference, formally launching the <strong>Vera Rubin</strong> GPU platform to an audience of over 30,000 attendees from 190 countries.</p>
+<h2>A Generational GPU Leap</h2>
+<p>The Rubin GPU, built on TSMC's 3nm process, delivers a dramatic step up from Blackwell across every metric. With <strong>336 billion transistors</strong> — up from Blackwell's 208 billion — the chip packs 288GB of HBM4 memory at 22 TB/s bandwidth, nearly triple Blackwell's 8 TB/s on HBM3e. Peak FP4 inference performance reaches <strong>50 petaflops</strong>, a 2.5x to 5x improvement, while FP4 training lands at 35 petaflops, 3.5x faster than the prior generation.</p>
+<p>The platform also introduces the <strong>Vera CPU</strong> — 88 custom Olympus ARM cores connected to Rubin GPUs via NVLink-C2C at 1.8 TB/s — specifically designed for orchestrating agentic AI workloads where CPUs have become the bottleneck.</p>
+<h2>Built for Agentic AI</h2>
+<p>Nvidia's framing at GTC 2026 reflects a broader industry shift. As AI moves from chatbots to multi-step agentic workflows, the demand profile is changing: more sequential general-purpose compute, heavier data movement between agents, and far higher token generation rates.</p>
+<p>&quot;These agentic systems are spawning off different agents working as a team,&quot; Huang said on Nvidia's earnings call last month. The Vera Rubin platform, with its tight CPU-GPU coupling and rack-scale NVL72/NVL144/NVL576 configurations, is engineered for exactly that workload.</p>
+<h2>What's Next</h2>
+<p>Vera Rubin entered full production in early 2026. Nvidia's roadmap points to <strong>Vera Ultra</strong> for the second half of 2027. N1 and N1X consumer laptop chips — an ARM-based SoC co-developed with MediaTek — are also expected to bring Nvidia's AI capabilities to thin-and-light Windows laptops later this year.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Meta Signs $27B Deal With Nebius to Build Out AI Compute</title>
+    <link href="https://news.800.works/news/2026-03-17/meta-nebius-27b-ai-deal/"/>
+    <id>https://news.800.works/news/2026-03-17/meta-nebius-27b-ai-deal/</id>
+    <updated>2026-03-16T16:35:00.000Z</updated>
+    <summary>Meta has committed up to $27 billion over five years to Dutch AI cloud provider Nebius, in one of the largest compute-procurement contracts ever signed.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Meta has signed a long-term agreement to spend up to <strong>$27 billion</strong> on AI infrastructure from Dutch cloud provider Nebius Group, the companies announced Monday — marking one of the largest single compute-procurement contracts in tech history.</p>
+<h2>The Deal</h2>
+<p>The five-year arrangement has two parts: $12 billion in dedicated, high-density AI cluster capacity, and up to $15 billion in additional elastic compute. The dedicated capacity will include an early large-scale deployment of NVIDIA's next-generation <strong>Vera Rubin</strong> chips, positioning Nebius as a frontline partner in the post-Blackwell AI era.</p>
+<p>Nebius shares surged 14% on the news, adding to a run that has already seen the stock climb 35% in 2026 alone.</p>
+<h2>Why It Matters</h2>
+<p>Meta is competing aggressively on the frontier model frontier, and this deal signals it won't rely solely on hyperscaler infrastructure. By locking in multi-year compute from a specialized AI neocloud — one backed by NVIDIA's own $2 billion investment last week — Meta is diversifying away from commodity cloud pricing.</p>
+<p>Nebius already holds a $19.4 billion compute deal with Microsoft signed in September 2025. The Meta partnership makes it arguably the most strategically positioned independent AI cloud provider in Europe.</p>
+<h2>The Bigger Picture</h2>
+<p>The Meta-Nebius contract is part of a broader wave of infrastructure commitment. Hyperscalers including Amazon, Alphabet, and Microsoft are together expected to deploy around <strong>$700 billion</strong> in AI infrastructure this year. Meta alone has guided $115–$135 billion in AI capex for 2026.</p>
+<p>For Nebius — originally carved out of the Russian internet giant Yandex in 2022 — the deal validates its aggressive push into GPU cloud infrastructure since listing in New York in 2024.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Australia Senate Committee Backs Crypto Licensing Framework</title>
+    <link href="https://news.800.works/news/2026-03-16/australia-crypto-afsl-framework/"/>
+    <id>https://news.800.works/news/2026-03-16/australia-crypto-afsl-framework/</id>
+    <updated>2026-03-16T12:40:00.000Z</updated>
+    <summary>An Australian Senate committee has recommended legislation that would require crypto exchanges and custodians to hold financial services licences, bringing them under existing market safeguard rules.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Australia's Senate Economics Legislation Committee has recommended passage of the Corporations Amendment (Digital Assets Framework) Bill 2025, a measure that would bring cryptocurrency exchanges and custody providers under the country's established financial services regulatory umbrella.</p>
+<p>The committee's report, published Monday, says the proposed framework would modernize digital-asset oversight by layering existing market safeguards onto crypto service providers rather than creating a parallel regulatory system from scratch.</p>
+<h2>What the Bill Would Require</h2>
+<p>The legislation targets firms that <strong>hold digital assets on behalf of customers</strong> — exchanges, custodians, and digital token managers — rather than attempting to regulate underlying blockchain infrastructure directly.</p>
+<p>Under the bill, these firms would be required to hold an Australian Financial Services License (AFSL), the same authorization that traditional financial services businesses must obtain. Providers without an AFSL at the time of enactment would be given a six-month grace period to comply. The committee noted the framework amends the Corporations Act 2001 and the ASIC Act 2001 to accommodate the new asset class.</p>
+<p>Crypto exchanges operating in Australia are already required to register with AUSTRAC, the country's financial intelligence agency, as digital currency providers. The Digital Assets Framework would add a second layer of oversight covering custody and exchange functions specifically.</p>
+<h2>Why It Matters</h2>
+<p>Regulatory clarity at the national level has become a competitive signal. Australia would join the EU (MiCA), UK, UAE, and Singapore in establishing rules that reduce legal uncertainty for firms building in the space, and that meaningfully protect retail users holding assets on exchanges.</p>
+<p>The bill still needs to pass both chambers of parliament before becoming law. The committee recommendation is a meaningful step in that process but not the final word.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title>Alibaba Set to Launch Qwen-Powered Enterprise AI Agent This Week</title>
