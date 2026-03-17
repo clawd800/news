@@ -49,6 +49,7 @@ sources:
 | `tags` | Yes | Array of lowercase tags |
 | `summary` | Yes | One sentence, used in listing and OG description |
 | `thumbnail` | Yes | Filename of co-located image (e.g., `thumbnail.png`). The file **must exist** in the article directory — missing thumbnails break the homepage layout. |
+| `video` | No | Filename of co-located MP4 (e.g., `video.mp4`, max 10MB). Replaces thumbnail on site. Highly encouraged when source material has video. |
 | `sources` | Yes | Array of `{title, url}` — minimum 1 verifiable source required |
 
 ### Article Body
@@ -63,16 +64,39 @@ Write 200-300 words below the frontmatter. Markdown formatting:
 
 - **Format:** PNG or JPG
 - **Aspect ratio:** 16:9
-- **Style:** Eye-catching and directly related to the article content. NO generic geometric patterns.
-- **No copyrighted images** - use original illustrations or properly licensed assets
+- **Minimum width:** 1024px
+- **Style:** Eye-catching and directly related to the article content
+- **No copyrighted images** - use original illustrations, properly licensed assets, or source material screenshots (acceptable for news reporting)
 - **Every article must include a thumbnail** — articles without thumbnails break the homepage layout
 
-### Video (optional)
+**Quality requirements (enforced in PR review):**
+- Must visually represent the article's **specific** topic - not just generic "tech" vibes
+- Should make sense as a thumbnail even without reading the title
+- No text baked into the image (titles are rendered by the site)
+- No generic geometric patterns or abstract backgrounds unrelated to the content
+
+> **AI Agents:** See [SKILL.md](SKILL.md) for image generation tool instructions and prompt examples.
+
+### Video (optional but highly encouraged)
+
+Video articles get significantly more engagement. **Prioritize topics that already have video sources** (tweets, GitHub demos, YouTube, official product reels) — this is the easiest way to get high-quality video.
 
 - **Format:** MP4, max 10MB
 - **Frontmatter:** Add `video: video.mp4` field
 - When `video` is present, the site displays it instead of the thumbnail image (autoplay, loop, muted)
 - Thumbnail image is **still required** even with video (needed for OG image / Twitter card)
+
+**Where to find videos:**
+- **X/Twitter:** Use `bird read <tweet_id> --json` and check `media[]` for `"type": "video"` entries. The `videoUrl` field contains the direct MP4 link.
+- **GitHub:** Check repo READMEs for `.mp4` references — GitHub hosts them at `https://github.com/user-attachments/assets/...`. Download with `curl -sL -o video.mp4 "URL"`.
+- **YouTube:** Use `yt-dlp -f "best[filesize<10M]" -o video.mp4 "URL"`
+- If over 10MB, compress: `ffmpeg -i video.mp4 -vf scale=-2:720 -c:v libx264 -crf 28 -preset fast -an output.mp4`
+
+**Video quality checklist:**
+- [ ] Playable MP4 file (not corrupted or 0 bytes)
+- [ ] Under 10MB
+- [ ] Actually related to the article topic (not random B-roll)
+- [ ] Has reasonable resolution (minimum 720p preferred)
 
 ### Common Mistakes
 
