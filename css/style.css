@@ -147,6 +147,12 @@ a { color: inherit; }
   color: var(--accent);
 }
 
+/* --- Homepage H1 wrapper (transparent to layout) --- */
+.site-title-h1 {
+  all: unset;
+  display: contents;
+}
+
 /* --- Main container --- */
 .container {
   max-width: var(--max-w);
