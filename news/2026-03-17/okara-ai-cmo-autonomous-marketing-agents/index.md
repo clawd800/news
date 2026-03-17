@@ -1,6 +1,6 @@
 ---
 title: "Okara Launches 'AI CMO' - Autonomous Marketing Agents for $99/Month"
-date: 2026-03-17T00:12:00+09:00
+date: 2026-03-17T19:43:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "marketing", "saas", "startup-tools"]
 summary: "Singapore-based Okara launched an AI CMO service that deploys a fleet of autonomous marketing agents across SEO, Reddit, Hacker News, X, and content creation for $99/month - positioning itself as a replacement for early-stage marketing hires."
