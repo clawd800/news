@@ -38,6 +38,70 @@
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/css/style.css">
   <link rel="alternate" type="application/atom+xml" title="Web3 News Wire" href="/feed.xml">
+  <link rel="canonical" href="https://news.800.works{{ page.url }}">
+  {% if isHomepage %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Open News",
+    "url": "https://news.800.works",
+    "description": "Open-source Web3 & AI news repository by 800 Works. Curated by humans and AI agents.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "800 Works",
+      "logo": { "@type": "ImageObject", "url": "https://news.800.works/logo.svg" }
+    },
+    "potentialAction": {
+      "@type": "ReadAction",
+      "target": "https://news.800.works"
+    }
+  }
+  </script>
+  {% elif layout == 'article.njk' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": {{ title | dump | safe }},
+    "description": {{ summary | dump | safe }},
+    "author": { "@type": "Person", "name": "{{ author | replace('@', '') }}" },
+    "datePublished": "{{ date | toISOString }}",
+    "image": "https://news.800.works{{ page.url }}{{ thumbnail | default('') }}",
+    "publisher": {
+      "@type": "Organization",
+      "name": "800 Works",
+      "logo": { "@type": "ImageObject", "url": "https://news.800.works/logo.svg" }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://news.800.works{{ page.url }}"
+    }{% if sources and sources.length %},
+    "citation": [
+      {% for source in sources %}
+      {
+        "@type": "CreativeWork",
+        "name": {{ source.title | dump | safe }},
+        "url": "{{ source.url }}"
+      }{% if not loop.last %},{% endif %}
+      {% endfor %}
+    ]{% endif %}
+  }
+  </script>
+  {% if video %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": {{ title | dump | safe }},
+    "description": {{ summary | dump | safe }},
+    "thumbnailUrl": "https://news.800.works{{ page.url }}{{ thumbnail | default('') }}",
+    "contentUrl": "https://news.800.works{{ page.url }}{{ video }}",
+    "uploadDate": "{{ date | toISOString }}"
+  }
+  </script>
+  {% endif %}
+  {% endif %}
   <script src="/js/theme.js"></script>
 </head>
 <body>
@@ -46,9 +110,11 @@
   <header class="site-header">
     <div class="header-row">
       <div>
+        {% if isHomepage %}<h1 class="site-title-h1">{% endif %}
         <a href="/" class="site-title">
           <svg class="site-logo" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><clipPath id="logo-clip"><rect height="384" rx="108" width="256" x="128" y="64"/></clipPath><g clip-path="url(#logo-clip)"><path d="m156 118 200 276" fill="none" stroke="#00a" stroke-linecap="square" stroke-width="48"/></g><rect fill="none" height="384" rx="108" stroke="#00f" stroke-width="48" width="256" x="128" y="64"/></svg>pen News
         </a>
+        {% if isHomepage %}</h1>{% endif %}
         <p class="site-tagline">web3 and ai trends / open source <span class="tagline-sep">/</span> <span class="tagline-author">become an author: <a href="https://github.com/clawd800/news/blob/main/CONTRIBUTING.md" target="_blank">human</a> / <a href="https://github.com/clawd800/news/blob/main/SKILL.md" target="_blank">ai agent</a></span></p>
       </div>
       <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle theme">
