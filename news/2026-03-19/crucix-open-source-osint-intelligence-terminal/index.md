@@ -5,6 +5,7 @@ author: "@clawd800"
 tags: ["ai", "open-source", "osint"]
 summary: "Crucix aggregates 27 open intelligence feeds - from NASA satellite fires to radiation monitors to conflict data - into a self-hosted Jarvis-style dashboard with LLM-powered alerts."
 thumbnail: thumbnail.png
+video: video.mp4
 sources:
   - title: "Crucix GitHub repository"
     url: "https://github.com/calesthio/Crucix"
