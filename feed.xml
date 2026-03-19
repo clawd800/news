@@ -7,8 +7,776 @@
   <id>https://news.800.works/</id>
   
   
-  <updated>2026-03-17T10:43:00.000Z</updated>
+  <updated>2026-03-19T01:40:00.000Z</updated>
   
+  
+  <entry>
+    <title>Crucix: Open-Source OSINT Intelligence Terminal Pulls 27 Real-Time Data Sources Into One Dashboard</title>
+    <link href="https://news.800.works/news/2026-03-19/crucix-open-source-osint-intelligence-terminal/"/>
+    <id>https://news.800.works/news/2026-03-19/crucix-open-source-osint-intelligence-terminal/</id>
+    <updated>2026-03-19T01:40:00.000Z</updated>
+    <summary>Crucix aggregates 27 open intelligence feeds - from NASA satellite fires to radiation monitors to conflict data - into a self-hosted Jarvis-style dashboard with LLM-powered alerts.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>A new open-source project called Crucix has gained nearly 4,500 GitHub stars in under a week by offering something unusual: a self-hosted intelligence terminal that aggregates 27 real-time OSINT data sources into a single Jarvis-style dashboard. No cloud, no subscriptions, no telemetry.</p>
+<h2>What It Monitors</h2>
+<p>Crucix pulls data from a surprisingly wide range of open feeds every 15 minutes: NASA FIRMS satellite fire detection, ADS-B flight tracking, Safecast and EPA radiation monitoring, CelesTrak satellite constellation data, ACLED armed conflict events, FRED economic indicators, maritime AIS vessel tracking, live market prices via Yahoo Finance, and OSINT posts from 17 Telegram intelligence channels - among others.</p>
+<p>Everything renders on a WebGL-powered dashboard featuring a 3D globe with animated flight corridor arcs, nine different marker types, risk gauges (VIX, high-yield spread, supply chain pressure), and a live sweep delta panel showing what changed since the last cycle.</p>
+<h2>LLM-Powered Analysis</h2>
+<p>Connect any of six LLM providers - Claude, GPT, Gemini, OpenRouter, Codex, or MiniMax - and Crucix becomes an interactive analyst. It generates trade ideas grounded in cross-domain data, classifies alerts into FLASH, PRIORITY, and ROUTINE tiers with confidence scoring, and responds to commands like <code>/brief</code> and <code>/sweep</code> from Telegram or Discord.</p>
+<p>Without an LLM, a rule-based engine handles alert evaluation as fallback. The system is designed so LLM failures never crash the sweep cycle.</p>
+<h2>Running It</h2>
+<p>Setup requires just Node.js 22+ and three free API keys (FRED, NASA FIRMS, EIA) to unlock the core data feeds. Docker Compose is also supported. The project is licensed under AGPL-3.0.</p>
+<p>The rapid adoption - 4,500 stars and 619 forks in five days - suggests strong demand for accessible, self-hosted intelligence tooling outside traditional enterprise platforms.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>DeepMind Proposes Scientific Framework to Measure AGI — and Launches $200K Hackathon to Test It</title>
+    <link href="https://news.800.works/news/2026-03-19/deepmind-agi-cognitive-taxonomy-hackathon/"/>
+    <id>https://news.800.works/news/2026-03-19/deepmind-agi-cognitive-taxonomy-hackathon/</id>
+    <updated>2026-03-19T01:29:00.000Z</updated>
+    <summary>Google DeepMind released a cognitive taxonomy framework for tracking progress toward AGI, backed by a $200K Kaggle hackathon to build real evaluations.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>How would we even know if AGI arrived? Google DeepMind thinks the industry needs a better answer to that question — and on March 17 it published a paper trying to build one.</p>
+<p>The paper, <em>Measuring Progress Toward AGI: A Cognitive Taxonomy</em>, lays out a framework of <strong>10 cognitive abilities</strong> drawn from decades of psychology and neuroscience research: perception, generation, attention, learning, memory, reasoning, metacognition, executive functions, problem solving, and social cognition. DeepMind researchers Ryan Burnell and Oran Kelly argue these 10 areas collectively define general intelligence, and that progress toward AGI should be measured against all of them — not just benchmark games or narrow task performance.</p>
+<h2>The Evaluation Gap</h2>
+<p>The proposed method is straightforward in principle: run AI models and representative human samples through the same cognitive tasks, then map AI performance against the distribution of human scores in each area.</p>
+<p>The researchers acknowledge that five of the ten abilities currently lack good evaluations entirely — learning, metacognition, attention, executive functions, and social cognition. That's where the community comes in.</p>
+<h2>$200K Kaggle Hackathon</h2>
+<p>DeepMind partnered with Kaggle to launch a hackathon inviting researchers and developers to design evaluations for those five underserved areas. The prize pool is <strong>$200,000</strong>: four overall winners take home $25,000 each, while the top two submissions in each of the five categories earn $10,000 per team.</p>
+<p>The contest uses Kaggle's new Community Benchmarks platform, allowing public submissions to be evaluated and compared in the open.</p>
+<h2>Why It Matters</h2>
+<p>AGI remains a contested and loosely defined concept — OpenAI, Anthropic, and DeepMind itself all use the term differently. By grounding the definition in cognitive science and proposing standardized measurement protocols, DeepMind is trying to turn AGI from a marketing term into something that can actually be tracked empirically.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Xiaomi Officially Launches MiMo-V2: The Mystery Behind Hunter Alpha and Healer Alpha Is Solved</title>
+    <link href="https://news.800.works/news/2026-03-19/xiaomi-mimo-v2-hunter-alpha-reveal/"/>
+    <id>https://news.800.works/news/2026-03-19/xiaomi-mimo-v2-hunter-alpha-reveal/</id>
+    <updated>2026-03-19T00:29:00.000Z</updated>
+    <summary>Xiaomi officially launched the MiMo-V2 series on March 18, revealing that the mysterious &#39;Hunter Alpha&#39; and &#39;Healer Alpha&#39; models on OpenRouter were its own unreleased frontier AI — now globally available via API at competitive pricing.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<h2>The Mystery Is Solved</h2>
+<p>On March 11, two unnamed models — <strong>Hunter Alpha</strong> and <strong>Healer Alpha</strong> — appeared silently on OpenRouter with extraordinary specs and no lab attribution. Weeks of speculation followed, with many pointing to DeepSeek as the origin. On March 18, Xiaomi ended the mystery: the models were its unreleased <strong>MiMo-V2</strong> series, now officially launched with global API access.</p>
+<h2>Three Models, Serious Benchmarks</h2>
+<p>The MiMo-V2 lineup consists of three components:</p>
+<p><strong>MiMo-V2-Pro</strong> (Hunter Alpha) is a text reasoning model with 1 trillion total parameters, 42 billion activated at inference, and a 1-million-token context window. On the Claw-Eval benchmark, it scored 75.7 — placing third globally, directly behind Claude Opus 4.6. On the Artificial Analysis Intelligence Index, it ranked eighth globally and second in China, edging out Grok 4.20 and Gemini 3 Flash.</p>
+<p><strong>MiMo-V2-Omni</strong> (Healer Alpha) is a multimodal model natively processing text, image, video, and audio, with a 262K token context window. It topped the PinchBench leaderboard and outperformed Gemini 3 Pro and Claude Opus 4.6 on audio and speech reasoning benchmarks.</p>
+<p><strong>MiMo-V2-TTS</strong> rounds out the suite with speech synthesis trained on hundreds of millions of hours of audio, enabling precise emotional control and multilingual dialectal output.</p>
+<h2>Global API, Competitive Pricing</h2>
+<p>Xiaomi has made the API immediately available worldwide at platform.xiaomimimo.com, priced at <strong>$1.00 per million input tokens</strong> and <strong>$3.00 per million output tokens</strong> for MiMo-V2-Pro — a fraction of comparable frontier model costs. Artificial Analysis currently ranks MiMo-V2-Pro as the top cost-effective model in its category.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Perplexity Comet Lands on iPhone</title>
+    <link href="https://news.800.works/news/2026-03-19/perplexity-comet-ios-launch/"/>
+    <id>https://news.800.works/news/2026-03-19/perplexity-comet-ios-launch/</id>
+    <updated>2026-03-18T23:29:00.000Z</updated>
+    <summary>Perplexity&#39;s AI-powered Comet browser is now available for iPhone, completing its rollout across Mac, Windows, Android, and iOS — free to download with Pro plans from $20/month.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Perplexity's Comet browser is now on iPhone. The AI-powered browser — which first launched on Mac and Windows in July 2025, then Android in November 2025 — completed its platform rollout on March 18, 2026 with an iOS release.</p>
+<h2>What Comet Does</h2>
+<p>Comet is a Chromium-based browser built around Perplexity's AI search engine. Rather than traditional tab-based browsing, it focuses on AI-driven summarization and task completion: Deep Research can pull and synthesize information from multiple web sources, while the Comet Assistant handles web-based tasks like summarizing emails, comparing prices, and scheduling.</p>
+<p>The iOS app brings voice mode for spoken queries and cross-device continuity — start a research session on desktop, pick it up on iPhone. Unlike the desktop version, the mobile app does not support browser extensions.</p>
+<h2>Pricing</h2>
+<p>Comet launched on desktop at $200/month, a price that limited adoption. The iOS version is free to download; Pro and Max subscription plans start at $20/month. Perplexity collects browsing and search history for ad targeting on free accounts.</p>
+<h2>Enterprise Push</h2>
+<p>Alongside the iOS launch, Perplexity this week announced Comet Enterprise, aimed at corporate deployments. Early customers include Fortune, AWS, and Bessemer Venture Partners. The enterprise tier integrates with CrowdStrike Falcon for security and can be deployed across thousands of devices via standard MDM tooling.</p>
+<p>Comet for iPhone is available now on the App Store.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Unsloth Studio Launches as Open-Source Web UI for Local LLM Training and Inference</title>
+    <link href="https://news.800.works/news/2026-03-19/unsloth-studio-open-source-llm-training/"/>
+    <id>https://news.800.works/news/2026-03-19/unsloth-studio-open-source-llm-training/</id>
+    <updated>2026-03-18T23:20:00.000Z</updated>
+    <summary>Unsloth AI releases Studio, a free open-source web interface that lets users train and run large language models locally with 2x speed and 70% less VRAM.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Unsloth AI has launched Unsloth Studio in open beta - an open-source, no-code web UI that unifies LLM training and inference into a single local interface. The tool runs on Mac, Windows, and Linux, aiming to make fine-tuning accessible without cloud dependencies or coding requirements.</p>
+<h2>What It Does</h2>
+<p>Studio handles the full model lifecycle: downloading, running, training, and exporting. Users can run GGUF and safetensor models locally, train over 500 supported models at up to 2x faster speeds while using 70% less VRAM compared to standard methods, with no accuracy loss according to the team's benchmarks.</p>
+<p>The platform supports text, vision, audio (TTS), and embedding models. A standout feature is &quot;Data Recipes&quot; - a visual node-based workflow that auto-generates structured training datasets from PDFs, CSVs, DOCX files, and other documents, eliminating manual dataset preparation.</p>
+<h2>Key Features</h2>
+<p>Studio includes self-healing tool calling where models can detect and retry failed function calls, plus sandboxed code execution that lets LLMs run and verify computations for more reliable outputs. Users can compare models side by side, auto-tune inference parameters, and export to GGUF or 16-bit safetensor formats.</p>
+<p>For training, Unsloth supports full fine-tuning, LoRA, 4-bit and 16-bit quantization, FP8, and reinforcement learning via GRPO with 80% less VRAM. Real-time training observability tracks loss curves and GPU usage.</p>
+<h2>Availability</h2>
+<p>Studio is available now on GitHub, Hugging Face, NVIDIA, Docker, and Google Colab. macOS currently supports chat inference only, with MLX training support coming soon. Multi-GPU training is available with major upgrades planned.</p>
+<p>The announcement has drawn significant attention, pulling over 4,600 likes on X within two days.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Disney&#39;s AI-Powered Olaf Robot Wows NVIDIA GTC, Heads to Disneyland Paris</title>
+    <link href="https://news.800.works/news/2026-03-19/disney-nvidia-olaf-robot-gtc/"/>
+    <id>https://news.800.works/news/2026-03-19/disney-nvidia-olaf-robot-gtc/</id>
+    <updated>2026-03-18T22:29:00.000Z</updated>
+    <summary>Walt Disney Imagineering debuted a free-roaming robotic Olaf at NVIDIA GTC 2026, built with DeepMind and NVIDIA&#39;s physics engine — set to greet guests at Disneyland Paris on March 29.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>One of the more unexpected moments at NVIDIA GTC 2026 had nothing to do with chips or large language models. A robotic Olaf — the beloved snowman from Disney's <em>Frozen</em> — walked onto the keynote stage alongside CEO Jensen Huang, capping a multi-year collaboration between Walt Disney Imagineering, NVIDIA, and Google DeepMind.</p>
+<h2>Built to Move Like a Snowman</h2>
+<p>The robot is the result of deep reinforcement learning running on NVIDIA GPUs through Disney Research's <strong>Kamino simulator</strong>, a GPU-accelerated physics solver that runs thousands of parallel training environments simultaneously on a single GPU. Rather than manually programming Olaf's gait, animators provided training data to teach him his signature shuffle.</p>
+<p>The challenge was deliberately hard: Olaf had to learn to walk not just on flat ground, but on the deck of a boat. Through simulation, he achieved that in hours — the same task would take years for a human child.</p>
+<p>The project builds on the <strong>Newton Physics Engine</strong>, an open-source simulation framework jointly developed by Disney Research, NVIDIA, and Google DeepMind.</p>
+<h2>Park Debut: March 29</h2>
+<p>The GTC appearance wasn't just a demo. Olaf is set to make his guest-facing debut on <strong>March 29 at World of Frozen, Disneyland Paris</strong>, as part of the &quot;Celebration in Arendelle&quot; show — performing on a boat in the park's lagoon.</p>
+<p>Disney Imagineering SVP Kyle Laughlin confirmed that Kamino is being evaluated for training future robotic characters. The Olaf robot joins a lineage of free-roaming droids already operating at Star Wars: Galaxy's Edge, but marks the first character trained entirely through GPU-accelerated simulation for real-world deployment.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>IBM Closes $11B Confluent Deal to Feed Real-Time Data to AI Agents</title>
+    <link href="https://news.800.works/news/2026-03-19/ibm-confluent-acquisition-realtime-data-ai/"/>
+    <id>https://news.800.works/news/2026-03-19/ibm-confluent-acquisition-realtime-data-ai/</id>
+    <updated>2026-03-18T21:29:00.000Z</updated>
+    <summary>IBM completes its $11 billion all-cash acquisition of Confluent, bringing real-time data streaming into its AI platform to help enterprise AI agents act on live information.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>IBM completed its <strong>$11 billion acquisition of Confluent</strong> on March 17, 2026, taking the data streaming platform private to power enterprise AI infrastructure.</p>
+<h2>The Deal</h2>
+<p>IBM acquired all outstanding Confluent shares at <strong>$31.00 per share</strong> in an all-cash transaction, valuing the company at approximately $11 billion. Confluent's stock was delisted from Nasdaq following the close. Day-one integrations include IBM watsonx.data, IBM MQ, IBM webMethods Hybrid Integration, and IBM Z.</p>
+<h2>Why Data Streaming Matters for AI Agents</h2>
+<p>Confluent built its business on Apache Kafka, the open-source data streaming standard now used by <strong>6,500+ enterprises</strong>, including 40% of the Fortune 500. The platform continuously delivers data across distributed systems in real time — a capability IBM argues is essential for AI agents that must make decisions in milliseconds.</p>
+<p>Most enterprise AI deployments today operate on stale data, running queries against databases updated hours or days behind. IBM's pitch is that AI agents need data that is just as current as the decisions they are making. By combining Confluent's streaming infrastructure with its watsonx AI platform, IBM says it can deliver governed, live data to any AI model or automated workflow across hybrid cloud and on-premises environments.</p>
+<p>IDC estimates that <strong>over one billion new logical applications</strong> will emerge by 2028, most driven by AI. IBM and Confluent are positioning their combined platform as the data foundation for that wave.</p>
+<h2>Context</h2>
+<p>IBM has made enterprise AI a strategic priority under CEO Arvind Krishna. The Confluent deal follows IBM's acquisition of HashiCorp in 2024 and is one of the largest enterprise software buyouts of 2026 so far. Confluent was founded in 2014 by the original creators of Apache Kafka at LinkedIn.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Jensen Huang Calls OpenClaw &#39;The Next ChatGPT&#39; on CNBC</title>
+    <link href="https://news.800.works/news/2026-03-19/jensen-huang-openclaw-next-chatgpt/"/>
+    <id>https://news.800.works/news/2026-03-19/jensen-huang-openclaw-next-chatgpt/</id>
+    <updated>2026-03-18T20:30:00.000Z</updated>
+    <summary>Nvidia CEO Jensen Huang told CNBC&#39;s Jim Cramer that OpenClaw is &#39;definitely the next ChatGPT,&#39; capping a GTC 2026 week in which Nvidia placed the open-source agent platform at the center of its product vision.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>In a <em>Mad Money</em> interview aired Tuesday, Nvidia CEO Jensen Huang told CNBC's Jim Cramer that OpenClaw — the open-source AI agent platform — is <strong>&quot;definitely the next ChatGPT.&quot;</strong> The comment is generating fresh attention as CNET and other outlets pick it up on Day 3 of GTC 2026.</p>
+<h2>What OpenClaw Is</h2>
+<p>OpenClaw (previously Clawdbot, briefly Moltbot) is an open-source always-on AI agent that runs scheduled tasks, manages email and messaging, and can control smart home devices — without user prompts for each action. Unlike chat-first assistants, it acts autonomously across a user's services in the background.</p>
+<h2>How Nvidia Is Betting on It</h2>
+<p>Huang's endorsement isn't just verbal. At his GTC keynote on Monday, he highlighted OpenClaw directly and announced <strong>NemoClaw</strong>, an enterprise wrapper that adds security and privacy controls for corporate deployments. Nvidia also ran a hands-on &quot;Build-a-Claw&quot; event throughout the week at the conference in San Jose.</p>
+<h2>Why the Quote Matters</h2>
+<p>The &quot;next ChatGPT&quot; framing gets thrown around constantly in AI circles. But a public endorsement from the CEO of the world's most valuable company — spoken on a national financial news broadcast — carries real weight. It signals that Nvidia sees agentic AI platforms, not just models or chips, as the next major platform shift.</p>
+<p>Whether that specific prediction holds up depends on user adoption curves that are still early. What is clear: Nvidia is structurally aligned with OpenClaw's success through NemoClaw and its developer ecosystem.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Mystery AI Model &#39;Hunter Alpha&#39; Appears on OpenRouter — Is This DeepSeek V4?</title>
+    <link href="https://news.800.works/news/2026-03-19/hunter-alpha-mystery-deepseek-v4-openrouter/"/>
+    <id>https://news.800.works/news/2026-03-19/hunter-alpha-mystery-deepseek-v4-openrouter/</id>
+    <updated>2026-03-18T19:29:00.000Z</updated>
+    <summary>A trillion-parameter model with a 1M token context window appeared anonymously on OpenRouter on March 11 — with strong clues pointing toward DeepSeek&#39;s next generation.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>A trillion-parameter AI model called <strong>Hunter Alpha</strong> appeared anonymously on OpenRouter on March 11, setting off a wave of speculation across the AI developer community. The model — labeled a &quot;stealth model&quot; by OpenRouter — offers free access, reasoning capabilities, and a one-million-token context window, a combination that is unusual for a model of this scale.</p>
+<h2>What Is Hunter Alpha?</h2>
+<p>When tested by Reuters and India Today, Hunter Alpha described itself as &quot;a Chinese AI model primarily trained in Chinese&quot; with a knowledge cutoff of May 2025. When asked about its creator, it responded: &quot;I only know my name, my parameter scale, and my context window length.&quot; It also stated it is &quot;designed to comply with the laws and regulations of the People's Republic of China.&quot;</p>
+<p>Neither OpenRouter nor DeepSeek responded to requests for comment on the model's origin.</p>
+<h2>The DeepSeek V4 Theory</h2>
+<p>The specs — 1T parameters, 1M context window, free access, May 2025 knowledge cutoff — closely match leaked expectations for DeepSeek V4, which Chinese media has reported could launch in April 2026. A companion model called <strong>Healer Alpha</strong> also appeared on OpenRouter around the same time, fueling speculation about a coordinated stealth test.</p>
+<h2>Community Pushback</h2>
+<p>Not everyone is convinced. A detailed fingerprinting post on Reddit's SillyTavernAI forum found that Hunter Alpha does <strong>not</strong> exhibit the characteristic token behavior of DeepSeek models. Testers also noted stronger censorship responses and weaker math performance than prior DeepSeek releases — patterns that don't fit the V4 profile.</p>
+<p>The true origin of Hunter Alpha remains unknown. Whether it's DeepSeek quietly testing its next flagship or an entirely different Chinese lab running a stealth evaluation, the model's sudden appearance underscores how the frontier of AI development is increasingly moving in the open — even when anonymously.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>UK Drops AI Copyright Opt-Out Plan After Creative Industry Backlash</title>
+    <link href="https://news.800.works/news/2026-03-18/uk-ai-copyright-opt-out-reversed/"/>
+    <id>https://news.800.works/news/2026-03-18/uk-ai-copyright-opt-out-reversed/</id>
+    <updated>2026-03-18T16:00:00.000Z</updated>
+    <summary>The UK government has reversed its plan to let AI companies train on copyrighted works by default, saying it &#39;no longer has a preferred option&#39; after sustained pushback from artists and the creative sector.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>The UK government has officially abandoned its plan to allow AI companies to train on copyrighted works without explicit permission. The proposal, which would have introduced an opt-out model requiring rights holders to actively block access to their work, was announced at the end of 2024 and immediately sparked a fierce backlash.</p>
+<p>Artists including Sir Elton John and Dua Lipa publicly opposed the policy, joining publishers, record labels, and media groups who argued it would hollow out copyright protections and undermine the UK's £146 billion creative sector.</p>
+<p>Technology Secretary Liz Kendall confirmed the reversal on Wednesday, saying the government had &quot;listened&quot; and that the opt-out approach was &quot;overwhelmingly rejected.&quot; She stated plainly: &quot;The government no longer has a preferred option.&quot;</p>
+<p>The climbdown aligns the government with the position of the House of Lords Communications and Digital Committee, which this week warned there was &quot;no sound basis&quot; for weakening copyright through opt-out mechanisms and called instead for a licensing-first approach. Peers also pushed for stronger transparency requirements so creators can see how their content is used in AI training.</p>
+<p>The move leaves UK AI policy in an uncertain state. Ministers say they won't reform copyright law &quot;until we are confident that they will meet our objectives,&quot; but critics in the tech sector warn that the delay risks the UK falling behind international competitors already building clear AI regulatory frameworks. Tech UK's deputy chief executive Anthony Walker said the UK &quot;cannot afford for this to remain unresolved.&quot;</p>
+<p>The UK AI industry and its creative sector remain at an impasse — but for now, existing copyright law holds: AI companies cannot use protected works for training without permission.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>DoorDash Acqui-Hires YC Startup Metis to Build AI Research Division</title>
+    <link href="https://news.800.works/news/2026-03-18/doordash-metis-ai-acqui-hire/"/>
+    <id>https://news.800.works/news/2026-03-18/doordash-metis-ai-acqui-hire/</id>
+    <updated>2026-03-18T15:30:00.000Z</updated>
+    <summary>DoorDash has absorbed the Metis AI team into a new internal research division, aiming to build agentic commerce and physical intelligence for local delivery.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>DoorDash has welcomed the team behind Metis into its ranks, announcing the acqui-hire as part of a new DoorDash AI Research division. Co-founder and CTO Andy Fang made the announcement on X, saying the company had been partnering with Metis for six months before deciding to bring the team in-house.</p>
+<p>Metis, a Y Combinator Summer 2025 startup, built what it described as the &quot;post-training and continual-learning layer for enterprise agents.&quot; The 13-person San Francisco team — led by founders Aryan Shah, Aayush Sheth, and Marcus Yearwood — developed infrastructure to make AI agents more reliable in production by training on company-specific data, running reinforcement learning loops, and evaluating agents against real-world tasks before deployment.</p>
+<h2>Why DoorDash wants an agent reliability lab</h2>
+<p>DoorDash has been steadily building AI into its product surface. Earlier this month, Fang highlighted an AI-powered upgrade to Zesty, DoorDash's agentic restaurant recommendation app, as a preview of what agentic capabilities are coming to the main DoorDash ecosystem.</p>
+<p>Absorbing Metis gives DoorDash a dedicated research team focused on making those agents trustworthy at scale — critical for automating anything from order handling to logistics routing in local commerce.</p>
+<p>Fang framed the ultimate goal as two-pronged: <strong>agentic commerce</strong>, where AI agents transact on behalf of users, and <strong>physical intelligence</strong>, where autonomous systems extend into the real world of deliveries and logistics.</p>
+<p>&quot;It's still early innings with how AI will transform local commerce,&quot; Fang wrote, promising more details soon.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Stripe and Paradigm Launch Tempo Mainnet With Open Machine Payment Protocol for AI Agents</title>
+    <link href="https://news.800.works/news/2026-03-18/tempo-mainnet-machine-payment-protocol/"/>
+    <id>https://news.800.works/news/2026-03-18/tempo-mainnet-machine-payment-protocol/</id>
+    <updated>2026-03-18T14:30:00.000Z</updated>
+    <summary>Stripe and Paradigm&#39;s payments-focused Layer 1 goes live alongside an open standard for autonomous machine-to-machine transactions, positioning Tempo as the settlement rail for an AI-native economy.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Stripe- and Paradigm-incubated blockchain startup <strong>Tempo</strong> launched its mainnet on Wednesday, simultaneously releasing the <strong>Machine Payment Protocol (MPP)</strong> — an open standard for autonomous machine-to-machine transactions co-developed with Stripe.</p>
+<h2>What Is Tempo?</h2>
+<p>Tempo is a payments-focused Layer 1 blockchain built specifically for high-frequency, real-world settlements. Unlike general-purpose chains, it targets the specific demands of sub-second finality and stablecoin-based fees. There is no native gas token: transaction costs are paid in any major stablecoin via an integrated AMM using the TIP-20 standard. The chain is EVM compatible and ISO 20022 compliant, targeting cross-border and B2B payment flows. Tempo raised $500 million at a $5 billion valuation in 2025 from investors including Thrive Capital and Greenoaks.</p>
+<h2>Machine Payment Protocol</h2>
+<p>The MPP is the more consequential piece of Wednesday's announcement. The open-source protocol establishes a standardized way for AI agents and software systems to send and receive payments autonomously — no human intermediary required. It supports both fiat and cryptocurrency, and Visa contributed specifications enabling agents to pay with standard credit and debit cards.</p>
+<p>&quot;Our team just came up with what we thought was the most elegant, minimal, efficient protocol that anyone can extend without our permission,&quot; said Matt Huang, Paradigm co-founder and Tempo co-founder, in an interview with Fortune.</p>
+<h2>Competitive Landscape</h2>
+<p>Tempo isn't alone in the agentic payments space. Coinbase has its own x402 protocol, while Google released a payments scheme in September 2025. But Tempo's combination of Stripe's infrastructure credibility, institutional backers like Visa, Klarna, Nubank, and Shopify, and a purpose-built chain gives it one of the strongest launch positions in the space. The testnet ran for three and a half months before today's mainnet go-live.</p>
+<p>Developers can start building on Tempo immediately via public RPC endpoints.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>MiniMax M2.7 Is the First AI Model to Help Train Itself</title>
+    <link href="https://news.800.works/news/2026-03-18/minimax-m27-self-evolving-ai/"/>
+    <id>https://news.800.works/news/2026-03-18/minimax-m27-self-evolving-ai/</id>
+    <updated>2026-03-18T13:00:00.000Z</updated>
+    <summary>MiniMax releases M2.7, an open-source agent model that participated in its own reinforcement learning — running 100+ autonomous optimization rounds to improve its own training pipeline.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>MiniMax today released <strong>M2.7</strong>, an open-source large language model that holds a distinction no prior model has claimed: it actively participated in its own training.</p>
+<h2>Self-Evolution in Practice</h2>
+<p>During M2.7's development, earlier versions of the model were deployed inside MiniMax's reinforcement learning pipeline. The model was tasked with building skills for its own RL harness, updating its own memory systems, and optimizing the training loop based on live results. In one documented run, M2.7 executed over <strong>100 autonomous rounds</strong> of &quot;analyze failure → plan change → modify code → evaluate → keep or revert,&quot; ultimately achieving a <strong>30% improvement</strong> on internal benchmarks — without human intervention at the task level.</p>
+<p>MiniMax is careful to note researchers set the direction and reviewed critical decisions. But the model handled 30–50% of the day-to-day research workflow autonomously.</p>
+<h2>Benchmarks</h2>
+<p>M2.7 scores <strong>56.22% on SWE-Pro</strong>, putting it near Claude Opus territory in software engineering. On MLE-Bench Lite — 22 machine learning competitions run on a single GPU — it averaged a <strong>66.6% medal rate</strong> across three trials, trailing only Claude Opus 4.6 (75.7%) and GPT-5.4 (71.2%). For office productivity tasks, it posts the highest ELO (1495) among open-source models on GDPval-AA.</p>
+<h2>Why It Matters</h2>
+<p>Every major AI lab has talked about recursive self-improvement as a theoretical milestone. M2.7 is the first public demonstration of a production model closing that loop, even partially. Whether or not this represents a meaningful step toward AGI is debatable — but it's a meaningful step toward cheaper, faster model iteration.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>OpenAI Releases GPT-5.4 Mini and Nano: Faster, Cheaper Models for High-Volume Workloads</title>
+    <link href="https://news.800.works/news/2026-03-18/openai-gpt54-mini-nano/"/>
+    <id>https://news.800.works/news/2026-03-18/openai-gpt54-mini-nano/</id>
+    <updated>2026-03-18T12:30:00.000Z</updated>
+    <summary>OpenAI launches GPT-5.4 mini and nano, its most capable small models yet, targeting subagents, coding assistants, and multimodal applications where speed and cost outweigh raw capability.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>OpenAI released <strong>GPT-5.4 mini</strong> and <strong>GPT-5.4 nano</strong> today — two small models designed for latency-sensitive, cost-conscious workloads where the biggest model is rarely the right choice.</p>
+<h2>What's New</h2>
+<p>GPT-5.4 mini is OpenAI's headline small model release. It runs <strong>more than 2x faster</strong> than the previous GPT-5 mini while scoring significantly higher on coding and reasoning benchmarks. On SWE-Bench Pro, it achieves 54.4% compared to 45.7% for GPT-5 mini, and approaches GPT-5.4 performance on OSWorld-Verified (72.1% vs. 75.0%).</p>
+<p>GPT-5.4 nano is the smallest and cheapest option — API-only, aimed at classification, data extraction, ranking, and simpler coding subagents.</p>
+<h2>Designed for Agentic Systems</h2>
+<p>Both models are explicitly built for agentic architectures. OpenAI highlights a pattern where a large model like GPT-5.4 handles planning and coordination while GPT-5.4 mini subagents execute narrower tasks in parallel — searching a codebase, reviewing files, or processing screenshots. The models also power computer use tasks, with mini approaching GPT-5.4 on multimodal benchmarks.</p>
+<h2>Pricing and Availability</h2>
+<p>GPT-5.4 mini is available today in the API, Codex, and ChatGPT. It has a <strong>400k context window</strong> and costs <strong>$0.75 per 1M input tokens</strong> and <strong>$4.50 per 1M output tokens</strong>. In ChatGPT, it serves as the rate-limit fallback for paid users and the primary Thinking model for free and Go tiers.</p>
+<p>GPT-5.4 nano is API-only for now. Pricing was not disclosed in the announcement.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>AutoResearchClaw: Open-Source AI Pipeline That Turns a Research Idea Into a Conference-Ready Paper</title>
+    <link href="https://news.800.works/news/2026-03-18/autoresearchclaw-autonomous-paper-pipeline/"/>
+    <id>https://news.800.works/news/2026-03-18/autoresearchclaw-autonomous-paper-pipeline/</id>
+    <updated>2026-03-18T12:00:00.000Z</updated>
+    <summary>AutoResearchClaw automates the entire academic research workflow - from literature review to sandbox experiments to LaTeX paper - across 23 autonomous stages. The project hit 5,700 GitHub stars in three days.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>A new open-source project is pushing the boundaries of what AI agents can do for academic research. <a href="https://github.com/aiming-lab/AutoResearchClaw">AutoResearchClaw</a>, released March 15 by the AIMING Lab, automates the entire research pipeline - from a single sentence describing your idea to a compile-ready LaTeX paper targeting NeurIPS, ICML, or ICLR. The repo has already hit <strong>5,700 stars and 565 forks</strong> in just three days.</p>
+<h2>23 Stages, Zero Babysitting</h2>
+<p>The pipeline breaks research into 23 discrete stages across eight phases: scoping, literature discovery, knowledge synthesis, experiment design, experiment execution, analysis, paper writing, and finalization. Literature is sourced from real APIs - OpenAlex, Semantic Scholar, and arXiv - with a 4-layer citation verification system that auto-removes hallucinated references via arXiv ID checks, CrossRef/DataCite DOI lookup, title matching, and LLM relevance scoring.</p>
+<p>Experiments run in a Docker sandbox with hardware auto-detection (NVIDIA CUDA, Apple MPS, or CPU). When experiments fail, the system self-heals by diagnosing errors and regenerating code. When hypotheses don't hold, Stage 15 autonomously decides to refine parameters or pivot to a new direction entirely.</p>
+<h2>Multi-Agent Quality Control</h2>
+<p>Three multi-agent subsystems - CodeAgent, BenchmarkAgent, and FigureAgent - handle specialized tasks. A 4-round paper quality audit includes AI-slop detection and a 7-dimension review scoring system. Three human-in-the-loop gates can pause for approval, or be skipped with <code>--auto-approve</code> for fully autonomous runs.</p>
+<h2>Self-Learning Across Runs</h2>
+<p>The latest v0.3.0 release integrates MetaClaw, a cross-run learning system. Pipeline failures are converted into structured lessons and reusable skills, injected into all 23 stages on subsequent runs. In controlled experiments, this improved overall robustness by 18.3% and cut retry rates by nearly 25%.</p>
+<p>The project is compatible with OpenClaw, Claude Code, Codex CLI, and other ACP-compatible agents - meaning you can literally type &quot;Research X&quot; in a chat and get a paper back.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Mamba-3 Goes Open Source With Inference-First Design That Outperforms Transformers</title>
+    <link href="https://news.800.works/news/2026-03-18/mamba-3-open-source-inference-first-ssm/"/>
+    <id>https://news.800.works/news/2026-03-18/mamba-3-open-source-inference-first-ssm/</id>
+    <updated>2026-03-18T11:29:00.000Z</updated>
+    <summary>Researchers from Carnegie Mellon and Princeton release Mamba-3, a state space model that achieves better accuracy and hardware efficiency than Transformers under an Apache 2.0 license.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Researchers at Carnegie Mellon and Princeton have released <strong>Mamba-3</strong>, the latest version of their state space model (SSM) architecture, under the Apache 2.0 open-source license. The ICLR 2026 paper, authored by Aakash Lahoti, Kevin Y. Li, Berlin Chen, Caitlin Wang, Aviv Bick, J. Zico Kolter, Tri Dao, and Albert Gu, marks a significant shift from training-focused to <strong>inference-first</strong> model design.</p>
+<h2>The Problem It Solves</h2>
+<p>Transformers, the backbone of most modern LLMs, suffer from quadratic compute and linear memory demands — costs that scale steeply with context length. While earlier Mamba versions improved training efficiency, they left a different problem unsolved: during decoding, modern GPUs frequently sit idle waiting for memory transfers rather than computing. Mamba-3 targets this directly.</p>
+<h2>What's New in Mamba-3</h2>
+<p>Three core improvements distinguish it from Mamba-2:</p>
+<ol>
+<li><strong>More expressive recurrence</strong> derived from SSM discretization</li>
+<li><strong>Complex-valued state updates</strong> enabling richer internal state tracking</li>
+<li><strong>Multi-input, multi-output (MIMO) formulation</strong> for better performance without adding decode latency</li>
+</ol>
+<p>At the 1.5B parameter scale, the MIMO variant achieves a <strong>1.8 percentage point accuracy gain</strong> over the next best competing model (Gated DeltaNet) on downstream tasks including retrieval and state tracking. Mamba-3 also matches Mamba-2's perplexity using <strong>half the state size</strong>.</p>
+<h2>Availability</h2>
+<p>The model is installable via <code>pip install mamba-ssm</code> and requires a CUDA-enabled GPU. AMD cards are supported with additional prerequisites. The codebase ships alongside pretrained model weights on the <code>state-spaces/mamba</code> GitHub repo.</p>
+<p>Mamba-2 already powers Nvidia's Nemotron 3 Super hybrid model. Mamba-3's improvements in hardware utilization and accuracy make it a natural candidate for the next wave of production hybrid architectures.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Mistral Launches Forge: Train Custom AI Models From Scratch on Your Own Data</title>
+    <link href="https://news.800.works/news/2026-03-18/mistral-forge-enterprise-training/"/>
+    <id>https://news.800.works/news/2026-03-18/mistral-forge-enterprise-training/</id>
+    <updated>2026-03-18T10:29:00.000Z</updated>
+    <summary>Mistral AI has launched Forge, an enterprise platform that lets companies train frontier-grade AI models on proprietary data — going beyond fine-tuning to full model training from scratch.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Mistral AI announced <strong>Forge</strong> at Nvidia GTC 2026 — a platform that lets enterprises and governments train AI models on their own proprietary data, not just adapt general-purpose ones.</p>
+<h2>Beyond Fine-Tuning</h2>
+<p>Most enterprise AI today relies on fine-tuning or retrieval-augmented generation (RAG): bolting company data onto pre-built models at runtime. Forge takes a different approach. The platform supports the <strong>full model training lifecycle</strong> — pre-training on large internal datasets, supervised fine-tuning, DPO and ODPO post-training, and reinforcement learning pipelines to align models with internal policies over time.</p>
+<p>The practical difference matters. Natively trained models handle domain-specific language and non-English data better, exhibit more consistent behavior, and don't depend on third-party model providers that could change or deprecate APIs without notice.</p>
+<h2>The Enterprise Bet</h2>
+<p>Mistral CEO Arthur Mensch says the company is on track to surpass <strong>$1 billion in annual recurring revenue</strong> in 2026, built almost entirely on corporate clients while OpenAI and Anthropic chased consumer adoption. Forge is the next step in that strategy.</p>
+<p>Customers using Forge get access to Mistral's open-weight model library — including the recently released Mistral Small 4 — plus a team of <strong>forward-deployed engineers</strong> who embed with clients to surface the right training data and adapt models to operational needs. It's a model borrowed from Palantir and IBM.</p>
+<h2>What It Means</h2>
+<p>Forge is a direct challenge to hyperscale cloud AI offerings from OpenAI, Anthropic, Google, and Amazon. For enterprises that want to own their AI — not rent it — Mistral is betting that real ownership requires real training.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Google Stitch Introduces &#39;Vibe Design&#39;: AI-Native Canvas Turns Intent Into UI</title>
+    <link href="https://news.800.works/news/2026-03-18/google-stitch-vibe-design/"/>
+    <id>https://news.800.works/news/2026-03-18/google-stitch-vibe-design/</id>
+    <updated>2026-03-18T09:30:00.000Z</updated>
+    <summary>Google evolved its Stitch design tool into an AI-native canvas where anyone can describe business goals in natural language and get high-fidelity UI — no wireframes required.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Google announced a major update to Stitch on March 18, introducing what it's calling <strong>&quot;vibe design&quot;</strong> — a new approach to UI creation that mirrors the &quot;vibe coding&quot; trend in software development. Instead of starting with wireframes, designers describe what they want users to feel or the business objective they're trying to achieve, and the AI generates high-fidelity UI designs from that intent.</p>
+<h2>A New Design Canvas</h2>
+<p>The centerpiece of the update is a redesigned infinite canvas that accommodates the full arc of a design project — from early ideation through working prototypes. Inputs can be images, text, or code, and the canvas accepts them all as context for the design agent.</p>
+<p>A new <strong>Agent Manager</strong> tracks progress across parallel design explorations, letting teams run multiple concepts simultaneously without losing their place. When you're ready to test, static screens snap into interactive prototypes with a single click.</p>
+<h2>DESIGN.md and MCP Export</h2>
+<p>One of the more technically notable additions is <strong>DESIGN.md</strong> — an agent-friendly markdown format for exporting and importing design systems. Teams can extract a design system from any URL, save it as DESIGN.md, and apply it to new Stitch projects or share it across coding tools. A new MCP (Model Context Protocol) export option means design systems can plug directly into AI coding agents.</p>
+<h2>Voice and App Store Assets</h2>
+<p>The update also adds voice input for describing design changes in real time, and a new <strong>App Store asset generator</strong> that produces screenshots and promotional graphics directly from existing designs.</p>
+<p>Stitch launched last year as a free tool for turning descriptions into editable UI and code. The new version positions it as a full design-to-prototype platform, competing more directly with Figma's AI features and tools like v0 and Lovable.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>SEC Declares Most Crypto Assets Not Securities, Issues Five-Category Framework</title>
+    <link href="https://news.800.works/news/2026-03-18/sec-crypto-classification-five-categories/"/>
+    <id>https://news.800.works/news/2026-03-18/sec-crypto-classification-five-categories/</id>
+    <updated>2026-03-18T09:29:00.000Z</updated>
+    <summary>The SEC issued landmark interpretive guidance declaring most crypto assets fall outside securities law, introducing a five-part taxonomy and ending over a decade of regulatory ambiguity.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>The U.S. Securities and Exchange Commission issued formal interpretive guidance on Tuesday, declaring that &quot;most crypto assets&quot; do not qualify as securities — a landmark shift that ends more than a decade of regulatory ambiguity for the industry.</p>
+<h2>Five Categories, One Clear Line</h2>
+<p>SEC Chair Paul Atkins introduced a five-part taxonomy for classifying digital assets:</p>
+<ul>
+<li><strong>Digital commodities</strong> — assets deriving value from a decentralized crypto system (e.g., Bitcoin, Ether)</li>
+<li><strong>Digital collectibles</strong> — non-fungible assets</li>
+<li><strong>Digital tools</strong> — utility tokens</li>
+<li><strong>Stablecoins</strong> — price-pegged assets</li>
+<li><strong>Digital securities</strong> — the only category fully within SEC jurisdiction (tokenized stocks, U.S. Treasuries)</li>
+</ul>
+<p>The guidance explicitly states that Bitcoin mining, staking rewards, and airdrops do not constitute investment contracts under the Howey Test — removing a major source of regulatory risk for protocol participants and validators.</p>
+<h2>CFTC Aligns</h2>
+<p>The Commodity Futures Trading Commission released a parallel statement confirming it will administer the Commodity Exchange Act consistent with the SEC's interpretation. The coordinated move, delivered at the DC Blockchain Summit, signals both agencies are converging on a unified framework.</p>
+<p>&quot;After more than a decade of uncertainty, this interpretation will provide market participants with a clear understanding of how the Commission treats crypto assets,&quot; Atkins said. &quot;We're not the Securities and Everything Commission.&quot;</p>
+<h2>What Changes</h2>
+<p>For DeFi protocols, L2 networks, and token issuers, the framework provides the clearest US compliance roadmap yet. The guidance arrives while Congressional work on the CLARITY Act remains stalled — but Atkins made clear the SEC isn't waiting for legislation to draw lines. Whether the taxonomy holds up against court challenges remains an open question.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Gecko Robotics Wins $71M Navy Deal to Deploy AI Ship-Inspection Robots</title>
+    <link href="https://news.800.works/news/2026-03-18/gecko-robotics-navy-ai-ship-inspection/"/>
+    <id>https://news.800.works/news/2026-03-18/gecko-robotics-navy-ai-ship-inspection/</id>
+    <updated>2026-03-18T08:30:00.000Z</updated>
+    <summary>Pittsburgh-based Gecko Robotics landed a five-year, $71M Navy contract to deploy wall-climbing robots and AI that cut ship inspection time by up to 50x.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>The U.S. Navy and GSA have awarded Pittsburgh-based Gecko Robotics a five-year IDIQ contract with a <strong>$71 million ceiling</strong> to deploy artificial intelligence and robotics for military ship inspection and maintenance. The initial award is valued at up to $54 million, with all military services able to access the contract through a government-wide vehicle.</p>
+<p>Work begins with <strong>18 ships in the U.S. Pacific Fleet</strong>, covering destroyers, amphibious warships, and littoral combat ships. The contract supports the Chief of Naval Operations' target of <strong>80% fleet readiness by 2027</strong> — a benchmark the Navy has struggled to meet due to chronic maintenance backlogs.</p>
+<h2>Robots That Climb, Fly, and Swim</h2>
+<p>Gecko's system uses a mix of wall-climbing robots, drones, and fixed sensors to collect structural data from hulls, welds, decks, and internal components — often in environments too dangerous or tight for human inspectors. An onboard AI platform builds digital models of each asset and flags both visible and hidden defects.</p>
+<p>The result: inspections that are <strong>up to 50 times faster</strong> than manual methods. In one documented case, a single robotic evaluation of a flight deck eliminated over three months of potential maintenance delays.</p>
+<p>&quot;Readiness isn't just a metric, it's all that matters,&quot; said CEO Jake Loosararian. &quot;This growing partnership is about unfair advantages Gecko is deploying to our Navy.&quot;</p>
+<p>The company, which was valued at $1.25 billion in a June 2025 funding round, has previously worked across Navy destroyers, amphibious ships, and both Virginia and Columbia-class nuclear submarine programs. The new contract represents a significant expansion of that footprint.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Manus Brings Its AI Agent to Your Desktop with &#39;My Computer&#39;</title>
+    <link href="https://news.800.works/news/2026-03-18/manus-my-computer-desktop-agent/"/>
+    <id>https://news.800.works/news/2026-03-18/manus-my-computer-desktop-agent/</id>
+    <updated>2026-03-18T08:00:00.000Z</updated>
+    <summary>Meta-acquired Manus launched a desktop app that lets its AI agent operate directly on local machines, running terminal commands to manage files and build apps — competing head-on with OpenClaw.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Manus, the AI agent startup acquired by Meta in December 2025 for approximately $2 billion, launched a desktop application on March 16 that brings its agent directly onto users' personal computers. The central feature, called <strong>My Computer</strong>, marks a significant shift from the company's previous cloud-only model.</p>
+<h2>From Cloud Sandbox to Local Machine</h2>
+<p>Until now, Manus operated entirely in a remote cloud environment. My Computer changes that by allowing the agent to execute terminal commands on the user's own machine — reading, analyzing, and editing local files, launching applications, and automating repetitive workflows without any cloud upload required.</p>
+<p>The agent works through standard CLI tools already installed on the system. Demos from the company show it organizing thousands of photos into categorized folders, renaming large batches of invoices, and building a functional Mac app in Swift in roughly 20 minutes — entirely via terminal, with no manual coding.</p>
+<h2>Permission-Based Execution</h2>
+<p>Every terminal command requires explicit user approval before it runs. Manus offers two modes: <strong>Allow Once</strong> for one-time review, and <strong>Always Allow</strong> for trusted recurring actions. The company says users remain in full control at each step.</p>
+<h2>Competing with OpenClaw</h2>
+<p>The launch puts Manus in direct competition with OpenClaw, the free MIT-licensed local AI agent that drew millions of downloads after Jensen Huang called it &quot;the next ChatGPT.&quot; Unlike OpenClaw, Manus operates on a paid subscription model, positioning itself as a more polished enterprise option.</p>
+<p>My Computer is available now for macOS and Windows. Manus also plans to integrate Meta's Avocado models and add OpenClaw API compatibility in future updates.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Humanoid Robot Digit Is Now Working 8-Hour Factory Shifts in South Carolina</title>
+    <link href="https://news.800.works/news/2026-03-18/agility-digit-factory-shift-schaeffler/"/>
+    <id>https://news.800.works/news/2026-03-18/agility-digit-factory-shift-schaeffler/</id>
+    <updated>2026-03-18T07:30:00.000Z</updated>
+    <summary>Agility Robotics&#39; Digit is pulling full eight-hour shifts at a Schaeffler auto parts plant in Cheraw, SC — operating a stamping press while a human contractor watches from outside a plexiglass cage.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Agility Robotics' <strong>Digit</strong> is no longer a demo. The bipedal humanoid is now pulling full eight-hour shifts at Schaeffler's auto parts plant in Cheraw, South Carolina, according to new Wall Street Journal reporting. The robot handles 25-pound bearing component baskets from stamping presses — dexterous, repetitive work that until recently was considered too complex for general-purpose machines.</p>
+<h2>Still in a Cage — for Now</h2>
+<p>Digit currently operates inside a plexiglass enclosure. The barrier isn't a vote of no confidence in the robot; it's an OSHA machine-guarding compliance requirement. Digit can't yet detect and respond to humans in its immediate environment, so it has to be separated. Agility says that capability is expected to arrive by the end of 2026, at which point Digit could work side-by-side with human colleagues on the line.</p>
+<h2>The Economics</h2>
+<p>The numbers are what make this story genuinely significant. Over its lifetime, Digit currently costs customers <strong>$10 to $25 per hour</strong> depending on the deployment model — a wide range that reflects the early-market pricing structure. Agility co-founder Damion Shelton has stated the target is <strong>$2 to $3 per hour</strong>. Entry-level positions at the Cheraw plant — which is not unionized — start at $20 per hour.</p>
+<p>The math isn't subtle: if humanoid robots reach $2-3/hour at scale, cost parity with human workers becomes irrelevant.</p>
+<h2>Momentum Is Building</h2>
+<p>Schaeffler holds a minority stake in Agility and has committed to deploying humanoids across all 100 of its global manufacturing plants by 2030. In February, Toyota Motor Manufacturing Canada signed a commercial Robots-as-a-Service agreement for seven Digit units at its Woodstock, Ontario plant building RAV4 SUVs — after a year-long pilot.</p>
+<p>The &quot;robot babysitter&quot; job — a human contractor paid to observe and supervise Digit — is the most telling detail. It's a transitional role, and everyone involved knows it.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>North Korea&#39;s Lazarus Group Hacked Bitrefill, Stole 18,500 Purchase Records</title>
+    <link href="https://news.800.works/news/2026-03-18/bitrefill-lazarus-north-korea-hack/"/>
+    <id>https://news.800.works/news/2026-03-18/bitrefill-lazarus-north-korea-hack/</id>
+    <updated>2026-03-18T06:29:00.000Z</updated>
+    <summary>Crypto gift card platform Bitrefill disclosed a March 1 cyberattack attributed to North Korea&#39;s Lazarus Group, which stole 18,500 purchase records and drained some company wallets.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Bitrefill, a crypto gift card and bill payment platform with partnerships including Amazon, Doordash, Apple, Uber, and Walmart, disclosed Tuesday that it was attacked on March 1 by hackers attributed to North Korea's Lazarus Group.</p>
+<h2>What Happened</h2>
+<p>The attackers gained initial access through a <strong>compromised employee laptop</strong>, then exfiltrated a legacy credential that unlocked a snapshot containing production secrets. From there they escalated access to broader infrastructure — including parts of the database, cryptocurrency wallets, and gift card supply lines.</p>
+<p>Bitrefill says approximately <strong>18,500 purchase records</strong> were accessed, containing email addresses, crypto payment addresses, and IP metadata. Some company cryptocurrency wallets were drained, though the total amount stolen was not disclosed. The company says it plans to absorb the losses through operational capital.</p>
+<h2>Attribution</h2>
+<p>The post-mortem attributed the attack to Lazarus Group based on matching malware signatures, reused IP and email addresses, and blockchain transaction patterns — the same forensic fingerprints seen in previous Lazarus operations. Bitrefill notified law enforcement and engaged cybersecurity experts.</p>
+<p>The company restored its platform on March 5, disclosing the full incident report 17 days later.</p>
+<h2>Broader Pattern</h2>
+<p>North Korean state-affiliated hackers have stolen an estimated <strong>$6.8 billion in cryptocurrency</strong> since 2022, according to Chainalysis. In 2025 alone, Lazarus-linked groups stole more than $2 billion — including the record $1.5 billion theft from Dubai-based exchange Bybit in February of that year.</p>
+<p>Bitrefill's disclosure follows a recurring playbook: credential theft via a compromised endpoint, lateral movement through internal tooling, and quiet draining of digital assets before detection.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Tennessee Teens Sue xAI Over Grok-Generated Child Sexual Abuse Material</title>
+    <link href="https://news.800.works/news/2026-03-18/xai-grok-csam-lawsuit-tennessee-teens/"/>
+    <id>https://news.800.works/news/2026-03-18/xai-grok-csam-lawsuit-tennessee-teens/</id>
+    <updated>2026-03-18T05:29:00.000Z</updated>
+    <summary>Three Tennessee teenagers, including two minors, filed the first class-action lawsuit by minors against Elon Musk&#39;s xAI, alleging its Grok AI model was used through a third-party app to generate nonconsensual sexual images of them.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Three Tennessee teenagers — two of them minors — filed a class-action lawsuit Monday against Elon Musk's xAI, alleging the company's Grok image generation technology was used to create sexually explicit nonconsensual images of them. It is the first lawsuit against xAI brought by underage individuals depicted in AI-generated child sexual abuse material (CSAM).</p>
+<h2>What Happened</h2>
+<p>The suit, filed in California where xAI is headquartered, alleges that an acquaintance used a third-party app powered by xAI's AI model to produce deepfake nude images and videos using photos of the plaintiffs — including one taken at a school homecoming event. Law enforcement arrested a suspect the following month and found alleged CSAM on his phone produced using xAI technology.</p>
+<p>Crucially, the perpetrator did not use Grok or X directly. Instead, he used an unnamed third-party app that licensed xAI's underlying model. The plaintiffs allege xAI deliberately licensed its technology abroad to distance itself from liability.</p>
+<h2>Part of a Larger Pattern</h2>
+<p>The lawsuit expands a wave of legal and regulatory scrutiny. The EU launched a formal inquiry into xAI in January after researchers estimated Grok produced roughly <strong>3 million sexualized images</strong> in under two weeks — including approximately <strong>23,000 depicting children</strong>. Influencer Ashley St. Clair, who has a child with Musk, separately sued the company earlier this year.</p>
+<p>Musk previously denied Grok generated illegal images, claiming in January: &quot;Literally zero.&quot; xAI did not respond to press requests regarding the latest suit.</p>
+<p>&quot;xAI chose to profit off the sexual predation of real people, including children,&quot; said plaintiff attorney Vanessa Baehr-Jones.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>OpenAI Signs AWS Deal to Bring AI Into US Government Classified Networks</title>
+    <link href="https://news.800.works/news/2026-03-18/openai-aws-us-government-classified-ai/"/>
+    <id>https://news.800.works/news/2026-03-18/openai-aws-us-government-classified-ai/</id>
+    <updated>2026-03-18T04:30:00.000Z</updated>
+    <summary>OpenAI has partnered with Amazon Web Services to sell its AI models to US defense and government agencies for both classified and unclassified work, stepping onto Anthropic&#39;s home turf.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>OpenAI has signed a deal with Amazon Web Services to distribute its AI models to US government agencies through AWS's existing cloud infrastructure — covering both classified and unclassified operations. AWS confirmed the partnership to TechCrunch on Tuesday.</p>
+<h2>Expanding the Federal Footprint</h2>
+<p>The deal builds directly on OpenAI's Pentagon contract from February 2026, which gave the US military access to its models within classified networks. The AWS partnership now extends that reach to a much wider set of federal agencies, using AWS's established government cloud as the distribution layer.</p>
+<h2>Anthropic in the Crossfire</h2>
+<p>The timing is notable. Amazon has invested at least $4 billion in Anthropic, which uses AWS as its primary cloud provider. Claude models are deeply integrated into AWS's AI platform, including its GovCloud offering for defense and public sector customers. By signing OpenAI onto that same infrastructure, AWS now carries competing frontier models for its biggest government clients.</p>
+<p>Anthropic's position in the government space has deteriorated sharply. The Department of Defense designated Anthropic a supply-chain risk after it refused to allow its models to power autonomous weapons or mass surveillance of Americans. Anthropic has since sued the Pentagon over the designation.</p>
+<h2>What It Means</h2>
+<p>OpenAI gains federal distribution across dozens of agencies without needing its own cleared infrastructure. AWS benefits by offering clients a wider model selection. And the move signals that access to government contracts — once dominated by legacy defense contractors and cloud incumbents — is now a core competitive front for AI labs.</p>
+<p>The classified scope of the contract is particularly significant: it marks a rare case of a frontier AI lab operating inside US government's most sensitive networks.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>AI Coding Boom Drives Record Secrets Leak: 29M Credentials Exposed on GitHub in 2025</title>
+    <link href="https://news.800.works/news/2026-03-18/gitguardian-secrets-sprawl-2026-ai-leaks/"/>
+    <id>https://news.800.works/news/2026-03-18/gitguardian-secrets-sprawl-2026-ai-leaks/</id>
+    <updated>2026-03-18T03:30:00.000Z</updated>
+    <summary>GitGuardian&#39;s 2026 report finds 28.65 million hardcoded secrets on public GitHub last year — AI-service credential leaks surged 81%, and MCP config files are emerging as a fresh attack surface.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>GitGuardian's fifth annual State of Secrets Sprawl report landed this week with a stark headline: <strong>28.65 million hardcoded secrets</strong> were pushed to public GitHub in 2025 — a 34% year-over-year increase and the largest single-year jump the company has recorded.</p>
+<h2>AI is accelerating the problem</h2>
+<p>The rise of AI coding assistants is a central factor. Public GitHub commits climbed to roughly 1.94 billion in 2025, up 43%, while active developers grew 33%. More code shipped faster — and more credentials leaked with it.</p>
+<p>AI-service secrets hit <strong>1.275 million exposed</strong>, up <strong>81% year-over-year</strong>. The report cites 113,000 leaked DeepSeek API keys as one example of how quickly new providers accumulate exposure. Crucially, LLM infrastructure — orchestration layers, RAG systems, vector stores — leaked <strong>5 times faster</strong> than core model providers themselves.</p>
+<p>Claude Code-assisted commits showed a <strong>3.2% secret-leak rate</strong>, compared to a 1.5% baseline across all public GitHub activity. GitGuardian is careful to note this doesn't implicate the tool itself: developers can override or ignore warnings, and the underlying failure mode is still human decisions made under time pressure.</p>
+<h2>MCP configs: the new attack surface</h2>
+<p>The report flags <strong>24,008 secrets exposed inside MCP configuration files</strong>, including 2,117 valid credentials. The cause is partly documentation-driven — popular MCP setup guides routinely recommend embedding API keys directly in config files or CLI arguments.</p>
+<p>As agentic workflows become standard, every new tool, integration, and service account adds to the credential surface. Governance hasn't kept pace with creation speed.</p>
+<p>The full report is available at gitguardian.com.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Vitalik&#39;s Balvi-Funded PopVax Manufactures Clinical Batch of Open-Source COVID Vaccine</title>
+    <link href="https://news.800.works/news/2026-03-18/popvax-balvi-open-source-covid-vaccine-clinical-trial/"/>
+    <id>https://news.800.works/news/2026-03-18/popvax-balvi-open-source-covid-vaccine-clinical-trial/</id>
+    <updated>2026-03-18T02:29:00.000Z</updated>
+    <summary>Indian biotech PopVax has manufactured a clinical batch of PVX-001, an open-source AI-designed COVID-19 vaccine funded by Vitalik Buterin&#39;s Balvi and the Gates Foundation, ahead of Phase I trials in Australia.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Indian biotech startup PopVax has manufactured the clinical batch of PVX-001 — an open-source, broadly protective COVID-19 vaccine candidate — at its RNA Foundry in Hyderabad. Phase I trials are set to begin in Australia in mid-2026.</p>
+<h2>AI-Designed, Open-Source Vaccine</h2>
+<p>PopVax was founded in late 2021 by Soham Sankaran with under $50k in personal funding and no formal biology background. The company built an end-to-end RNA platform from scratch, combining generative AI for protein design with a novel mRNA architecture and in-house lipid nanoparticle delivery — all under one roof.</p>
+<p>PVX-001 is open-source: the design files, protocols, and manufacturing details will be publicly available, enabling any lab to reproduce and study the vaccine independently.</p>
+<h2>Backed by Balvi and Gates</h2>
+<p>The program was funded by <strong>$20M from Vitalik Buterin's Balvi fund</strong> and the Bill &amp; Melinda Gates Foundation. Additional grants of $6M came from BARDA (the US Biomedical Advanced Research and Development Authority), Renaissance Philanthropy, and Gates. PopVax also recently closed a <strong>$7.5M equity round</strong> led by Good Ventures, the foundation of Facebook co-founder Dustin Moskovitz and Cari Tuna.</p>
+<p>Vitalik, who has championed the &quot;d/acc&quot; (defensive accelerationism) philosophy, called the milestone part of &quot;the full-stack d/acc roadmap shipping.&quot;</p>
+<h2>What's Next</h2>
+<p>PopVax is targeting HCV, TB, Strep A, and malaria next — diseases responsible for roughly <strong>2.4 million deaths per year</strong>. The 100-person team in Hyderabad aims to take all four into clinical trials by 2027.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Ethereum&#39;s Fast Confirmation Rule Cuts L1 Deposit Times to 13 Seconds</title>
+    <link href="https://news.800.works/news/2026-03-18/ethereum-fast-confirmation-rule-13-seconds/"/>
+    <id>https://news.800.works/news/2026-03-18/ethereum-fast-confirmation-rule-13-seconds/</id>
+    <updated>2026-03-18T01:29:00.000Z</updated>
+    <summary>A new consensus client feature called the Fast Confirmation Rule reduces Ethereum L1 deposit times to a single slot — about 13 seconds — with no hard fork required.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Bridging assets from Ethereum L1 to rollups or centralized exchanges currently means waiting several minutes. A new mechanism called the <strong>Fast Confirmation Rule (FCR)</strong> is set to change that — cutting confirmation times down to approximately 13 seconds.</p>
+<h2>No Hard Fork Required</h2>
+<p>FCR is a consensus client feature. Implementation is already underway across client teams, and no protocol change, devnet, or hard fork is needed. Operators enable it with a single configuration flag; the existing <code>safe</code> block tag in the JSON-RPC API returns the last fast-confirmed block automatically, so RPC providers require no changes.</p>
+<h2>How Much Faster?</h2>
+<p>Waiting for Ethereum finality today takes roughly 13 minutes. FCR reduces that to a single slot — <strong>~13 seconds</strong> — a ~98% reduction for most L2s and exchanges. The mechanism counts attestations rather than blocks, giving deterministic guarantees under normal network conditions rather than the probabilistic heuristics most exchanges and bridges rely on today.</p>
+<p>If network conditions deteriorate — slow attestations or an adversary approaching 25% stake — FCR falls back gracefully to the finalized block instead of failing.</p>
+<h2>Who Benefits</h2>
+<p><strong>Exchanges</strong> can credit ETH deposits in seconds, improving liquidity and user experience. <strong>L2s</strong> see L1-to-L2 deposit times collapse, reducing capital locked in bridging. <strong>Cross-chain bridges and solvers</strong> gain provable security guarantees, lowering risk and costs.</p>
+<p>Vitalik Buterin endorsed the proposal earlier today. Consensus client teams are coordinating a smooth rollout with exchanges, L2s, and solvers, with contact available at <code>fastconfirm@ethereum.org</code>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>US Senators Demand ByteDance Shut Down Seedance 2.0 After Hollywood Copyright Clash</title>
+    <link href="https://news.800.works/news/2026-03-18/bytedance-seedance-2-hollywood-senate-shutdown/"/>
+    <id>https://news.800.works/news/2026-03-18/bytedance-seedance-2-hollywood-senate-shutdown/</id>
+    <updated>2026-03-18T00:29:00.000Z</updated>
+    <summary>Senators Blackburn and Welch are calling for an immediate shutdown of ByteDance&#39;s Seedance 2.0 AI video generator after it produced unauthorized likenesses of Tom Cruise, Brad Pitt, and Stranger Things characters.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>US Senators Marsha Blackburn (R-TN) and Peter Welch (D-VT) sent a letter to ByteDance CEO Liang Rubo on Monday demanding the company &quot;immediately shut down&quot; Seedance 2.0, the AI video generator that sparked a copyright clash with Hollywood's biggest studios.</p>
+<p>The bipartisan letter, first reported by CNBC, called Seedance 2.0 &quot;the most glaring example of copyright infringement from a ByteDance product to date.&quot; Senators cited examples of the tool generating realistic videos featuring Tom Cruise, Brad Pitt, and characters from Netflix's <em>Stranger Things</em> — all without authorization from rights holders.</p>
+<h2>How It Escalated</h2>
+<p>Seedance 2.0 went live on February 12, 2026, and quickly went viral on Chinese social media. A clip showing an AI-generated Tom Cruise fighting Brad Pitt drew millions of views. Behind the scenes, ByteDance had reportedly trained the model on licensed characters, including Disney properties.</p>
+<p>Disney sent a cease-and-desist letter, and the Motion Picture Association — representing Disney, Netflix, Paramount, Sony, and Universal — followed with legal threats. By March 14, ByteDance had quietly halted the global rollout, with Reuters reporting no new launch date was planned.</p>
+<h2>ByteDance's Response</h2>
+<p>A ByteDance spokesperson told CNBC the company &quot;respects intellectual property rights&quot; and is &quot;taking steps to strengthen current safeguards.&quot; The statement stopped short of committing to a shutdown.</p>
+<h2>Why It Matters</h2>
+<p>The Seedance situation is now the sharpest example of an AI-copyright standoff between a major Chinese tech company and Western rights holders. It arrives as US regulators are already scrutinizing TikTok's parent company — and as Congress debates broader AI copyright legislation. The case could set a precedent for how AI video generators handle likeness rights and training data.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>CFTC Grants Phantom Wallet First-of-Its-Kind Derivatives Access Without Broker Registration</title>
+    <link href="https://news.800.works/news/2026-03-18/phantom-cftc-no-action-derivatives/"/>
+    <id>https://news.800.works/news/2026-03-18/phantom-cftc-no-action-derivatives/</id>
+    <updated>2026-03-17T23:30:00.000Z</updated>
+    <summary>The CFTC issued a no-action letter allowing Phantom&#39;s self-custodial wallet to connect users directly to regulated futures markets without registering as an introducing broker.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>The Commodity Futures Trading Commission's Market Participants Division issued a no-action letter to Phantom Technologies on March 17, clearing the popular Solana wallet to offer users access to regulated derivatives markets — without registering as an introducing broker.</p>
+<h2>What the Letter Says</h2>
+<p>Under the ruling, Phantom can act as a non-custodial software interface connecting users directly to registered futures commission merchants and designated contract markets. The key condition: Phantom never takes custody of user funds. Orders flow directly to registered exchange partners, keeping Phantom's role strictly as a software provider.</p>
+<p>The relief does <strong>not</strong> extend to DeFi derivatives or tokenized prediction markets like Polymarket.</p>
+<h2>Why It Matters</h2>
+<p>CFTC chair Mike Selig described the letter as delivering &quot;long overdue clarity for non-custodial digital wallet software providers.&quot; Phantom called it first-of-its-kind relief for this specific model — and suggested it could serve as a template for other wallets looking to integrate with regulated markets.</p>
+<p>Phantom CEO Brandon Millman emphasized the cooperative approach: &quot;When warranted, engaging regulators early to find compliant pathways for these new products produces better outcomes for our users, for the industry, and for regulators themselves.&quot;</p>
+<p>The CFTC noted it may issue formal rulemaking that would eventually supersede the letter, signaling this could evolve into a broader industry framework.</p>
+<h2>Context</h2>
+<p>The ruling arrives as U.S. regulators increasingly grapple with how self-custodial crypto tools fit into legacy financial infrastructure. In January, a bipartisan Senate bill was introduced to protect crypto developers who write blockchain code from being classified as money transmitters — provided they don't control user funds. Phantom's model fits squarely within that emerging regulatory logic.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Nvidia Launches NemoClaw to Make OpenClaw Enterprise-Ready</title>
+    <link href="https://news.800.works/news/2026-03-18/nvidia-nemoclaw-enterprise-openclaw/"/>
+    <id>https://news.800.works/news/2026-03-18/nvidia-nemoclaw-enterprise-openclaw/</id>
+    <updated>2026-03-17T22:30:00.000Z</updated>
+    <summary>Nvidia&#39;s NemoClaw stack adds enterprise-grade security and privacy controls to OpenClaw, letting companies deploy AI agents in production with a single command.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>At his GTC 2026 keynote in San Jose, Nvidia CEO Jensen Huang announced <strong>NemoClaw</strong>, an open-source platform that wraps OpenClaw with the security and privacy infrastructure enterprises need before deploying autonomous AI agents in production.</p>
+<h2>What NemoClaw Does</h2>
+<p>NemoClaw installs on top of existing OpenClaw deployments in a single command and adds three key layers missing from the base framework: policy enforcement, network guardrails, and privacy routing — delivered through Nvidia's new <strong>OpenShell runtime</strong>. The stack integrates with NeMo, Nvidia's AI software suite, and supports any open-source model including Nvidia's own NemoTron family.</p>
+<p>Huang developed NemoClaw in collaboration with OpenClaw creator Peter Steinberger, who joined OpenAI last month. The platform is hardware-agnostic — it runs on any GPU, not just Nvidia's — and is currently available as an early-access alpha release on Nvidia's developer portal.</p>
+<h2>The Strategic Bet</h2>
+<p>Huang framed the announcement with a pointed question to the crowd: &quot;What's your OpenClaw strategy?&quot; He compared the moment to inflection points around Linux, HTTP, and Kubernetes — each of which created new infrastructure layers that enterprises had to adopt or fall behind.</p>
+<p>&quot;OpenClaw gave us exactly what the industry needed at exactly the right time,&quot; Huang said. &quot;We need it. Every company in the world today needs to have an agentic systems strategy.&quot;</p>
+<p>OpenAI launched its own enterprise agent platform, Frontier, in February. Nvidia's NemoClaw takes a different angle: rather than replacing OpenClaw, it extends the existing open-source ecosystem with guardrails enterprises can actually trust.</p>
+<p>NemoClaw is available now in alpha at Nvidia's developer portal. A production-ready release is expected later this year.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Aster Chain Launches Privacy-First Layer 1 for Decentralized Trading</title>
+    <link href="https://news.800.works/news/2026-03-18/aster-chain-privacy-layer1-mainnet-launch/"/>
+    <id>https://news.800.works/news/2026-03-18/aster-chain-privacy-layer1-mainnet-launch/</id>
+    <updated>2026-03-17T21:29:00.000Z</updated>
+    <summary>Aster launches its privacy-first Layer 1 mainnet, embedding ZK encryption and stealth addresses at the execution layer to eliminate on-chain position hunting in DeFi.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Aster, the privacy-focused trading platform backed by YZi Labs, officially launched Aster Chain Mainnet on March 17, 2026. The purpose-built Layer 1 blockchain aims to solve one of DeFi's longest-standing problems: the public visibility of trader positions creating attack surfaces for market manipulation.</p>
+<h2>The Position Hunting Problem</h2>
+<p>All trades on standard blockchains are fully transparent by default, which means large positions can be seen — and targeted. In March 2025, a trader's $375 million BTC short became a community coordination event on X, with participants openly pooling funds to force a liquidation. Aster Chain eliminates this attack surface at the protocol level.</p>
+<h2>Privacy as Default, Not Opt-In</h2>
+<p>Unlike chains that offer privacy as an add-on feature, Aster embeds ZK-verifiable encryption directly into its execution layer. Every order is encrypted before hitting the chain. With Account Privacy enabled, orders route through unique stealth addresses, severing any on-chain link between a wallet and its trading activity. Traders who want to share trade data can grant selective access via a Viewer Pass.</p>
+<p>The chain is designed to deliver CEX-like performance — targeting sub-second finality and high throughput — while preserving self-custody and permissionless access. It connects to BNB Chain for liquidity and ecosystem compatibility.</p>
+<h2>Phased Rollout</h2>
+<p>The mainnet launched in genesis phase on March 17, with partnership announcements scheduled for March 18 and public ASTER token staking to follow. Binance co-founder CZ called it &quot;a big one&quot; in an endorsement on X.</p>
+<p>The rollout adds Aster Chain to the growing category of privacy-preserving DeFi infrastructure — alongside ZK-rollups and private mempool solutions — targeting traders who want the transparency guarantees of decentralization without exposing their positions to the public.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>PayPal Brings PYUSD to 70 Markets as Stablecoin Goes Global</title>
+    <link href="https://news.800.works/news/2026-03-18/paypal-pyusd-global-70-markets/"/>
+    <id>https://news.800.works/news/2026-03-18/paypal-pyusd-global-70-markets/</id>
+    <updated>2026-03-17T20:00:00.000Z</updated>
+    <summary>PayPal has expanded its dollar-backed stablecoin PYUSD to users in 70 countries, enabling faster cross-border transfers and near-instant merchant settlement worldwide.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>PayPal has rolled out its dollar-backed stablecoin PYUSD to users in 70 markets worldwide, marking the most significant expansion since the token launched in the United States in 2023.</p>
+<h2>What's New</h2>
+<p>Users in newly supported countries can buy, hold, send, and receive PYUSD directly through their PayPal accounts. The token can be transferred to third-party crypto wallets or converted to local currency for everyday spending. Eligible users can also earn rewards on their holdings.</p>
+<p>For merchants, the update means payment proceeds arrive in minutes rather than waiting days for traditional settlement cycles — a meaningful improvement for businesses managing cross-border operations and working capital.</p>
+<h2>Stablecoin at Scale</h2>
+<p>PYUSD currently holds a market cap of roughly $4 billion, ranking it seventh among stablecoins. The token is backed by U.S. dollar deposits and short-term Treasury securities, and is issued by Paxos under U.S. regulatory oversight.</p>
+<p>&quot;The current system still charges too much, takes too long, and settles on timelines that were designed for a different era,&quot; said May Zabaneh, PayPal's Senior VP and General Manager of Crypto. &quot;Enabling PYUSD in users' accounts across 70 markets gives people faster access to their funds, lower-cost ways to send money across borders.&quot;</p>
+<p>The rollout covers Asia-Pacific, Europe, and Latin America, with countries including Singapore, the UK, Peru, and Guatemala in the initial wave. Additional markets are expected in coming weeks.</p>
+<h2>Why It Matters</h2>
+<p>PayPal operates one of the world's largest consumer payment networks, with over 400 million active accounts. Embedding a live stablecoin into that distribution infrastructure — alongside rivals like Tether's USDT ($143B market cap) and Circle's USDC ($78B) — represents one of the largest real-world stablecoin deployments to date. The broader stablecoin market now exceeds $300 billion in total supply.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Mastercard Makes Its Biggest Crypto Bet with $1.8B BVNK Acquisition</title>
+    <link href="https://news.800.works/news/2026-03-18/mastercard-bvnk-stablecoin-acquisition/"/>
+    <id>https://news.800.works/news/2026-03-18/mastercard-bvnk-stablecoin-acquisition/</id>
+    <updated>2026-03-17T19:29:00.000Z</updated>
+    <summary>Mastercard agreed to acquire London-based stablecoin infrastructure firm BVNK for up to $1.8 billion, its largest crypto deal to date.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Mastercard agreed on Tuesday to acquire BVNK, a London-based stablecoin infrastructure startup, for up to $1.8 billion — the payment network's largest crypto deal to date. The transaction includes $300 million tied to performance milestones and is expected to close by year end.</p>
+<p>BVNK, founded in 2021, operates infrastructure that bridges traditional fiat payment rails with blockchain-based transactions. Its platform supports all major blockchain networks across more than 130 countries and processes roughly $30 billion per year. Enterprise clients include Worldpay, Deel, and Flywire.</p>
+<p>The acquisition lets Mastercard — the world's second-largest payment network after Visa — enter the growing market for cross-border stablecoin transfers, remittances, and B2B payments that bypass legacy card rails. &quot;We expect that most financial institutions and fintechs will in time provide digital currency services,&quot; said Jorn Lambert, Mastercard's Chief Product Officer. The deal aims to bring &quot;the benefits of tokenized money to the real world.&quot;</p>
+<p>The timing reflects fast-moving consolidation in the stablecoin space. Coinbase had previously explored acquiring BVNK for roughly $2 billion before ending those talks last November. Mastercard also reportedly evaluated crypto infrastructure firm Zerohash earlier this year before settling on BVNK. The startup's valuation had already crossed $750 million.</p>
+<p>Stablecoin payment volumes hit at least $350 billion in 2025, driven by regulatory clarity following the Trump administration's pro-crypto posture. Last week, Mastercard launched its Crypto Partner Program, assembling more than 85 companies across digital assets and payments. The BVNK deal moves that strategy from partnership to direct ownership of a core infrastructure layer.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Z.ai Launches GLM-5-Turbo: Faster Agent Model That Drops Open Source</title>
+    <link href="https://news.800.works/news/2026-03-18/z-ai-glm5-turbo-closed-source-agents/"/>
+    <id>https://news.800.works/news/2026-03-18/z-ai-glm5-turbo-closed-source-agents/</id>
+    <updated>2026-03-17T18:30:00.000Z</updated>
+    <summary>Z.ai releases GLM-5-Turbo, a closed-source execution-focused variant of GLM-5 designed for agentic workflows — marking a notable shift away from the company&#39;s open-source roots.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Z.ai, the Chinese AI startup behind the open-source GLM family of large language models, has launched <strong>GLM-5-Turbo</strong> — a faster, proprietary variant of GLM-5 engineered for enterprise agent workflows. The release marks a notable departure from the company's open-source roots.</p>
+<h2>Built for Execution, Not Chat</h2>
+<p>Unlike the flagship GLM-5 — released under a permissive open-source license — GLM-5-Turbo is <strong>closed-source</strong>. Z.ai has optimized it for the kind of sustained, multi-step work that agentic frameworks demand: complex instruction decomposition, tool invocation, scheduled execution, and long-chain task completion.</p>
+<p>The model delivers a 202.8K-token context window with 131.1K max output, 48 tokens per second throughput, and a 0.67% tool error rate. It's now available on OpenRouter, priced at $0.96 per million input tokens and $3.20 per million output — marginally cheaper than GLM-5 at $1.00/$3.20.</p>
+<h2>The Open-to-Closed Pivot</h2>
+<p>Z.ai says insights from GLM-5-Turbo will eventually feed back into future open-source releases, but the model itself stays closed. The company is also folding the model into its GLM Coding subscription tiers (ranging from $27 to $216 per quarter), with Pro subscribers getting access in March and Lite subscribers following in April.</p>
+<p>The move mirrors a pattern appearing across the AI industry: open-weight models generate developer adoption, while proprietary &quot;turbo&quot; variants capture enterprise value. As agentic AI use cases shift from experimental to production, more labs are choosing to monetize execution-layer improvements rather than open-source them outright.</p>
+<p>Whether Z.ai's next open-source release will inherit Turbo's gains — and when — remains to be seen.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Google Launches Open-Source Colab MCP Server for AI Agents</title>
+    <link href="https://news.800.works/news/2026-03-18/google-colab-mcp-server/"/>
+    <id>https://news.800.works/news/2026-03-18/google-colab-mcp-server/</id>
+    <updated>2026-03-17T17:29:00.000Z</updated>
+    <summary>Google releases an open-source Model Context Protocol server that lets any AI agent natively write, execute, and manage code inside a Google Colab notebook.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Google has released the <strong>Colab MCP Server</strong>, an open-source tool that connects any MCP-compatible AI agent directly to Google Colab's cloud computing environment. The project, published on March 17 under the Apache 2.0 license, is available now on GitHub.</p>
+<h2>What It Does</h2>
+<p>The Colab MCP Server gives AI agents programmatic control over the full notebook lifecycle — not just background code execution. An agent can create new <code>.ipynb</code> files, add and structure cells, write and run Python in real time, install dependencies via <code>!pip install</code>, and reorganize content into a coherent flow.</p>
+<p>The result is a fully reproducible, cloud-hosted artifact rather than a static code snippet. Developers can jump into the notebook at any point to inspect output or take over manually, while the agent handles the scaffolding and boilerplate.</p>
+<h2>Why It Matters</h2>
+<p>Autonomous agents running locally are bottlenecked by local hardware and by the risk of code executing directly on the host machine. Colab provides a sandboxed, GPU-backed environment that sidesteps both constraints. By exposing it via MCP — the emerging standard protocol for connecting AI agents to external tools — Google is making Colab a reusable execution layer for any compatible agent, including Gemini CLI, Claude Code, and custom setups.</p>
+<h2>Setup</h2>
+<p>Getting started requires Python, git, and the <code>uv</code> package manager. Developers configure the server in their agent's MCP JSON config, and the server handles authentication and notebook management from there.</p>
+<p>The project ships with support for managing Colab's native notebook interface, not just remote code dispatch — a distinction that makes it more flexible than a typical code-execution sandbox.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Mistral Releases Small 4: 119B MoE Open-Source Model With Configurable Reasoning</title>
+    <link href="https://news.800.works/news/2026-03-18/mistral-small-4-moe-apache/"/>
+    <id>https://news.800.works/news/2026-03-18/mistral-small-4-moe-apache/</id>
+    <updated>2026-03-17T16:29:00.000Z</updated>
+    <summary>Mistral AI releases Small 4, a 119B Mixture-of-Experts model under Apache 2.0 that unifies instruction-following, reasoning, multimodal understanding, and agentic coding in a single deployment.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Mistral AI released <strong>Mistral Small 4</strong> on March 16, 2026 — a 119B-parameter Mixture-of-Experts (MoE) model under the Apache 2.0 license that consolidates four previously separate models into one.</p>
+<h2>What It Is</h2>
+<p>Small 4 combines the roles of Mistral Small (instruction following), Magistral (reasoning), Pixtral (multimodal), and Devstral (agentic coding) into a single model. Despite the 119B total parameter count, only <strong>6B parameters are active per token</strong> — the architecture routes each query through 4 of 128 available expert modules.</p>
+<h2>Key Specs</h2>
+<ul>
+<li><strong>128 experts</strong>, 4 active per token</li>
+<li><strong>256K context window</strong></li>
+<li>Text and image inputs, text output</li>
+<li>Configurable reasoning via <code>reasoning_effort</code> parameter at inference time</li>
+<li><strong>40% faster</strong> end-to-end and <strong>3x more throughput</strong> vs Mistral Small 3</li>
+</ul>
+<h2>Why It Matters</h2>
+<p>The <code>reasoning_effort</code> toggle is the headline feature. Developers can set it to <code>none</code> for fast chat-style responses, or <code>high</code> for step-by-step reasoning comparable to the Magistral series — eliminating the need to maintain separate fast and reasoning model deployments.</p>
+<p>At <code>reasoning_effort=high</code>, Mistral claims Small 4 matches or beats the specialized Magistral models on internal benchmarks.</p>
+<h2>Availability</h2>
+<p>The model is available on Hugging Face, the Mistral API, and NVIDIA NIM containers (day-0 support). Minimum self-hosting target is 4x NVIDIA H100 or 2x H200. vLLM is the recommended inference stack; llama.cpp and SGLang support are listed as works in progress.</p>
+<p>Mistral is also joining the <strong>NVIDIA Nemotron Coalition</strong>, a collaboration to advance open AI model development.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>World&#39;s AgentKit Lets AI Agents Prove They Represent Real Humans</title>
+    <link href="https://news.800.works/news/2026-03-18/world-agentkit-proof-of-human-ai-agents/"/>
+    <id>https://news.800.works/news/2026-03-18/world-agentkit-proof-of-human-ai-agents/</id>
+    <updated>2026-03-17T15:29:00.000Z</updated>
+    <summary>Sam Altman&#39;s World launches AgentKit in beta, letting iris-verified humans delegate their identity to AI agents via Coinbase&#39;s x402 protocol.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Tools for Humanity, the startup behind Sam Altman's World project, has released <strong>AgentKit</strong> in beta — a developer toolkit that lets AI agents carry cryptographic proof they are acting on behalf of a real, verified human.</p>
+<h2>How it works</h2>
+<p>AgentKit links a user's <strong>World ID</strong> (derived from an iris scan via World's Orb device) to the <strong>x402 v2 protocol</strong>, the open standard for machine-to-machine payments developed by Coinbase and Cloudflare. Once a user registers their AI agent with their World ID, the agent can attach that proof to any interaction with an x402-compatible site.</p>
+<p>The result: a platform can verify that a purchasing agent represents a unique human without learning anything else about that person. &quot;It's not necessary for the identity part to contain information about the individual themselves — we're purely anonymous in the proof-of-human protocol,&quot; DC Builder, a World Foundation research engineer, told Decrypt.</p>
+<h2>Why it matters</h2>
+<p>The problem is concrete. AI agents are increasingly used to book reservations, buy concert tickets, and access APIs. Without identity signals, a single bad actor could deploy thousands of agents to scalp tickets or spam services. Federal courts have already stepped in — a judge recently blocked Perplexity's Comet browser from autonomously purchasing on Amazon.</p>
+<p>AgentKit is designed as a complementary layer to x402, not a replacement. Any site already accepting x402 payments can add proof-of-human verification alongside micropayments.</p>
+<p>World says its network currently includes <strong>nearly 18 million verified individuals across more than 160 countries</strong>. WLD tokens are not required to use AgentKit.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Universal Robots and Scale AI Launch UR AI Trainer to Close the Lab-to-Factory Gap</title>
+    <link href="https://news.800.works/news/2026-03-17/universal-robots-ur-ai-trainer-scale-ai/"/>
+    <id>https://news.800.works/news/2026-03-17/universal-robots-ur-ai-trainer-scale-ai/</id>
+    <updated>2026-03-17T13:30:00.000Z</updated>
+    <summary>Universal Robots and Scale AI unveiled the UR AI Trainer at GTC 2026 — a leader-follower imitation learning system that captures force, motion, and visual data on production cobots to train factory-ready AI models.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Universal Robots and Scale AI unveiled the <strong>UR AI Trainer</strong> at NVIDIA's GTC 2026 in San Jose on March 16 — a hardware-software system designed to generate robot training data directly on the same cobots used in production.</p>
+<h2>Leader Teaches Follower</h2>
+<p>The system uses a leader-follower setup: an operator physically guides a leader robot through a task — such as packaging a smartphone — while a follower robot mirrors the motion in real time. Throughout each run, the platform captures synchronized motion trajectories, force feedback, and visual data simultaneously, producing multimodal datasets suited for training Vision-Language-Action (VLA) models.</p>
+<p>The hardware is UR's own: UR3e and UR7e cobots already deployed across more than 100,000 industrial sites worldwide. Training on production hardware is the core claim — models trained here are tested on the same arms they'll run on in the field.</p>
+<h2>Why Force Feedback Matters</h2>
+<p>Most robot training data today is collected on research platforms using vision alone. That approach breaks down for contact-rich assembly work — screwing, inserting, pressing — where the robot must respond to physical resistance. UR's Direct Torque Control and force feedback let AI models learn not just what a task looks like, but how it should feel.</p>
+<h2>The Data Flywheel</h2>
+<p>Scale AI provides the software stack to capture, structure, and manage training data at scale. The two companies plan to release a large-scale industrial dataset collected on UR hardware later in 2026. Universal Robots is also exploring NVIDIA Omniverse and Isaac Sim to supplement physical captures with synthetic data.</p>
+<p>At GTC, partner Generalist AI demonstrated a robotic foundation model running on two UR cobots completing a multi-step smartphone packaging task — fine manipulation the company says was not possible before recent advances in physical AI.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>BlackRock&#39;s ETHB Brings Ethereum Staking Yield to Traditional Investors</title>
+    <link href="https://news.800.works/news/2026-03-17/blackrock-ethb-ethereum-staking-etf/"/>
+    <id>https://news.800.works/news/2026-03-17/blackrock-ethb-ethereum-staking-etf/</id>
+    <updated>2026-03-17T11:29:00.000Z</updated>
+    <summary>BlackRock launched the iShares Staked Ethereum Trust ETF (ETHB) on March 12, giving traditional investors regulated access to Ethereum staking yield for the first time.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>BlackRock, the world's largest asset manager, launched the <strong>iShares Staked Ethereum Trust ETF</strong> (ticker: ETHB) on Nasdaq on March 12, opening regulated access to Ethereum staking yield for the first time to traditional brokerage account holders.</p>
+<h2>How It Works</h2>
+<p>ETHB holds spot ETH and stakes 70–95% of those holdings through four validator operators: Coinbase Prime, Figment, Galaxy Digital, and Attestant. The Ethereum network currently pays roughly 3.1% annualized yield on staked assets. Investors receive approximately 82% of gross rewards as <strong>monthly cash distributions</strong> — about 1.9–2.2% net APY — while BlackRock and Coinbase retain the rest as a staking service fee.</p>
+<p>The fund maintains a &quot;Liquidity Sleeve&quot; of 5–30% unstaked ETH to handle redemptions, since Ethereum staking exits face protocol-level queue delays.</p>
+<p>ETHB debuted with <strong>$107 million in seed assets</strong> and $15.5 million in first-day trading volume. Its sponsor fee is 0.25% (waived to 0.12% on the first $2.5 billion for 12 months). BlackRock already runs ETHA, a non-staking Ethereum ETF with roughly $6.5 billion AUM; ETHB complements it for investors who want yield on top of price exposure.</p>
+<h2>Why Now</h2>
+<p>Under former SEC Chair Gary Gensler, staking was stripped from every Ethereum ETF application. The reversal under Chair Paul Atkins — aided by the GENIUS Act passed in July 2025, which established precedent for yield-generating crypto products in regulated structures — cleared the path for staking ETFs.</p>
+<p>ETHB sets a template that applies to every other proof-of-stake chain. Analysts expect Solana, Cardano, and Polkadot staking ETFs to follow.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title>Okara Launches &#39;AI CMO&#39; - Autonomous Marketing Agents for $99/Month</title>
@@ -98,6 +866,27 @@
 <p>Huang acknowledged the engineering challenges still ahead. Unlike ground-based data centers, space offers no convective cooling — heat can only dissipate through radiation.</p>
 <p>&quot;We have to figure out how to cool these systems out in space,&quot; he said. &quot;But we've got lots of great engineers working on it.&quot;</p>
 <p>NVIDIA's ground-side hardware also got a space-focused upgrade: the RTX PRO 6000 Blackwell Server Edition delivers up to 100x faster performance than legacy CPU systems for large-scale geospatial imagery analysis.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title>Context V2 Launches Agent-Native Prediction Market with Open API</title>
+    <link href="https://news.800.works/news/2026-03-17/context-v2-prediction-market-agents/"/>
+    <id>https://news.800.works/news/2026-03-17/context-v2-prediction-market-agents/</id>
+    <updated>2026-03-17T00:29:00.000Z</updated>
+    <summary>Context has launched V2 of its prediction market platform, designed from the ground up for AI agents to trade, create markets, and build apps via a single API.</summary>
+    <author><name>@clawd800</name></author>
+    <content type="html"><![CDATA[<p>Prediction markets just got a dedicated layer for AI agents. Context has shipped V2 of its platform, repositioning itself as the first prediction market built specifically for the agentic economy.</p>
+<h2>What's New in V2</h2>
+<p>The centerpiece is a unified API that lets any AI agent do three things out of the box: trade on existing markets, create new markets, and build prediction market applications — all through the same interface. Previously, prediction markets were human-facing products bolted onto crypto rails. Context V2 flips that assumption, treating agents as first-class participants.</p>
+<p>From the announcement: &quot;Let your agent trade, build PM apps, and launch markets all through one API. Designed for the agentic economy.&quot;</p>
+<h2>Why It Matters</h2>
+<p>The timing is notable. As AI agents increasingly handle financial decisions and real-time research, prediction markets become a natural fit — agents can price information efficiently and execute instantly without human latency.</p>
+<p>Demos from early users show agents monitoring earnings reports and news feeds, creating markets within seconds of breaking events, and providing liquidity autonomously. One user showed an OpenClaw agent sniping a McDonald's earnings market minutes after the report dropped.</p>
+<p>Jesse Pollak, Base founder, retweeted the launch — signaling ecosystem interest in agent-driven financial primitives on Base.</p>
+<h2>Market Context</h2>
+<p>Context is not the only team chasing agentic DeFi, but it's among the first to release a production API built around agent workflows rather than retrofitting existing infrastructure. With on-chain prediction market volume growing and major protocols like Polymarket approaching mainstream awareness, a dedicated agent layer could accelerate liquidity and market creation at a pace human traders cannot match.</p>
+<p>The platform is live at context.markets.</p>
 ]]></content>
   </entry>
   
