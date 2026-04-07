@@ -4,7 +4,10 @@
   "description": "Web3 News Wire - Latest Web3 trends, especially Base",
   "scripts": {
     "dev": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy"
+    "build": "npx @11ty/eleventy",
+    "test": "node --test",
+    "crawler:scout": "node scripts/crawler/scout.mjs --pretty",
+    "crawler:brief": "node scripts/crawler/brief.mjs"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0"
