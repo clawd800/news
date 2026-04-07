@@ -44,3 +44,49 @@ export const SEARCH_LIMITS = {
   tweetsPerQuery: 5,
   maxCandidates: 5,
 };
+
+export const GITHUB_RELEASE_REPOS = [
+  'google-ai-edge/LiteRT-LM',
+  'block/goose',
+  'anthropics/anthropic-cookbook',
+  'huggingface/transformers',
+  'microsoft/onnxruntime',
+];
+
+export const RSS_FEEDS = [
+  {
+    name: 'OpenAI News',
+    url: 'https://openai.com/news/rss.xml',
+    sourceType: 'official-blog',
+  },
+  {
+    name: 'Anthropic Blog',
+    url: 'https://www.anthropic.com/news/rss.xml',
+    sourceType: 'official-blog',
+  },
+  {
+    name: 'Google AI Blog',
+    url: 'https://blog.google/technology/ai/rss/',
+    sourceType: 'official-blog',
+  },
+  {
+    name: 'Google Developers Blog',
+    url: 'https://developers.googleblog.com/feeds/posts/default',
+    sourceType: 'official-blog',
+  },
+  {
+    name: 'NVIDIA Blog',
+    url: 'https://blogs.nvidia.com/feed/',
+    sourceType: 'official-blog',
+  },
+  {
+    name: 'Vercel Blog',
+    url: 'https://vercel.com/atom',
+    sourceType: 'official-blog',
+  },
+  {
+    name: 'GitHub Blog',
+    url: 'https://github.blog/feed/',
+    sourceType: 'official-blog',
+  },
+];

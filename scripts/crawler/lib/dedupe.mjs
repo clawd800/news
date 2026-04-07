@@ -15,6 +15,7 @@ function sharedTokenCount(leftValue, rightValue) {
 export function isLikelyDuplicate(candidate, article) {
   const titleSimilarity = jaccardSimilarity(candidate.title, article.title);
   const candidateEntityText = [candidate.authorName, candidate.title].filter(Boolean).join(' ');
+  const candidateSignalText = [candidate.authorName, candidate.signalText, candidate.title].filter(Boolean).join(' ');
   if (titleSimilarity >= 0.6) {
     return {
       duplicate: true,
@@ -28,6 +29,15 @@ export function isLikelyDuplicate(candidate, article) {
     return {
       duplicate: true,
       reason: `shared-title-tokens:${sharedTitleTokens}`,
+      matchedTitle: article.title,
+    };
+  }
+
+  const sharedSignalTokens = sharedTokenCount(candidateSignalText, article.title);
+  if (sharedSignalTokens >= 4) {
+    return {
+      duplicate: true,
+      reason: `shared-signal-tokens:${sharedSignalTokens}`,
       matchedTitle: article.title,
     };
   }

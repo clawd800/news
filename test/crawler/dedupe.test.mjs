@@ -53,3 +53,22 @@ test('annotateDuplicates catches paraphrased duplicate headlines with strong ent
   assert.equal(candidate.duplicate, true);
   assert.match(candidate.duplicateReason, /shared-title-tokens|title-similarity|slug-seed-match/);
 });
+
+test('annotateDuplicates catches duplicates from richer signal text even when title differs', () => {
+  const candidates = [{
+    authorName: 'Google Developers Blog',
+    title: 'Bring state-of-the-art agentic skills to the edge with Gemma 4',
+    signalText: 'Bring state-of-the-art agentic skills to the edge with Gemma 4 using LiteRT-LM for on-device agents',
+    url: 'https://developers.googleblog.com/post/gemma4-edge/',
+  }];
+
+  const articles = [{
+    slug: 'google-litert-lm-gemma-4-on-device-agents',
+    title: "Google's LiteRT-LM Adds Gemma 4 Support for On-Device Agents",
+    sources: [],
+  }];
+
+  const [candidate] = annotateDuplicates(candidates, articles);
+  assert.equal(candidate.duplicate, true);
+  assert.match(candidate.duplicateReason, /shared-signal-tokens|shared-title-tokens|title-similarity/);
+});

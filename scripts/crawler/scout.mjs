@@ -3,10 +3,18 @@ import { execFileSync } from 'node:child_process';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-import { PRIORITY_X_ACCOUNTS, SEARCH_LIMITS, SEARCH_QUERIES } from './config.mjs';
-import { TRUSTED_USERNAMES } from './config.mjs';
+import {
+  GITHUB_RELEASE_REPOS,
+  PRIORITY_X_ACCOUNTS,
+  RSS_FEEDS,
+  SEARCH_LIMITS,
+  SEARCH_QUERIES,
+  TRUSTED_USERNAMES,
+} from './config.mjs';
 import { loadArticleIndex } from './lib/article-index.mjs';
 import { extractBirdJson, hasUsefulMedia, isReply, isRetweet } from './lib/bird-json.mjs';
+import { fetchGitHubReleaseCandidates } from './lib/github-releases.mjs';
+import { fetchRssCandidates } from './lib/rss.mjs';
 import { isSkippableSourceError } from './lib/source-errors.mjs';
 import { rankCandidates } from './lib/scout-engine.mjs';
 
@@ -89,11 +97,17 @@ function fetchSearchCandidates() {
   return results;
 }
 
-function main() {
+async function main() {
   const articleIndex = loadArticleIndex(newsRoot);
+  const [githubCandidates, rssCandidates] = await Promise.all([
+    fetchGitHubReleaseCandidates(GITHUB_RELEASE_REPOS).catch(() => []),
+    fetchRssCandidates(RSS_FEEDS).catch(() => []),
+  ]);
   const candidates = [
     ...fetchPriorityAccountCandidates(),
     ...fetchSearchCandidates(),
+    ...githubCandidates,
+    ...rssCandidates,
   ];
 
   const ranked = rankCandidates(candidates, articleIndex, SEARCH_LIMITS.maxCandidates);
@@ -115,4 +129,4 @@ function main() {
   console.log(JSON.stringify(payload));
 }
 
-main();
+await main();

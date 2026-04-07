@@ -108,6 +108,19 @@ const MARKETING_PATTERNS = [
   /less than \d+ minutes/i,
   /vibe coded/i,
   /step-by-step/i,
+  /guide to building/i,
+  /how to build/i,
+  /tutorial/i,
+];
+
+const ROUNDUP_PATTERNS = [
+  /what'?s new/i,
+  /roundup/i,
+  /highlights/i,
+  /resources/i,
+  /weekly recap/i,
+  /national .* week/i,
+  /top \d+/i,
 ];
 
 export function getSignalText(candidate) {
@@ -145,6 +158,11 @@ export function isMarketingStylePost(candidate) {
   return MARKETING_PATTERNS.some((pattern) => pattern.test(text));
 }
 
+export function isRoundupStylePost(candidate) {
+  const text = getSignalText(candidate);
+  return ROUNDUP_PATTERNS.some((pattern) => pattern.test(text));
+}
+
 export function isFreshCandidate(candidate, now = new Date(), maxAgeHours = 72) {
   if (!candidate?.createdAt) return true;
   const createdAt = new Date(candidate.createdAt);
@@ -159,6 +177,7 @@ export function passesQualityFilter(candidate, { now = new Date() } = {}) {
   if (title.length > 500) return false;
   if (isSpammyText(getSignalText(candidate))) return false;
   if (isMarketingStylePost(candidate)) return false;
+  if (isRoundupStylePost(candidate)) return false;
   if (!isFreshCandidate(candidate, now)) return false;
 
   const likes = Number(candidate.likeCount ?? 0);
@@ -174,6 +193,11 @@ export function passesQualityFilter(candidate, { now = new Date() } = {}) {
     if (!newsSignal) return false;
     if (!actionSignal) return false;
     if (likes < 25 && reposts < 5) return false;
+  }
+
+  if (candidate.discoverySource === 'github-release' || candidate.discoverySource === 'official-blog') {
+    if (!candidate.hasLink) return false;
+    if (!hasNewsSignal(candidate) && !hasActionSignal(candidate)) return false;
   }
 
   if (candidate.discoverySource === 'priority-account') {

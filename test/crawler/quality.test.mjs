@@ -9,6 +9,7 @@ import {
   isFreshCandidate,
   isMarketingStylePost,
   isNarrativePriorityPost,
+  isRoundupStylePost,
   isSpammyText,
   passesQualityFilter,
 } from '../../scripts/crawler/lib/quality.mjs';
@@ -58,6 +59,42 @@ test('marketing-style how-to post is rejected even from strong sources', () => {
 
   assert.equal(isMarketingStylePost(marketingPost), true);
   assert.equal(passesQualityFilter(marketingPost), false);
+});
+
+test('tutorial-style official blog post is rejected', () => {
+  const tutorialPost = {
+    title: 'Guide to building intelligent agents with ADK and skills',
+    signalText: 'Guide to building intelligent agents with ADK and skills',
+    discoverySource: 'official-blog',
+    isTrustedAuthor: true,
+    createdAt: '2026-04-07T08:00:00.000Z',
+    likeCount: 35,
+    retweetCount: 0,
+    hasLink: true,
+    hasVideo: false,
+    hasQuotedTweet: false,
+  };
+
+  assert.equal(isMarketingStylePost(tutorialPost), true);
+  assert.equal(passesQualityFilter(tutorialPost), false);
+});
+
+test('roundup-style resource post is rejected', () => {
+  const roundupPost = {
+    title: 'National Robotics Week - latest physical AI research, breakthroughs and resources',
+    signalText: 'National Robotics Week - latest physical AI research, breakthroughs and resources',
+    discoverySource: 'official-blog',
+    isTrustedAuthor: true,
+    createdAt: '2026-04-07T08:00:00.000Z',
+    likeCount: 35,
+    retweetCount: 0,
+    hasLink: true,
+    hasVideo: false,
+    hasQuotedTweet: false,
+  };
+
+  assert.equal(isRoundupStylePost(roundupPost), true);
+  assert.equal(passesQualityFilter(roundupPost), false);
 });
 
 test('passesQualityFilter keeps higher-signal search result', () => {
