@@ -36,3 +36,20 @@ test('annotateDuplicates keeps distinct stories', () => {
   assert.equal(candidate.duplicate, false);
 });
 
+test('annotateDuplicates catches paraphrased duplicate headlines with strong entity overlap', () => {
+  const candidates = [{
+    authorName: 'Anthropic',
+    title: 'Anthropic signed an agreement with Google and Broadcom for next-generation TPU capacity',
+    url: 'https://x.com/AnthropicAI/status/3',
+  }];
+
+  const articles = [{
+    slug: 'anthropic-google-broadcom-multi-gigawatt-tpu-deal',
+    title: 'Anthropic Signs Multi-Gigawatt TPU Deal With Google and Broadcom',
+    sources: ['https://www.theverge.com/'],
+  }];
+
+  const [candidate] = annotateDuplicates(candidates, articles);
+  assert.equal(candidate.duplicate, true);
+  assert.match(candidate.duplicateReason, /shared-title-tokens|title-similarity|slug-seed-match/);
+});

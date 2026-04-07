@@ -4,8 +4,10 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 import { PRIORITY_X_ACCOUNTS, SEARCH_LIMITS, SEARCH_QUERIES } from './config.mjs';
+import { TRUSTED_USERNAMES } from './config.mjs';
 import { loadArticleIndex } from './lib/article-index.mjs';
 import { extractBirdJson, hasUsefulMedia, isReply, isRetweet } from './lib/bird-json.mjs';
+import { isSkippableSourceError } from './lib/source-errors.mjs';
 import { rankCandidates } from './lib/scout-engine.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -13,13 +15,27 @@ const projectRoot = path.resolve(__dirname, '..', '..');
 const newsRoot = path.join(projectRoot, 'news');
 
 function execBird(args) {
-  return execFileSync('bird', args, { cwd: projectRoot, encoding: 'utf8' });
+  try {
+    return execFileSync('bird', args, { cwd: projectRoot, encoding: 'utf8' });
+  } catch (error) {
+    if (isSkippableSourceError(error)) {
+      return '[]';
+    }
+    throw error;
+  }
 }
 
 function toCandidate(tweet, discoverySource, query) {
+  const signalText = [
+    tweet.text,
+    tweet.quotedTweet?.text,
+    tweet.noteTweet?.text,
+  ].filter(Boolean).join('\n\n');
+
   return {
     id: tweet.id,
     title: tweet.text,
+    signalText,
     url: tweet.url ?? `https://x.com/${tweet.author?.username ?? 'i'}/status/${tweet.id}`,
     createdAt: tweet.createdAt,
     replyCount: tweet.replyCount ?? 0,
@@ -27,6 +43,8 @@ function toCandidate(tweet, discoverySource, query) {
     likeCount: tweet.likeCount ?? 0,
     authorUsername: tweet.author?.username ?? '',
     authorName: tweet.author?.name ?? '',
+    quotedAuthorUsername: tweet.quotedTweet?.author?.username ?? '',
+    hasQuotedTweet: Boolean(tweet.quotedTweet),
     isTrustedAuthor: true,
     discoverySource,
     discoveryQuery: query,
@@ -60,9 +78,10 @@ function fetchSearchCandidates() {
     const tweets = extractBirdJson(raw);
     for (const tweet of tweets) {
       if (isRetweet(tweet) || isReply(tweet)) continue;
+      const authorUsername = String(tweet.author?.username ?? '').toLowerCase();
       results.push({
         ...toCandidate(tweet, 'search', query),
-        isTrustedAuthor: false,
+        isTrustedAuthor: TRUSTED_USERNAMES.has(authorUsername),
       });
     }
   }

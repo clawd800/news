@@ -3,8 +3,9 @@ import { passesQualityFilter } from './quality.mjs';
 import { scoreCandidate } from './score.mjs';
 
 export function rankCandidates(rawCandidates, articleIndex, maxCandidates = 5) {
+  const now = new Date();
   const deduped = annotateDuplicates(rawCandidates, articleIndex)
-    .filter((candidate) => passesQualityFilter(candidate))
+    .filter((candidate) => passesQualityFilter(candidate, { now }))
     .filter((candidate) => !candidate.duplicate)
     .map((candidate) => ({
       ...candidate,
