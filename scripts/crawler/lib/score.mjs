@@ -17,6 +17,7 @@ export function scoreCandidate(candidate) {
   if (TRUSTED_USERNAMES.has(String(candidate.authorUsername ?? '').toLowerCase())) score += 30;
   if (candidate.discoverySource === 'github-release') score += 20;
   if (candidate.discoverySource === 'official-blog') score += 18;
+  if (candidate.discoverySource === 'media-search') score += 14;
   if (candidate.hasVideo) score += 35;
   if (candidate.hasLink) score += 15;
   if (candidate.discoverySource === 'search') score += 5;

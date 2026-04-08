@@ -90,3 +90,32 @@ export const RSS_FEEDS = [
     sourceType: 'official-blog',
   },
 ];
+
+export const JINA_MEDIA_SEARCHES = [
+  {
+    name: 'AI media launch search',
+    query: 'AI agent launch OR open source AI OR model release OR robotics demo',
+    sites: [
+      'theverge.com',
+      'techcrunch.com',
+      'venturebeat.com',
+      'semafor.com',
+      'blog.google',
+      'github.blog',
+    ],
+    sourceType: 'media-search',
+  },
+  {
+    name: 'Web3 media launch search',
+    query: 'crypto launch OR protocol launch OR stablecoin rollout OR mainnet OR acquisition',
+    sites: [
+      'coindesk.com',
+      'decrypt.co',
+      'theblock.co',
+      'thedefiant.io',
+      'rekt.news',
+      'cointelegraph.com',
+    ],
+    sourceType: 'media-search',
+  },
+];

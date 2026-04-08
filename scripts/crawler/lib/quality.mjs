@@ -40,6 +40,10 @@ const NEWS_SIGNAL_PATTERNS = [
   /\badds\b/i,
   /\badded\b/i,
   /\badds support\b/i,
+  /\bintroduces\b/i,
+  /\bexpands\b/i,
+  /\bcombines\b/i,
+  /\bnow supports\b/i,
   /\bstarts\b/i,
   /\bstarted\b/i,
   /\brolls out\b/i,
@@ -66,6 +70,10 @@ const ACTION_SIGNAL_PATTERNS = [
   /\bopen[ -]?source\b/i,
   /\badds\b/i,
   /\badded\b/i,
+  /\bintroduces\b/i,
+  /\bexpands\b/i,
+  /\bcombines\b/i,
+  /\bnow supports\b/i,
   /\bstarts\b/i,
   /\bstarted\b/i,
   /\brolls out\b/i,
@@ -107,6 +115,7 @@ const MARKETING_PATTERNS = [
   /build your own/i,
   /less than \d+ minutes/i,
   /vibe coded/i,
+  /vibe coding/i,
   /step-by-step/i,
   /guide to building/i,
   /how to build/i,
@@ -195,7 +204,7 @@ export function passesQualityFilter(candidate, { now = new Date() } = {}) {
     if (likes < 25 && reposts < 5) return false;
   }
 
-  if (candidate.discoverySource === 'github-release' || candidate.discoverySource === 'official-blog') {
+  if (candidate.discoverySource === 'github-release' || candidate.discoverySource === 'official-blog' || candidate.discoverySource === 'media-search') {
     if (!candidate.hasLink) return false;
     if (!hasNewsSignal(candidate) && !hasActionSignal(candidate)) return false;
   }

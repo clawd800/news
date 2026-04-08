@@ -46,8 +46,8 @@ test('passesQualityFilter rejects weak noisy search results', () => {
 
 test('marketing-style how-to post is rejected even from strong sources', () => {
   const marketingPost = {
-    title: 'Watch us build a vibe coded website in less than 5 minutes',
-    signalText: 'Watch us build a vibe coded website in less than 5 minutes with Google AI Studio',
+    title: 'Curious about vibe coding? Build a vibe coded website in less than 5 minutes',
+    signalText: 'Curious about vibe coding? Build a vibe coded website in less than 5 minutes with Google AI Studio',
     discoverySource: 'priority-account',
     isTrustedAuthor: true,
     likeCount: 300,
@@ -226,4 +226,23 @@ test('keeps past-tense event phrasing like signed agreements', () => {
   assert.equal(hasNewsSignal(signedPost), true);
   assert.equal(hasActionSignal(signedPost), true);
   assert.equal(passesQualityFilter(signedPost), true);
+});
+
+test('keeps product update phrasing like combines model families', () => {
+  const productUpdate = {
+    title: 'GitHub Copilot CLI combines model families for a second opinion',
+    signalText: 'GitHub Copilot CLI combines model families for a second opinion',
+    createdAt: '2026-04-07T08:00:00.000Z',
+    discoverySource: 'official-blog',
+    isTrustedAuthor: true,
+    likeCount: 35,
+    retweetCount: 0,
+    hasLink: true,
+    hasVideo: false,
+    hasQuotedTweet: false,
+  };
+
+  assert.equal(hasNewsSignal(productUpdate), true);
+  assert.equal(hasActionSignal(productUpdate), true);
+  assert.equal(passesQualityFilter(productUpdate), true);
 });

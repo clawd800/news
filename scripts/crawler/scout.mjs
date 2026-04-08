@@ -5,18 +5,21 @@ import { fileURLToPath } from 'node:url';
 
 import {
   GITHUB_RELEASE_REPOS,
+  JINA_MEDIA_SEARCHES,
   PRIORITY_X_ACCOUNTS,
   RSS_FEEDS,
   SEARCH_LIMITS,
   SEARCH_QUERIES,
   TRUSTED_USERNAMES,
 } from './config.mjs';
-import { loadArticleIndex } from './lib/article-index.mjs';
+import { loadArticleIndex, loadDraftIndex } from './lib/article-index.mjs';
 import { extractBirdJson, hasUsefulMedia, isReply, isRetweet } from './lib/bird-json.mjs';
 import { fetchGitHubReleaseCandidates } from './lib/github-releases.mjs';
+import { fetchMediaSearchCandidates } from './lib/media-search.mjs';
 import { fetchRssCandidates } from './lib/rss.mjs';
 import { isSkippableSourceError } from './lib/source-errors.mjs';
 import { rankCandidates } from './lib/scout-engine.mjs';
+import { verifyCandidateSources } from './lib/source-verify.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const projectRoot = path.resolve(__dirname, '..', '..');
@@ -98,25 +101,33 @@ function fetchSearchCandidates() {
 }
 
 async function main() {
-  const articleIndex = loadArticleIndex(newsRoot);
+  const articleIndex = [
+    ...loadArticleIndex(newsRoot),
+    ...loadDraftIndex(path.join(projectRoot, 'drafts')),
+  ];
   const [githubCandidates, rssCandidates] = await Promise.all([
     fetchGitHubReleaseCandidates(GITHUB_RELEASE_REPOS).catch(() => []),
     fetchRssCandidates(RSS_FEEDS).catch(() => []),
   ]);
+  const mediaCandidates = await fetchMediaSearchCandidates(JINA_MEDIA_SEARCHES).catch(() => []);
   const candidates = [
     ...fetchPriorityAccountCandidates(),
     ...fetchSearchCandidates(),
     ...githubCandidates,
     ...rssCandidates,
+    ...mediaCandidates,
   ];
 
-  const ranked = rankCandidates(candidates, articleIndex, SEARCH_LIMITS.maxCandidates);
+  const verifiedCandidates = await verifyCandidateSources(candidates);
+
+  const ranked = rankCandidates(verifiedCandidates, articleIndex, SEARCH_LIMITS.maxCandidates);
   const payload = {
     generatedAt: new Date().toISOString(),
     maxCandidates: SEARCH_LIMITS.maxCandidates,
     scannedSources: {
       priorityAccounts: PRIORITY_X_ACCOUNTS.slice(0, SEARCH_LIMITS.accountsPerRun),
       searchQueries: SEARCH_QUERIES.slice(0, SEARCH_LIMITS.searchQueriesPerRun),
+      jinaSearches: JINA_MEDIA_SEARCHES.map((entry) => entry.name),
     },
     candidates: ranked,
   };
