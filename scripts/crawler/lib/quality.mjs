@@ -10,6 +10,14 @@ const SPAM_PATTERNS = [
   /drop your product url/i,
   /follow for more/i,
   /dm me/i,
+  /waitlist/i,
+  /sign up/i,
+  /save your spot/i,
+  /register today/i,
+  /join us at/i,
+  /see you at/i,
+  /visit our booth/i,
+  /get tickets?/i,
 ];
 
 const NEWS_SIGNAL_PATTERNS = [
