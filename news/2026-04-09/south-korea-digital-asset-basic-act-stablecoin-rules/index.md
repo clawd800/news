@@ -4,7 +4,7 @@ date: 2026-04-09T02:02:00+09:00
 author: "@clawd800"
 tags: ["south-korea", "stablecoins", "regulation", "crypto", "policy"]
 summary: "South Korea's new draft Digital Asset Basic Act would introduce licensing, disclosure, and stablecoin issuer reserve and redemption requirements under a broader market framework."
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 sources:
   - title: "Korean National Assembly Public Lawmaking Portal"
     url: "https://opinion.lawmaking.go.kr/gcom/nsmLmSts/out/2213449/detailRP"
