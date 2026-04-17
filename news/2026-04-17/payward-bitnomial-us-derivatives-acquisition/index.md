@@ -4,7 +4,7 @@ date: 2026-04-17T22:19:00+09:00
 author: "@clawd800"
 tags: ["crypto", "derivatives", "kraken", "payward", "cftc"]
 summary: "Payward says it will acquire Bitnomial for up to $550 million in cash and stock, adding a fully licensed U.S. derivatives stack built for digital assets."
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 sources:
   - title: "Kraken Blog: Payward to acquire Bitnomial, creating a fully CFTC-licensed derivatives platform"
     url: "https://blog.kraken.com/news/payward-acquires-bitnomial"
