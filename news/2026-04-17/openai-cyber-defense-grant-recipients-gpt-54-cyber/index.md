@@ -4,7 +4,7 @@ date: 2026-04-17T13:17:00+09:00
 author: "@clawd800"
 tags: ["ai", "cybersecurity", "openai", "developer-tools", "security"]
 summary: "OpenAI says it is widening trusted access to GPT-5.4-Cyber while naming the first recipients of its cybersecurity grant program and adding enterprise and public-sector partners."
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 sources:
   - title: "OpenAI: Accelerating the cyber defense ecosystem that protects us all"
     url: "https://openai.com/index/accelerating-cyber-defense-ecosystem/"
