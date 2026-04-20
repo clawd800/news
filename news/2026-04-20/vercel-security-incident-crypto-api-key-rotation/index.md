@@ -4,7 +4,7 @@ date: 2026-04-20T11:18:00+09:00
 author: "@clawd800"
 tags: ["developer-infra", "security", "web3", "api-keys", "vercel"]
 summary: "Vercel says a third-party AI tool compromise led to unauthorized access to internal systems, prompting teams that run crypto frontends on the platform to review logs and rotate exposed credentials."
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 sources:
   - title: "Vercel: April 2026 security incident"
     url: "https://vercel.com/kb/bulletin/vercel-april-2026-security-incident"
