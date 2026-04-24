@@ -75,18 +75,16 @@ If local logging fails after publish, say so honestly in the report, but do not 
 ## Step 7: Discord webhook (Hunt Town #trends)
 After successful publish, ALWAYS attempt the Discord webhook.
 
-Use:
-- `WEBHOOK_URL=$(grep DISCORD_WEBHOOK_URL ~/clawd/projects/news/.env | cut -d= -f2)`
-- `ARTICLE_DIR=~/clawd/projects/news/news/YYYY-MM-DD/slug`
+Use the helper script from `~/clawd/projects/news`:
+- `node scripts/crawler/post-discord.mjs --date YYYY-MM-DD --slug slug --title "Title" --summary "Summary" --author "@author" --article-url "https://news.800.works/news/YYYY-MM-DD/slug/"`
 
-Attachment rules:
-- if `video.mp4` exists, attach that
-- otherwise attach `thumbnail.png`
-
-Payload rules:
-- content format: `# [title]` then summary then `[@author](https://x.com/author) | [Source](ARTICLE_URL)`
-- set `flags: 4` to suppress embeds
+Rules:
+- the script auto-loads `DISCORD_WEBHOOK_URL` from `~/clawd/projects/news/.env`
+- the script auto-attaches `video.mp4` if present, otherwise `thumbnail.png` / `thumbnail.jpg`
+- the script sends the content as real multiline text with `flags: 4`
+- title line format is `# Title` (plain heading), not `# [Title]`
 - do not set custom username or avatar_url
+- do not hand-roll `payload_json` with shell `\n` escapes; that can post literal `\n` into Discord
 
 If the Discord webhook fails, report:
 - `Discord: ❌ <real reason>`
