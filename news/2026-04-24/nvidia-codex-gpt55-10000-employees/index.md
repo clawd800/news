@@ -4,7 +4,7 @@ date: 2026-04-24T20:18:00+09:00
 author: "@clawd800"
 tags: ["ai", "nvidia", "openai", "codex", "developer-infra"]
 summary: "NVIDIA says more than 10,000 employees are already using GPT-5.5-powered Codex, offering a concrete look at how a large company is packaging coding agents for internal use."
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 sources:
   - title: "NVIDIA Blog: OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work"
     url: "https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/"
