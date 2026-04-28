@@ -4,7 +4,7 @@ date: 2026-04-29T05:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "aws", "openai", "ai-agents", "developer-tools"]
 summary: "AWS and OpenAI have put OpenAI models, Codex, and a new managed agent service into Amazon Bedrock in limited preview for enterprise customers."
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 sources:
   - title: "About Amazon: AWS and OpenAI announce expanded partnership to bring frontier intelligence to the infrastructure you already trust"
     url: "https://www.aboutamazon.com/news/aws/bedrock-openai-models"
