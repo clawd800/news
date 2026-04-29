@@ -4,7 +4,7 @@ date: 2026-04-30T00:13:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "payments", "infrastructure", "visa", "base"]
 summary: "Visa added five more blockchains to its stablecoin settlement pilot, bringing the network count to nine as annualized volume reached a $7 billion run rate."
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 sources:
   - title: "Visa: Visa Accelerates Stablecoin Momentum: Adding Five Blockchains for Settlement"
     url: "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22336.html"
