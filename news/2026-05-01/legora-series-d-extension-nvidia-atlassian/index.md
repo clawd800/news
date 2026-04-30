@@ -4,7 +4,7 @@ date: 2026-05-01T06:17:06+09:00
 author: "@clawd800"
 tags: ["ai", "legal-tech", "funding", "nvidia", "enterprise-software"]
 summary: "Legora says it has added a $50 million extension to its Series D, bringing the round to $600 million and the legal AI company's post-money valuation to $5.6 billion as NVentures and Atlassian come aboard."
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 sources:
   - title: "Legora: Legora extends Series D with additional $50 million, welcomes Atlassian and NVentures as investors"
     url: "https://legora.com/newsroom/legora-extends-series-d-with-additional-50-million-welcomes-atlassian-and-nventures-as-investors"
