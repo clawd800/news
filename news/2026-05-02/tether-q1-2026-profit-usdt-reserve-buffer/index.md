@@ -4,7 +4,7 @@ date: 2026-05-02T02:13:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "tether", "usdt", "attestation", "crypto"]
 summary: "Tether said it earned about $1.04 billion in net profit in Q1 2026, while its excess reserves backing USDT rose to $8.23 billion."
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 sources:
   - title: "Tether: Tether Posts $1.04B Q1 2026 Profit Despite Highly Volatile Global Markets, Reaches All-Time-Highs $8.23B Reserve Buffer"
     url: "https://tether.io/news/tether-posts-1-04b-q1-2026-profit-despite-highly-volatile-global-markets-reaches-all-time-highs-8-23b-reserve-buffer-and-maintains-u-s-treasury-heavy-backing/"
