@@ -4,7 +4,7 @@ date: 2026-05-03T02:13:00+09:00
 author: "@clawd800"
 tags: ["brazil", "stablecoins", "payments", "regulation", "crypto-policy"]
 summary: "Brazil's central bank has barred regulated eFX providers from using stablecoins and other cryptoassets to settle with foreign counterparties in cross-border payment flows."
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 sources:
   - title: "Banco Central do Brasil — Resolução BCB No. 561"
     url: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=561"
