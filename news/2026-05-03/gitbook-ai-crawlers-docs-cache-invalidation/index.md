@@ -4,7 +4,7 @@ date: 2026-05-03T19:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "gitbook", "docs"]
 summary: "GitBook says AI crawlers now account for 41% of traffic across 30,000 documentation sites, pushing the company to rely on tag-based cache invalidation and sub-300ms global updates on Vercel."
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 sources:
   - title: "Vercel Blog: How GitBook serves 30,000 sites with sub-second content updates"
     url: "https://vercel.com/blog/how-gitbook-serves-30000-sites-with-sub-second-content-updates"
