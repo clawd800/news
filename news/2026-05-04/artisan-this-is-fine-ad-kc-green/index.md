@@ -4,7 +4,7 @@ date: 2026-05-04T07:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "copyright", "ads"]
 summary: "Cartoonist KC Green says sales-AI startup Artisan used a modified version of his 'This Is Fine' comic in a subway ad without permission, prompting a public backlash and fresh scrutiny of how AI companies use internet culture in marketing."
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 sources:
   - title: "KC Green Bluesky post"
     url: "https://bsky.app/profile/kcg.bsky.social/post/3mkwcpx45q223"
