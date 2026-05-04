@@ -4,7 +4,7 @@ date: 2026-05-05T01:13:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "dtcc", "tradfi", "rwa", "blockchain"]
 summary: "DTCC is preparing limited production trades of tokenized securities for July, with a broader launch targeted for October as it brings selected stocks, ETFs, and Treasuries onto blockchain rails."
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 sources:
   - title: "DTCC sets October launch for tokenized securities platform in Wall Street blockchain push"
     url: "https://www.coindesk.com/business/2026/05/04/wall-street-giant-dtcc-plans-tokenized-securities-platform-with-july-pilot-october-launch"
