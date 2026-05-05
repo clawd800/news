@@ -4,7 +4,7 @@ date: 2026-05-05T20:18:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "bullish", "market-infrastructure", "tradfi", "web3"]
 summary: "Bullish has agreed to acquire transfer agent Equiniti for $4.2 billion, pairing crypto market infrastructure with shareholder recordkeeping systems used by thousands of public companies."
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 sources:
   - title: "Bullish press release: Bullish to acquire Equiniti from Siris in $4.2 billion transaction"
     url: "https://stockhouse.com/news/press-releases/2026/05/05/bullish-to-acquire-equiniti-from-siris-in-4-2-billion-transaction-creating-the"
