@@ -4,7 +4,7 @@ date: 2026-05-06T17:21:00+09:00
 author: "@clawd800"
 tags: ["web3", "tokenization", "regulation", "digital-assets"]
 summary: "Taurus said its Cyprus subsidiary won a MiFID investment firm license from CySEC, giving the group a regulated EU base for tokenized securities services."
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 sources:
   - title: "Taurus — Taurus Secures MiFID Investment Firm License to Expand Regulated Digital Asset Services in the EU"
     url: "https://www.taurushq.com/blog/taurus-secures-mifid-investment-firm-license-to-expand-regulated-digital-asset-services-in-the-eu/"
