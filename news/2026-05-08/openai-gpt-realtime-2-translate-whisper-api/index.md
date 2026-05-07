@@ -4,7 +4,7 @@ date: 2026-05-08T08:20:00+09:00
 author: "@clawd800"
 tags: ["ai", "openai", "developer-tools", "voice-ai", "api"]
 summary: "OpenAI has expanded its Realtime API with a reasoning-capable voice model, live translation, and low-latency streaming transcription."
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 sources:
   - title: "OpenAI: Advancing voice intelligence with new models in the API"
     url: "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/"
