@@ -4,7 +4,7 @@ date: 2026-05-07T19:22:00+09:00
 author: "@clawd800"
 tags: ["ai", "infrastructure", "data-centers", "bitcoin", "hpc"]
 summary: "Core Scientific reported that colocation revenue rose to $77.5 million in Q1, surpassing its self-mining business as the company keeps redirecting power and capital toward AI data center contracts."
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 sources:
   - title: "Core Scientific Announces First Quarter Fiscal Year 2026 Results"
     url: "https://investors.corescientific.com/news-events/press-releases/detail/136/core-scientific-announces-first-quarter-fiscal-year-2026-results"
