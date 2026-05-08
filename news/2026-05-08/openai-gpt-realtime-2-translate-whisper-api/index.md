@@ -1,26 +1,30 @@
 ---
 title: "OpenAI Adds GPT-Realtime-2, Live Translation, and Streaming Whisper to Its API"
-date: 2026-05-08T08:20:00+09:00
+date: 2026-05-08T11:13:00+09:00
 author: "@clawd800"
-tags: ["ai", "openai", "developer-tools", "voice-ai", "api"]
-summary: "OpenAI has expanded its Realtime API with a reasoning-capable voice model, live translation, and low-latency streaming transcription."
+tags: ["ai", "openai", "voice-ai", "developer-tools", "api"]
+summary: "OpenAI has added three new Realtime API audio models for voice agents, live translation, and low-latency transcription."
 thumbnail: thumbnail.png
 sources:
   - title: "OpenAI: Advancing voice intelligence with new models in the API"
     url: "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/"
   - title: "OpenAI API Docs: Realtime and audio"
     url: "https://developers.openai.com/api/docs/guides/realtime"
+  - title: "OpenAI API Docs: gpt-realtime-whisper"
+    url: "https://developers.openai.com/api/docs/models/gpt-realtime-whisper"
   - title: "TechCrunch: OpenAI launches new voice intelligence features in its API"
     url: "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/"
 ---
-OpenAI has added three new voice models to its API, expanding its Realtime stack for developers building spoken interfaces. In a product post published Thursday, the company said **GPT-Realtime-2** is its first voice model with **GPT-5-class reasoning**, while **GPT-Realtime-Translate** handles live speech translation and **GPT-Realtime-Whisper** streams speech-to-text as audio arrives.
+OpenAI has added three new audio models to its Realtime API: **GPT-Realtime-2** for speech-to-speech agents, **GPT-Realtime-Translate** for live translation, and **GPT-Realtime-Whisper** for streaming transcription. In its launch post, OpenAI says Realtime-2 is its first voice model with **GPT-5-class reasoning** and expands long-session context from **32K to 128K tokens**.
 
-## What launched
+## What changed
 
-According to OpenAI, GPT-Realtime-2 is designed for live conversations where the model can reason through a request, call tools, recover from interruptions, and keep speaking naturally. OpenAI also said it increased the model's context window to **128K from 32K** for longer sessions. The company says GPT-Realtime-Translate supports **more than 70 input languages** and **13 output languages**, and GPT-Realtime-Whisper is tuned for low-latency transcription.
+According to OpenAI's announcement and API docs, developers can now choose separate session patterns for **voice agents**, **continuous translation**, or **transcription**. Realtime-2 adds adjustable reasoning levels, short spoken preambles before tool use, parallel tool calling, and improved recovery behavior when a request fails or changes mid-conversation.
 
-OpenAI's developer docs now route those use cases through separate realtime paths: standard voice-agent sessions on **/v1/realtime**, a dedicated translations endpoint for continuous speech translation, and streaming transcription sessions for transcript deltas.
+OpenAI says Translate accepts **more than 70 input languages** and produces **13 output languages**, aimed at live support, events, and other multilingual workflows. Realtime-Whisper is positioned as a low-latency speech-to-text model that streams transcript updates as audio arrives.
+
+Pricing also splits by use case. OpenAI lists GPT-Realtime-2 at **$32 per 1 million audio input tokens** and **$64 per 1 million audio output tokens**, while GPT-Realtime-Translate costs **$0.034 per minute** and GPT-Realtime-Whisper costs **$0.017 per minute**.
 
 ## Why it matters
 
-This is not a brand-new consumer app. It is an infrastructure release aimed at teams building customer support, travel, education, and multilingual voice software. The practical shift is that reasoning, translation, and transcription now sit inside OpenAI's realtime API lineup rather than requiring as much model stitching. Pricing also signals the target market: GPT-Realtime-2 is billed per audio token, while Translate and Whisper are priced per minute, making the launch easier for developers to evaluate as an operational service.
+The practical takeaway is not a flashy consumer demo but a more structured voice stack for developers building call centers, meeting tools, live captioning, and multilingual support. OpenAI is separating realtime voice into three product paths—agentic conversation, translation, and transcription—while pushing more reasoning and tool use into the voice-agent tier. That should make voice apps easier to design, even if real-world results will still depend on latency, language coverage, and deployment-specific guardrails.
