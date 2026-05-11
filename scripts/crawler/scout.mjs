@@ -64,8 +64,17 @@ function toCandidate(tweet, discoverySource, query) {
   };
 }
 
+function selectRotatingWindow(items, count) {
+  if (items.length <= count) return [...items];
+
+  const fourHourBucket = Math.floor(Date.now() / (4 * 60 * 60 * 1000));
+  const start = fourHourBucket % items.length;
+  const rotated = items.slice(start).concat(items.slice(0, start));
+  return rotated.slice(0, count);
+}
+
 function fetchPriorityAccountCandidates() {
-  const selected = PRIORITY_X_ACCOUNTS.slice(0, SEARCH_LIMITS.accountsPerRun);
+  const selected = selectRotatingWindow(PRIORITY_X_ACCOUNTS, SEARCH_LIMITS.accountsPerRun);
   const results = [];
 
   for (const username of selected) {
@@ -125,7 +134,7 @@ async function main() {
     generatedAt: new Date().toISOString(),
     maxCandidates: SEARCH_LIMITS.maxCandidates,
     scannedSources: {
-      priorityAccounts: PRIORITY_X_ACCOUNTS.slice(0, SEARCH_LIMITS.accountsPerRun),
+      priorityAccounts: selectRotatingWindow(PRIORITY_X_ACCOUNTS, SEARCH_LIMITS.accountsPerRun),
       searchQueries: SEARCH_QUERIES.slice(0, SEARCH_LIMITS.searchQueriesPerRun),
       jinaSearches: JINA_MEDIA_SEARCHES.map((entry) => entry.name),
     },

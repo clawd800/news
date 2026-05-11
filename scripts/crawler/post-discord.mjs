@@ -58,11 +58,28 @@ function pickAttachment(articleDir) {
   throw new Error(`No attachment found in ${articleDir}`);
 }
 
+function normalizeTitle(rawTitle) {
+  let title = String(rawTitle || '').trim();
+
+  title = title.replace(/^#+\s*/, '').trim();
+
+  const markdownLinkMatch = title.match(/^\[(.+)\]\((https?:\/\/[^)]+)\)$/);
+  if (markdownLinkMatch) {
+    title = markdownLinkMatch[1].trim();
+  }
+
+  while (/^\[[^\]]+\]$/.test(title)) {
+    title = title.slice(1, -1).trim();
+  }
+
+  return title;
+}
+
 async function main() {
   const args = parseArgs(process.argv.slice(2));
   const date = requireArg(args, 'date');
   const slug = requireArg(args, 'slug');
-  const title = requireArg(args, 'title');
+  const title = normalizeTitle(requireArg(args, 'title'));
   const summary = requireArg(args, 'summary');
   const author = requireArg(args, 'author');
   const articleUrl = requireArg(args, 'article-url');
