@@ -48,6 +48,39 @@ function requireArg(args, name) {
   return String(value);
 }
 
+function optionalArg(args, name, fallback = '') {
+  const value = args[name];
+  if (!value || value === true) return fallback;
+  return String(value);
+}
+
+function readArticleMetadata(articleDir) {
+  const indexPath = path.join(articleDir, 'index.md');
+  if (!fs.existsSync(indexPath)) return {};
+
+  const content = fs.readFileSync(indexPath, 'utf8');
+  const frontmatter = content.match(/^---\n([\s\S]*?)\n---/);
+  if (!frontmatter) return {};
+
+  const meta = {};
+  for (const line of frontmatter[1].split(/\r?\n/)) {
+    const match = line.match(/^([a-zA-Z][\w-]*):\s*(.*)$/);
+    if (!match) continue;
+    const key = match[1];
+    let value = match[2].trim();
+    if ((value.startsWith('"') && value.endsWith('"')) || (value.startsWith("'") && value.endsWith("'"))) {
+      value = value.slice(1, -1);
+    }
+    meta[key] = value;
+  }
+  return meta;
+}
+
+function requireValue(value, name) {
+  if (!value) throw new Error(`Missing required value ${name}`);
+  return value;
+}
+
 function pickAttachment(articleDir) {
   const videoPath = path.join(articleDir, 'video.mp4');
   if (fs.existsSync(videoPath)) return videoPath;
@@ -79,13 +112,14 @@ async function main() {
   const args = parseArgs(process.argv.slice(2));
   const date = requireArg(args, 'date');
   const slug = requireArg(args, 'slug');
-  const title = normalizeTitle(requireArg(args, 'title'));
-  const summary = requireArg(args, 'summary');
-  const author = requireArg(args, 'author');
-  const articleUrl = requireArg(args, 'article-url');
   const articleDir = args['article-dir']
     ? path.resolve(String(args['article-dir']))
     : path.join(projectRoot, 'news', date, slug);
+  const articleMeta = readArticleMetadata(articleDir);
+  const title = normalizeTitle(requireValue(optionalArg(args, 'title', articleMeta.title), '--title or frontmatter title'));
+  const summary = requireValue(optionalArg(args, 'summary', articleMeta.summary), '--summary or frontmatter summary');
+  const author = requireValue(optionalArg(args, 'author', articleMeta.author), '--author or frontmatter author');
+  const articleUrl = optionalArg(args, 'article-url', `https://news.800.works/news/${date}/${slug}/`);
 
   const envFile = readEnvFile(path.join(projectRoot, '.env'));
   const webhookUrl = String(args['webhook-url'] || process.env.DISCORD_WEBHOOK_URL || envFile.DISCORD_WEBHOOK_URL || '');
