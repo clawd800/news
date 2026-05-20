@@ -1,4 +1,4 @@
-Open News crawler v4, budgeted workflow.
+Open News crawler v5, budgeted workflow.
 
 ## Goal
 Publish at most ONE article to news.800.works if a genuinely worthy topic exists.
@@ -18,6 +18,7 @@ Avoid exploratory commands that can exit nonzero. In particular:
 - Do not use `curl -f` or `curl --fail` for optional source checks.
 - Do not use raw `grep` or `rg` for optional keyword checks unless the command is made non-failing.
 - Do not fetch guessed URLs with a command that will exit nonzero on 404.
+- Do not use `ffmpeg`, ImageMagick, `sips`, browser screenshots, or SVG-to-PNG conversion commands for thumbnails.
 
 For ad hoc source URL checks and keyword matching, use the safe helper:
 - `node scripts/crawler/safe-fetch.mjs "https://example.com/post" --match "keyword|phrase"`
@@ -69,6 +70,14 @@ Requirements:
 - frontmatter includes: title, date, author, tags, summary, thumbnail, sources
 - sources stay in frontmatter only
 - slug must be descriptive lowercase hyphenated
+
+## Step 4.5: Safe Thumbnail
+Every article needs `thumbnail.png` for the site and Discord helper.
+
+Use the built-in helper only:
+- `node scripts/crawler/ensure-thumbnail.mjs --article-dir news/YYYY-MM-DD/slug --title "Article title"`
+
+Do not attempt media conversion yourself. Do not run `ffmpeg`, ImageMagick, `sips`, screenshot tooling, or SVG conversion. The helper creates a valid PNG and exits nonzero only on a real required-thumbnail failure.
 
 ## Step 5: Build And Publish
 From `/Users/clawd/Projects/news-repo`:
