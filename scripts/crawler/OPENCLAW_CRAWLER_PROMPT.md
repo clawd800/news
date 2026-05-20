@@ -1,28 +1,49 @@
-Open News crawler v2, budgeted workflow.
+Open News crawler v4, budgeted workflow.
 
 ## Goal
 Publish at most ONE article to news.800.works if a genuinely worthy topic exists.
 
+## Critical Repo Path
+Use exactly this repository for every repo command:
+- `/Users/clawd/Projects/news-repo`
+
+Do not use `/Users/clawd/Projects/news`.
+Do not use `/Users/clawd/clawd/projects/news`.
+The active repo already has `.env` linked for Discord.
+
+## Cron Failure Discipline
+OpenClaw cron marks the whole run failed if any tool call fails, even if you later recover and publish successfully.
+
+Avoid exploratory commands that can exit nonzero. In particular:
+- Do not use `curl -f` or `curl --fail` for optional source checks.
+- Do not use raw `grep` or `rg` for optional keyword checks unless the command is made non-failing.
+- Do not fetch guessed URLs with a command that will exit nonzero on 404.
+
+For ad hoc source URL checks and keyword matching, use the safe helper:
+- `node scripts/crawler/safe-fetch.mjs "https://example.com/post" --match "keyword|phrase"`
+
+That helper reports HTTP status, network errors, and regex matches as JSON while exiting 0. Treat `httpOk: false` or `matched: false` as data, discard that source, and continue with another verified source. Only let commands fail when the failure should genuinely stop the publish, such as build, commit, or push failure.
+
 ## Workflow
 1. Run the scout/brief pipeline first and trust its shortlist.
 2. Pick the best candidate only if it clears the quality bar.
-3. Verify the facts and primary sources.
+3. Verify facts and primary sources using non-failing probes for optional sources.
 4. Write, build, publish, log, and send Discord webhook.
 
-## Hard constraints
+## Hard Constraints
 - Do NOT do broad topic exploration yourself before checking the scout shortlist.
 - Do NOT use browser or screenshots.
 - Do NOT publish more than 1 article.
 - If the shortlist is weak, you may stop with `No worthy topics found this hour.`
 - Never invent reasons or claim a rule blocked a step unless this prompt explicitly says so.
 
-## Step 1: Get shortlist
-From `~/clawd/projects/news`, run:
+## Step 1: Get Shortlist
+From `/Users/clawd/Projects/news-repo`, run:
 - `node scripts/crawler/brief.mjs`
 
 Use the generated shortlist as the primary candidate pool.
 
-## Step 2: Choose topic or stop
+## Step 2: Choose Topic Or Stop
 Choose the strongest candidate that is:
 - new, specific, and verifiable
 - AI, agents, robotics, developer infra, Ethereum/Base, stablecoins, or notable Web3 infra
@@ -31,15 +52,17 @@ Choose the strongest candidate that is:
 If nothing clears the bar, output exactly:
 - `No worthy topics found this hour.`
 
-## Step 3: Duplicate + fact check
+## Step 3: Duplicate And Fact Check
 Before writing:
+- run `git pull origin main`
 - check for overlap with existing stories in `news/`
 - verify key claims from at least 2 sources when possible
 - prefer primary sources
+- use `safe-fetch.mjs` for guessed or optional URLs
 - if claims conflict, use the most conservative verified version
 
-## Step 4: Write article
-Follow `~/clawd/projects/news/CONTRIBUTING.md`.
+## Step 4: Write Article
+Follow `/Users/clawd/Projects/news-repo/CONTRIBUTING.md`.
 Requirements:
 - 200-300 words
 - factual, not hypey
@@ -47,18 +70,17 @@ Requirements:
 - sources stay in frontmatter only
 - slug must be descriptive lowercase hyphenated
 
-## Step 5: Build and publish
-From `~/clawd/projects/news`:
-- `git pull origin main`
+## Step 5: Build And Publish
+From `/Users/clawd/Projects/news-repo`:
 - ensure thumbnail exists and is non-empty
 - `npx @11ty/eleventy`
-- `git add -A`
+- inspect `git status --short` and only add the intended new article files
 - `git commit -m "Add article: [slug]"`
 - `git push origin main`
 
 If build/publish fails, report the real failure and stop.
 
-## Step 6: Log locally
+## Step 6: Log Locally
 After successful publish, ALWAYS log both:
 
 ### Daily memory log
@@ -72,19 +94,13 @@ Append to `~/clawd/memory/posts-log.md`:
 
 If local logging fails after publish, say so honestly in the report, but do not pretend publishing failed.
 
-## Step 7: Discord webhook (Hunt Town #trends)
+## Step 7: Discord Webhook
 After successful publish, ALWAYS attempt the Discord webhook.
 
-Use the helper script from `~/clawd/projects/news`:
-- `node scripts/crawler/post-discord.mjs --date YYYY-MM-DD --slug slug --title "Title" --summary "Summary" --author "@author" --article-url "https://news.800.works/news/YYYY-MM-DD/slug/"`
+Use the helper script from `/Users/clawd/Projects/news-repo` with only date and slug:
+- `node scripts/crawler/post-discord.mjs --date YYYY-MM-DD --slug slug`
 
-Rules:
-- the script auto-loads `DISCORD_WEBHOOK_URL` from `~/clawd/projects/news/.env`
-- the script auto-attaches `video.mp4` if present, otherwise `thumbnail.png` / `thumbnail.jpg`
-- the script sends the content as real multiline text with `flags: 4`
-- title line format is `# Title` (plain heading), not `# [Title]`
-- do not set custom username or avatar_url
-- do not hand-roll `payload_json` with shell `\n` escapes; that can post literal `\n` into Discord
+The helper reads title, summary, and author from article frontmatter and auto-loads `DISCORD_WEBHOOK_URL` from `.env`. Do not pass title or summary as inline shell arguments, especially if they contain dollar amounts such as `$816K`; shell expansion can mangle public Discord text.
 
 If the Discord webhook fails, report:
 - `Discord: ❌ <real reason>`
@@ -94,7 +110,7 @@ If it succeeds, report:
 
 Never say Discord was skipped due to a "task rule" unless this prompt explicitly says to skip it. It does not.
 
-## Final report format
+## Final Report Format
 If published:
 - `Published: [title]`
 - `URL: https://news.800.works/news/YYYY-MM-DD/slug/`

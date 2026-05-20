@@ -30,11 +30,15 @@ The LLM should then spend tokens only on:
 npm test
 npm run crawler:scout
 node scripts/crawler/brief.mjs
+node scripts/crawler/safe-fetch.mjs "https://example.com/post" --match "keyword|phrase"
 ```
+
+Use `safe-fetch.mjs` for ad hoc source probing inside OpenClaw cron runs. It reports
+404s, network errors, and missing keyword matches as JSON and exits with status 0, so
+a bad guessed URL does not poison an otherwise successful publish run.
 
 ## Current status
 
 - existing production crawler cron is disabled during development
 - this refactor is designed to be wired into a smaller, version-controlled cron prompt
 - do not re-enable the crawler until manual review is done
-
