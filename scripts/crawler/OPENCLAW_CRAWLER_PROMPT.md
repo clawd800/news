@@ -1,4 +1,4 @@
-Open News crawler v5, budgeted workflow.
+Open News crawler v6, budgeted workflow.
 
 ## Goal
 Publish at most ONE article to news.800.works if a genuinely worthy topic exists.
@@ -19,6 +19,7 @@ Avoid exploratory commands that can exit nonzero. In particular:
 - Do not use raw `grep` or `rg` for optional keyword checks unless the command is made non-failing.
 - Do not fetch guessed URLs with a command that will exit nonzero on 404.
 - Do not use `ffmpeg`, ImageMagick, `sips`, browser screenshots, or SVG-to-PNG conversion commands for thumbnails.
+- Do not hand-roll shell wrappers for optional failures. In zsh, names like `status` are special/read-only and can make the wrapper itself fail.
 
 For ad hoc source URL checks and keyword matching, use the safe helper:
 - `node scripts/crawler/safe-fetch.mjs "https://example.com/post" --match "keyword|phrase"`
@@ -107,9 +108,9 @@ If local logging fails after publish, say so honestly in the report, but do not 
 After successful publish, ALWAYS attempt the Discord webhook.
 
 Use the helper script from `/Users/clawd/Projects/news-repo` with only date and slug:
-- `node scripts/crawler/post-discord.mjs --date YYYY-MM-DD --slug slug`
+- `node scripts/crawler/post-discord-safe.mjs --date YYYY-MM-DD --slug slug`
 
-The helper reads title, summary, and author from article frontmatter and auto-loads `DISCORD_WEBHOOK_URL` from `.env`. Do not pass title or summary as inline shell arguments, especially if they contain dollar amounts such as `$816K`; shell expansion can mangle public Discord text.
+The safe helper reads title, summary, and author from article frontmatter, auto-loads `DISCORD_WEBHOOK_URL` from `.env`, prints `Discord: ✅` or `Discord: ❌ <real reason>`, and always exits 0 so webhook trouble can be reported without marking the whole cron run failed. Do not pass title or summary as inline shell arguments, especially if they contain dollar amounts such as `$816K`; shell expansion can mangle public Discord text.
 
 If the Discord webhook fails, report:
 - `Discord: ❌ <real reason>`
