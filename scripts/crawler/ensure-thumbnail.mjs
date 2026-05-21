@@ -104,6 +104,17 @@ function writePng(filePath, title) {
   fs.writeFileSync(filePath, png);
 }
 
+function ensureRealThumbnail(filePath) {
+  if (!fs.existsSync(filePath)) {
+    throw new Error(`Missing thumbnail.png at ${filePath}. Generate a real article thumbnail before publishing.`);
+  }
+
+  const stat = fs.statSync(filePath);
+  if (!stat.isFile() || stat.size <= 0) {
+    throw new Error(`Invalid thumbnail.png at ${filePath}: file is empty or not a regular file.`);
+  }
+}
+
 function main() {
   const args = parseArgs(process.argv.slice(2));
   const articleDir = args['article-dir'];
@@ -112,14 +123,19 @@ function main() {
   }
 
   const output = path.resolve(String(articleDir), 'thumbnail.png');
-  if (fs.existsSync(output) && fs.statSync(output).size > 0 && !args.force) {
-    console.log(JSON.stringify({ ok: true, path: output, skipped: true }));
+  if (args.placeholder) {
+    if (fs.existsSync(output) && fs.statSync(output).size > 0 && !args.force) {
+      console.log(JSON.stringify({ ok: true, path: output, skipped: true }));
+      return;
+    }
+    fs.mkdirSync(path.dirname(output), { recursive: true });
+    writePng(output, args.title || '');
+    console.log(JSON.stringify({ ok: true, path: output, bytes: fs.statSync(output).size, placeholder: true }));
     return;
   }
 
-  fs.mkdirSync(path.dirname(output), { recursive: true });
-  writePng(output, args.title || '');
-  console.log(JSON.stringify({ ok: true, path: output, bytes: fs.statSync(output).size }));
+  ensureRealThumbnail(output);
+  console.log(JSON.stringify({ ok: true, path: output, bytes: fs.statSync(output).size, validated: true }));
 }
 
 main();

@@ -1,4 +1,4 @@
-Open News crawler v6, budgeted workflow.
+Open News crawler v7, budgeted workflow.
 
 ## Goal
 Publish at most ONE article to news.800.works if a genuinely worthy topic exists.
@@ -72,13 +72,18 @@ Requirements:
 - sources stay in frontmatter only
 - slug must be descriptive lowercase hyphenated
 
-## Step 4.5: Safe Thumbnail
-Every article needs `thumbnail.png` for the site and Discord helper.
+## Step 4.5: Real Thumbnail
+Every article needs a real `thumbnail.png` for the site and Discord helper.
 
-Use the built-in helper only:
+Create or select the thumbnail before publishing:
+- Preferred: use the image generation tool to create a news-style editorial image for the specific article topic, then save/copy it to `news/YYYY-MM-DD/slug/thumbnail.png`.
+- Acceptable: use an official/source-provided image only when it is clearly tied to the story and can be saved directly as `thumbnail.png` without conversion.
+- Do not publish abstract color gradients, striped placeholders, screenshots, or unrelated stock-like images.
+
+After the real thumbnail is in place, validate it with:
 - `node scripts/crawler/ensure-thumbnail.mjs --article-dir news/YYYY-MM-DD/slug --title "Article title"`
 
-Do not attempt media conversion yourself. Do not run `ffmpeg`, ImageMagick, `sips`, screenshot tooling, or SVG conversion. The helper creates a valid PNG and exits nonzero only on a real required-thumbnail failure.
+Do not attempt media conversion yourself. Do not run `ffmpeg`, ImageMagick, `sips`, screenshot tooling, or SVG conversion. The helper validates that a thumbnail exists; it must not be used as a placeholder generator. If a real thumbnail cannot be created, stop before publishing and report the thumbnail failure.
 
 ## Step 5: Build And Publish
 From `/Users/clawd/Projects/news-repo`:
