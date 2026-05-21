@@ -1,4 +1,4 @@
-Open News crawler v7, budgeted workflow.
+Open News crawler v8, budgeted workflow.
 
 ## Goal
 Publish at most ONE article to news.800.works if a genuinely worthy topic exists.
@@ -18,7 +18,8 @@ Avoid exploratory commands that can exit nonzero. In particular:
 - Do not use `curl -f` or `curl --fail` for optional source checks.
 - Do not use raw `grep` or `rg` for optional keyword checks unless the command is made non-failing.
 - Do not fetch guessed URLs with a command that will exit nonzero on 404.
-- Do not use `ffmpeg`, ImageMagick, `sips`, browser screenshots, or SVG-to-PNG conversion commands for thumbnails.
+- Do not run raw `ffmpeg`, ImageMagick, `sips`, browser screenshots, or SVG-to-PNG conversion commands for thumbnails.
+- If an article has a video, use `node scripts/crawler/video-thumbnail.mjs` instead of calling `ffmpeg` directly. It reports optional video extraction failures as JSON with exit 0.
 - Do not hand-roll shell wrappers for optional failures. In zsh, names like `status` are special/read-only and can make the wrapper itself fail.
 
 For ad hoc source URL checks and keyword matching, use the safe helper:
@@ -75,15 +76,19 @@ Requirements:
 ## Step 4.5: Real Thumbnail
 Every article needs a real `thumbnail.png` for the site and Discord helper.
 
-Create or select the thumbnail before publishing:
-- Preferred: use the image generation tool to create a news-style editorial image for the specific article topic, then save/copy it to `news/YYYY-MM-DD/slug/thumbnail.png`.
-- Acceptable: use an official/source-provided image only when it is clearly tied to the story and can be saved directly as `thumbnail.png` without conversion.
+Create the thumbnail before publishing:
+- If the article includes a relevant `video.mp4`, create `thumbnail.png` from the video first:
+  - `node scripts/crawler/video-thumbnail.mjs --article-dir news/YYYY-MM-DD/slug`
+  - If it reports `ok: true`, use that `thumbnail.png`.
+  - If it reports `ok: false`, continue to generated imagery. Do not treat optional video extraction failure as a publish failure by itself.
+- Otherwise, or if video extraction fails, use the image generation tool to create an original news-style editorial image for the specific article topic, then save it to `news/YYYY-MM-DD/slug/thumbnail.png`.
+- Do not fetch, copy, or reuse official/source-provided/static web images.
 - Do not publish abstract color gradients, striped placeholders, screenshots, or unrelated stock-like images.
 
 After the real thumbnail is in place, validate it with:
 - `node scripts/crawler/ensure-thumbnail.mjs --article-dir news/YYYY-MM-DD/slug --title "Article title"`
 
-Do not attempt media conversion yourself. Do not run `ffmpeg`, ImageMagick, `sips`, screenshot tooling, or SVG conversion. The helper validates that a thumbnail exists; it must not be used as a placeholder generator. If a real thumbnail cannot be created, stop before publishing and report the thumbnail failure.
+Do not attempt media conversion yourself except through `video-thumbnail.mjs` for real videos. Do not run raw `ffmpeg`, ImageMagick, `sips`, screenshot tooling, or SVG conversion. `ensure-thumbnail.mjs` only validates that a thumbnail exists; it cannot generate placeholder art. If a real thumbnail cannot be created or generated, stop before publishing and report the thumbnail failure.
 
 ## Step 5: Build And Publish
 From `/Users/clawd/Projects/news-repo`:

@@ -78,10 +78,13 @@ Before submitting, verify:
 
 ## Thumbnail Generation
 
-Every article needs a 16:9 thumbnail. Options (in order of preference):
+Every article needs a 16:9 thumbnail. Use this order:
 
-1. **Generate with an image tool** if you have one (Gemini, DALL-E, etc.). Write a specific prompt that matches the article content.
-2. **Download from source** — official press images, product screenshots, or demo frames from the article's source material are fine for news reporting purposes.
+1. **Extract a frame from `video.mp4`** when the article has a relevant video. Use the repo helper instead of calling `ffmpeg` directly:
+   `node scripts/crawler/video-thumbnail.mjs --article-dir news/YYYY-MM-DD/slug`
+2. **Generate an original image** with an image tool when there is no video frame. Write a specific prompt that matches the article content.
+
+Do not download, copy, or reuse official press images, product screenshots, source images, stock art, gradients, or generic fallback patterns as the thumbnail.
 
 **Good image gen prompts:**
 - "A humanoid robot arm assembling circuit boards on a factory line, dramatic lighting, editorial photo style" (robotics article)
@@ -97,6 +100,7 @@ Every article needs a 16:9 thumbnail. Options (in order of preference):
 - Should make sense as a thumbnail even without reading the title
 - No text baked into the image (titles are rendered by the site)
 - Minimum 1024px wide, 16:9 aspect ratio
+- If no video frame or original generated image is available, stop before publishing.
 
 ## Video Sourcing
 

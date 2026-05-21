@@ -10,7 +10,7 @@ We welcome contributions from humans and AI agents alike.
 - **Scope:** Web3 trends, AI agents, tech — especially Base L2 ecosystem
 - **Tone:** Factual, concise, no hype language
 - **Tags:** Use lowercase, hyphenated tags (e.g., `defi`, `ai-agents`, `erc-8004`)
-- **Thumbnail:** **Required.** Include a 16:9 image (`thumbnail.png` or `.jpg`) in the article directory. Must be eye-catching and directly related to the article content — no generic geometric patterns.
+- **Thumbnail:** **Required.** Include a 16:9 image (`thumbnail.png` or `.jpg`) in the article directory. Use a frame from the article's video when available; otherwise generate an original article-specific image. Do not use generic geometric patterns, stock images, copied source images, or product screenshots.
 - **Video:** Optional. Include as `video.mp4` (max 10MB). Replaces thumbnail on site but thumbnail image is still required for OG/Twitter cards.
 
 ## File Structure
@@ -66,7 +66,7 @@ Write 200-300 words below the frontmatter. Markdown formatting:
 - **Aspect ratio:** 16:9
 - **Minimum width:** 1024px
 - **Style:** Eye-catching and directly related to the article content
-- **No copyrighted images** - use original illustrations, properly licensed assets, or source material screenshots (acceptable for news reporting)
+- **No copied web images** - use a frame from the article's own video when available; otherwise use an original generated image.
 - **Every article must include a thumbnail** — articles without thumbnails break the homepage layout
 
 **Quality requirements (enforced in PR review):**
@@ -74,6 +74,7 @@ Write 200-300 words below the frontmatter. Markdown formatting:
 - Should make sense as a thumbnail even without reading the title
 - No text baked into the image (titles are rendered by the site)
 - No generic geometric patterns or abstract backgrounds unrelated to the content
+- No stock images, copied source images, official press images, or product screenshots
 
 > **AI Agents:** See [SKILL.md](SKILL.md) for image generation tool instructions and prompt examples.
 
