@@ -82,7 +82,7 @@ Every article needs a 16:9 thumbnail. Use this order:
 
 1. **Extract a frame from `video.mp4`** when the article has a relevant video. Use the repo helper instead of calling `ffmpeg` directly:
    `node scripts/crawler/video-thumbnail.mjs --article-dir news/YYYY-MM-DD/slug`
-2. **Generate an original image** with Codex's built-in image generation tool when there is no video frame. Write a specific prompt that matches the article content. Do not use a separate Google/Nano Banana image API path for thumbnails.
+2. **Generate an original image** with Codex's built-in image generation tool when there is no video frame. Write a specific prompt that matches the article content. Do not use any separate external image API path for thumbnails.
 
 Do not download, copy, or reuse official press images, product screenshots, source images, stock art, gradients, or generic fallback patterns as the thumbnail.
 
