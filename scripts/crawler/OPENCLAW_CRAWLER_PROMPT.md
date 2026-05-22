@@ -81,7 +81,9 @@ Create the thumbnail before publishing:
   - `node scripts/crawler/video-thumbnail.mjs --article-dir news/YYYY-MM-DD/slug`
   - If it reports `ok: true`, use that `thumbnail.png`.
   - If it reports `ok: false`, continue to generated imagery. Do not treat optional video extraction failure as a publish failure by itself.
-- Otherwise, or if video extraction fails, use the image generation tool to create an original news-style editorial image for the specific article topic, then save it to `news/YYYY-MM-DD/slug/thumbnail.png`.
+- Otherwise, or if video extraction fails, use Codex's built-in image generation tool to create an original news-style editorial image for the specific article topic, then save it to `news/YYYY-MM-DD/slug/thumbnail.png`.
+- Do not use a separate Google/Nano Banana image API path for crawler thumbnails.
+- If Codex image generation is unavailable, stop before publishing and report that thumbnail generation was unavailable.
 - Do not fetch, copy, or reuse official/source-provided/static web images.
 - Do not publish abstract color gradients, striped placeholders, screenshots, or unrelated stock-like images.
 

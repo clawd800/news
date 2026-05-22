@@ -40,8 +40,10 @@ Use `safe-fetch.mjs` for ad hoc source probing inside OpenClaw cron runs. It rep
 a bad guessed URL does not poison an otherwise successful publish run.
 
 For thumbnails, use video frames first when the article has `video.mp4`; otherwise
-generate an original article-specific image. `ensure-thumbnail.mjs` is validation only.
-It must not create gradients, stripes, stock images, or other fallback art.
+generate an original article-specific image with Codex's built-in image generation
+tool. Do not use a separate Google/Nano Banana image API path. `ensure-thumbnail.mjs`
+is validation only. It must not create gradients, stripes, stock images, or other
+fallback art.
 
 ## Current status
 
