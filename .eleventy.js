@@ -69,11 +69,17 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
-  // Sorted article collection
-  eleventyConfig.addCollection("article", (api) =>
+  const getSortedArticles = (api) =>
     api
       .getFilteredByGlob("news/*/*/index.md")
-      .sort((a, b) => new Date(b.data.date) - new Date(a.data.date))
+      .sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
+
+  // Sorted article collection
+  eleventyConfig.addCollection("article", getSortedArticles);
+
+  // Latest articles for feed outputs
+  eleventyConfig.addCollection("feedArticle", (api) =>
+    getSortedArticles(api).slice(0, 50)
   );
 
   return {

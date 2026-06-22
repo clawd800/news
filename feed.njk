@@ -8,11 +8,11 @@ eleventyExcludeFromCollections: true
   <link href="https://news.800.works/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.800.works/"/>
   <id>https://news.800.works/</id>
-  {% set latest = collections.article | first %}
+  {% set latest = collections.feedArticle | first %}
   {% if latest %}
   <updated>{{ latest.data.date | toISOString }}</updated>
   {% endif %}
-  {% for article in collections.article %}
+  {% for article in collections.feedArticle %}
   <entry>
     <title>{{ article.data.title }}</title>
     <link href="https://news.800.works{{ article.url }}"/>
