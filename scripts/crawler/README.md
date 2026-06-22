@@ -1,28 +1,23 @@
-# Open News crawler refactor
+# Open News crawler utilities
 
-This directory contains the deterministic scouting layer for the Open News cron.
+This directory contains optional local utilities for finding article candidates,
+checking duplicate risk, and validating article media. These tools are not
+required for normal article contributions; the public contribution workflow is
+documented in `CONTRIBUTING.md`.
 
 ## Why
 
-The original cron prompt let the agent do broad topic exploration itself. That produced:
+Manual topic exploration can be noisy and repetitive. These scripts make the
+repeatable parts easier to run locally:
 
 - high token usage
 - long runtimes
 - timeout risk
 - noisy search loops
 
-This refactor moves the cheap, repeatable parts into local scripts:
-
 - source collection from curated X accounts and constrained search
 - duplicate detection against existing articles
 - heuristic ranking and filtering
-
-The LLM should then spend tokens only on:
-
-- picking from the shortlist
-- fact-checking one candidate
-- writing the article
-- publishing
 
 ## Commands
 
@@ -35,18 +30,22 @@ node scripts/crawler/video-thumbnail.mjs --article-dir news/YYYY-MM-DD/slug
 node scripts/crawler/ensure-thumbnail.mjs --article-dir news/YYYY-MM-DD/slug
 ```
 
-Use `safe-fetch.mjs` for ad hoc source probing inside OpenClaw cron runs. It reports
-404s, network errors, and missing keyword matches as JSON and exits with status 0, so
-a bad guessed URL does not poison an otherwise successful publish run.
+`npm run crawler:scout` uses local source integrations, including an X search
+CLI named `bird` when available. Optional API credentials, such as `JINA_API_KEY`,
+should be provided through environment variables or an ignored local `.env` file.
+Never commit local credentials.
 
-For thumbnails, use video frames first when the article has `video.mp4`; otherwise
-generate an original article-specific image with Codex's built-in image generation
-tool. Do not use any separate external image API path. `ensure-thumbnail.mjs`
-is validation only. It must not create gradients, stripes, stock images, or other
-fallback art.
+Use `safe-fetch.mjs` for ad hoc source probing. It reports 404s, network errors,
+and missing keyword matches as JSON and exits with status 0, so a bad guessed URL
+can be treated as data instead of interrupting a broader review.
 
-## Current status
+For thumbnails, use video frames first when the article has `video.mp4`.
+Otherwise, create an original article-specific image with your preferred image
+generation or design workflow. `ensure-thumbnail.mjs` is validation only. It must
+not create gradients, stripes, stock images, or other fallback art.
 
-- existing production crawler cron is disabled during development
-- this refactor is designed to be wired into a smaller, version-controlled cron prompt
-- do not re-enable the crawler until manual review is done
+## Private Automation
+
+Machine-specific prompts, local memory loggers, webhook posters, and deployment
+credentials are intentionally excluded from this repository. Keep them in ignored
+local files or in a separate private automation repository.

@@ -11,6 +11,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.ignores.add("README.md");
   eleventyConfig.ignores.add("CONTRIBUTING.md");
   eleventyConfig.ignores.add("SKILL.md");
+  eleventyConfig.ignores.add("scripts/**/*.md");
 
   // Date filters
   eleventyConfig.addFilter("isoDate", (date) =>

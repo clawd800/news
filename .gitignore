@@ -2,3 +2,13 @@ _site/
 node_modules/
 .DS_Store
 .env
+.env.*
+!.env.example
+
+# Local publishing/agent automation. These files may contain machine paths,
+# private workflow instructions, webhook configuration, or local logging paths.
+scripts/crawler/OPENCLAW_CRAWLER_PROMPT.md
+scripts/crawler/log-publish-safe.mjs
+scripts/crawler/post-discord.mjs
+scripts/crawler/post-discord-safe.mjs
+.open-news-local/
