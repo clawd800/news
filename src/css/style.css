@@ -475,6 +475,30 @@ a.meta-author:hover {
 
 .footer-sep { opacity: 0.4; }
 
+.footer-feed-group,
+.footer-feed-links {
+  display: inline-flex;
+  align-items: center;
+}
+
+.footer-feed-group {
+  gap: 0.35rem;
+  white-space: nowrap;
+}
+
+.footer-feed-label {
+  color: var(--text-3);
+}
+
+.footer-feed-links {
+  gap: 0.3rem;
+}
+
+.footer-feed-divider {
+  color: var(--text-3);
+  opacity: 0.55;
+}
+
 /* --- Pagination --- */
 .pagination {
   margin: 3rem 0 1rem;
