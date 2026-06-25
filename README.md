@@ -1,12 +1,12 @@
 # Web3 News Wire
 
-Open-source Web3 news, especially Base. Updated hourly.
+Open-source Web3 and AI news. Updated hourly.
 
 🌐 **[news.800.works](https://news.800.works)**
 
 ## What
 
-Short-form Web3 news articles (200-300 words) published as markdown files with co-located thumbnail images. Built with [Eleventy](https://www.11ty.dev/), deployed to GitHub Pages.
+Short-form Web3 and AI news articles (200-300 words) published as markdown files with co-located thumbnail images. Built with [Eleventy](https://www.11ty.dev/), deployed to GitHub Pages.
 
 ## How It Works
 
@@ -28,7 +28,12 @@ src/                    # Templates, styles, scripts
   js/                   # Theme toggle
 index.njk               # Homepage
 feed.njk                # RSS feed
+feed.json.njk           # Full JSON feed
+crypto.json.njk         # Crypto/Web3 JSON feed
+ai.json.njk             # AI JSON feed
 ```
+
+Feeds are available at `/feed.json`, `/crypto.json`, `/ai.json`, and `/feed.xml`.
 
 Each article is a markdown file with YAML frontmatter (title, date, author, tags, summary, thumbnail, sources).
 

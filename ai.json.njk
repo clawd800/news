@@ -1,0 +1,9 @@
+---
+permalink: /ai.json
+eleventyExcludeFromCollections: true
+---
+{% set feedTitle = "Open News - AI" %}
+{% set feedUrl = "https://news.800.works/ai.json" %}
+{% set feedDescription = "Latest AI news from Open News" %}
+{% set feedItems = collections.aiFeedArticle %}
+{% include "json-feed.njk" %}

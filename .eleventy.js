@@ -1,3 +1,90 @@
+const CRYPTO_TAGS = new Set([
+  "aave",
+  "account-abstraction",
+  "arbitrum",
+  "base",
+  "bitcoin",
+  "blockchain",
+  "bridge",
+  "coinbase",
+  "crypto",
+  "crypto-markets",
+  "crypto-policy",
+  "crypto-treasury",
+  "defi",
+  "digital-assets",
+  "ethereum",
+  "etf",
+  "layer-1",
+  "layer2",
+  "mining",
+  "monad",
+  "onchain-credit",
+  "polymarket",
+  "prediction-markets",
+  "restaking",
+  "rwa",
+  "solana",
+  "stablecoin",
+  "stablecoins",
+  "staking",
+  "stellar",
+  "sui",
+  "tokenization",
+  "tokenized-securities",
+  "usdc",
+  "validator-clients",
+  "web3",
+  "web3-infra",
+  "xrp",
+]);
+
+const AI_TAGS = new Set([
+  "agentic-ai",
+  "agents",
+  "ai",
+  "ai-agents",
+  "ai-gateway",
+  "ai-infrastructure",
+  "ai-safety",
+  "anthropic",
+  "autonomous-vehicles",
+  "chatgpt",
+  "claude",
+  "claude-code",
+  "codex",
+  "copilot",
+  "edge-ai",
+  "embodied-ai",
+  "enterprise-ai",
+  "generative-ai",
+  "gemini",
+  "humanoid",
+  "humanoid-robots",
+  "llm",
+  "model-routing",
+  "multimodal",
+  "on-device-ai",
+  "open-models",
+  "openai",
+  "perplexity",
+  "physical-ai",
+  "robotics",
+  "scientific-ai",
+  "video-generation",
+  "voice-ai",
+  "world-models",
+  "xai",
+]);
+
+const articleTags = (article) =>
+  (Array.isArray(article.data.tags) ? article.data.tags : [article.data.tags])
+    .filter(Boolean)
+    .map((tag) => String(tag).toLowerCase());
+
+const hasAnyTag = (article, tagSet) =>
+  articleTags(article).some((tag) => tagSet.has(tag));
+
 module.exports = function (eleventyConfig) {
   // Passthrough copy
   eleventyConfig.addPassthroughCopy({ "src/css": "css" });
@@ -81,6 +168,18 @@ module.exports = function (eleventyConfig) {
   // Latest articles for feed outputs
   eleventyConfig.addCollection("feedArticle", (api) =>
     getSortedArticles(api).slice(0, 50)
+  );
+
+  eleventyConfig.addCollection("cryptoFeedArticle", (api) =>
+    getSortedArticles(api)
+      .filter((article) => hasAnyTag(article, CRYPTO_TAGS))
+      .slice(0, 50)
+  );
+
+  eleventyConfig.addCollection("aiFeedArticle", (api) =>
+    getSortedArticles(api)
+      .filter((article) => hasAnyTag(article, AI_TAGS))
+      .slice(0, 50)
   );
 
   return {

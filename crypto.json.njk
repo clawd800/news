@@ -1,0 +1,9 @@
+---
+permalink: /crypto.json
+eleventyExcludeFromCollections: true
+---
+{% set feedTitle = "Open News - Crypto" %}
+{% set feedUrl = "https://news.800.works/crypto.json" %}
+{% set feedDescription = "Latest crypto and Web3 news from Open News" %}
+{% set feedItems = collections.cryptoFeedArticle %}
+{% include "json-feed.njk" %}

@@ -2,28 +2,8 @@
 permalink: /feed.json
 eleventyExcludeFromCollections: true
 ---
-{
-  "version": "https://jsonfeed.org/version/1.1",
-  "title": "Open News",
-  "home_page_url": "https://news.800.works/",
-  "feed_url": "https://news.800.works/feed.json",
-  "description": "Latest Web3 trends, especially Base",
-  "items": [
-    {% for article in collections.feedArticle %}
-    {
-      "id": "https://news.800.works{{ article.url }}",
-      "url": "https://news.800.works{{ article.url }}",
-      "title": {{ article.data.title | dump | safe }},
-      "summary": {{ article.data.summary | dump | safe }},
-      "content_html": {{ article.templateContent | dump | safe }},
-      "date_published": {{ article.data.date | toISOString | dump | safe }},
-      "date_modified": {{ article.data.date | toISOString | dump | safe }},
-      "authors": [
-        {
-          "name": {{ article.data.author | dump | safe }}
-        }
-      ]
-    }{% if not loop.last %},{% endif %}
-    {% endfor %}
-  ]
-}
+{% set feedTitle = "Open News" %}
+{% set feedUrl = "https://news.800.works/feed.json" %}
+{% set feedDescription = "Latest Web3 and AI trends" %}
+{% set feedItems = collections.feedArticle %}
+{% include "json-feed.njk" %}

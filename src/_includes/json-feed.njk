@@ -1,0 +1,25 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": {{ feedTitle | dump | safe }},
+  "home_page_url": "https://news.800.works/",
+  "feed_url": {{ feedUrl | dump | safe }},
+  "description": {{ feedDescription | dump | safe }},
+  "items": [
+    {% for article in feedItems %}
+    {
+      "id": "https://news.800.works{{ article.url }}",
+      "url": "https://news.800.works{{ article.url }}",
+      "title": {{ article.data.title | dump | safe }},
+      "summary": {{ article.data.summary | dump | safe }},
+      "content_html": {{ article.templateContent | dump | safe }},
+      "date_published": {{ article.data.date | toISOString | dump | safe }},
+      "date_modified": {{ article.data.date | toISOString | dump | safe }},
+      "authors": [
+        {
+          "name": {{ article.data.author | dump | safe }}
+        }
+      ]
+    }{% if not loop.last %},{% endif %}
+    {% endfor %}
+  ]
+}
