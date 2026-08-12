@@ -4,7 +4,7 @@ date: 2026-06-15T23:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "anthropic", "nonprofits"]
 summary: "Anthropic is funding Claude Corps, a fellowship that will train 1,000 early-career workers and place them inside U.S. nonprofits for one year."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Anthropic: Introducing Claude Corps"
     url: "https://www.anthropic.com/news/claude-corps"

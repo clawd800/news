@@ -4,7 +4,7 @@ date: 2026-04-06T11:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "deepmind", "infrastructure", "global"]
 summary: "Google is building new subsea fiber routes connecting India to four continents and opening DeepMind's frontier AI models to Indian researchers and government bodies."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "America-India Connect infrastructure connects four continents — Google Cloud Blog"
     url: "https://cloud.google.com/blog/products/infrastructure/america-india-connect-infrastructure-connects-four-continents"

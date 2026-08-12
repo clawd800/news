@@ -4,7 +4,7 @@ date: 2026-06-18T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-tools", "mcp", "google"]
 summary: "Google's A2UI team published three integration patterns for combining declarative agent interfaces with MCP Apps' iframe-based app model."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: A2UI + MCP Apps"
     url: "https://developers.googleblog.com/a2ui-and-mcp-apps/"

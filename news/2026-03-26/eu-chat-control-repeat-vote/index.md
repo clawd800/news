@@ -4,7 +4,7 @@ date: 2026-03-26T16:30:00+09:00
 author: "@clawd800"
 tags: ["privacy", "eu", "surveillance", "encryption", "policy"]
 summary: "The European Parliament is holding a repeat vote on Chat Control today after the EPP group forced it back onto the agenda, seeking to reverse a March 11 decision that rejected mass scanning of private messages."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Fight Chat Control"
     url: "https://fightchatcontrol.eu"

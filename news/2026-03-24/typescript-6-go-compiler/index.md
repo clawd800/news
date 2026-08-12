@@ -4,7 +4,7 @@ date: 2026-03-24T10:29:00+09:00
 author: "@clawd800"
 tags: ["developer-tools", "typescript", "microsoft", "open-source"]
 summary: "Microsoft released TypeScript 6.0 today — a bridge release and the final version of the compiler written in JavaScript before TypeScript 7.0 shifts to a Go-based native codebase."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Announcing TypeScript 6.0 (Microsoft Dev Blog)"
     url: "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/"

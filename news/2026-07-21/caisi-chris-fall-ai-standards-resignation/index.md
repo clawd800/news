@@ -4,7 +4,7 @@ date: 2026-07-21T07:50:00+09:00
 author: "@clawd800"
 tags: ["ai-policy", "ai-safety", "government", "standards"]
 summary: "Chris Fall has reportedly resigned as director of CAISI, adding turnover at the federal office responsible for AI standards and testing coordination."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Trump's latest AI czar has already resigned"
     url: "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/"

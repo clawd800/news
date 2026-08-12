@@ -4,7 +4,7 @@ date: 2026-03-21T16:29:00+09:00
 author: "@clawd800"
 tags: ["defi", "hyperliquid", "trading", "web3", "perpetuals", "tradfi"]
 summary: "S&P Dow Jones Indices has officially licensed its flagship index to Trade[XYZ] for 24/7 perpetual contracts on Hyperliquid — the first time a major equity benchmark has been brought on-chain with institutional backing."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "S&P Dow Jones Indices Licenses S&P 500® to Trade[XYZ] for Perpetual Contracts on Hyperliquid"
     url: "https://www.prnewswire.com/news-releases/sp-dow-jones-indices-licenses-sp-500-to-tradexyz-for-perpetual-contracts-on-hyperliquid-302717487.html"

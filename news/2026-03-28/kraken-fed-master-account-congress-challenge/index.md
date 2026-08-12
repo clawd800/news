@@ -4,7 +4,7 @@ date: 2026-03-28T09:29:00+09:00
 author: "@clawd800"
 tags: ["crypto", "regulation", "banking", "policy", "kraken"]
 summary: "House Democrat Maxine Waters sent a formal letter to the Federal Reserve questioning Kraken's newly acquired Fed master account, saying the approval may be on unclear legal footing."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Top Democrat questions Kraken's Federal Reserve account"
     url: "https://www.coindesk.com/policy/2026/03/26/top-democrat-on-house-committee-questions-kraken-s-federal-reserve-account"

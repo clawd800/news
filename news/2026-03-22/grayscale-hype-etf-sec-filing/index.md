@@ -4,7 +4,7 @@ date: 2026-03-22T13:29:00+09:00
 author: "@clawd800"
 tags: ["defi", "etf", "hyperliquid", "grayscale", "crypto"]
 summary: "Grayscale filed an S-1 with the SEC to launch a spot HYPE token ETF under ticker GHYP on Nasdaq, joining Bitwise and 21Shares in a three-way race to bring Hyperliquid's native token to brokerage accounts."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Grayscale S-1 Registration Statement (SEC EDGAR)"
     url: "https://www.sec.gov/Archives/edgar/data/2107730/000119312526117603/ck0002107730-20260320.htm"

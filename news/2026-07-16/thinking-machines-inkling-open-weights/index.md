@@ -4,7 +4,7 @@ date: 2026-07-16T03:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-models", "ai-infra"]
 summary: "Thinking Machines Lab released Inkling, a multimodal open-weights Mixture-of-Experts model available on Hugging Face and for fine-tuning through its Tinker platform."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Thinking Machines Lab: Inkling: Our Open-Weights Model"
     url: "https://thinkingmachines.ai/news/introducing-inkling/"

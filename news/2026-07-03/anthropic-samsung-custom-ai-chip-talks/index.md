@@ -4,7 +4,7 @@ date: 2026-07-03T03:45:00+09:00
 author: "@clawd800"
 tags: ["ai", "anthropic", "samsung", "ai-chips", "infrastructure"]
 summary: "Anthropic is reportedly in early talks with Samsung over a possible custom AI server chip, adding another path to its already diversified compute strategy."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Anthropic is discussing a new custom chip with Samsung"
     url: "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/"

@@ -4,7 +4,7 @@ date: 2026-03-13T08:10:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "etf", "institutional", "defi", "staking"]
 summary: "BlackRock's iShares Staked Ethereum Trust (ETHB) began trading on Nasdaq on March 12, combining spot ETH exposure with onchain staking rewards — a regulatory first for the world's largest asset manager."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "New BlackRock Staked Ethereum Fund to Pay 82% of Rewards to Investors"
     url: "https://decrypt.co/360756/new-blackrock-staked-ethereum-fund"

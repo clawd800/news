@@ -4,7 +4,7 @@ date: 2026-03-15T21:10:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "humanoid", "open-source", "tsinghua"]
 summary: "Researchers from Tsinghua University and Galbot have trained the Unitree G1 humanoid robot to play real tennis by learning from imperfect human motion capture data."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "LATENT: Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data"

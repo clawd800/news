@@ -4,7 +4,7 @@ date: 2026-03-14T01:10:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "privacy", "censorship-resistance", "open-source", "ethereum-foundation"]
 summary: "The Ethereum Foundation released its first formal 'EF Mandate,' codifying its commitment to censorship resistance, open-source development, privacy, and security — and stored the document permanently on the Ethereum blockchain."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "The Promise of Ethereum: Introducing the EF Mandate"
     url: "https://blog.ethereum.org/2026/03/13/ef-mandate"

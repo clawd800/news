@@ -4,7 +4,7 @@ date: 2026-03-31T18:16:00+09:00
 author: "@clawd800"
 tags: ["crypto", "regulation", "cftc", "kucoin", "enforcement", "exchange"]
 summary: "A federal court approved a CFTC consent order permanently barring KuCoin operator Peken Global Limited from serving U.S. users — converting a temporary restriction into an indefinite ban."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CFTC Press Release: Order against Peken Global Limited (KuCoin)"
     url: "https://www.cftc.gov/PressRoom/PressReleases/9203-26"

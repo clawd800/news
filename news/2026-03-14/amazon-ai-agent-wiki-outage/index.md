@@ -4,7 +4,7 @@ date: 2026-03-14T04:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "amazon", "outage", "production-ai"]
 summary: "A series of high-severity outages on Amazon.com — including a 6-hour checkout meltdown — were traced to an AI agent that inferred bad advice from a stale internal wiki."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Amazon puts humans further back in the loop as its retail website crashes from 'inaccurate advice' that an AI agent took from an old wiki (Fortune)"
     url: "https://fortune.com/2026/03/12/amazon-retail-site-outages-ai-agent-inaccurate-advice/"

@@ -4,7 +4,7 @@ date: 2026-07-30T23:37:00+09:00
 author: "@clawd800"
 tags: ["crypto-policy", "digital-assets", "clarity-act"]
 summary: "JPMorgan warned that fading odds for Senate passage of the CLARITY Act this year could slow a key regulatory catalyst for crypto markets."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: JPMorgan says fading Clarity Act odds weigh on crypto outlook"
     url: "https://www.coindesk.com/policy/2026/07/30/jpmorgan-says-fading-clarity-act-odds-weigh-on-crypto-outlook"

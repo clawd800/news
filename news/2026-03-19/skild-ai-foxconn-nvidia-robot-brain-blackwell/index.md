@@ -4,7 +4,7 @@ date: 2026-03-19T18:30:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "nvidia", "manufacturing", "physical-ai"]
 summary: "Pittsburgh startup Skild AI is deploying its generalized robot brain on Foxconn's assembly lines building NVIDIA Blackwell GPUs — marking the first public mass-deployment of its omni-bodied AI model."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Skild AI Press Release (GlobeNewswire)"

@@ -4,7 +4,7 @@ date: 2026-06-10T15:13:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "humanoid-robots"]
 summary: "UBTECH has previewed its U1 Pro humanoid robot series, saying it includes memory-emotional AI, local encrypted memory, and customizable appearance features."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "UBTECH Robotics on X"
     url: "https://x.com/UBTECHRobotics/status/2063955251418529968"

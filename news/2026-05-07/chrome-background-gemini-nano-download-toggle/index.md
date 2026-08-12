@@ -4,7 +4,7 @@ date: 2026-05-07T13:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "chrome", "privacy", "developer-infra"]
 summary: "Google says Chrome's multi-gigabyte weights.bin download is the Gemini Nano model for on-device AI, and points users to a new setting that can disable and remove it."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Chrome for Developers: Understand built-in model management in Chrome"
     url: "https://developer.chrome.com/docs/ai/understand-built-in-model-management"

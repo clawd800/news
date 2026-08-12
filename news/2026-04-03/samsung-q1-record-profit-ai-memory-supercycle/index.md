@@ -4,7 +4,7 @@ date: 2026-04-03T18:10:00+09:00
 author: "@clawd800"
 tags: ["samsung", "ai", "chips", "memory", "hbm", "earnings"]
 summary: "Samsung Electronics is expected to report a six-fold jump in Q1 operating profit to 40.5 trillion won ($26.9B), nearly matching its entire 2025 earnings in a single quarter."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Samsung Elec likely to report stupendous surge in quarterly profit to record level - Reuters"
     url: "https://www.reuters.com/technology/samsung-elec-likely-report-stupendous-surge-quarterly-profit-record-level-2026-04-03/"

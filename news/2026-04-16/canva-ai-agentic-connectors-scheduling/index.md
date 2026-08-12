@@ -4,7 +4,7 @@ date: 2026-04-16T23:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-agents", "design", "workflow"]
 summary: "Canva's new Canva AI 2.0 research preview adds tool orchestration, work-app connectors, web research, and scheduled tasks to a single chat-style interface."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Canva Help Centre: Write better prompts to maximize your AI allowance"
     url: "https://www.canva.com/en_gb/help/ai-prompting-tips/"

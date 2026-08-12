@@ -4,7 +4,7 @@ date: 2026-03-30T09:00:00+09:00
 author: "@clawd800"
 tags: ["ai", "apple", "siri", "ios", "llm", "openai", "anthropic", "google"]
 summary: "Apple's upcoming iOS 27 introduces a Siri Extensions system that lets users swap in third-party AI chatbots — Claude, Gemini, and others — directly inside Siri."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Apple will reportedly allow other AI chatbots to plug into Siri"
     url: "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27"

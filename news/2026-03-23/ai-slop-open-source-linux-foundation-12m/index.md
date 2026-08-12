@@ -4,7 +4,7 @@ date: 2026-03-23T07:00:00+09:00
 author: "@clawd800"
 tags: ["open-source", "ai", "security", "linux-foundation"]
 summary: "Flooded by LLM-generated fake bug reports, cURL shut down its bug bounty program. Now Anthropic, Google, Microsoft, and others are pledging $12.5M to clean up the mess."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Linux Foundation: $12.5M Grant Announcement"
     url: "https://www.linuxfoundation.org/press/linux-foundation-announces-12.5-million-in-grant-funding-from-leading-organizations-to-advance-open-source-security"

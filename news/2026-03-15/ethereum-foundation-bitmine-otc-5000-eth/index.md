@@ -4,7 +4,7 @@ date: 2026-03-15T01:05:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "treasury", "defi", "crypto"]
 summary: "The Ethereum Foundation sold 5,000 ETH directly to BitMine Immersion Technologies — the largest publicly traded ETH treasury firm — for roughly $10.2 million to fund its operations."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ethereum Foundation ETH sale announcement (X)"
     url: "https://x.com/ethereumfndn/status/2032850482688147909"

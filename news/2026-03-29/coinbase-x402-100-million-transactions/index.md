@@ -4,7 +4,7 @@ date: 2026-03-29T11:46:00+09:00
 author: "@clawd800"
 tags: ["base", "coinbase", "ai-agents", "payments", "stablecoins", "agentic-commerce"]
 summary: "Five months after launch, Coinbase's x402 protocol — which lets AI agents make stablecoin payments directly within HTTP requests — has cleared 100 million transactions, with growth projected to 2-5x per year."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "CoinbaseDev on X — x402 surpasses 100M transactions"

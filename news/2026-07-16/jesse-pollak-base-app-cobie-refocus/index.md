@@ -4,7 +4,7 @@ date: 2026-07-16T07:49:00+09:00
 author: "@clawd800"
 tags: ["base", "coinbase", "web3", "layer2"]
 summary: "Base creator Jesse Pollak says he has shifted his attention away from the Base app and back to the chain, with Jordan Fish, known as Cobie, taking over the app."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Jesse Pollak on X"
     url: "https://x.com/jessepollak/status/2077427261586997745"

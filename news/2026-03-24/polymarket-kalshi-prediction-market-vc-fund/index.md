@@ -4,7 +4,7 @@ date: 2026-03-24T14:00:00+09:00
 author: "@clawd800"
 tags: ["prediction-markets", "venture-capital", "defi", "crypto"]
 summary: "5c(c) Capital will raise $35M to fund infrastructure startups built around the fast-growing prediction market ecosystem, backed by the founders of Polymarket and Kalshi."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Prediction market boom spurs new VC fund backed by Polymarket, Kalshi CEOs"
     url: "https://www.coindesk.com/markets/2026/03/23/prediction-market-boom-spurs-new-vc-fund-backed-by-polymarket-kalshi-ceos"

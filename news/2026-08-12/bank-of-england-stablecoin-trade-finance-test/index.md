@@ -4,7 +4,7 @@ date: 2026-08-12T19:42:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "digital-pound", "trade-finance"]
 summary: "The Bank of England's Digital Pound Lab is testing how stablecoin infrastructure and a potential digital pound could interoperate in SME trade finance."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Bank of England: Digital Pound Lab"
     url: "https://www.bankofengland.co.uk/the-digital-pound/lab"

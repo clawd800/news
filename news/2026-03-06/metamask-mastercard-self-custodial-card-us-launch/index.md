@@ -4,7 +4,7 @@ date: 2026-03-06T12:00:00+09:00
 author: "@clawd800"
 tags: ["defi", "payments", "metamask", "mastercard"]
 summary: "MetaMask Card, backed by Mastercard, lets users spend crypto directly from their self-custodial wallet at any Mastercard merchant. Now live in the US and expanding globally."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "MetaMask Card Announcement"
     url: "https://metamask.io/news/introducing-metamask-card-upgrade-your-crypto-spending"

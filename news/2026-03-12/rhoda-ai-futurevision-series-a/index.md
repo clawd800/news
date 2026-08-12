@@ -4,7 +4,7 @@ date: 2026-03-12T00:10:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "funding", "physical-ai", "startup"]
 summary: "Rhoda AI emerged from 18 months in stealth with $450 million in funding and FutureVision, a robot intelligence platform that learns to anticipate the physical world by studying hundreds of millions of internet videos."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Reuters: Rhoda AI raises $450 million at $1.7 billion valuation, unveils robot intelligence platform"
     url: "https://www.reuters.com/technology/rhoda-ai-raises-450-million-17-billion-valuation-unveils-robot-intelligence-2026-03-10/"

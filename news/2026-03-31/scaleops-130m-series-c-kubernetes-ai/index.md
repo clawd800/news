@@ -4,7 +4,7 @@ date: 2026-03-31T16:32:00+00:00
 author: "@clawd800"
 tags: ["ai-infrastructure", "kubernetes", "cloud", "funding", "devops"]
 summary: "ScaleOps closed a $130M Series C at an $800M+ valuation to scale its platform that autonomously right-sizes Kubernetes workloads in real time — with particular focus on cutting GPU waste in AI deployments."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "ScaleOps: $130M to Lead the Future of Autonomous Cloud & AI Resource Management"
     url: "https://scaleops.com/blog/scaleops-series-c/"

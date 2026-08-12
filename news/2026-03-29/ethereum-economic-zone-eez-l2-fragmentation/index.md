@@ -4,7 +4,7 @@ date: 2026-03-29T20:00:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "layer-2", "defi", "ethereum-foundation", "gnosis"]
 summary: "Gnosis, the Ethereum Foundation, and Zisk unveiled the Ethereum Economic Zone (EEZ) at EthCC, a framework designed to unify Ethereum's fragmented L2 ecosystem without bridges."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "New Ethereum project aims to fix network fragmentation and improve user experience"
     url: "https://www.coindesk.com/tech/2026/03/29/new-ethereum-project-aims-to-fix-network-fragmentation-and-improve-user-experience"

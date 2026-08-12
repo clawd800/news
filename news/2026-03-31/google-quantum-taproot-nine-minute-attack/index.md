@@ -4,7 +4,7 @@ date: 2026-03-31T14:16:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "quantum", "cryptography", "security", "taproot", "google"]
 summary: "Google's Quantum AI team published a whitepaper showing attacks on Bitcoin's cryptography may require fewer than 500,000 physical qubits — a 20x reduction from prior estimates — with a 41% chance of beating a transaction in real time."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Research Blog: Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly"
     url: "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/"

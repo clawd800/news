@@ -4,7 +4,7 @@ date: 2026-03-26T15:29:00+09:00
 author: "@clawd800"
 tags: ["x", "grok", "ai", "social-media", "xai"]
 summary: "X head of product Nikita Bier announced that Grok AI will fully take over the platform's recommendation algorithm next week — the biggest algorithmic change in X's history."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Nikita Bier on X — Grok algorithm announcement"
     url: "https://x.com/nikitabier/status/2037048934015889674"

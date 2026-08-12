@@ -4,7 +4,7 @@ date: 2026-07-27T11:37:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "rwa", "trade-finance", "injective"]
 summary: "POSCO International and LG CNS are piloting tokenized trade receivables on Injective, using live commercial invoice data from global subsidiaries."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: South Korea trading giant puts receivables onchain in tokenization test with LG CNS"
     url: "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns"

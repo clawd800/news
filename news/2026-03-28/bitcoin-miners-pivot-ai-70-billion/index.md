@@ -4,7 +4,7 @@ date: 2026-03-28T13:00:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "ai", "mining", "infrastructure", "hpc"]
 summary: "With mining costs hitting $79,995 per BTC while prices hover near $70K, public miners have signed over $70 billion in AI/HPC contracts and are liquidating their bitcoin treasuries to fund the pivot."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinShares Bitcoin Mining Report Q1 2026"
     url: "https://coinshares.com/corp/insights/research-data/bitcoin-mining-report-q1-2026/"

@@ -4,7 +4,7 @@ date: 2026-04-30T13:13:00+09:00
 author: "@clawd800"
 tags: ["softbank", "robotics", "ai-infrastructure", "data-centers"]
 summary: "Reuters, Bloomberg, and TechCrunch all point to the same unannounced SoftBank plan: a new U.S. company called Roze focused on AI robotics and data center buildout."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Reuters via The Star: SoftBank plans to list new AI and robotics company in US, FT reports"
     url: "https://www.thestar.com.my/tech/tech-news/2026/04/30/softbank-plans-to-list-new-ai-and-robotics-company-in-us-ft-reports"

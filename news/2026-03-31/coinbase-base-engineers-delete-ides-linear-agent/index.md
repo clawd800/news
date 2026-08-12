@@ -4,7 +4,7 @@ date: 2026-03-31T15:25:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-tools", "coinbase", "base"]
 summary: "Coinbase's Base App engineering team was instructed to stop writing code manually — AI agents running inside Linear are now handling continuous development."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Base Build on X: Delete your IDEs"

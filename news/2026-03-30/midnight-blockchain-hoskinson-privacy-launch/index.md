@@ -4,7 +4,7 @@ date: 2026-03-30T15:16:00+00:00
 author: "@clawd800"
 tags: ["cardano", "privacy", "blockchain", "web3", "layer1"]
 summary: "Charles Hoskinson's Midnight blockchain, backed by roughly $200 million of his own investment, launched on Monday with a phased rollout targeting confidential finance, identity systems, and enterprise workflows."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Charles Hoskinson's $200 million bet: Midnight goes live to tackle crypto's biggest flaws"
     url: "https://www.coindesk.com/tech/2026/03/30/charles-hoskinson-s-usd200-million-bet-midnight-goes-live-to-tackle-crypto-s-biggest-flaws"

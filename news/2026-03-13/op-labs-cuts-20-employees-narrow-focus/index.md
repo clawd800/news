@@ -4,7 +4,7 @@ date: 2026-03-13T07:10:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "optimism", "layer-2", "web3"]
 summary: "Optimism's core development firm cuts 20 staff to do 'fewer things exceptionally well' — not a financial crisis, says CEO."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: OP Labs cuts roles in restructuring to 'narrow focus'"
     url: "https://www.coindesk.com/business/2026/03/12/ethereum-layer-2-developer-op-labs-cuts-roles-to-narrow-focus"

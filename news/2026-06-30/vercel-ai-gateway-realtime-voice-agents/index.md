@@ -4,7 +4,7 @@ date: 2026-06-30T15:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra"]
 summary: "Vercel's AI Gateway beta now covers realtime voice, text-to-speech, and speech-to-text paths for developers building audio agents."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Blog: Build realtime voice agents on AI Gateway"
     url: "https://vercel.com/blog/realtime-voice-agents-on-ai-gateway"

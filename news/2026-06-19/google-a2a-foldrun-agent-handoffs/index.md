@@ -4,7 +4,7 @@ date: 2026-06-19T19:39:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "google", "a2a"]
 summary: "Google's latest A2A post uses FoldRun, a life-sciences workflow, to show how specialized agents can hand off tasks through the Agent2Agent protocol."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: How A2A is Building a World of Collaborative Agents"
     url: "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/"

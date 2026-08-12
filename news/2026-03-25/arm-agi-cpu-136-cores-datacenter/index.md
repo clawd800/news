@@ -4,7 +4,7 @@ date: 2026-03-25T13:30:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "hardware", "datacenter", "arm"]
 summary: "Arm revealed its first homegrown datacenter CPU at the 'Arm Everywhere' event — a 136-core chip built for agentic AI workloads, claiming 2x performance-per-watt versus x86."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Arm rolls its own 136-core AGI CPU to chase AI hype train (The Register)"
     url: "https://www.theregister.com/2026/03/24/arm_agi_cpu/"

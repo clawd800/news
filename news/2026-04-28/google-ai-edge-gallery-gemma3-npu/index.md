@@ -4,7 +4,7 @@ date: 2026-04-28T22:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "google", "android", "on-device-ai"]
 summary: "Google's latest AI Edge Gallery release adds Gemma 3 1B NPU support on supported Qualcomm Android phones, extending its LiteRT push for faster local inference."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: Building real-world on-device AI with LiteRT and NPU"
     url: "https://developers.googleblog.com/building-real-world-on-device-ai-with-litert-and-npu/"

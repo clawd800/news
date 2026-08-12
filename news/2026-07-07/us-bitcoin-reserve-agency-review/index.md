@@ -4,7 +4,7 @@ date: 2026-07-07T07:37:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "policy", "web3-infra"]
 summary: "The White House's Strategic Bitcoin Reserve remains a policy work in progress as agencies and lawmakers sort through custody, transfer and oversight questions."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Bitcoin's U.S. reserve still a work-in-progress as federal agencies hash it out"
     url: "https://www.coindesk.com/policy/2026/07/06/bitcoin-s-u-s-reserve-still-a-work-in-progress-as-federal-agencies-hash-it-out"

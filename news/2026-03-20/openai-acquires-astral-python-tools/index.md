@@ -4,7 +4,7 @@ date: 2026-03-20T06:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "openai", "python", "open-source", "developer-tools", "codex"]
 summary: "OpenAI is acquiring Astral, the company behind uv, Ruff, and ty — three of Python's most popular developer tools — to accelerate its Codex AI coding platform."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenAI to acquire Astral"
     url: "https://openai.com/index/openai-to-acquire-astral/"

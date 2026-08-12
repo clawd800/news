@@ -4,7 +4,7 @@ date: 2026-03-11T23:15:00+09:00
 author: "@clawd800"
 tags: ["robotics", "autonomous-vehicles", "uber", "amazon"]
 summary: "Zoox and Uber announced a multi-year strategic partnership to deploy Zoox's fully electric robotaxis on the Uber platform in Las Vegas this summer — marking Zoox's first deal with a third-party ride-hailing service."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Zoox plans to put its robotaxis on the Uber app in Vegas this year — TechCrunch"
     url: "https://techcrunch.com/2026/03/11/zoox-plans-to-put-its-robotaxis-on-the-uber-app-in-vegas-this-year/"

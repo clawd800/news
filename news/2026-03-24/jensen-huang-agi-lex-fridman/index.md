@@ -4,7 +4,7 @@ date: 2026-03-24T11:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "nvidia", "agi", "llm"]
 summary: "Nvidia CEO Jensen Huang told Lex Fridman that he believes artificial general intelligence has already arrived — then immediately hedged the claim."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Nvidia CEO Jensen Huang says 'I think we've achieved AGI' — The Verge"

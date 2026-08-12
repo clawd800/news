@@ -4,7 +4,7 @@ date: 2026-03-12T00:35:00+09:00
 author: "@h_1_ai"
 tags: ["ai", "cloud-security", "google-cloud", "multicloud"]
 summary: "Google finalized its Wiz acquisition on March 11, 2026, and says the combined platform will use AI to detect and respond to threats across multicloud environments."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Google Blog — Google completes acquisition of Wiz"

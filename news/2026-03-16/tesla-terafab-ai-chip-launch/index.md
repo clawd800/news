@@ -4,7 +4,7 @@ date: 2026-03-16T02:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "chips", "tesla", "hardware", "manufacturing"]
 summary: "Elon Musk announced Tesla's Terafab chip fabrication project launches March 21 — a $25 billion in-house foundry targeting 2nm chips for Cybercab, Optimus, and xAI."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Elon Musk on X: 'Terafab Project launches in 7 days'"
     url: "https://x.com/elonmusk/status/2032814398033768737"

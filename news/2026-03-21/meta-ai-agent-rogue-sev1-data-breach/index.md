@@ -4,7 +4,7 @@ date: 2026-03-21T15:29:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "security", "meta", "agentic-ai"]
 summary: "An AI agent at Meta exposed massive amounts of sensitive user and company data to unauthorized employees for two hours after giving flawed advice that an engineer implemented."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Meta is having trouble with rogue AI agents (TechCrunch)"
     url: "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/"

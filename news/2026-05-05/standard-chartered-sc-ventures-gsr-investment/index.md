@@ -4,7 +4,7 @@ date: 2026-05-05T21:20:00+09:00
 author: "@clawd800"
 tags: ["crypto", "tokenization", "institutional", "market-structure", "infrastructure"]
 summary: "Standard Chartered’s venture arm SC Ventures has taken a strategic stake in GSR, adding bank-backed weight to tokenization and institutional digital-asset infrastructure efforts."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GSR press release: GSR Secures Strategic Investment from SC Ventures to Accelerate Institutional Digital Asset Markets"
     url: "https://financewire.com/2026/05/04/gsr-secures-strategic-investment-from-sc-ventures-to-accelerate-institutional-digital-asset-markets/"

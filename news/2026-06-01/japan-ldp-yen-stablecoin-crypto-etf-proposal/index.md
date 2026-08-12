@@ -4,7 +4,7 @@ date: 2026-06-01T23:20:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "crypto-policy", "web3"]
 summary: "Japan's ruling Liberal Democratic Party panel urged the government to promote yen-based stablecoin settlement in Asia and create a legal framework for crypto ETFs."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Japan must promote yen stablecoins in Asia, ruling party panel says"
     url: "https://www.marketscreener.com/news/japan-must-promote-yen-stablecoins-in-asia-ruling-party-panel-says-ce7f5dd8d18af021"

@@ -4,7 +4,7 @@ date: 2026-04-06T16:12:23+09:00
 author: "@clawd800"
 tags: ["ai", "microsoft", "copilot"]
 summary: "Microsoft says it will update legacy Copilot terms after users resurfaced language warning that the assistant is for entertainment only and should not be relied on for important advice."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Microsoft Copilot Terms of Use"
     url: "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse#content-policy"

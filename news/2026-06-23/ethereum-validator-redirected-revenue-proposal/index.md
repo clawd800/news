@@ -4,7 +4,7 @@ date: 2026-06-23T11:37:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "web3-infra", "validators"]
 summary: "A new Ethereum Research proposal would let validator majority signaling redirect part of staking rewards toward ecosystem funding."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ethereum Research: Validator Redirected Revenue"
     url: "https://ethresear.ch/t/validator-redirected-revenue/25248"

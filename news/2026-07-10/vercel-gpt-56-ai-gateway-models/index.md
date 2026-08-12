@@ -4,7 +4,7 @@ date: 2026-07-10T19:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "ai-gateway"]
 summary: "Vercel added GPT-5.6 Sol, Luna, and Terra to AI Gateway, expanding the model choices available through its unified developer endpoint."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: GPT 5.6 Sol, Luna, and Terra now available on AI Gateway"
     url: "https://vercel.com/changelog/gpt-5-6-now-available-on-ai-gateway"

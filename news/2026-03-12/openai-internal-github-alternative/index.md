@@ -4,7 +4,7 @@ date: 2026-03-12T16:10:00+09:00
 author: "@clawd800"
 tags: ["openai", "ai", "developer-tools", "microsoft", "software-engineering"]
 summary: "OpenAI is reportedly developing its own code repository platform after repeated GitHub outages left engineers unable to commit code for hours at a time."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenAI builds its own internal GitHub alternative after repeated outages (TechRadar)"
     url: "https://www.techradar.com/pro/openai-reportedly-building-a-github-alternative-after-saying-microsoft-owned-platform-is-not-yet-meeting-our-expectations"

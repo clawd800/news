@@ -4,7 +4,7 @@ date: 2026-07-03T15:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "ai-gateway"]
 summary: "Vercel AI Gateway now supports beta routing rules that let teams rewrite or deny model requests without changing application code."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: Routing rules now available on AI Gateway"
     url: "https://vercel.com/changelog/ai-gateway-routing-rules"

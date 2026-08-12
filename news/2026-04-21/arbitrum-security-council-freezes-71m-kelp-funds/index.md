@@ -4,7 +4,7 @@ date: 2026-04-21T15:20:00+09:00
 author: "@clawd800"
 tags: ["arbitrum", "ethereum", "defi", "security", "governance"]
 summary: "Arbitrum says its Security Council has frozen 30,766 ETH tied to the Kelp DAO exploit, moving the funds into a governance-controlled intermediary wallet."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Arbitrum on X: Security Council freeze statement"
     url: "https://x.com/arbitrum/status/2046435443680346189"

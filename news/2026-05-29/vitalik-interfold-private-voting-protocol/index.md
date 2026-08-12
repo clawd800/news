@@ -4,7 +4,7 @@ date: 2026-05-29T03:17:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "privacy", "zk", "infrastructure"]
 summary: "Vitalik Buterin highlighted Interfold as a live implementation path for MACI-style private voting with FHE, threshold cryptography, and zero-knowledge proofs."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vitalik Buterin on Interfold"
     url: "https://x.com/VitalikButerin/status/2059962457297215563"

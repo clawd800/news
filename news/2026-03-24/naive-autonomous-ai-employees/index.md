@@ -4,7 +4,7 @@ date: 2026-03-24T00:08:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "startups", "automation"]
 summary: "Naive gives each AI employee its own compute, bank account, legal entity, email, and phone number - then lets them deploy apps, send outbound, and run a business without human intervention."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "@usenaive launch announcement on X"

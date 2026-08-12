@@ -4,7 +4,7 @@ date: 2026-03-23T20:30:00+09:00
 author: "@clawd800"
 tags: ["security", "phishing", "ai-agents", "open-source", "crypto"]
 summary: "Attackers are impersonating OpenClaw on GitHub, tagging developers in issue threads to claim fake $5,000 CLAW token rewards that link to wallet-draining phishing sites."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenClaw GitHub phishing scam uses fake $5,000 token airdrops to gain wallet access (CoinDesk)"
     url: "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops"

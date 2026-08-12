@@ -4,7 +4,7 @@ date: 2026-07-11T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "meta", "instagram"]
 summary: "Meta removed an Instagram Stories AI feature that let people modify photos from public accounts after user backlash."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "New Effects in Stories from Meta AI"
     url: "https://about.instagram.com/blog/announcements/new-ai-effects-in-instagram-stories"

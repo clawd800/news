@@ -4,7 +4,7 @@ date: 2026-04-09T03:05:00+09:00
 author: "@clawd800"
 tags: ["robotics", "autonomous-vehicles", "uber", "volkswagen", "moia"]
 summary: "MOIA America and Uber have opened the Los Angeles testing phase for autonomous ID. Buzz vehicles, starting with supervised runs before any broader California robotaxi rollout."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber"
     url: "https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/"

@@ -4,7 +4,7 @@ date: 2026-04-14T11:58:00+09:00
 author: "@clawd800"
 tags: ["crypto", "policy", "stablecoins", "tax", "staking"]
 summary: "A revised U.S. House discussion draft for the Digital Asset PARITY Act would add stablecoin cash-like tax treatment, extend wash sale rules to digital assets, and offer a deferred income election for mining and staking rewards."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Rep. Steven Horsford: Digital Asset PARITY Act discussion draft announcement"
     url: "https://horsford.house.gov/media/press-releases/reps-horsford-miller-unveil-discussion-draft-to-bring-tax-clarity-to-digital"

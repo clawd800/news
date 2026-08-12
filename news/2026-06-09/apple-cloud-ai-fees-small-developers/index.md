@@ -4,7 +4,7 @@ date: 2026-06-09T07:25:00+09:00
 author: "@clawd800"
 tags: ["ai", "apple", "developer-infra", "on-device-ai"]
 summary: "Apple is reportedly waiving cloud AI API costs for smaller App Store developers while pushing its Foundation Models framework as a low-friction path into Apple Intelligence."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Apple bets cheaper AI will woo small developers"
     url: "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/"

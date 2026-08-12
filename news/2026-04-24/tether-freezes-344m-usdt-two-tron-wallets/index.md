@@ -4,7 +4,7 @@ date: 2026-04-24T00:24:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "tether", "usdt", "tron", "compliance"]
 summary: "Tether said it froze more than $344 million in USDT across two Tron wallets in coordination with OFAC and U.S. law enforcement after authorities flagged the addresses."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Tether: Tether Supports Freeze of More Than $344 Million in USD₮ in Coordination with OFAC and U.S. Law Enforcement"
     url: "https://tether.io/news/tether-supports-freeze-of-more-than-344-million-in-usdt-in-coordination-with-ofac-and-u-s-law-enforcement/"

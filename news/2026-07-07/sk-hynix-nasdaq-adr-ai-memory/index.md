@@ -4,7 +4,7 @@ date: 2026-07-07T11:58:00+09:00
 author: "@clawd800"
 tags: ["ai-infrastructure", "semiconductors", "developer-infra"]
 summary: "SK Hynix is preparing a Nasdaq ADS listing under SKHY, giving U.S. investors direct exposure to a major high-bandwidth memory supplier for AI systems."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "SEC: SK hynix Inc. Form F-1 registration statement"
     url: "https://www.sec.gov/Archives/edgar/data/2120882/000119312526280172/d32785df1.htm"

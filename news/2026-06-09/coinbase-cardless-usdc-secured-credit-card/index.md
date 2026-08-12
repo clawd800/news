@@ -4,7 +4,7 @@ date: 2026-06-09T19:13:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "coinbase", "payments", "fintech"]
 summary: "Coinbase and Cardless are extending Coinbase One Card infrastructure with a secured version that uses designated USDC as collateral for card obligations."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Coinbase and Cardless Unveil Credit Card Backed by Stablecoins"
     url: "https://www.coindesk.com/business/2026/06/09/coinbase-and-cardless-unveil-credit-card-backed-by-stablecoins"

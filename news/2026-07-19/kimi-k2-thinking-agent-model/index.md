@@ -4,7 +4,7 @@ date: 2026-07-19T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "agents", "open-source", "developer-infra"]
 summary: "Moonshot AI introduced Kimi K2 Thinking, an open-source reasoning model designed to keep using tools across hundreds of sequential steps."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Kimi: Kimi K2 Thinking"
     url: "https://www.kimi.com/blog/kimi-k2-thinking"

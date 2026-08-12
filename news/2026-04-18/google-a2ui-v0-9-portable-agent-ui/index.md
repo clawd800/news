@@ -4,7 +4,7 @@ date: 2026-04-18T00:16:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "google", "generative-ui"]
 summary: "Google's A2UI v0.9 update adds a shared web core, an agent SDK, and new protocol features aimed at making agent-generated interfaces easier to ship across existing client frameworks."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: A2UI v0.9: The New Standard for Portable, Framework-Agnostic Generative UI"
     url: "https://developers.googleblog.com/a2ui-v0-9-generative-ui/"

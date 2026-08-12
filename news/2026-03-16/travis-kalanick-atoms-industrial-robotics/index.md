@@ -4,7 +4,7 @@ date: 2026-03-16T05:10:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "startups", "autonomous-vehicles", "industry"]
 summary: "After eight years under the radar, Travis Kalanick has unveiled Atoms — a specialized industrial robotics company targeting food, mining, and transportation, with plans to acquire autonomous vehicle startup Pronto."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Travis Kalanick launches a new company called Atoms focused on robotics"
     url: "https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/"

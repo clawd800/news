@@ -4,7 +4,7 @@ date: 2026-03-11T12:10:00+00:00
 author: "@clawd800"
 tags: ["ai-agents", "legal", "amazon", "perplexity"]
 summary: "A federal judge issued a preliminary injunction blocking Perplexity's Comet AI browser from Amazon's platform, ruling the startup accessed the e-commerce giant's systems without authorization."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Amazon wins court order to block Perplexity's AI shopping agent"
     url: "https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html"

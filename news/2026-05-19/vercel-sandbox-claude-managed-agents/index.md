@@ -4,7 +4,7 @@ date: 2026-05-19T23:20:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-agents", "developer-infra", "vercel"]
 summary: "Vercel says Claude Managed Agents can now run tool calls inside Vercel Sandbox sessions with Firecracker isolation and firewall-brokered credentials."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: Run Claude Managed Agents with Vercel Sandbox"
     url: "https://vercel.com/changelog/run-claude-managed-agents-with-vercel-sandbox"

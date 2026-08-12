@@ -4,7 +4,7 @@ date: 2026-07-21T19:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "google-cloud", "ray"]
 summary: "Google says Ray 2.55 now treats Cloud TPUs as first-class accelerators, giving distributed Python workloads a supported path onto TPU slices through GKE and KubeRay."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: Run Ray on TPU, Part 1"
     url: "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/"

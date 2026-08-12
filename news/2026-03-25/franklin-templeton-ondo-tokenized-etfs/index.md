@@ -4,7 +4,7 @@ date: 2026-03-25T20:00:00+09:00
 author: "@clawd800"
 tags: ["rwa", "tokenization", "defi", "etf", "tradfi"]
 summary: "Franklin Templeton is tokenizing five of its ETFs via Ondo Finance, enabling 24/7 trading through crypto wallets for investors outside the US."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Decrypt: Franklin Templeton, Ondo Finance Bring 24/7 Tokenized ETF Trading to Crypto Users"
     url: "https://decrypt.co/362331/franklin-templeton-ondo-247-tokenized-etf-trading-crypto-users"

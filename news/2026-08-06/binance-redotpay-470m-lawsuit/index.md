@@ -4,7 +4,7 @@ date: 2026-08-06T07:37:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "binance", "payments"]
 summary: "Binance affiliates have sued RedotPay, alleging the stablecoin card issuer diverted users and misused Binance Pay funds."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Crypto firm RedotPay says it will defend itself vigorously against Binance lawsuit"
     url: "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users"

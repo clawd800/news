@@ -4,7 +4,7 @@ date: 2026-04-21T09:22:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "defi", "security", "aave", "restaking"]
 summary: "Aave service providers say the protocol's exposure from the Kelp DAO rsETH incident ranges from about $123.7 million to $230.1 million, depending on how losses are allocated across chains."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Aave Governance: rsETH Incident Report (April 20, 2026)"
     url: "https://governance.aave.com/t/rseth-incident-report-april-20-2026/24580"

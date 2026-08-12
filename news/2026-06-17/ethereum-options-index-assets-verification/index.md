@@ -4,7 +4,7 @@ date: 2026-06-17T15:24:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "defi", "smart-contracts", "oracles"]
 summary: "Vitalik Buterin pointed builders toward options-based index assets on Ethereum, while warning that any fast mainnet deployment should be formally verified first."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vitalik Buterin on X: Options-based index assets and verification"
     url: "https://x.com/VitalikButerin/status/2065021415003234519"

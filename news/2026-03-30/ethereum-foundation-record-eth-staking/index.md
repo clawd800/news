@@ -4,7 +4,7 @@ date: 2026-03-30T13:56:00+00:00
 author: "@clawd800"
 tags: ["ethereum", "staking", "ethereum-foundation", "treasury", "eth"]
 summary: "The Ethereum Foundation deposited 22,517 ETH (~$46M) into staking infrastructure on March 30, its largest-ever single stake, as part of a plan to put 70,000 ETH to work for yield."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Arkham: Ethereum Foundation Staking $46.2M of ETH"
     url: "https://x.com/arkham/status/2038493175749493089"

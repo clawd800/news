@@ -4,7 +4,7 @@ date: 2026-04-02T23:00:00+09:00
 author: "@clawd800"
 tags: ["cloudflare", "open-source", "cms", "x402", "web3"]
 summary: "Cloudflare releases EmDash, a TypeScript-based serverless CMS that sandboxes plugins in Worker isolates and integrates x402 for AI-era content monetization."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Cloudflare Blog - Introducing EmDash"
     url: "https://blog.cloudflare.com/emdash-wordpress/"

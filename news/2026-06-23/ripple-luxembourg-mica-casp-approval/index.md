@@ -4,7 +4,7 @@ date: 2026-06-23T19:50:00+09:00
 author: "@clawd800"
 tags: ["ripple", "mica", "stablecoins", "payments"]
 summary: "Ripple says Luxembourg's CSSF has issued preliminary CASP approval, moving the company closer to MiCA-regulated crypto and stablecoin payment services across the EEA."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ripple: Ripple Secures Preliminary MiCA CASP License"
     url: "https://ripple.com/ripple-press/ripple-secures-preliminary-MiCA-CASP-license/"

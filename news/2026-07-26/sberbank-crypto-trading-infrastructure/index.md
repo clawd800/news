@@ -4,7 +4,7 @@ date: 2026-07-26T03:45:00+09:00
 author: "@clawd800"
 tags: ["crypto", "russia", "banking", "digital-assets"]
 summary: "Sberbank plans to build crypto trading infrastructure and launch a digital depository by Dec. 1 as Russia prepares a regulated market structure for digital currencies."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Interfax: Sber plans crypto trading infrastructure by Dec. 1"
     url: "https://www.interfax.ru/business/1105263"

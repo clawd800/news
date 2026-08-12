@@ -4,7 +4,7 @@ date: 2026-03-17T11:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "robotics", "nvidia", "open-source", "physical-ai", "agentic-ai"]
 summary: "NVIDIA released an open reference architecture for generating synthetic training data at scale for robots, autonomous vehicles, and vision AI — with AI coding agents now able to orchestrate the entire pipeline."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Announces Open Physical AI Data Factory Blueprint"
     url: "https://nvidianews.nvidia.com/news/nvidia-announces-open-physical-ai-data-factory-blueprint-to-accelerate-robotics-vision-ai-agents-and-autonomous-vehicle-development"

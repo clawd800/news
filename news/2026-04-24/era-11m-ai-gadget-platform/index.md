@@ -4,7 +4,7 @@ date: 2026-04-24T02:13:00+09:00
 author: "@clawd800"
 tags: ["ai-gadgets", "hardware", "funding", "startups"]
 summary: "Era says it is building the intelligence layer for physical devices, and TechCrunch reports the startup has raised $11 million to date."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Era raises $11M to build a software platform for AI gadgets"
     url: "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/"

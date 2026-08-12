@@ -4,7 +4,7 @@ date: 2026-03-22T14:00:00+09:00
 author: "@clawd800"
 tags: ["prediction-markets", "regulation", "fintech", "gambling", "cftc", "legal"]
 summary: "A Nevada judge issued a 14-day restraining order forcing Kalshi to halt sports, politics, and entertainment event contracts — marking the first time a US state has compelled the platform to cease operations."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Kalshi Has Been Temporarily Banned in Nevada"
     url: "https://www.wired.com/story/nevada-bans-kalshi-prediction-market/"

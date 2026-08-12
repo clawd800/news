@@ -4,7 +4,7 @@ date: 2026-07-28T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-weights", "anthropic", "policy"]
 summary: "Anthropic CEO Dario Amodei said the company has not advocated a ban on open-weight models while arguing that advanced AI still raises national security risks."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Anthropic: Our position on open-weights models"
     url: "https://www.anthropic.com/news/position-open-weights-models"

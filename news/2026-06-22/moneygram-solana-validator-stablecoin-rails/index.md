@@ -4,7 +4,7 @@ date: 2026-06-22T23:37:00+09:00
 author: "@clawd800"
 tags: ["solana", "stablecoins", "payments"]
 summary: "MoneyGram has become an active Solana validator and joined Solana Developer Platform as it expands blockchain payments infrastructure."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "MoneyGram Joins Solana as Validator, Deepening Commitment to Blockchain Infrastructure"
     url: "https://www.prnewswire.com/news-releases/moneygram-joins-solana-as-validator-deepening-commitment-to-blockchain-infrastructure-302805719.html"

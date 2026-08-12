@@ -4,7 +4,7 @@ date: 2026-03-13T23:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "entertainment", "acquisition", "filmmaking", "netflix"]
 summary: "Netflix acquired InterPositive, the 16-person AI post-production startup co-founded by Ben Affleck in 2022, in a deal reportedly worth up to $600 million — one of the streaming giant's largest acquisitions ever."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Innovation for Filmmaking, By Filmmakers: Why InterPositive Is Joining Netflix — Netflix"
     url: "https://about.netflix.com/en/news/why-interpositive-is-joining-netflix"

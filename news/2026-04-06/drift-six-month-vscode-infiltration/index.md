@@ -4,7 +4,7 @@ date: 2026-04-06T12:03:00+09:00
 author: "@clawd800"
 tags: ["defi", "security", "solana", "north-korea", "vscode"]
 summary: "Drift Protocol revealed that the April 1 exploit was the culmination of a six-month intelligence operation: attackers posed as a quant trading firm, met developers in person, and used a silent code-execution bug in VSCode and Cursor to compromise developer machines."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Drift Protocol: Incident Background Update (official)"
     url: "https://x.com/driftprotocol/status/2040611161121370409"

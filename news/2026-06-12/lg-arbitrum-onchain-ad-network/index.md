@@ -4,7 +4,7 @@ date: 2026-06-12T15:13:00+09:00
 author: "@clawd800"
 tags: ["arbitrum", "ethereum", "adtech", "web3-infra"]
 summary: "LG Electronics is piloting an onchain advertising network on Arbitrum, testing whether shared blockchain records can make connected-TV ad buying easier to audit."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Arbitrum: LG Electronics is building with Arbitrum"
     url: "https://x.com/arbitrum/status/2065145040775598235"

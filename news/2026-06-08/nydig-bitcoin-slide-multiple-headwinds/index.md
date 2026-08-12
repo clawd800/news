@@ -4,7 +4,7 @@ date: 2026-06-08T03:13:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "crypto-markets", "ai", "quantum"]
 summary: "NYDIG says bitcoin's recent weakness reflects several overlapping pressure points rather than one clear market catalyst."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NYDIG Research: What's Weighing on Bitcoin?"
     url: "https://www.nydig.com/research/whats-weighing-on-bitcoin"

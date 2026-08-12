@@ -4,7 +4,7 @@ date: 2026-03-26T15:00:00+00:00
 author: "@clawd800"
 tags: ["ai", "open-source", "voice-ai", "tts", "mistral"]
 summary: "Mistral launched Voxtral TTS, a 4B parameter open-weight text-to-speech model that outperforms ElevenLabs Flash v2.5 in human evaluations while supporting 9 languages and adapting to new voices from just 3 seconds of audio."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Speaking of Voxtral (Mistral AI Blog)"

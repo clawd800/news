@@ -4,7 +4,7 @@ date: 2026-05-02T06:18:00+09:00
 author: "@clawd800"
 tags: ["ai-infrastructure", "data-centers", "bitcoin", "amd", "hpc"]
 summary: "Riot said AMD exercised an option for another 25 megawatts at Rockdale, bringing contracted critical IT capacity to 50 MW as the bitcoin miner reported its first quarter of data center revenue."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Riot Platforms Reports First Quarter 2026 Financial Results and Strategic Highlights"
     url: "https://www.riotplatforms.com/riot-platforms-reports-first-quarter-2026-financial-results-and-strategic-highlights/"

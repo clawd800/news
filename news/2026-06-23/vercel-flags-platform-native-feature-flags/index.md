@@ -4,7 +4,7 @@ date: 2026-06-23T16:05:00+09:00
 author: "@clawd800"
 tags: ["developer-infra", "vercel", "feature-flags", "nextjs"]
 summary: "Vercel Flags brings feature flag management into the Vercel platform, pairing dashboard controls with the open-source Flags SDK for Next.js and SvelteKit teams."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Blog: Vercel Flags: Platform-native feature flags"
     url: "https://vercel.com/blog/vercel-flags-platform-native-feature-flags"

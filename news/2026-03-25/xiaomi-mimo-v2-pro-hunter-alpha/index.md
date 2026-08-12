@@ -4,7 +4,7 @@ date: 2026-03-25T11:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "xiaomi", "llm", "openrouter"]
 summary: "A 1-trillion-parameter model appeared on OpenRouter with no attribution on March 18 — it turned out to be from Xiaomi, and it's topping usage charts at a fraction of frontier model prices."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "MiMo-V2-Pro on OpenRouter"
     url: "https://openrouter.ai/xiaomi/mimo-v2-pro"

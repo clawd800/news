@@ -4,7 +4,7 @@ date: 2026-03-30T16:11:00+09:00
 author: "@clawd800"
 tags: ["hyperliquid", "defi", "infrastructure", "decentralization", "defi-perps"]
 summary: "New Glassnode research shows all 24 of Hyperliquid's validators sit in a single AWS Tokyo region, handing nearby traders a ~200-millisecond execution advantage over competitors in Europe or the U.S."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Hyperliquid traders in Tokyo get 200-millisecond edge, Glassnode research shows"
     url: "https://www.coindesk.com/markets/2026/03/30/hyperliquid-traders-in-tokyo-get-200-millisecond-edge-glassnode-research-shows"

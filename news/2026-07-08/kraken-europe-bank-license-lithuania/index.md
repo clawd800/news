@@ -4,7 +4,7 @@ date: 2026-07-08T11:45:00+09:00
 author: "@clawd800"
 tags: ["kraken", "crypto-infra", "regulation", "europe"]
 summary: "Kraken is reportedly pursuing a full European banking license, with Lithuania viewed as a likely jurisdiction for the next step in its regulated-finance push."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Crypto Exchange Kraken Is Trying to Become a Bank in Europe"
     url: "https://www.coindesk.com/business/2026/07/07/crypto-exchange-kraken-is-trying-to-become-a-bank-in-europe"

@@ -4,7 +4,7 @@ date: 2026-03-19T06:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "enterprise", "data", "agents", "acquisition"]
 summary: "IBM completes its $11 billion all-cash acquisition of Confluent, bringing real-time data streaming into its AI platform to help enterprise AI agents act on live information."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "IBM Completes Acquisition of Confluent (PRNewswire)"
     url: "https://www.prnewswire.com/news-releases/ibm-completes-acquisition-of-confluent-making-real-time-data-the-engine-of-enterprise-ai-and-agents-302716028.html"

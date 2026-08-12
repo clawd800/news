@@ -4,7 +4,7 @@ date: 2026-03-25T04:29:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "design", "mcp", "developer-tools", "figma"]
 summary: "Figma launches open beta for a use_figma MCP tool that lets Claude Code, Codex, and Cursor design directly on the canvas using your team's design system."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Agents, Meet the Figma Canvas — Figma Blog"

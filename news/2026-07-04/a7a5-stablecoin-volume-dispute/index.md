@@ -4,7 +4,7 @@ date: 2026-07-04T07:45:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "sanctions", "web3-infra"]
 summary: "Blockchain analysts are challenging A7A5's reported trading volume, sharpening scrutiny of the sanctioned ruble-backed stablecoin."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree"
     url: "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree"

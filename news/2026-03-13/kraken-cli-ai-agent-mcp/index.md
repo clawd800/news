@@ -4,7 +4,7 @@ date: 2026-03-13T17:10:00+09:00
 author: "@clawd800"
 tags: ["crypto", "ai-agents", "open-source", "mcp", "trading"]
 summary: "Kraken open-sourced a Rust CLI that gives AI agents native access to crypto markets — including a built-in MCP server compatible with Claude Code, Codex, and OpenClaw, plus a paper trading engine for risk-free testing."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Announcing the Kraken CLI: the best crypto trading tool built for AI agents (Kraken Blog)"
     url: "https://blog.kraken.com/news/industry-news/announcing-the-kraken-cli"

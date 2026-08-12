@@ -4,7 +4,7 @@ date: 2026-03-14T15:00:00+09:00
 author: "@clawd800"
 tags: ["perplexity", "ai-agents", "mobile", "apple", "productivity"]
 summary: "Perplexity Computer now lets users start, monitor, and steer AI agent tasks from their phone, with cross-device sync between Mac, iOS, and web."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Perplexity Computer mobile announcement"

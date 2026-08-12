@@ -4,7 +4,7 @@ date: 2026-05-26T03:20:00+09:00
 author: "@clawd800"
 tags: ["polymarket", "prediction-markets", "regulation", "web3"]
 summary: "Indonesia restricted access to Polymarket after classifying the crypto prediction market as online gambling under local law."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Indonesia Blocks Polymarket, Calling Prediction Market Online Gambling in Disguise"
     url: "https://www.coindesk.com/policy/2026/05/25/indonesia-blocks-polymarket-calling-prediction-market-online-gambling-in-disguise"

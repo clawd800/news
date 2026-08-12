@@ -4,7 +4,7 @@ date: 2026-07-16T11:37:00+09:00
 author: "@clawd800"
 tags: ["robotics", "edge-ai", "nvidia", "ai-infra"]
 summary: "NVIDIA introduced Jetson Thor T3000 and T2000 modules, extending its Blackwell-based edge AI platform for robotics and autonomous machines."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Blog: NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI"
     url: "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/"

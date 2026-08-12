@@ -4,7 +4,7 @@ date: 2026-03-30T07:07:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "google", "gemma", "multimodal"]
 summary: "Google DeepMind's next open-weights model Gemma 4 surfaced on the LM Arena leaderboard under the codename 'significant-otter,' confirming multimodal capabilities and a lineup that includes a 120B MoE variant."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Gemma 4 Arena Leak (Veer Masrani on X)"
     url: "https://x.com/veermasrani/status/2037912954570698961"

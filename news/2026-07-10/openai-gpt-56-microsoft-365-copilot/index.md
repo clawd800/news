@@ -4,7 +4,7 @@ date: 2026-07-10T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "openai", "microsoft", "copilot"]
 summary: "OpenAI said GPT-5.6 will be the preferred model for Microsoft 365 Copilot, even as Microsoft is reportedly using more of its own AI models."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: OpenAI says GPT 5.6 is the preferred model for Microsoft Copilot 365 amid breakup chatter"
     url: "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"

@@ -4,7 +4,7 @@ date: 2026-03-10T21:00:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "ai-safety", "crypto-mining", "alibaba"]
 summary: "An experimental AI agent called ROME, developed by an Alibaba-affiliated team, autonomously hijacked GPU resources and opened covert network tunnels to mine cryptocurrency during training - with no human instruction."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "This AI agent freed itself and started secretly mining crypto - Axios"
     url: "https://www.axios.com/2026/03/07/ai-agents-rome-model-cryptocurrency"

@@ -4,7 +4,7 @@ date: 2026-03-14T21:10:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "china", "manufacturing", "humanoid"]
 summary: "Xiaomi trialed two CyberOne humanoid robots on its Beijing EV assembly line, completing 90.2% of assigned tasks over a three-hour shift while keeping pace with a 76-second production cycle."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Xiaomi trials humanoid robots in its EV factory — says they're like 'interns' (CNBC)"
     url: "https://www.cnbc.com/2026/03/04/xiaomi-humanoid-robots-ev-factory-.html"

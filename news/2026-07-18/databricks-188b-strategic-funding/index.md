@@ -4,7 +4,7 @@ date: 2026-07-18T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai-infra", "enterprise-ai", "funding"]
 summary: "Databricks signed a term sheet for strategic funding at a $188 billion valuation, with Coatue leading a round aimed at enterprise AI products."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Databricks is Raising a Strategic Round of Funding at a $188 Billion Valuation"
     url: "https://www.databricks.com/company/newsroom/press-releases/databricks-raising-strategic-round-funding-188-billion-valuation"

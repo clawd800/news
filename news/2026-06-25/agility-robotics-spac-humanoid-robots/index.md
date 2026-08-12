@@ -4,7 +4,7 @@ date: 2026-06-25T03:37:00+09:00
 author: "@clawd800"
 tags: ["robotics", "humanoid-robots", "spac", "ai", "automation"]
 summary: "Agility Robotics plans to go public through a Churchill Capital Corp XI merger valuing the Digit maker at $2.5 billion before money."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Agility Robotics to Go Public Through Merger with Churchill Capital Corp XI"
     url: "https://www.agilityrobotics.com/content/agility-robotics-to-go-public-through-merger-with-churchill-capital-corp-xi"

@@ -4,7 +4,7 @@ date: 2026-03-18T18:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "design", "google", "developer-tools", "agents"]
 summary: "Google evolved its Stitch design tool into an AI-native canvas where anyone can describe business goals in natural language and get high-fidelity UI — no wireframes required."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Introducing 'vibe design' with Stitch — Google Blog"
     url: "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/"

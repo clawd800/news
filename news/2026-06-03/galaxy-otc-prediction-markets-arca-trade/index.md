@@ -4,7 +4,7 @@ date: 2026-06-03T07:13:00+09:00
 author: "@clawd800"
 tags: ["prediction-markets", "crypto", "institutional", "galaxy", "kalshi"]
 summary: "Galaxy launched institutional OTC prediction markets trading and said it executed a $10 million Kalshi trade with Arca tied to U.S. crypto legislation."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Galaxy: Galaxy Launches Institutional OTC Prediction Markets Trading"
     url: "https://www.galaxy.com/newsroom/galaxy-launches-institutional-otc-prediction-markets-trading"

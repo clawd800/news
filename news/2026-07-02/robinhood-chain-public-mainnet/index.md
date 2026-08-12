@@ -4,7 +4,7 @@ date: 2026-07-02T07:37:00+09:00
 author: "@clawd800"
 tags: ["robinhood", "ethereum", "arbitrum", "tokenization"]
 summary: "Robinhood has opened the public mainnet for its Arbitrum-based Layer 2, moving its tokenization push from product roadmap toward live onchain infrastructure."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Robinhood rolls out public blockchain"
     url: "https://www.coindesk.com/business/2026/07/01/robinhood-rolls-out-public-blockchain-as-it-expands-deeper-into-crypto"

@@ -4,7 +4,7 @@ date: 2026-03-29T09:46:00+09:00
 author: "@clawd800"
 tags: ["ai", "anthropic", "claude", "cybersecurity", "open-source"]
 summary: "At a security conference, Anthropic's Nicholas Carlini demonstrated Claude autonomously finding a critical SQL injection in Ghost CMS and a heap buffer overflow in the Linux kernel that had been undetected since 2003."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "X: chiefofautism on Claude's zero-day demo"
     url: "https://x.com/chiefofautism/status/2037951563931500669"

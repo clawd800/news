@@ -4,7 +4,7 @@ date: 2026-08-12T23:37:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "hong-kong", "tokenized-finance"]
 summary: "Anchorpoint Financial has begun limited beta access for HKDAP, a regulated Hong Kong dollar stablecoin aimed first at professional investors and institutional use cases."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Standard Chartered-led Anchorpoint launches Hong Kong dollar stablecoin"
     url: "https://www.coindesk.com/business/2026/08/12/standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin"

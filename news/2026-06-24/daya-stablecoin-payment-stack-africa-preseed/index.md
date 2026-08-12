@@ -4,7 +4,7 @@ date: 2026-06-24T23:40:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "payments", "africa", "web3-infra"]
 summary: "Daya's reported $2.4 million pre-seed round points to continuing investor interest in stablecoin rails for African cross-border business payments."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Unchained: Daya Raises $2.4M to Build Stablecoin Payment Stack for African Businesses"
     url: "https://unchainedcrypto.com/daya-raises-2-4-million-to-build-a-stablecoin-payment-stack-for-african-businesses-unchained/"

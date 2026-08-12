@@ -4,7 +4,7 @@ date: 2026-07-02T23:37:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "ethereum", "securities", "ondo"]
 summary: "Ondo says it has launched third-party tokenized U.S. securities using a custodial entitlement model, starting with IVV and Micron shares on Ethereum."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ondo Finance: Custodial tokenized securities announcement"
     url: "https://www.prnewswire.com/news-releases/ondo-finance-launches-first-ever-custodial-tokenized-securities-in-the-us-broadridge-partners-to-integrate-world-class-governance-302816716.html"

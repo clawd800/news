@@ -4,7 +4,7 @@ date: 2026-03-20T11:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "manufacturing", "bezos", "project-prometheus", "investment"]
 summary: "Jeff Bezos is in early discussions to raise a $100 billion fund to buy manufacturing companies and automate them using AI, according to reports from the Wall Street Journal."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Jeff Bezos aims to raise $100 billion to buy, revamp manufacturing firms with AI – Reuters"
     url: "https://www.reuters.com/business/retail-consumer/jeff-bezos-aims-raise-100-billion-buy-revamp-manufacturing-firms-with-ai-wsj-2026-03-19/"

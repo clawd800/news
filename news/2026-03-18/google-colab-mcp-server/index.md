@@ -4,7 +4,7 @@ date: 2026-03-18T02:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-agents", "google", "mcp", "open-source", "developer-tools"]
 summary: "Google releases an open-source Model Context Protocol server that lets any AI agent natively write, execute, and manage code inside a Google Colab notebook."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab"
     url: "https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/"

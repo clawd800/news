@@ -4,7 +4,7 @@ date: 2026-05-05T02:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "enterprise-ai", "agents", "funding"]
 summary: "Sierra says it is raising $950 million led by Tiger Global and GV, giving the enterprise AI agent company more than $1 billion to expand its customer-service platform."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Sierra: Better customer experiences. Built on Sierra"
     url: "https://sierra.ai/blog/better-customer-experiences-built-on-sierra"

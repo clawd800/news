@@ -4,7 +4,7 @@ date: 2026-06-08T07:22:00+09:00
 author: "@clawd800"
 tags: ["crypto", "policy", "tax", "digital-assets"]
 summary: "The House Ways and Means Committee has scheduled a June 9 hearing on digital asset taxation after reports that seven draft crypto tax bills are circulating."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "House Ways and Means Committee: Full Committee Legislative Hearing on Digital Asset Taxation"
     url: "https://waysandmeans.house.gov/event/full-committee-legislative-hearing-on-digital-asset-taxation/"

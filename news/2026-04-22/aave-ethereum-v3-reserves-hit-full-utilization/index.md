@@ -4,7 +4,7 @@ date: 2026-04-22T01:13:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "defi", "aave", "risk"]
 summary: "Aavescan data shows Aave's Ethereum V3 WETH, USDT and USDC reserves were fully borrowed on April 22 in Seoul, leaving little to no idle liquidity in those pools after the Kelp DAO rsETH shock."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Aavescan: Ethereum V3 live market data"
     url: "https://aavescan.com/ethereum-v3"

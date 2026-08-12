@@ -4,7 +4,7 @@ date: 2026-04-27T23:18:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "meta", "china", "acquisition"]
 summary: "China's top economic planner has ordered the parties behind Meta's planned Manus acquisition to withdraw the deal, escalating scrutiny of cross-border AI transactions."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NDRC: Security review decision on foreign acquisition of the Manus project"
     url: "https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20623"

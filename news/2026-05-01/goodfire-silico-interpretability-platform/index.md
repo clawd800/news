@@ -4,7 +4,7 @@ date: 2026-05-01T04:19:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-tools", "interpretability", "llm", "model-training"]
 summary: "Goodfire has introduced Silico, an early-access platform that aims to help teams inspect model internals, diagnose failures, and make targeted interventions during training and fine-tuning."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Goodfire Silico product page"

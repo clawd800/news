@@ -4,7 +4,7 @@ date: 2026-03-22T11:29:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "defi", "btcfi", "smart-contracts", "web3"]
 summary: "OP_NET's mainnet launch enables smart contracts, a native DEX, and OP-20 tokens directly on Bitcoin Layer 1 without bridges, sidechains, or protocol changes."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Bitcoin Gets Native DeFi Stack as OP_NET Goes Live on Mainnet"

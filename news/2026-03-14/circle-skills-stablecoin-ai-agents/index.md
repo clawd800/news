@@ -4,7 +4,7 @@ date: 2026-03-14T12:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "stablecoin", "usdc", "open-source", "base", "arc"]
 summary: "Circle has released Circle Skills, an open-source development kit that lets AI coding agents generate stablecoin integrations for USDC, EURC, and Circle's Arc platform."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Arc on X: Circle Skills announcement"
     url: "https://x.com/arc/status/2032577450316615882"

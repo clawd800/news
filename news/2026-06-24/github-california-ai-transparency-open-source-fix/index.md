@@ -4,7 +4,7 @@ date: 2026-06-24T15:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "policy", "github"]
 summary: "GitHub joined Black Forest Labs, Hugging Face, and Mozilla in asking California lawmakers to revise AI transparency language that could clash with open source licenses."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GitHub Blog: GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source"
     url: "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/"

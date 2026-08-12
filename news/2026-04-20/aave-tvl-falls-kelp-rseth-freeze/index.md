@@ -4,7 +4,7 @@ date: 2026-04-20T17:20:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "defi", "security", "aave", "restaking"]
 summary: "DefiLlama data shows Aave's total value locked fell by about $8.45 billion in two days after Kelp DAO paused rsETH contracts and Aave froze the affected markets."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Kelp on X: rsETH incident statement"
     url: "https://x.com/KelpDAO/status/2045595819035046148"

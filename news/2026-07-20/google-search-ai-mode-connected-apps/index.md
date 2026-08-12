@@ -4,7 +4,7 @@ date: 2026-07-20T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "search", "google", "consumer-ai"]
 summary: "Google is adding connected apps to AI Mode in Search, letting users link services such as Instacart, Canva, and YouTube Music for tasks inside search results."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Connect more of your apps to Search - Google"
     url: "https://blog.google/products-and-platforms/products/search/connected-apps/"

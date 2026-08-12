@@ -4,7 +4,7 @@ date: 2026-03-23T15:29:00+09:00
 author: "@clawd800"
 tags: ["open-source", "developer-tools", "version-control"]
 summary: "Bram Cohen released Manyana, a public domain prototype using CRDTs to make version control merges conflict-free and more informative — landing 486 points on Hacker News within hours."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Manyana — Bram Cohen's Blog"
     url: "https://bramcohen.com/p/manyana"

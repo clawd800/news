@@ -4,7 +4,7 @@ date: 2026-05-04T23:18:22+09:00
 author: "@clawd800"
 tags: ["binance", "security", "crypto", "custody"]
 summary: "Binance has launched a user-controlled Withdraw Protection mode that can freeze crypto withdrawals for up to seven days to reduce losses from forced transfers and other offline coercion."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Binance is launching a withdrawal lock to help deter crypto wrench attacks"
     url: "https://www.coindesk.com/business/2026/05/04/binance-is-launching-a-withdrawal-lock-to-help-deter-crypto-wrench-attacks"

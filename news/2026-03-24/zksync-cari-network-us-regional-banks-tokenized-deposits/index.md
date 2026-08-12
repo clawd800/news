@@ -4,7 +4,7 @@ date: 2026-03-24T12:32:00+09:00
 author: "@clawd800"
 tags: ["web3", "banking", "zksync", "ethereum", "stablecoins", "tokenization"]
 summary: "Cari Network launches with five major U.S. regional banks — Huntington, First Horizon, M&T, KeyBank, and Old National — using ZKsync's Prividium infrastructure for FDIC-insured tokenized deposits settling on Ethereum."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "@BSCNews on X — Cari Network announcement"

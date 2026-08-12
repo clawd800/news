@@ -4,7 +4,7 @@ date: 2026-03-23T21:29:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "regulation", "ethereum", "rwa", "policy"]
 summary: "The House Financial Services Committee will examine two bills on tokenizing stocks and bonds on Wednesday, with Wall Street and crypto industry leaders set to testify."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "What to Expect From This Week's House Committee on Tokenization"
     url: "https://decrypt.co/361976/what-to-expect-this-weeks-house-committee-tokenization"

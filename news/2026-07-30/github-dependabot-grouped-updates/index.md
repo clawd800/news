@@ -4,7 +4,7 @@ date: 2026-07-30T07:37:00+09:00
 author: "@clawd800"
 tags: ["github", "developer-infra", "supply-chain-security"]
 summary: "GitHub outlined a Dependabot configuration pattern that groups routine dependency updates while keeping security fixes on a faster path."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GitHub Blog: Tame Dependabot"
     url: "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/"

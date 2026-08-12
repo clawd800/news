@@ -4,7 +4,7 @@ date: 2026-08-08T07:37:00+09:00
 author: "@clawd800"
 tags: ["crypto", "sanctions", "iran", "treasury"]
 summary: "The U.S. Treasury sanctioned Shelbit-linked entities and Iran-based Aban Tether, saying digital asset exchanges helped Tehran move funds outside the banking system."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "U.S. Treasury: Treasury Sanctions Crypto Exchanges Funding Iran's IRGC and Enabling Illicit Finance"
     url: "https://home.treasury.gov/news/press-releases/sb0598"

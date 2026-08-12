@@ -4,7 +4,7 @@ date: 2026-04-01T07:16:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "ethereum", "defi", "regulation", "europe"]
 summary: "Qivalis, backed by ING, UniCredit, BBVA and nine other major European banks, is developing a MiCA-compliant euro stablecoin to compete with dollar-pegged tokens — because right now the euro accounts for just 0.2% of onchain transactions."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Why 12 European banks are teaming up to save the euro from digital dollarization"
     url: "https://www.coindesk.com/business/2026/03/31/europe-faces-digital-dollarization-without-a-euro-stablecoin-of-its-own-warns-qivalis-ceo"

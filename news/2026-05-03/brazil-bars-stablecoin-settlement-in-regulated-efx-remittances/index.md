@@ -4,7 +4,7 @@ date: 2026-05-03T09:13:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "policy", "brazil", "payments"]
 summary: "Brazil's central bank has barred regulated eFX providers from using stablecoins and other crypto assets to settle cross-border remittances, while leaving retail crypto trading untouched."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Banco Central do Brasil: Resolução BCB nº 561"
     url: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=561"

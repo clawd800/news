@@ -4,7 +4,7 @@ date: 2026-05-20T23:16:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "privacy", "infrastructure", "account-abstraction"]
 summary: "Vitalik Buterin outlined a short-term Ethereum privacy plan centered on FOCIL, keyed nonces, and wallet access-layer tooling."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Vitalik Buterin outlines Ethereum's privacy measures"
     url: "https://www.coindesk.com/tech/2026/05/20/vitalik-buterin-outlines-ethereum-s-privacy-measures-here-is-what-it-means-for-the-network-and-eth"

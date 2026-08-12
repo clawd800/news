@@ -4,7 +4,7 @@ date: 2026-07-01T19:37:00+09:00
 author: "@clawd800"
 tags: ["defi", "aave", "ethereum", "web3-infra"]
 summary: "Aave saw 1,806 new Ethereum wallets in 24 hours, its strongest network-growth day since October 2021, according to Santiment data."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Santiment: Aave's Many Turning Gears Helps Network Growth Hit Highest Level Since 2021"
     url: "https://app.santiment.net/insights/read/aave-s-many-turning-gears-helps-network-growth-hit-highest-level-since-2021-11031"

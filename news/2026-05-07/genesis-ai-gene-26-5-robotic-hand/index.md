@@ -4,7 +4,7 @@ date: 2026-05-07T01:16:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "foundation-models"]
 summary: "Genesis AI has introduced its GENE-26.5 robotics model alongside a human-scale robotic hand and glove system aimed at collecting higher-quality manipulation data."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Genesis AI"
     url: "https://www.genesis.ai/"

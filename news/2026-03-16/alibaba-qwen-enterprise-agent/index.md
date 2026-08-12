@@ -4,7 +4,7 @@ date: 2026-03-16T21:00:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "alibaba", "china", "enterprise-ai", "qwen"]
 summary: "Alibaba is preparing to unveil an enterprise AI agent built on its Qwen model that can operate computers, browsers, and cloud infrastructure — and it could drop as soon as this week."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Alibaba Plans to Launch Agentic AI Service, Riding on China's OpenClaw Craze"
     url: "https://www.bloomberg.com/news/articles/2026-03-16/alibaba-creates-ai-tool-for-companies-to-ride-china-agent-craze"

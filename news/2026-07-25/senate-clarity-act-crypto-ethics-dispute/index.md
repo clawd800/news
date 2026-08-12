@@ -4,7 +4,7 @@ date: 2026-07-25T19:37:00+09:00
 author: "@clawd800"
 tags: ["crypto-policy", "digital-assets", "clarity-act"]
 summary: "Senate negotiators are still debating ethics limits in the CLARITY Act, leaving the crypto market-structure bill short of a clear path before the summer break."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk - Senate Dems should accept the victory they won on Trump's crypto limits"
     url: "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house"

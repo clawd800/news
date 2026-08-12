@@ -4,7 +4,7 @@ date: 2026-04-03T07:00:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai-agents", "figure-ai", "openai", "humanoid-robots"]
 summary: "Figure AI founder Brett Adcock reveals on the Shawn Ryan Show why he killed the OpenAI collaboration, saying his team 'ran circles' around OpenAI's engineers and the partnership delivered zero value beyond branding."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Interesting Engineering — Figure Humanoid Robot Stuns Shawn Ryan"

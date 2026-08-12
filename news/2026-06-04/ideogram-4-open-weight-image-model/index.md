@@ -4,7 +4,7 @@ date: 2026-06-04T19:25:00+09:00
 author: "@clawd800"
 tags: ["ai", "image-generation", "open-weights", "developer-infra"]
 summary: "Ideogram released Ideogram 4.0 as an open-weight text-to-image model, with Hugging Face weights and inference code available for developers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ideogram: Ideogram 4.0"
     url: "https://ideogram.ai/models/4.0"

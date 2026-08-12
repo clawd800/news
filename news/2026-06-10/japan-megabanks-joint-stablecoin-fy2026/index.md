@@ -4,7 +4,7 @@ date: 2026-06-10T19:20:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "japan", "banking", "web3-infra"]
 summary: "MUFG Bank, Mizuho Bank, and SMBC plan live commercial transactions using a jointly issued stablecoin during Japan's fiscal 2026."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "MUFG Bank, Mizuho Bank and SMBC joint announcement"
     url: "https://www.bk.mufg.jp/global/newsroom/news2026/pdf/newse0610.pdf"

@@ -4,7 +4,7 @@ date: 2026-07-01T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "google", "go"]
 summary: "Google released ADK for Go 2.0 with graph-based workflows, human-in-the-loop pauses, and dynamic orchestration for multi-agent applications."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: Build reliable multi-agent applications with ADK Go 2.0"
     url: "https://developers.googleblog.com/announcing-adk-go-20/"

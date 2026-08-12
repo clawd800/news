@@ -4,7 +4,7 @@ date: 2026-03-19T22:29:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "funding", "reinforcement-learning", "a16z", "enterprise-ai"]
 summary: "Andreessen Horowitz leads a $43M Series A in Deeptune, which builds high-fidelity reinforcement learning environments where AI agents practice real workplace tasks before going live."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Exclusive: Andreessen Horowitz backs Deeptune's $43M Series A to build 'training gyms' for AI agents"
     url: "https://fortune.com/2026/03/19/andreessen-horowitz-ai-startups-deeptune-series-a/"

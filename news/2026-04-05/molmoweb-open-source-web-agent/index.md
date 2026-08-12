@@ -4,7 +4,7 @@ date: 2026-04-05T16:15:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "ai-agents", "web-agents"]
 summary: "Allen Institute for AI open-sourced MolmoWeb, a visual web agent that outperforms GPT-4o-based systems on browser navigation benchmarks despite running on just 4B–8B parameters."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "MolmoWeb Blog Post - Ai2"
     url: "https://allenai.org/blog/molmoweb"

@@ -4,7 +4,7 @@ date: 2026-06-19T15:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-models", "developer-infra"]
 summary: "Z.ai's GLM-5.2 release pairs MIT-licensed open weights with a 1M-token context window aimed at long-horizon coding and agent workflows."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Z.ai Blog: GLM-5.2: Built for Long-Horizon Tasks"
     url: "https://z.ai/blog/glm-5.2"

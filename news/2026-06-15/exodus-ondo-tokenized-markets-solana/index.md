@@ -4,7 +4,7 @@ date: 2026-06-15T19:32:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "solana", "rwa"]
 summary: "Exodus Markets gives eligible wallet users access to more than 200 tokenized stocks, ETFs, and real-world assets through Ondo's Solana-based infrastructure."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ondo Finance: Exodus and Ondo Launch Exodus Markets"
     url: "https://ondo.finance/blog/exodus-and-ondo-launch-exodus-markets"

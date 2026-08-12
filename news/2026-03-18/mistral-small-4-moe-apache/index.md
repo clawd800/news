@@ -4,7 +4,7 @@ date: 2026-03-18T01:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "llm", "mistral"]
 summary: "Mistral AI releases Small 4, a 119B Mixture-of-Experts model under Apache 2.0 that unifies instruction-following, reasoning, multimodal understanding, and agentic coding in a single deployment."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Mistral Small 4 on Hugging Face"
     url: "https://huggingface.co/collections/mistralai/mistral-small-4"

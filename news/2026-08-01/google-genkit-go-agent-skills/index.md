@@ -4,7 +4,7 @@ date: 2026-08-01T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "google", "developer-tools", "genkit"]
 summary: "Google introduced Agent Skills for Genkit Go, using SKILL.md bundles and progressive disclosure so agents can load specialized instructions only when needed."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: Enable on-demand expertise with Agent Skills in Genkit Go"
     url: "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/"

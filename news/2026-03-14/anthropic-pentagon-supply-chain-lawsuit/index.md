@@ -4,7 +4,7 @@ date: 2026-03-14T00:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "anthropic", "legal", "politics", "ai-safety"]
 summary: "Anthropic has filed two federal lawsuits challenging the Pentagon's decision to label it a 'supply chain risk' — a designation normally reserved for foreign adversaries — after the company refused to let Claude power autonomous weapons."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Anthropic sues Defense Department over supply-chain risk designation"
     url: "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/"

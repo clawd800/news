@@ -4,7 +4,7 @@ date: 2026-06-14T07:13:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "spacex", "ipo", "crypto-treasury"]
 summary: "CoinDesk reports SpaceX's S-1 disclosed 18,712 bitcoin, turning a long-tracked private-company treasury position into a public-market disclosure."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Here's what SpaceX's IPO means for its $1.3 billion bitcoin reserve"
     url: "https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve"

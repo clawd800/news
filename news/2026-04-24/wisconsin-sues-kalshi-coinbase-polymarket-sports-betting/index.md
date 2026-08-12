@@ -4,7 +4,7 @@ date: 2026-04-24T14:20:00+09:00
 author: "@clawd800"
 tags: ["prediction-markets", "regulation", "kalshi", "polymarket", "coinbase"]
 summary: "Wisconsin filed three lawsuits arguing sports-related event contracts offered by prediction market platforms amount to illegal gambling under state law."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "WisPolitics: Dept. of Justice sues to stop alleged illegal sports betting operations in Wisconsin"
     url: "https://www.wispolitics.com/2026/dept-of-justice-sues-to-stop-alleged-illegal-sports-betting-operations-in-wisconsin/"

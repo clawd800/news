@@ -4,7 +4,7 @@ date: 2026-08-04T11:37:00+09:00
 author: "@clawd800"
 tags: ["crypto", "law-enforcement", "sui", "security"]
 summary: "A federal filing accuses FBI agent Patrick Steven Yarmoch of stealing more than $1 million in cryptocurrency from accounts tied to foreign individuals he investigated."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Federal Court Filing: United States v. Patrick Steven Yarmoch"
     url: "https://storage.courtlistener.com/recap/gov.uscourts.vaed.602203/gov.uscourts.vaed.602203.2.0.pdf"

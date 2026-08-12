@@ -4,7 +4,7 @@ date: 2026-03-12T13:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "amazon", "ai-agents", "software-engineering", "outage"]
 summary: "Amazon imposed new code-review safeguards after a series of e-commerce outages, with at least one disruption traced to its own AI coding assistant Q."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Amazon orders 90-day reset after code mishaps cause millions of lost orders (Business Insider)"
     url: "https://www.businessinsider.com/amazon-tightens-code-controls-after-outages-including-one-ai-2026-3"

@@ -4,7 +4,7 @@ date: 2026-08-05T11:37:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "samsung-wallet", "crypto", "payments"]
 summary: "Samsung says Wallet will support stablecoins, putting crypto payments inside one of the largest mobile payment surfaces."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Samsung Business Insights: Galaxy Unpacked July 2026 highlights"
     url: "https://insights.samsung.com/2026/07/15/announcing-the-next-galaxy-unpacked-event-watch-the-livestream-on-july-22/"

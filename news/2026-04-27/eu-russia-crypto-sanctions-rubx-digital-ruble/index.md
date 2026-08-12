@@ -4,7 +4,7 @@ date: 2026-04-27T20:16:00+09:00
 author: "@clawd800"
 tags: ["crypto", "sanctions", "stablecoins", "russia", "policy"]
 summary: "The EU's 20th sanctions package against Russia adds a sector-wide ban on Russia-based crypto platforms and explicitly targets the RUBx stablecoin and digital ruble support."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Council of the European Union: Russia's war of aggression against Ukraine: 20th round of stern EU sanctions hits energy, military industrial complex, trade and financial services, including crypto"
     url: "https://www.consilium.europa.eu/en/press/press-releases/2026/04/23/russia-s-war-of-aggression-against-ukraine-20th-round-of-stern-eu-sanctions-hits-energy-military-industrial-complex-trade-and-financial-services-including-crypto/"

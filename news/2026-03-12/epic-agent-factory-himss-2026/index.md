@@ -4,7 +4,7 @@ date: 2026-03-12T01:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "healthcare", "epic-systems", "himss"]
 summary: "At HIMSS 2026, Epic Systems unveiled Agent Factory and the Curiosity foundation model family, while reporting that over 85% of its customers now actively use its AI suite."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "HIMSS26: Epic EHR Unveils 'Agent Factory' and Custom Foundation Models - HIT Consultant"
     url: "https://hitconsultant.net/2026/03/10/epic-ai-himss-2026-agent-factory-curiosity-foundation-models/"

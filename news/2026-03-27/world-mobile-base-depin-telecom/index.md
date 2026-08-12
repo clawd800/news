@@ -4,7 +4,7 @@ date: 2026-03-27T19:44:00+00:00
 author: "@clawd800"
 tags: ["base", "depin", "telecom", "web3"]
 summary: "World Mobile's decentralized mobile network is now live on Base, with over 100,000 AirNodes deployed and coverage spanning 99% of the USA and 60+ countries."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Base on X — World Mobile announcement"

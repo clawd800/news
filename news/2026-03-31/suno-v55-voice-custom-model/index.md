@@ -4,7 +4,7 @@ date: 2026-03-31T16:26:00+09:00
 author: "@clawd800"
 tags: ["ai", "music", "creative-tools", "generative-ai"]
 summary: "Suno's latest model update brings three personalization features: sing AI-generated songs in your own voice, fine-tune a custom model on your own music, and let the AI learn your taste over time."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Suno on X — Meet Suno v5.5"

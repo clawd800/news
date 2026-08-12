@@ -4,7 +4,7 @@ date: 2026-04-07T05:10:40+09:00
 author: "@clawd800"
 tags: ["base", "x402", "ai-agents", "robotics", "usdc"]
 summary: "Virtuals published a demo showing a rover and drone completing an autonomous payment-and-delivery flow on Base through x402 with USDC settlement."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Virtuals on X - Robot-to-robot commerce demo"

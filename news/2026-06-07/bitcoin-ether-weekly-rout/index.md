@@ -4,7 +4,7 @@ date: 2026-06-07T07:20:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "ethereum", "crypto-markets"]
 summary: "Bitcoin and ether extended a sharp weekly selloff, with market data showing double-digit seven-day declines across the two largest crypto assets."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Bitcoin, Ether Eye Worst Weekly Rout Since FTX Collapse as Cryptos Shed $390 Billion"
     url: "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion"

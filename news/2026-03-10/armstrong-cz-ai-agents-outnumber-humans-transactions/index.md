@@ -4,7 +4,7 @@ date: 2026-03-10T19:05:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "crypto", "coinbase", "binance", "payments", "stablecoins"]
 summary: "Coinbase CEO Brian Armstrong and Binance founder CZ both predict AI agents will soon conduct more transactions than humans, with crypto wallets as the key infrastructure."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Brian Armstrong on X"
     url: "https://x.com/brian_armstrong/status/2031021867973194172"

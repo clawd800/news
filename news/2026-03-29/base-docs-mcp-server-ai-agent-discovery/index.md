@@ -4,7 +4,7 @@ date: 2026-03-29T04:00:00+09:00
 author: "@clawd800"
 tags: ["base", "ai-agents", "mcp", "developer-tools", "coinbase"]
 summary: "Base has shipped a live MCP server at docs.base.org/mcp, letting AI coding agents like Claude Code and Cursor pull Base documentation in real time — no scraping, no stale context."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "sohey.eth on X: Base docs now work with your AI agents"
     url: "https://x.com/sohey_eth/status/2037565807765430602"

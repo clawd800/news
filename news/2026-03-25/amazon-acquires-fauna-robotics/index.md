@@ -4,7 +4,7 @@ date: 2026-03-25T20:32:00+09:00
 author: "@clawd800"
 tags: ["robotics", "amazon", "humanoid", "acquisition", "ai"]
 summary: "Amazon has acquired Fauna Robotics, the New York startup behind Sprout — a 3.5-foot soft-bodied humanoid designed for consumer and research environments."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Amazon Acquires Fauna Robotics, Entering Consumer Humanoid Market (Bloomberg)"

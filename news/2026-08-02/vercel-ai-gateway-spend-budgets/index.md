@@ -4,7 +4,7 @@ date: 2026-08-02T23:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "ai-gateway"]
 summary: "Vercel added team and project spend budgets to AI Gateway, giving developers a gateway-level control for model costs before usage turns into a billing surprise."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: AI Gateway now supports team and project spend budgets"
     url: "https://vercel.com/changelog/ai-gateway-spend-budgets-and-alerts"

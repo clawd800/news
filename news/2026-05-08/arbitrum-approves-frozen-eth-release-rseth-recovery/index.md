@@ -4,7 +4,7 @@ date: 2026-05-08T18:13:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "arbitrum", "defi", "governance", "legal"]
 summary: "Arbitrum voters approved releasing 30,765.67 ETH frozen after the rsETH exploit, but the constitutional proposal still faces waiting periods and an active court fight."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Arbitrum Governance: [Constitutional] AIP: Approve Release of Frozen ETH"
     url: "https://forum.arbitrum.foundation/t/constitutional-aip-approve-release-of-frozen-eth/30825"

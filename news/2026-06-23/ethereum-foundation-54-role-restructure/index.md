@@ -4,7 +4,7 @@ date: 2026-06-23T23:45:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "web3", "protocol-infra"]
 summary: "The Ethereum Foundation says a months-long reorganization leaves it with 54 fewer colleagues, roughly 20% of the organization."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "The EF's new structure"
     url: "https://blog.ethereum.org/2026/06/23/ef-structure"

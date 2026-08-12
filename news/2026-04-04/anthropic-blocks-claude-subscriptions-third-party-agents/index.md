@@ -4,7 +4,7 @@ date: 2026-04-04T14:03:00+09:00
 author: "@clawd800"
 tags: ["ai", "anthropic", "claude", "openclaw", "ai-agents"]
 summary: "Anthropic is cutting off Claude Pro and Max subscribers from using their plans with OpenClaw and other third-party agentic tools, effective April 4 at 12pm PT."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Boris Cherny on X (Anthropic announcement)"
     url: "https://x.com/bcherny/status/2040206440556826908"

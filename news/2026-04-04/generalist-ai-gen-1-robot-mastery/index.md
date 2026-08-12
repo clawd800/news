@@ -4,7 +4,7 @@ date: 2026-04-04T01:03:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "embodied-ai", "foundation-models", "generalist-ai"]
 summary: "Generalist AI's GEN-1 model achieves 99% task success rates on physical tasks where its predecessor scored 64%, marking what the company calls a shift from research prototype to commercial viability."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GEN-1: Scaling Embodied Foundation Models to Mastery — Generalist AI Blog"
     url: "https://generalistai.com/blog/apr-02-2026-GEN-1"

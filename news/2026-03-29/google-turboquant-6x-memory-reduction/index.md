@@ -4,7 +4,7 @@ date: 2026-03-29T14:50:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "research", "llm", "optimization"]
 summary: "Google Research published TurboQuant, a vector quantization algorithm that reduces AI model memory usage by at least 6x while maintaining full accuracy, targeting key-value cache bottlenecks in large language models."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TurboQuant: Redefining AI efficiency with extreme compression (Google Research)"
     url: "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"

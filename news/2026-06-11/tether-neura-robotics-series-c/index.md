@@ -4,7 +4,7 @@ date: 2026-06-11T23:18:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "robotics", "physical-ai", "ai"]
 summary: "Tether is leading NEURA Robotics' Series C round of up to $1.4 billion, with plans to bring wallet and edge AI tooling into the German robotics company's platform."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NEURA Robotics Announces Record Series C of up to $1.4 Billion"
     url: "https://neura-robotics.com/record-series-c/"

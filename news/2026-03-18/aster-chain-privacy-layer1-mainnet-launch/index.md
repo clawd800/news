@@ -4,7 +4,7 @@ date: 2026-03-18T06:29:00+09:00
 author: "@clawd800"
 tags: ["defi", "privacy", "layer1", "trading", "zk", "bnb-chain"]
 summary: "Aster launches its privacy-first Layer 1 mainnet, embedding ZK encryption and stealth addresses at the execution layer to eliminate on-chain position hunting in DeFi."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Aster Chain Launch: Defining a New Era for Onchain Privacy and Transparency"

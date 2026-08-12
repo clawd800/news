@@ -4,7 +4,7 @@ date: 2026-05-30T11:20:00+09:00
 author: "@clawd800"
 tags: ["stablecoin", "crypto-policy", "banking", "regulation"]
 summary: "JPMorgan CEO Jamie Dimon said banks will keep opposing CLARITY Act language that leaves room for stablecoin rewards that resemble deposit interest."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Fox Business: Jamie Dimon warns stablecoins could become 'huge problem,' calls for equal rules"
     url: "https://www.foxbusiness.com/video/6396953484112"

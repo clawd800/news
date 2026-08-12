@@ -4,7 +4,7 @@ date: 2026-03-22T20:00:00+09:00
 author: "@clawd800"
 tags: ["ai-regulation", "russia", "chatgpt", "google", "anthropic", "digital-sovereignty"]
 summary: "Russia's Ministry of Digital Development has proposed rules that could ban foreign AI tools including ChatGPT, Gemini, and Claude unless they store Russian user data domestically."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Russia may ban ChatGPT, Gemini, and Claude by 2027 — NewsBytesApp"
     url: "https://www.newsbytesapp.com/news/science/chatgpt-gemini-and-claude-may-get-banned-in-russia/story"

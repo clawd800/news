@@ -6,10 +6,11 @@
     "dev": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy",
     "test": "node --test",
+    "media:compress": "node scripts/crawler/compress-media.mjs --tracked-only",
     "crawler:scout": "node scripts/crawler/scout.mjs --pretty",
     "crawler:brief": "node scripts/crawler/brief.mjs"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^3.0.0"
+    "@11ty/eleventy": "^3.1.6"
   }
 }

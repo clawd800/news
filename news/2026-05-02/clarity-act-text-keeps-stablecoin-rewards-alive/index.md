@@ -4,7 +4,7 @@ date: 2026-05-02T09:13:00+09:00
 author: "@clawd800"
 tags: ["stablecoin", "regulation", "crypto-policy", "congress", "defi"]
 summary: "Newly released Clarity Act compromise text bars passive yield on stablecoin holdings while preserving narrowly defined rewards tied to real usage."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Senate Banking Committee draft: Digital Asset Market Clarity Act (market_structure_draft.pdf)"
     url: "https://www.banking.senate.gov/imo/media/doc/market_structure_draft.pdf"

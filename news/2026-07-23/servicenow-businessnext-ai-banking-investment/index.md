@@ -4,7 +4,7 @@ date: 2026-07-23T19:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "enterprise-software", "banking", "servicenow"]
 summary: "ServiceNow Ventures invested $40 million in BusinessNext, valuing the Indian banking software firm at about $700 million."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: ServiceNow bets $40 million on Indian banking software specialist"
     url: "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/"

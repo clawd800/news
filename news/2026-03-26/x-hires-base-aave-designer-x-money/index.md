@@ -4,7 +4,7 @@ date: 2026-03-26T12:29:00+09:00
 author: "@clawd800"
 tags: ["x-money", "crypto", "payments", "base", "defi"]
 summary: "X has hired Benji Taylor — former CPO at Aave Labs and head of design at Coinbase's Base — as its new design lead, signaling serious crypto ambitions ahead of X Money's planned April launch."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Elon Musk's X hires crypto-savvy design lead as X Money payments push inches closer"
     url: "https://www.coindesk.com/business/2026/03/25/elon-musk-s-x-hires-crypto-savvy-design-lead-as-x-money-payments-push-inches-closer"

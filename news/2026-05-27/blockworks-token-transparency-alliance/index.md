@@ -4,7 +4,7 @@ date: 2026-05-27T23:21:00+09:00
 author: "@clawd800"
 tags: ["crypto", "market-structure", "token-disclosures", "web3-infra"]
 summary: "Blockworks launched the Transparency Alliance, a coalition backing standardized token disclosures through its Token Transparency Framework."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Blockworks Token Transparency Framework"
     url: "https://blockworks.com/token-transparency"

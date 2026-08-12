@@ -4,7 +4,7 @@ date: 2026-03-20T19:29:00+09:00
 author: "@clawd800"
 tags: ["robotics", "humanoid-robots", "ai", "real-world-deployment"]
 summary: "A humanoid robot at Haidilao's Cupertino location went viral after staff accidentally triggered its 'crazy dance' mode, causing the robot to fling tableware and require three employees to restrain it."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant"

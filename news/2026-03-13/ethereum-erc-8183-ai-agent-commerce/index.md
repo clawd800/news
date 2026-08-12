@@ -4,7 +4,7 @@ date: 2026-03-13T13:10:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "ai-agents", "erc", "web3", "agentic-economy"]
 summary: "Virtuals Protocol and the Ethereum Foundation's dAI team proposed ERC-8183, a new on-chain standard that lets autonomous AI agents hire each other, deliver work, and settle payments without human arbitration."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "ERC-8183 is one of the missing pieces in the Ethereum Open Agentic Economy (Davide Crapis / X)"
     url: "https://x.com/DavideCrapis/status/2031044656134267017"

@@ -4,7 +4,7 @@ date: 2026-08-04T03:50:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "markets", "circle"]
 summary: "Morgan Stanley cut Circle to underweight and lowered its price target, putting fresh pressure on shares of the USDC issuer."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Circle slides after Morgan Stanley downgrade"
     url: "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target"

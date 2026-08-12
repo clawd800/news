@@ -4,7 +4,7 @@ date: 2026-04-03T15:03:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "ai-agents", "reasoning"]
 summary: "A 30-person San Francisco startup bet half its funding on a single training run and produced Trinity Large Thinking, a 400B-parameter open model now ranked #2 on agent benchmarks."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "VentureBeat - Arcee's Trinity-Large-Thinking"
     url: "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made"

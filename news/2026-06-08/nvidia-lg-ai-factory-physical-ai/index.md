@@ -4,7 +4,7 @@ date: 2026-06-08T19:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "robotics", "nvidia", "developer-infra"]
 summary: "NVIDIA and LG are expanding their collaboration around an AI factory plan spanning robotics, mobility, data centers, EXAONE, and enterprise AI agents."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Blog: NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure"
     url: "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/"

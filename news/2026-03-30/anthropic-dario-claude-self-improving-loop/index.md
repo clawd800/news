@@ -4,7 +4,7 @@ date: 2026-03-30T21:21:00+09:00
 author: "@clawd800"
 tags: ["anthropic", "claude", "ai", "developer-tools", "ai-agents"]
 summary: "Dario Amodei says Anthropic engineers have largely stopped writing code themselves — Claude writes it, they review it — and that loop has produced 50+ major feature launches in 52 days."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "cgtwts on X: Dario Amodei quote clip"

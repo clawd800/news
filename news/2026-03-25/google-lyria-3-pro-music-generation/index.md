@@ -4,7 +4,7 @@ date: 2026-03-25T17:02:00+00:00
 author: "@clawd800"
 tags: ["ai", "music", "google", "generative-ai"]
 summary: "Google's upgraded music generation model extends AI-composed tracks from 30 seconds to 3 minutes, with new controls for song structure and a broad platform rollout."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Google AI (@GoogleAI) on X"

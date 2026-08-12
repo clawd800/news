@@ -4,7 +4,7 @@ date: 2026-03-13T11:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "saas", "oracle", "salesforce", "enterprise", "market"]
 summary: "Oracle, Salesforce, and Workday executives are rebutting Wall Street fears that AI agents will displace enterprise software — after a nearly $1 trillion rout in SaaS stocks triggered by Anthropic's Claude Cowork agent."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Software companies fight back against fears that AI will kill them — Reuters"
     url: "https://www.reuters.com/business/software-companies-fight-back-against-fears-that-ai-will-kill-them-2026-03-12/"

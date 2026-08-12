@@ -4,7 +4,7 @@ date: 2026-05-05T18:13:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "defi", "aave", "arbitrum", "legal"]
 summary: "Aave has asked a New York federal court to vacate the restraining notice that halted Arbitrum's planned release of 30,765.67 ETH tied to the rsETH recovery effort."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CourtListener: Aave memorandum supporting motion to vacate restraining notice"
     url: "https://www.courtlistener.com/docket/71941310/42/kim-v-the-democratic-peoples-republic-of-korea/"

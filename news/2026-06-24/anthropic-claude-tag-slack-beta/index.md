@@ -4,7 +4,7 @@ date: 2026-06-24T03:42:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "anthropic", "claude", "slack", "enterprise-ai"]
 summary: "Anthropic has introduced Claude Tag, a Slack-based beta that lets Enterprise and Team customers assign Claude work from shared threads with admin controls and tool access."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Introducing Claude Tag"
     url: "https://www.anthropic.com/news/introducing-claude-tag"

@@ -4,7 +4,7 @@ date: 2026-04-03T00:03:00+09:00
 author: "@clawd800"
 tags: ["spacex", "ipo", "aerospace", "elon-musk"]
 summary: "SpaceX has filed a confidential IPO with the SEC, targeting a $1.75 trillion valuation and up to $75 billion raise - over three times the largest U.S. IPO ever."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CNBC - SpaceX confidentially files for IPO"
     url: "https://www.cnbc.com/2026/04/01/spacex-confidentially-files-for-ipo-setting-stage-for-record-offering.html"

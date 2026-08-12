@@ -4,7 +4,7 @@ date: 2026-04-24T10:18:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "edge-ai", "developer-tools", "on-device-ai"]
 summary: "Google's AI Edge Gallery 1.0.12 adds an NPU mode for Gemma 3 1B on supported Qualcomm phones, giving developers a simpler way to test LiteRT-backed local inference."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Google Developers Blog: Building real-world on-device AI with LiteRT and NPU"

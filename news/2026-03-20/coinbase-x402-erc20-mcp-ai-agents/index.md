@@ -4,7 +4,7 @@ date: 2026-03-20T14:00:00+09:00
 author: "@clawd800"
 tags: ["base", "coinbase", "ai-agents", "web3", "payments", "mcp", "agentic-commerce"]
 summary: "Coinbase's x402 payment protocol now supports all ERC-20 tokens, wallet-based sign-in, and a new MCP package that lets developers monetize AI tools directly."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinbaseDev on X — SIWX announcement"
     url: "https://x.com/CoinbaseDev/status/2033620035420528647"

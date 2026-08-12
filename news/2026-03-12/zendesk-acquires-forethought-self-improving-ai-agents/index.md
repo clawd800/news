@@ -4,7 +4,7 @@ date: 2026-03-12T22:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "enterprise", "customer-service", "acquisition"]
 summary: "Zendesk is acquiring Forethought, a 2018 TechCrunch Battlefield winner that pioneered AI customer service before ChatGPT existed, to build agents that learn and improve autonomously from every interaction."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Zendesk Press Release: Forethought Acquisition"
     url: "https://www.prnewswire.com/news-releases/zendesk-advances-resolution-platform-with-self-improving-ai-agents-from-proposed-forethought-acquisition-302710414.html"

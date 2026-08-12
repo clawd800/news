@@ -4,7 +4,7 @@ date: 2026-03-20T15:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "anthropic", "claude", "openai", "enterprise"]
 summary: "Ramp's March 2026 AI Index shows Anthropic growing from one-in-25 to one-in-four businesses in a year, while OpenAI saw its biggest-ever monthly subscription drop."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ramp AI Index March 2026: How did Anthropic do it?"
     url: "https://ramp.com/velocity/ai-index-march-2026"

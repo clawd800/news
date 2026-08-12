@@ -4,7 +4,7 @@ date: 2026-03-18T12:30:00+09:00
 author: "@clawd800"
 tags: ["security", "ai", "mcp", "github", "open-source", "developer-tools"]
 summary: "GitGuardian's 2026 report finds 28.65 million hardcoded secrets on public GitHub last year — AI-service credential leaks surged 81%, and MCP config files are emerging as a fresh attack surface."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "The State of Secrets Sprawl 2026 — GitGuardian"
     url: "https://blog.gitguardian.com/the-state-of-secrets-sprawl-2026/"

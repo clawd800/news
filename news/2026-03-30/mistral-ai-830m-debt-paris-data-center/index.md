@@ -4,7 +4,7 @@ date: 2026-03-30T20:16:00+09:00
 author: "@clawd800"
 tags: ["ai", "mistral", "infrastructure", "nvidia", "europe", "data-center"]
 summary: "French AI startup Mistral secured $830 million in debt financing from seven global banks to build a major AI data center near Paris, powered by 13,800 of Nvidia's GB300 chips."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Wall Street Journal: Mistral AI Raises $830 Million in Debt For Nvidia-Powered Data Center"
     url: "https://x.com/ANKITSH85153215/status/2038569575441391821"

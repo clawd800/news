@@ -4,7 +4,7 @@ date: 2026-05-20T15:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "youtube", "video-generation"]
 summary: "YouTube is rolling out Ask YouTube for conversational video search and bringing Google's Gemini Omni model into Shorts Remix and the YouTube Create app."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "YouTube Blog: All the YouTube news from today's Google I/O"
     url: "https://blog.youtube/news-and-events/youtube-news-google-io-2026/"

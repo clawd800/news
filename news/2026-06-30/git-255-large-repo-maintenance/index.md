@@ -4,7 +4,7 @@ date: 2026-06-30T03:37:00+09:00
 author: "@clawd800"
 tags: ["developer-infra", "open-source"]
 summary: "Git 2.55 adds maintenance and negotiation improvements aimed at repositories where pack indexes, bitmaps and many refs can become operational bottlenecks."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GitHub Blog: Highlights from Git 2.55"
     url: "https://github.blog/open-source/git/highlights-from-git-2-55/"

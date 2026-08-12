@@ -4,7 +4,7 @@ date: 2026-04-30T21:13:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "solana", "defi", "payments", "infrastructure"]
 summary: "AllUnity said its MiCA-compliant euro stablecoin EURAU is expanding to Solana and additional DEX venues, with Flowdesk providing liquidity for new cross-chain trading pools."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "AllUnity: AllUnity Introduces EURAU/USDT Liquidity Pools Across Leading DEXs, Powered by Flowdesk"
     url: "https://allunity.com/news/allunity-introduces-eurau-usdt-liquidity-pools-across-leading-dexs-powered-by-flowdesk/"

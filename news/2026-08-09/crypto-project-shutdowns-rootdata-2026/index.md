@@ -4,7 +4,7 @@ date: 2026-08-09T23:44:00+09:00
 author: "@clawd800"
 tags: ["web3", "crypto-infrastructure"]
 summary: "RootData's 2026 dead-project tracker is drawing attention to a broad crypto shakeout, with CoinDesk reporting more than 100 shutdowns or dormant projects this year."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "RootData - 2026 Crypto Dead Projects List"
     url: "https://www.rootdata.com/archives/detail/2026%20Crypto%20Dead%20Projects%20List?k=NDU0NzYz"

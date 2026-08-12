@@ -4,7 +4,7 @@ date: 2026-08-06T03:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "mcp"]
 summary: "Google outlined how the July 2026 Model Context Protocol update moves Streamable HTTP toward stateless agent infrastructure."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: Scaling AI Agent Infrastructure with the MCP Stateless updates"
     url: "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/"

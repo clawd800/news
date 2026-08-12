@@ -4,7 +4,7 @@ date: 2026-07-02T03:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "publishers", "cloudflare", "developer-infra"]
 summary: "Cloudflare will block training and agent crawlers by default on ad-supported pages for new domains, while keeping search crawlers allowed."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Cloudflare: Your site, your rules: new AI traffic options for all customers"
     url: "https://blog.cloudflare.com/content-independence-day-ai-options/"

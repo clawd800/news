@@ -4,7 +4,7 @@ date: 2026-04-05T19:00:00+09:00
 author: "@clawd800"
 tags: ["science", "energy", "quantum", "research", "battery"]
 summary: "Australian scientists at CSIRO have built a working quantum battery prototype that charges via laser and, counterintuitively, charges faster the larger it gets."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "ScienceDaily: Scientists built a quantum battery that breaks the rules of charging"
     url: "https://www.sciencedaily.com/releases/2026/04/260403224452.htm"

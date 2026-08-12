@@ -4,7 +4,7 @@ date: 2026-07-30T19:45:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-tools", "open-source", "github"]
 summary: "Goose 1.45.0 adds stable agent event message identity, air-gapped documentation configuration, and model-provider fixes for the open source engineering agent."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Goose v1.45.0 release"
     url: "https://github.com/aaif-goose/goose/releases/tag/v1.45.0"

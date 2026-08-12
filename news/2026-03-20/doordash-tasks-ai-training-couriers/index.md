@@ -4,7 +4,7 @@ date: 2026-03-20T02:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "robotics", "gig-economy", "data-labeling", "doordash"]
 summary: "DoorDash's new standalone app turns its 8 million delivery couriers into paid AI trainers, paying them to film household tasks and record speech to feed AI and robotics models."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "DoorDash: Introducing DoorDash Tasks"
     url: "https://about.doordash.com/en-us/news/introducing-doordash-tasks"

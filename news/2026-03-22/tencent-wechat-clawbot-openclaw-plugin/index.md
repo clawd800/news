@@ -4,7 +4,7 @@ date: 2026-03-22T17:00:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "wechat", "tencent", "china", "openclaw"]
 summary: "WeChat officially launched 'ClawBot,' a plugin enabling users to connect OpenClaw AI agents to the platform's 1.3 billion-user messaging network."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle"
     url: "https://finance.yahoo.com/sectors/technology/articles/tencent-integrates-wechat-openclaw-ai-073640785.html"

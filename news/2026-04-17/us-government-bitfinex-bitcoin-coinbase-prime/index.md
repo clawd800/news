@@ -4,7 +4,7 @@ date: 2026-04-17T18:13:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "bitfinex", "law-enforcement", "coinbase", "web3"]
 summary: "Multiple reports citing Arkham data say a U.S. government-labeled wallet sent about 8.2 BTC tied to the Bitfinex hack to Coinbase Prime, with restitution still the more conservative read than an open-market sale."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Mempool.space transaction 80de1c5b1af639b0ae4c5dd19ffb4658f02aa311c6117af1ae29ad5f01a513a2"
     url: "https://mempool.space/tx/80de1c5b1af639b0ae4c5dd19ffb4658f02aa311c6117af1ae29ad5f01a513a2"

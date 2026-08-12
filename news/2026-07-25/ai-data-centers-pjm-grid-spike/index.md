@@ -4,7 +4,7 @@ date: 2026-07-25T23:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "data-centers", "energy", "infrastructure"]
 summary: "A Northern Virginia power-line fault showed how clustered AI data centers can amplify grid disturbances when large loads disconnect at nearly the same time."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: One fallen power line exposed a growing AI data center problem"
     url: "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/"

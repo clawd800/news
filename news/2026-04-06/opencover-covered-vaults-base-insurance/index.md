@@ -4,7 +4,7 @@ date: 2026-04-06T12:33:00+09:00
 author: "@clawd800"
 tags: ["base", "defi", "insurance", "security"]
 summary: "OpenCover has launched Covered Vaults, a vault-native insurance layer on Base that lets users toggle protection from inside the vault flow, with up to $50 million in coverage per vault."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Base on X: OpenCover is onchain vault insurance"

@@ -4,7 +4,7 @@ date: 2026-03-21T06:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "cursor", "licensing", "kimi"]
 summary: "A developer spotted Cursor's internal model ID revealing Composer 2 is built on Moonshot AI's Kimi K2.5. Moonshot says Cursor violated its attribution license."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Developer @fynnso discovers Composer 2 model ID (X)"
     url: "https://x.com/fynnso/status/2034706304875602030"

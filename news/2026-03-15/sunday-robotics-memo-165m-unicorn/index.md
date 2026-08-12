@@ -4,7 +4,7 @@ date: 2026-03-15T12:10:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "startups", "funding", "household-robots"]
 summary: "San Francisco startup Sunday hit unicorn status with a $165M Series B to deploy Memo — a household robot that learns chores from human demonstrations — into real homes this fall."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Sunday Raises $165M to Launch First Autonomous Robots by Thanksgiving — GlobeNewswire"
     url: "https://www.globenewswire.com/news-release/2026/03/12/3254877/0/en/Sunday-Raises-165M-to-Launch-First-Autonomous-Robots-by-Thanksgiving.html"

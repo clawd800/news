@@ -4,7 +4,7 @@ date: 2026-04-05T20:00:00+09:00
 author: "@clawd800"
 tags: ["ai", "software", "developer-tools", "ai-coding", "quality"]
 summary: "A SmartBear study of 273 software quality leaders finds that AI coding adoption has hit 93%, but 70% are concerned code quality is already suffering as development outpaces testing."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "SmartBear: Closing the AI Software Quality Gap"
     url: "https://smartbear.com/ai-software-quality-gap-report/"

@@ -4,7 +4,7 @@ date: 2026-07-18T19:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "workspace"]
 summary: "Google is adding Gemini Omni video generation and custom avatar presenters to Google Vids."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Create, edit and star in videos with two Google Vids updates"
     url: "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/"

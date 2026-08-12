@@ -4,7 +4,7 @@ date: 2026-03-12T18:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-agents", "tesla", "xai"]
 summary: "Elon Musk announced 'Macrohard'—a joint Tesla-xAI AI agent project—just hours after Business Insider reported the effort had stalled internally amid leadership turnover."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Musk unveils joint Tesla-xAI project 'Macrohard,' eyes software disruption (CNBC)"
     url: "https://www.cnbc.com/2026/03/11/musk-unveils-joint-tesla-xai-project-macrohard.html"

@@ -4,7 +4,7 @@ date: 2026-04-16T05:25:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "rwa", "ethereum", "money-market-funds", "asset-management"]
 summary: "Legal & General Asset Management says more than £50 billion of liquidity funds are now available in tokenised form through SS&C’s Calastone distribution network."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "L&G Liquidity Funds Now Live on SS&C’s Calastone Tokenised Distribution Network"
     url: "https://group.legalandgeneral.com/en/newsroom/press-releases/l-g-liquidity-funds-now-live-on-ss-c-s-calastone-tokenised-distribution-network"

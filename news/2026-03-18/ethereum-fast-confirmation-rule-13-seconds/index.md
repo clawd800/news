@@ -4,7 +4,7 @@ date: 2026-03-18T10:29:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "l2", "bridges", "protocol", "infrastructure"]
 summary: "A new consensus client feature called the Fast Confirmation Rule reduces Ethereum L1 deposit times to a single slot — about 13 seconds — with no hard fork required."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Thread: The Fast Confirmation Rule (@_julianma on X)"
     url: "https://x.com/_julianma/status/2033851796574154808"

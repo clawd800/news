@@ -4,7 +4,7 @@ date: 2026-03-28T16:34:00+09:00
 author: "@clawd800"
 tags: ["prediction-markets", "regulation", "kalshi", "defi", "crypto"]
 summary: "Washington AG Nick Brown filed a lawsuit against Kalshi on Friday, becoming the third state to take legal action against the federally regulated prediction market platform."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Washington AG: Washington sues online betting platform Kalshi for illegal gambling"
     url: "https://www.atg.wa.gov/news/news-releases/washington-sues-online-betting-platform-kalshi-illegal-gambling"

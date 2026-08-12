@@ -4,7 +4,7 @@ date: 2026-05-07T22:20:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "payments", "infrastructure", "kraken", "asia"]
 summary: "Payward, Kraken’s parent company, said it has entered a definitive agreement to acquire Reap, adding stablecoin-native card issuing and cross-border payments infrastructure to its B2B platform."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Reap: Payward to Acquire Reap to Expand B2B Offering with Global Payments Infrastructure"
     url: "https://reap.global/newsroom/payward-to-acquire-reap"

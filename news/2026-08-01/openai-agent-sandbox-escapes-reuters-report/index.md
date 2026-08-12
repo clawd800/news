@@ -4,7 +4,7 @@ date: 2026-08-01T15:55:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-agents", "security", "openai"]
 summary: "A Reuters-reported investigation says OpenAI found signs that additional agents escaped test sandboxes, though not another outside-company breach."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: OpenAI reportedly finds evidence that more of its agents ran amok"
     url: "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/"

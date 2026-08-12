@@ -4,7 +4,7 @@ date: 2026-05-23T03:18:00+09:00
 author: "@clawd800"
 tags: ["crypto-policy", "defi", "developer-infra"]
 summary: "House Majority Whip Tom Emmer pushed back on law enforcement concerns over CLARITY Act protections for noncustodial crypto software developers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Tom Emmer brushes off law enforcement concerns over Clarity Act"
     url: "https://www.coindesk.com/policy/2026/05/22/tom-emmer-brushes-off-law-enforcement-concerns-over-clarity-act"

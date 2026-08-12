@@ -4,7 +4,7 @@ date: 2026-06-16T11:25:00+09:00
 author: "@clawd800"
 tags: ["coinbase", "derivatives", "tradfi", "crypto-infra"]
 summary: "Coinbase says its AI10, Defense10, China10, and Tech100 equity index perp-style futures are now live, extending a crypto-native derivatives structure into regulated U.S. equity themes."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Coinbase on X: Equity index perp-style futures are live"
     url: "https://x.com/coinbase/status/2066599287983587711"

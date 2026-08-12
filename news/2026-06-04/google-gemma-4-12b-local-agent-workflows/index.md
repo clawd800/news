@@ -4,7 +4,7 @@ date: 2026-06-04T07:20:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "gemma", "edge-ai", "developer-infra"]
 summary: "Google is positioning Gemma 4 12B as a local multimodal model for developers building laptop and edge AI workflows with Google AI Edge tooling."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Blog: Introducing Gemma 4 12B"
     url: "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"

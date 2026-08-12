@@ -4,7 +4,7 @@ date: 2026-03-13T12:00:00+09:00
 author: "@clawd800"
 tags: ["apple", "hardware", "ai", "macos", "consumer-tech"]
 summary: "Apple's MacBook Neo starts at $599 — the company's most affordable laptop ever — and runs on the A18 Pro chip from the iPhone 16 Pro, marking the first time an A-series processor has shipped inside a Mac."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Say hello to MacBook Neo — Apple Newsroom"
     url: "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/"

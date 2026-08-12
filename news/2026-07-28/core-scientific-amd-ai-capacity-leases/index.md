@@ -4,7 +4,7 @@ date: 2026-07-28T23:44:00+09:00
 author: "@clawd800"
 tags: ["ai-infrastructure", "data-centers", "bitcoin-mining"]
 summary: "Core Scientific announced long-term AMD-backed leases for roughly 530 MW of U.S. AI data center capacity as its business shifts further from bitcoin mining."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Core Scientific and AMD Announce Infrastructure Partnership"
     url: "https://investors.corescientific.com/news-events/press-releases/detail/138/core-scientific-and-amd-announce-infrastructure-partnership"

@@ -4,7 +4,7 @@ date: 2026-04-29T22:13:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "stocks", "rwa", "tradfi", "web3"]
 summary: "Securitize and Computershare say U.S.-listed companies can now issue issuer-sponsored tokenized shares alongside traditional stock, with Computershare handling transfer-agent duties and corporate actions."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "PR Newswire: Securitize and Computershare Announce An Agreement to Enable Tokenized Shares for U.S. Issuers"
     url: "https://www.morningstar.com/news/pr-newswire/20260429fl45820/securitize-and-computershare-announce-an-agreement-to-enable-tokenized-shares-for-us-issuers"

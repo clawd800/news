@@ -4,7 +4,7 @@ date: 2026-03-20T07:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "privacy", "meta", "encryption", "signal"]
 summary: "Moxie Marlinspike, the cryptographer who brought end-to-end encryption to WhatsApp, announced his encrypted AI platform Confer will integrate its privacy technology into Meta AI."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Confer is bringing foundational AI privacy to Meta (Confer blog)"
     url: "https://confer.to/blog/2026/03/encrypted-meta/"

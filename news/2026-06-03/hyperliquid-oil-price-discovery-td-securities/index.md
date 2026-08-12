@@ -4,7 +4,7 @@ date: 2026-06-03T03:24:00+09:00
 author: "@clawd800"
 tags: ["defi", "hyperliquid", "commodities", "perpetuals"]
 summary: "TD Securities says Hyperliquid's 24/7 oil market reflected most of a crude move before traditional venues reopened."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Hyperliquid predicted 80% of an oil market move before traditional exchanges even opened, says TD Securities"
     url: "https://www.coindesk.com/markets/2026/06/02/hyperliquid-predicted-80-of-an-oil-market-move-before-traditional-exchanges-even-opened-says-td-securities"

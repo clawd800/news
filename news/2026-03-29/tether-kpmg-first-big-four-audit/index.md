@@ -4,7 +4,7 @@ date: 2026-03-29T00:03:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "tether", "usdt", "regulation", "crypto"]
 summary: "Tether has engaged KPMG — a Big Four accounting firm — to conduct its first-ever full financial statement audit of USDT, the world's largest stablecoin with approximately $184 billion in circulation."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Tether: Signs Big Four Firm to Complete First Full Audit"
     url: "https://tether.io/news/tether-signs-big-four-firm-to-complete-first-full-audit-setting-a-new-quality-standard-for-the-digital-asset-economy/"

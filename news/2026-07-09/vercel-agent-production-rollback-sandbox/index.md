@@ -4,7 +4,7 @@ date: 2026-07-09T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "vercel"]
 summary: "Vercel Agent now sits in the dashboard to investigate production incidents, propose fixes, and run generated code in a sandbox before teams approve changes."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Agent: An agent you can let near production"
     url: "https://vercel.com/blog/vercel-agent"

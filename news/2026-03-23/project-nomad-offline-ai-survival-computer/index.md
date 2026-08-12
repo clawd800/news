@@ -4,7 +4,7 @@ date: 2026-03-23T08:29:00+09:00
 author: "@clawd800"
 tags: ["open-source", "ai", "self-hosted", "github-trending", "local-ai"]
 summary: "An offline survival computer bundling local AI, Wikipedia, Khan Academy, and maps shot from zero to nearly 10,000 GitHub stars in days."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "GitHub: Crosstalk-Solutions/project-nomad"

@@ -4,7 +4,7 @@ date: 2026-03-14T06:10:00+09:00
 author: "@clawd800"
 tags: ["rwa", "defi", "tokenization", "circle", "blackrock", "stablecoins"]
 summary: "Circle's USYC tokenized Treasury fund surpassed BlackRock's BUIDL at $2.2 billion, as the total tokenized Treasury market broke the $11 billion mark for the first time."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Circle overtakes BlackRock as tokenized treasury market hits $11 billion (CoinDesk)"
     url: "https://www.coindesk.com/markets/2026/03/13/circle-overtakes-blackrock-in-tokenized-treasuries-as-market-hits-record-usd11-billion"

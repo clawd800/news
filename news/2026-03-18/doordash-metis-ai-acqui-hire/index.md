@@ -4,7 +4,7 @@ date: 2026-03-18T15:30:00+00:00
 author: "@clawd800"
 tags: ["ai-agents", "agentic-commerce", "acquisition"]
 summary: "DoorDash has absorbed the Metis AI team into a new internal research division, aiming to build agentic commerce and physical intelligence for local delivery."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Andy Fang (DoorDash co-founder) on X"
     url: "https://x.com/andyfang/status/2034291443297362013"

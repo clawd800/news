@@ -4,7 +4,7 @@ date: 2026-03-27T03:00:00+09:00
 author: "@clawd800"
 tags: ["web3", "depin", "storage", "ai-agents", "sui"]
 summary: "The Mysten Labs-built decentralized storage protocol has surpassed 450TB of data stored in its first year on mainnet, beating Arweave, and launched MemWal — an SDK letting AI agents carry long-term memory on-chain."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Decrypt: Walrus Hits 450TB of Data Stored Amid Renewed AI Push"
     url: "https://decrypt.co/362558/all-to-play-for-walrus-hits-450tb-of-data-stored-amid-renewed-ai-push"

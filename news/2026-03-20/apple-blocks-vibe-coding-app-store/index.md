@@ -4,7 +4,7 @@ date: 2026-03-20T23:29:00+09:00
 author: "@clawd800"
 tags: ["apple", "ai", "vibe-coding", "app-store", "developer-tools"]
 summary: "Apple has blocked AI vibe coding apps including Replit and Vibecode from releasing App Store updates, citing rules against self-modifying code."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Apple Quietly Blocks Updates for Popular 'Vibe Coding' Apps"
     url: "https://www.macrumors.com/2026/03/18/apple-blocks-updates-for-vibe-coding-apps/"

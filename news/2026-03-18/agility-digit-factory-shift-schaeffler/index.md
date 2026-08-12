@@ -4,7 +4,7 @@ date: 2026-03-18T16:30:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "humanoid-robots", "manufacturing", "agility-robotics"]
 summary: "Agility Robotics' Digit is pulling full eight-hour shifts at a Schaeffler auto parts plant in Cheraw, SC — operating a stamping press while a human contractor watches from outside a plexiglass cage."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Factory Paying Human Worker to Watch Robot Worker All Day (Futurism)"
     url: "https://futurism.com/robots-and-machines/robot-worker-factory-digit"

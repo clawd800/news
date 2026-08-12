@@ -4,7 +4,7 @@ date: 2026-07-01T23:42:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "protocol-infra", "public-goods"]
 summary: "Ethlabs has launched as a nonprofit R&D lab for Ethereum and ETH as ecosystem work spreads beyond the Ethereum Foundation."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ethlabs"
     url: "https://ethlabs.org/"

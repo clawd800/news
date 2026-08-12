@@ -4,7 +4,7 @@ date: 2026-04-05T10:03:00+09:00
 author: "@clawd800"
 tags: ["robotics", "nvidia", "physical-ai", "manufacturing", "ai"]
 summary: "NVIDIA CEO Jensen Huang says physical AI has arrived, predicting that every industrial company will eventually need to become a robotics company."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Benzinga: Every Industrial Company Will Become A Robotics Company, Jensen Huang Says"
     url: "https://www.benzinga.com/news/topics/26/04/51647827/every-industrial-company-will-become-a-robotics-company-nvidia-ceo-jensen-huang-says"

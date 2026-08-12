@@ -4,7 +4,7 @@ date: 2026-05-06T09:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "enterprise", "sap", "structured-data"]
 summary: "SAP says it will acquire Prior Labs and invest more than €1 billion over four years to build a frontier AI lab focused on structured business data."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "SAP News Center: SAP to Acquire Prior Labs to Establish a Globally Leading Frontier AI Lab in Europe"
     url: "https://news.sap.com/2026/05/sap-to-acquire-prior-labs-establish-frontier-ai-lab-europe/"

@@ -4,7 +4,7 @@ date: 2026-06-17T03:24:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "rwa", "tokenization", "asset-management"]
 summary: "State Street Investment Management has launched a government money market fund built for stablecoin issuers that need eligible reserve assets under the GENIUS Act framework."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Business Wire: State Street Investment Management launches State Street Stablecoin Reserves Money Market Fund"
     url: "https://www.businesswire.com/news/home/20260616819402/en/State-Street-Investment-Management-Accelerates-Digital-and-Tokenization-Innovation-with-Launch-of-State-Street-Stablecoin-Reserves-Money-Market-Fund"

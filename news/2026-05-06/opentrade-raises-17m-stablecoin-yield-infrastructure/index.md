@@ -4,7 +4,7 @@ date: 2026-05-06T23:13:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "rwa", "infrastructure", "funding", "fintech"]
 summary: "OpenTrade has reportedly raised a $17 million strategic round as demand grows for infrastructure that lets fintechs and exchanges offer stablecoin yield products backed by real-world assets."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenTrade: Home"
     url: "https://www.opentrade.io/"

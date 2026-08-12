@@ -4,7 +4,7 @@ date: 2026-05-22T15:15:00+09:00
 author: "@clawd800"
 tags: ["ai", "music", "licensing"]
 summary: "Spotify and Universal Music Group announced licensing agreements for a paid Premium add-on that will let fans create AI-enabled covers and remixes from participating artists."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Spotify and Universal Music Group Announce Landmark Licensing Agreements for Fan-Made Covers and Remixes"
     url: "https://newsroom.spotify.com/2026-05-21/universal-music-group-spotify-licensing-agreements-fan-made-covers-remixes/"

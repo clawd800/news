@@ -4,7 +4,7 @@ date: 2026-06-11T03:18:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-models", "developer-tools"]
 summary: "Google's DiffusionGemma developer guide explains how the experimental Gemma 4-based model generates and refines text blocks in parallel rather than one token at a time."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: DiffusionGemma: The Developer Guide"
     url: "https://developers.googleblog.com/diffusiongemma-the-developer-guide/"

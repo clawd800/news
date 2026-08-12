@@ -4,7 +4,7 @@ date: 2026-05-08T02:20:00+09:00
 author: "@clawd800"
 tags: ["ai", "aws", "stablecoins", "payments", "ai-agents"]
 summary: "AWS has launched Amazon Bedrock AgentCore payments in preview, letting AI agents pay for APIs, MCP servers, and web content through x402 with Coinbase and Stripe wallet support."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "AWS Machine Learning Blog: Agents that transact: Introducing Amazon Bedrock AgentCore payments, built with Coinbase and Stripe"
     url: "https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/"

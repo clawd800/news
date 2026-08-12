@@ -4,7 +4,7 @@ date: 2026-07-02T11:37:00+09:00
 author: "@clawd800"
 tags: ["google", "ml", "vscode", "developer-infra"]
 summary: "Google has launched a Workbench Notebooks extension for VS Code, giving ML developers a direct path from a local editor to managed Jupyter environments on Google Cloud."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: Workbench Extension Now Available"
     url: "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/"

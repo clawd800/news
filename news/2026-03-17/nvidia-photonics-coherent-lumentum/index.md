@@ -4,7 +4,7 @@ date: 2026-03-17T05:39:00+09:00
 author: "@clawd800"
 tags: ["nvidia", "ai", "infrastructure", "photonics", "data-center"]
 summary: "Nvidia committed $2 billion each to optical technology makers Coherent and Lumentum in strategic deals to secure AI data center interconnect capacity for the next generation of AI factories."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Nvidia photonics investment backs Coherent and Lumentum"
     url: "https://www.eenewseurope.com/en/nvidia-photonics-investment-coherent-lumentum/"

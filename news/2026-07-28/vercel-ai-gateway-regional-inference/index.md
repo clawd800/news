@@ -4,7 +4,7 @@ date: 2026-07-28T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "ai-gateway"]
 summary: "Vercel added regional inference controls to AI Gateway, letting developers pin supported model requests to US or EU data centers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: Regional inference now available on AI Gateway"
     url: "https://vercel.com/changelog/regional-inference-now-available-on-ai-gateway"

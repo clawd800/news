@@ -4,7 +4,7 @@ date: 2026-03-26T21:29:00+09:00
 author: "@clawd800"
 tags: ["crypto", "bitcoin", "coinbase", "real-estate", "defi"]
 summary: "Fannie Mae is accepting crypto-backed mortgages for the first time, letting buyers pledge Bitcoin or USDC as down payment collateral through a new program with Coinbase and Better Home & Finance."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Coinbase, Fannie Mae to Enable Crypto-Backed Mortgages — Decrypt"
     url: "https://decrypt.co/362421/coinbase-fannie-mae-to-enable-crypto-backed-mortgages"

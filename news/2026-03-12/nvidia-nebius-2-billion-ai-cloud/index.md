@@ -4,7 +4,7 @@ date: 2026-03-12T02:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "cloud", "nvidia", "infrastructure", "investment"]
 summary: "Nvidia announced a $2 billion strategic investment in Nebius Group to develop next-generation hyperscale AI cloud infrastructure, sending NBIS stock up 14%."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA and Nebius Partner to Scale Full-Stack AI Cloud (Official Release)"
     url: "https://nvidianews.nvidia.com/news/nvidia-and-nebius-partner-to-scale-full-stack-ai-cloud"

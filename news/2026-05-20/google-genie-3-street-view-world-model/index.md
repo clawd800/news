@@ -4,7 +4,7 @@ date: 2026-05-20T03:18:00+09:00
 author: "@clawd800"
 tags: ["ai", "world-models", "google-deepmind"]
 summary: "Google DeepMind says its Genie 3 world model can generate real-time interactive environments grounded in Google Maps Street View data, while still warning that exact real-world location simulation remains limited."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google DeepMind: Genie 3"
     url: "https://deepmind.google/models/genie/"

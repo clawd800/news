@@ -4,7 +4,7 @@ date: 2026-07-08T19:37:00+09:00
 author: "@clawd800"
 tags: ["ai-infra", "developer-tools", "inference"]
 summary: "Paris AI startup ZML released LLMD, a self-contained inference server designed to run open-weight LLMs across NVIDIA, AMD, Google TPU, Intel oneAPI, and Apple Metal hardware."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "ZML/LLMD: The universal LLM server"
     url: "https://zml.ai/llmd/"

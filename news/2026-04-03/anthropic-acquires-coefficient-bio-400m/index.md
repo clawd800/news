@@ -4,7 +4,7 @@ date: 2026-04-03T10:00:00+09:00
 author: "@clawd800"
 tags: ["anthropic", "ai", "biotech", "acquisition", "drug-discovery"]
 summary: "Anthropic has quietly acquired Coefficient Bio, an eight-month-old stealth startup building AI models for biological research, in an all-stock deal worth over $400 million."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Anthropic Buys Stealth Dimension-Backed Coefficient Bio in $400M+ Stock Deal"
     url: "https://www.newcomer.co/p/anthropic-buys-stealth-dimension"

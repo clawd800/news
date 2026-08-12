@@ -4,7 +4,7 @@ date: 2026-04-05T04:03:00+09:00
 author: "@clawd800"
 tags: ["anthropic", "ai-policy", "politics", "regulation", "election"]
 summary: "Anthropic filed FEC paperwork to create AnthroPAC, an employee-funded political action committee backing bipartisan candidates on AI policy, as total AI midterm spending surpasses $300 million."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Anthropic ramps up its political activities with a new PAC"
     url: "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/"

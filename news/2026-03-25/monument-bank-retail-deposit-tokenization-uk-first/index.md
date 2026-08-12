@@ -4,7 +4,7 @@ date: 2026-03-25T21:29:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "banking", "blockchain", "uk", "midnight-network", "cardano", "defi"]
 summary: "UK challenger bank Monument plans to tokenize up to £250 million in retail deposits on the Midnight privacy blockchain, becoming the first regulated UK bank to put customer savings on a public chain."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Monument Bank to tokenize 250 million pounds of retail deposits in UK first"
     url: "https://www.coindesk.com/business/2026/03/25/monument-bank-to-tokenized-250-million-pounds-of-retail-deposits-in-uk-first"

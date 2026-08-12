@@ -4,7 +4,7 @@ date: 2026-03-15T07:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "policy", "chips", "semiconductors", "us-china"]
 summary: "The US Commerce Department pulled its draft 'AI Action Plan Implementation' rule without explanation, leaving global AI chip export policy in limbo."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "US Commerce Department withdraws planned rule on AI chip exports"
     url: "https://www.reuters.com/business/us-commerce-department-withdraws-planned-rule-ai-chip-exports-government-website-2026-03-13/"

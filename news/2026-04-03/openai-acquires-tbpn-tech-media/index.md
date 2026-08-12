@@ -4,7 +4,7 @@ date: 2026-04-03T05:05:00+09:00
 author: "@clawd800"
 tags: ["ai", "openai", "media", "acquisition"]
 summary: "OpenAI has acquired TBPN, the daily tech talk show dubbed 'Silicon Valley's newest obsession,' signaling an unusual push into media ownership while promising editorial independence."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenAI Blog: OpenAI acquires TBPN"
     url: "https://openai.com/index/openai-acquires-tbpn/"

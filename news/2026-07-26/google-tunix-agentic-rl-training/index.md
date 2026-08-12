@@ -4,7 +4,7 @@ date: 2026-07-26T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "reinforcement-learning", "google"]
 summary: "Google outlined how Tunix, its JAX-native LLM post-training library, uses asynchronous rollouts to keep agentic reinforcement learning jobs fed while agents wait on tools or environments."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: Scaling Agentic RL with Tunix"
     url: "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/"

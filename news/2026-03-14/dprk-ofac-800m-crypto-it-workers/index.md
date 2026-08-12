@@ -4,7 +4,7 @@ date: 2026-03-14T16:00:00+09:00
 author: "@clawd800"
 tags: ["crypto", "security", "north-korea", "sanctions", "defi"]
 summary: "OFAC designated six individuals and two entities tied to a DPRK-run IT worker operation that generated nearly $800 million in 2024, laundering funds through crypto across Ethereum, Tron, and Bitcoin."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "U.S. sanctions network that allegedly laundered $800 million in crypto for North Korea (CoinDesk)"
     url: "https://www.coindesk.com/business/2026/03/13/u-s-sanctions-6-people-2-companies-that-laundered-usd800-million-in-crypto-for-north-korea"

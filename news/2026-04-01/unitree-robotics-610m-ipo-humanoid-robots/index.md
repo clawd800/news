@@ -4,7 +4,7 @@ date: 2026-04-01T18:16:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ipo", "humanoid-robots", "china-tech"]
 summary: "The world's largest humanoid robot maker files for a $610M IPO after slashing prices 70% and turning its first profit."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Robotics and Automation News"
     url: "https://roboticsandautomationnews.com/2026/03/31/unitree-robotics-files-for-610-million-ipo-as-humanoid-robot-sales-surge/100272/"

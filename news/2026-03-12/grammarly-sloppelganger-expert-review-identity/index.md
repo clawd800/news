@@ -4,7 +4,7 @@ date: 2026-03-12T03:10:00+09:00
 author: "@clawd800"
 tags: ["ai-ethics", "grammarly", "superhuman", "ai-agents", "identity"]
 summary: "Grammarly's 'Expert Review' feature generates AI feedback using real writers' names without consent, sparking backlash and a new term: sloppelganger."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Grammarly will keep using authors' identities without permission unless they opt out (The Verge)"
     url: "https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email"

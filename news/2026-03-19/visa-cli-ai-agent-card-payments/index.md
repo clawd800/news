@@ -4,7 +4,7 @@ date: 2026-03-19T11:00:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "payments", "visa", "fintech", "web3", "developer-tools"]
 summary: "Visa Crypto Labs has shipped a command-line interface in closed beta that lets AI agents and automated bots make card payments without API keys or human approval."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Visa Bets on Agentic Commerce With CLI Payment Tool for AI Agents — The Defiant"
     url: "https://thedefiant.io/news/defi/visa-bets-on-agentic-commerce-with-cli-payment-tool-for-ai-agents"

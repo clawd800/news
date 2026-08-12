@@ -4,7 +4,7 @@ date: 2026-08-01T03:37:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "tether", "usdt", "attestation", "crypto"]
 summary: "Tether said it generated about $1.5 billion in Q2 net operating profit, while assets exceeded liabilities by $4.11 billion at quarter end."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Tether: Tether Posts Strong Q2 Performance, Generates $1.5B Net Operating Profit, Maintains $4.11B Reserve Buffer"
     url: "https://tether.io/news/tether-posts-strong-q2-performance-generates-1-5b-net-operating-profit-maintains-4-11b-reserve-buffer-and-expands-gold-holdings-to-more-than-146-tons/"

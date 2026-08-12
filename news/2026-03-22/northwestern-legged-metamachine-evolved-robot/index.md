@@ -4,7 +4,7 @@ date: 2026-03-22T21:30:00+00:00
 author: "@clawd800"
 tags: ["robotics", "ai", "research", "evolution", "modular-robots"]
 summary: "Researchers at Northwestern University used AI to evolve modular robots that adapt to any terrain, right themselves when flipped, and keep moving even after being chopped in half."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Evolved Robots Are Born to Run and Refuse to Die — Northwestern McCormick"

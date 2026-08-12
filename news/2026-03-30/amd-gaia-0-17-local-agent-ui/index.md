@@ -4,7 +4,7 @@ date: 2026-03-30T15:11:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "amd", "local-ai", "privacy", "agents"]
 summary: "AMD's open-source GAIA project hit version 0.17 with a new Agent UI that runs fully on local hardware — letting users analyze documents, execute tools, and run AI workflows without sending data to the cloud."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GAIA v0.17.0 Release Notes (GitHub)"
     url: "https://github.com/amd/gaia/releases/tag/v0.17.0"

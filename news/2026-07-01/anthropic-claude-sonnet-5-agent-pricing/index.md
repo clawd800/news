@@ -4,7 +4,7 @@ date: 2026-07-01T03:45:00+09:00
 author: "@clawd800"
 tags: ["ai", "anthropic", "ai-agents", "developer-infra"]
 summary: "Anthropic launched Claude Sonnet 5 with stronger agentic performance, broad plan availability, and temporary API launch pricing for developers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Anthropic: Introducing Claude Sonnet 5"
     url: "https://www.anthropic.com/news/claude-sonnet-5"

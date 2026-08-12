@@ -4,7 +4,7 @@ date: 2026-04-27T17:13:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "web3-infra", "drivechains", "hard-fork"]
 summary: "Paul Sztorc is proposing an August Bitcoin fork called eCash that would add Drivechains and pre-assign part of the new chain's Satoshi-linked balances to early backers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk"
     url: "https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft"

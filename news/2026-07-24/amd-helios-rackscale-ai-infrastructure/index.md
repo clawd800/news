@@ -4,7 +4,7 @@ date: 2026-07-24T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai-infrastructure", "amd", "data-centers", "chips"]
 summary: "AMD launched Helios, a rackscale AI system built around Instinct GPUs, EPYC CPUs, Pensando networking, and ROCm software, with Anthropic and OpenAI named among early large-scale users."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "AMD: AAI 2026 - AMD Delivers Full-Stack Compute for the Agentic AI Era"
     url: "https://ir.amd.com/news-events/press-releases/detail/1294/aai-2026-amd-delivers-full-stack-compute-for-the-agentic-ai-era"

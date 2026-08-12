@@ -4,7 +4,7 @@ date: 2026-04-13T21:07:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "security", "developer-infra", "web3"]
 summary: "A new academic study says some third-party LLM routers are already injecting malicious tool calls, touching credentials, and even draining a researcher-owned ETH key."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "arXiv: Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain"
     url: "https://arxiv.org/abs/2604.08407"

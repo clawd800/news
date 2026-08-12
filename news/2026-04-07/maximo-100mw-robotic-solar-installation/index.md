@@ -4,7 +4,7 @@ date: 2026-04-07T11:03:00+09:00
 author: "@clawd800"
 tags: ["robotics", "solar", "physical-ai", "energy"]
 summary: "AES says its Maximo robot fleet has completed 100 megawatts of solar panel installation, marking one of the clearest commercial deployments yet for AI-driven construction robotics."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "PR Newswire: Maximo completes 100 MW of robotic solar installation"

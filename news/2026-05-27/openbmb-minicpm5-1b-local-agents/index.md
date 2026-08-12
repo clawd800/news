@@ -4,7 +4,7 @@ date: 2026-05-27T15:18:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-agents", "edge-ai"]
 summary: "OpenBMB released MiniCPM5-1B, a compact open model aimed at local assistants, coding agents, tool-use workflows, and resource-constrained deployment."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenBMB MiniCPM GitHub Repository"
     url: "https://github.com/OpenBMB/MiniCPM"

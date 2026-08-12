@@ -4,7 +4,7 @@ date: 2026-03-15T08:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "media", "buzzfeed", "cautionary-tale"]
 summary: "Three years after pivoting to AI content generation, BuzzFeed reported a $57.3M net loss in 2025 and now warns of 'substantial doubt' about its survival — yet CEO Jonah Peretti says he's pushing ahead with new AI apps."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "BuzzFeed Nearing Bankruptcy After Disastrous Turn Toward AI (Futurism)"
     url: "https://futurism.com/artificial-intelligence/buzzfeed-disastrous-earnings-ai"

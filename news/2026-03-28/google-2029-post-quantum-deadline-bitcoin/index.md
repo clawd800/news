@@ -4,7 +4,7 @@ date: 2026-03-28T21:34:00+09:00
 author: "@clawd800"
 tags: ["cryptography", "quantum", "bitcoin", "ethereum", "security", "google"]
 summary: "Google announced a 2029 corporate deadline to migrate all authentication services to post-quantum cryptography, citing accelerating quantum hardware progress — putting pressure on blockchain protocols, especially Bitcoin."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Blog: Quantum frontiers may be closer than they appear"
     url: "https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/"

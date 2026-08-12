@@ -4,7 +4,7 @@ date: 2026-03-25T09:00:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-safety", "anthropic", "policy", "pentagon"]
 summary: "Anthropic launched the Anthropic Institute today, a new internal think tank combining three research teams, as its lawsuit against the Department of Defense heads to a preliminary injunction hearing."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Anthropic is launching a new think tank amid Pentagon blacklist fight"
     url: "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark"

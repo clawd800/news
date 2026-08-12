@@ -4,7 +4,7 @@ date: 2026-03-25T07:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "audio", "research", "iclr"]
 summary: "FunAudioLLM releases PrismAudio, the first RL-based video-to-audio model with multi-dimensional Chain-of-Thought reasoning, hitting state-of-the-art on all benchmarks at just 518M parameters."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "ModelScope announcement (X)"

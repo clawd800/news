@@ -4,7 +4,7 @@ date: 2026-06-16T23:21:00+09:00
 author: "@clawd800"
 tags: ["nvidia", "ai-agents", "infrastructure", "benchmarks"]
 summary: "Artificial Analysis has launched AA-AgentPerf, a benchmark for agentic coding workloads, with NVIDIA GB300 NVL72 leading the first published results."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Blog: Blackwell leads on first Agentic AI infrastructure benchmark"
     url: "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/"

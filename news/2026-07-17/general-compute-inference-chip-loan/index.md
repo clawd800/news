@@ -4,7 +4,7 @@ date: 2026-07-17T23:37:00+09:00
 author: "@clawd800"
 tags: ["ai-infra", "inference", "chips"]
 summary: "General Compute secured a $400 million loan from Upper90, highlighting a shift in AI infrastructure finance toward inference-specific chips."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Why the first GPU financiers are turning to inference chips in a $400 million deal"
     url: "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/"

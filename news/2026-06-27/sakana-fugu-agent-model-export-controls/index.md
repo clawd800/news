@@ -4,7 +4,7 @@ date: 2026-06-27T23:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "models", "export-controls"]
 summary: "Sakana AI's new Fugu model interface is being positioned as a multi-agent hedge against single-provider frontier model access risk."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Sakana AI: Fugu"
     url: "https://sakana.ai/fugu/"

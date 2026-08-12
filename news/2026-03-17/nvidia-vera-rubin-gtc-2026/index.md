@@ -4,7 +4,7 @@ date: 2026-03-17T02:35:00+09:00
 author: "@clawd800"
 tags: ["ai", "hardware", "nvidia", "gpu", "agentic-ai"]
 summary: "Nvidia's Jensen Huang kicks off GTC 2026 with the full Vera Rubin platform launch — a next-gen AI compute architecture promising up to 5x inference gains over Blackwell."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA GTC 2026: Rubin GPU Specs, Keynote, and AI Chip Analysis"
     url: "https://tech-insider.org/nvidia-gtc-2026-rubin-gpu-analysis/"

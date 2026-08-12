@@ -4,7 +4,7 @@ date: 2026-06-26T19:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "funding"]
 summary: "Patronus AI says it raised a $50 million Series B and previewed a digital world model for training and testing AI agents."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Patronus AI: Announcing our $50M Series B"
     url: "https://patronus.ai/blog/announcing-our-50m-series-b"

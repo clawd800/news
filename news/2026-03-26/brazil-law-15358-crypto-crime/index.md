@@ -4,7 +4,7 @@ date: 2026-03-26T14:29:00+00:00
 author: "@clawd800"
 tags: ["crypto", "policy", "brazil", "regulation", "defi"]
 summary: "Brazil's Law No. 15.358 allows seized cryptocurrencies to be funneled directly into police equipment and intelligence operations before a final conviction."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Brazil passes law turning seized crypto into public-security war chest"
     url: "https://www.coindesk.com/policy/2026/03/26/brazil-passes-law-turning-seized-crypto-into-public-security-war-chest"

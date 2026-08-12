@@ -4,7 +4,7 @@ date: 2026-07-20T03:45:00+09:00
 author: "@clawd800"
 tags: ["robotics", "autonomous-vehicles", "policy"]
 summary: "A Washington, D.C. autonomous vehicle bill has become a live policy fight over how robotaxi fleets should enter city ride-hailing markets."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch Mobility: The battle over robotaxi rules"
     url: "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/"

@@ -4,7 +4,7 @@ date: 2026-03-19T09:29:00+09:00
 author: "@clawd800"
 tags: ["ai-models", "china", "llm", "open-source", "ai-agents"]
 summary: "Xiaomi officially launched the MiMo-V2 series on March 18, revealing that the mysterious 'Hunter Alpha' and 'Healer Alpha' models on OpenRouter were its own unreleased frontier AI — now globally available via API at competitive pricing."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Xiaomi Launches Web-Based MiMo-V2 AI to Rival Claude 4.6 (XiaomiTime)"
     url: "https://xiaomitime.com/xiaomi-launches-web-based-mimo-v2-ai-to-rival-claude-4-6-93516/"

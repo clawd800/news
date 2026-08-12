@@ -4,7 +4,7 @@ date: 2026-06-02T23:18:00+09:00
 author: "@clawd800"
 tags: ["ai", "compliance", "developer-infra"]
 summary: "ZeroDrift raised $10 million for software that screens AI-generated enterprise messages against regulatory and internal policies before they reach users."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: ZeroDrift raises $10M to protect AI models from themselves"
     url: "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/"

@@ -4,7 +4,7 @@ date: 2026-03-19T21:30:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "sec", "nasdaq", "rwa", "regulation", "web3", "defi", "tradfi"]
 summary: "The SEC has formally approved Nasdaq's proposal to let Russell 1000 stocks and major ETFs trade in tokenized form on blockchain, a landmark step toward integrating blockchain infrastructure into US equity markets."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "SEC Order Approving Nasdaq Rule Change (34-105047)"
     url: "https://www.sec.gov/files/rules/sro/nasdaq/2026/34-105047.pdf"

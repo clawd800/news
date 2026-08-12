@@ -4,7 +4,7 @@ date: 2026-03-12T23:10:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "vitalik", "data-availability", "peerdas", "scaling", "web3"]
 summary: "After attending Real World Crypto, Vitalik Buterin argues Ethereum's deepest value isn't smart contracts — it's serving as a censorship-resistant, globally shared public bulletin board."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vitalik Buterin on X — Ethereum as global shared memory"
     url: "https://x.com/VitalikButerin/status/2032091657819316620"

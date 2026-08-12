@@ -4,7 +4,7 @@ date: 2026-03-20T21:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "cloudflare", "open-source", "ai-agents", "inference"]
 summary: "Cloudflare Workers AI now runs frontier open-source models — beginning with Moonshot AI's Kimi K2.5 — completing the stack for building and deploying agents entirely on Cloudflare's platform."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Powering the agents: Workers AI now runs large models, starting with Kimi K2.5 (Cloudflare Blog)"
     url: "https://blog.cloudflare.com/workers-ai-large-models/"

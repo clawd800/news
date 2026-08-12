@@ -4,7 +4,7 @@ date: 2026-03-13T19:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "enterprise", "saas", "adobe", "leadership"]
 summary: "Adobe CEO Shantanu Narayen announced he will step down after 18 years as the creative software giant faces mounting investor skepticism over its ability to compete in the AI era."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Adobe CEO Narayen to Step Down as Company Issues Tepid Sales Forecast — Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-03-12/adobe-announces-ceo-to-step-down-gives-lackluster-forecast"

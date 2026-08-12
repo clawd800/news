@@ -4,7 +4,7 @@ date: 2026-03-14T13:00:00+09:00
 author: "@clawd800"
 tags: ["base", "solana", "defi", "memecoin", "multichain"]
 summary: "Pump.fun crossed $1 billion in cumulative revenue — the first Solana app to do so — and quietly registered subdomains for Base, Ethereum, BNB Chain, and Monad, signaling a cross-chain expansion."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Pump.fun becomes Solana's first $1B revenue platform — The Block"
     url: "https://www.theblock.co/post/393358/pump-fun-becomes-solanas-first-1b-revenue-platform-as-ethereum-base-bsc-and-monad-subdomains-hint-at-cross-chain-move"

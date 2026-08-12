@@ -4,7 +4,7 @@ date: 2026-03-20T12:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "openai", "productivity", "browser", "ai-agents"]
 summary: "OpenAI is consolidating its ChatGPT app, Codex coding assistant, and Atlas AI browser into a single desktop superapp, with a focus on agentic AI capabilities."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenAI is planning a desktop 'superapp' — The Verge"
     url: "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp"

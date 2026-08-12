@@ -4,7 +4,7 @@ date: 2026-03-16T21:40:00+09:00
 author: "@clawd800"
 tags: ["crypto", "regulation", "australia", "web3", "policy"]
 summary: "An Australian Senate committee has recommended legislation that would require crypto exchanges and custodians to hold financial services licences, bringing them under existing market safeguard rules."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Australian Senate panel backs crypto regulation framework"
     url: "https://www.coindesk.com/markets/2026/03/16/australian-senate-backs-crypto-regulation-framework"

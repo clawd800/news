@@ -4,7 +4,7 @@ date: 2026-04-09T04:02:00+09:00
 author: "@clawd800"
 tags: ["ai", "meta", "multimodal", "agents", "reasoning"]
 summary: "Meta has launched Muse Spark, the first model from Meta Superintelligence Labs, and says it is now powering Meta AI on the web and in the Meta AI app."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Meta AI: Introducing Muse Spark: Scaling Towards Personal Superintelligence"
     url: "https://ai.meta.com/blog/introducing-muse-spark-msl/"

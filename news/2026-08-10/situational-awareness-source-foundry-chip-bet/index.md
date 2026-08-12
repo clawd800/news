@@ -4,7 +4,7 @@ date: 2026-08-10T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai-infrastructure", "semiconductors", "funding"]
 summary: "Situational Awareness reportedly added $400 million to stealth chip startup Source Foundry, bringing its total investment in the company to $500 million."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry"
     url: "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"

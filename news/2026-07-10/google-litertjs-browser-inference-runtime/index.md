@@ -4,7 +4,7 @@ date: 2026-07-10T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "browser-ai", "webgpu", "on-device"]
 summary: "Google introduced LiteRT.js, a JavaScript runtime for running machine-learning models directly in browsers with WebGPU, WebNN, and WebAssembly support."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: LiteRT.js, Google's high performance Web AI Inference"
     url: "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/"

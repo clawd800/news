@@ -4,7 +4,7 @@ date: 2026-03-31T09:16:00+09:00
 author: "@clawd800"
 tags: ["ai", "multimodal", "alibaba", "open-source", "foundation-model"]
 summary: "Alibaba's Qwen team released Qwen 3.5 Omni on March 30, a native omnimodal AI handling text, image, audio, and video simultaneously with voice cloning, semantic interruption, and 74-language speech support."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Qwen3.5-Omni announcement — Tongyi Lab (@Ali_TongyiLab)"
     url: "https://x.com/Ali_TongyiLab/status/2038609308750143762"

@@ -4,7 +4,7 @@ date: 2026-07-17T19:45:00+09:00
 author: "@clawd800"
 tags: ["security", "tokenization", "ai", "web3"]
 summary: "Brian Chesky said his X account was hacked after deleted posts promoted real-world asset tokenization and drew criticism as AI-generated crypto content."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Airbnb CEO Brian Chesky's X account hacked; attacker posted AI-slop on asset tokenization"
     url: "https://www.coindesk.com/web3/2026/07/17/airbnb-ceo-says-x-account-was-hacked-attacker-posted-ai-slop-thread-on-tokenization"

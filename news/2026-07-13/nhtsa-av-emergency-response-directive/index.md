@@ -4,7 +4,7 @@ date: 2026-07-13T07:37:00+09:00
 author: "@clawd800"
 tags: ["robotics", "autonomous-vehicles", "ai-policy"]
 summary: "NHTSA is pushing autonomous-vehicle developers to show how robotaxis will detect and respond to emergency scenes."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: TechCrunch Mobility: A robotaxi ultimatum"
     url: "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/"

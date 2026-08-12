@@ -4,7 +4,7 @@ date: 2026-04-05T07:07:00+09:00
 author: "@clawd800"
 tags: ["robotics", "humanoid-robots", "china-tech", "ai", "embodied-intelligence"]
 summary: "UBTech sold 1,079 full-size humanoid robots in 2025 — up from just 3 the year before — and is now offering $18 million annually to recruit a chief AI scientist."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "UBTech surges in leaps and bounds as humanoid robot sales jump 23-fold"

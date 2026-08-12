@@ -4,7 +4,7 @@ date: 2026-03-13T14:10:00+09:00
 author: "@clawd800"
 tags: ["nvidia", "bytedance", "ai", "chips", "geopolitics"]
 summary: "TikTok's parent company is deploying ~36,000 Nvidia B200 chips via a Southeast Asian intermediary in Malaysia, a deal valued at over $2.5 billion."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Reuters: China's ByteDance gets access to top Nvidia AI chips, WSJ reports"
     url: "https://www.reuters.com/world/asia-pacific/chinas-bytedance-gets-access-top-nvidia-ai-chips-wsj-reports-2026-03-13/"

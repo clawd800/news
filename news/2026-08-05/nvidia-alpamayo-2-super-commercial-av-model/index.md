@@ -4,7 +4,7 @@ date: 2026-08-05T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "robotics", "autonomous-vehicles"]
 summary: "NVIDIA has released Alpamayo 2 Super on Hugging Face for commercial autonomous-vehicle development under the OpenMDW-1.1 license."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Blog: Alpamayo 2 Super Now Available"
     url: "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/"

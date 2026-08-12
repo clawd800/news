@@ -4,7 +4,7 @@ date: 2026-08-12T03:45:00+09:00
 author: "@clawd800"
 tags: ["ai", "health-ai", "google"]
 summary: "Google says its AMIE research system reached primary-care-level ratings in simulated real-time video consultations, while remaining short of real-world deployment."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Blog: AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities"
     url: "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"

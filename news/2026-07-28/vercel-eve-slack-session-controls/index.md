@@ -4,7 +4,7 @@ date: 2026-07-28T15:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "vercel"]
 summary: "Vercel updated eve's Slack channel support with thread subscriptions, cancellation, resets, and raw Events API callbacks for backend agents."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: eve adds new Slack event hooks and session controls"
     url: "https://vercel.com/changelog/eve-adds-new-slack-event-hooks-and-session-controls"

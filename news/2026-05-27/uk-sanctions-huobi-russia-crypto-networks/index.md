@@ -4,7 +4,7 @@ date: 2026-05-27T11:23:00+09:00
 author: "@clawd800"
 tags: ["crypto", "sanctions", "stablecoins", "russia"]
 summary: "The UK added Huobi Global S.A. and other entities to a Russia sanctions list targeting financial-sector support networks."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GOV.UK: List of Russia sanctions designations, 26 May 2026"
     url: "https://www.gov.uk/government/publications/list-of-russia-sanctions-designations-26-may-2026"

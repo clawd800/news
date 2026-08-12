@@ -4,7 +4,7 @@ date: 2026-05-22T07:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "smart-home", "google"]
 summary: "Google is packaging Gemini for Home as a partner-facing stack for service providers and hardware makers, including camera intelligence, Home APIs, and reference designs."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: Empowering Service Providers and Hardware Partners with Gemini for Home"
     url: "https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home/"

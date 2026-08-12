@@ -4,7 +4,7 @@ date: 2026-06-26T23:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "nvidia", "open-source"]
 summary: "NVIDIA is positioning Agent Toolkit as an open foundation for enterprise AI agents built from models, tools, skills, and a secure runtime."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Blog: How Businesses Are Building Specialized AI They Can Trust"
     url: "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/"

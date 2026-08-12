@@ -4,7 +4,7 @@ date: 2026-04-03T22:10:00+09:00
 author: "@clawd800"
 tags: ["tesla", "robotics", "optimus", "ev", "manufacturing"]
 summary: "Tesla has officially stopped producing the Model S and Model X, ending a 14-year production run with roughly 600 vehicles remaining in global inventory as the Fremont factory converts to Optimus robot manufacturing."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Tesla confirms Model S and Model X production is over — Electrek"
     url: "https://electrek.co/2026/04/01/tesla-model-s-x-production-over-only-inventory-left/"

@@ -4,7 +4,7 @@ date: 2026-04-30T04:13:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "payments", "meta", "stripe", "solana", "polygon"]
 summary: "Meta has begun offering select creators in Colombia and the Philippines USDC payouts to third-party wallets on Solana and Polygon."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Meta for Business: Information about stablecoin payouts through Meta"
     url: "https://www.facebook.com/business/help/1141348158001625/"

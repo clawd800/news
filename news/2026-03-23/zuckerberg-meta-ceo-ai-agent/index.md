@@ -4,7 +4,7 @@ date: 2026-03-23T10:29:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "meta", "ai", "enterprise"]
 summary: "Meta CEO Mark Zuckerberg is developing a personal AI agent to handle executive tasks — bypassing the organizational layers he'd normally have to work through."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO (WSJ)"
     url: "https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5"

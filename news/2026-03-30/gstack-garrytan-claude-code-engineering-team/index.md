@@ -4,7 +4,7 @@ date: 2026-03-30T08:11:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "claude-code", "developer-tools", "ai"]
 summary: "Y Combinator CEO Garry Tan open-sourced GStack, a Claude Code skill pack that simulates 15+ specialist roles — CEO, architect, QA, security officer — and hit 55K GitHub stars in under three weeks."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "garrytan/gstack on GitHub"
     url: "https://github.com/garrytan/gstack"

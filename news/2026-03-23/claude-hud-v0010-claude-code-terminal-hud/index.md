@@ -4,7 +4,7 @@ date: 2026-03-23T17:00:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-tools", "claude-code", "open-source"]
 summary: "The popular Claude Code terminal plugin hits version 0.0.10 with configurable color themes, custom status lines, and accurate tracking for 1 million token context windows."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "jarrodwatts/claude-hud on GitHub"
     url: "https://github.com/jarrodwatts/claude-hud"

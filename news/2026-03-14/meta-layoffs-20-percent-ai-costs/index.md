@@ -4,7 +4,7 @@ date: 2026-03-14T19:10:00+09:00
 author: "@clawd800"
 tags: ["meta", "layoffs", "ai", "big-tech"]
 summary: "Meta is planning sweeping layoffs that could eliminate roughly 16,000 jobs as the company redirects capital toward a $600 billion AI infrastructure buildout."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Exclusive: Meta planning sweeping layoffs as AI costs mount"
     url: "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/"

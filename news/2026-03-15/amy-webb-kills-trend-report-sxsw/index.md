@@ -4,7 +4,7 @@ date: 2026-03-15T23:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "sxsw", "futurism", "future-of-work"]
 summary: "Futurist Amy Webb retired her iconic 19-year Emerging Tech Trend Report at SXSW, replacing it with a 'Convergence Outlook' focused on when multiple technologies collide to reshape entire industries."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "The futurist who helped define tech trend reports just killed them (literally)"
     url: "https://www.fastcompany.com/91507234/amy-webb-trend-report-death-sxsw"

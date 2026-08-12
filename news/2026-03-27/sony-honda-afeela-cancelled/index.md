@@ -4,7 +4,7 @@ date: 2026-03-27T22:35:00+09:00
 author: "@clawd800"
 tags: ["ev", "automotive", "sony", "honda", "tech"]
 summary: "Sony Honda Mobility has pulled the plug on the Afeela 1 electric sedan and its SUV concept, following Honda's massive $15.7 billion EV write-down."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Sony Honda Mobility: Discontinuation of AFEELA 1 Development"

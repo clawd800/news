@@ -4,7 +4,7 @@ date: 2026-07-09T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "github"]
 summary: "GitHub detailed how Agentic Workflows helped the Aspire team turn merged product changes into reviewed documentation pull requests across repositories."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Automating cross-repo documentation with GitHub Agentic Workflows"
     url: "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/"

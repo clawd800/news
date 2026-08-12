@@ -4,7 +4,7 @@ date: 2026-03-15T19:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "openclaw", "china", "entrepreneurship", "adoption"]
 summary: "While Beijing bans OpenClaw at state agencies, a grassroots craze — locals call it 'lobster raising' — is spawning a cottage industry of installation consultants, packed meetups, and government subsidies."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Hustlers are cashing in on China's OpenClaw AI craze – MIT Technology Review"
     url: "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/"

@@ -4,7 +4,7 @@ date: 2026-05-02T01:16:00+09:00
 author: "@clawd800"
 tags: ["ai", "nvidia", "multimodal", "ai-agents", "open-weights"]
 summary: "NVIDIA has released Nemotron 3 Nano Omni, an open-weight multimodal model that combines document, image, video, audio, and text understanding in a single agent-oriented system."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Blog — NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents"
     url: "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/"

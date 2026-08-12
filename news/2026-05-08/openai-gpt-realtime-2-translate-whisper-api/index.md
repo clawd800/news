@@ -4,7 +4,7 @@ date: 2026-05-08T11:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "openai", "voice-ai", "developer-tools", "api"]
 summary: "OpenAI has added three new Realtime API audio models for voice agents, live translation, and low-latency transcription."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenAI: Advancing voice intelligence with new models in the API"
     url: "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/"

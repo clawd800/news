@@ -4,7 +4,7 @@ date: 2026-04-04T06:03:00+09:00
 author: "@clawd800"
 tags: ["spacex", "grok", "ipo", "elon-musk", "ai"]
 summary: "Elon Musk is requiring banks, law firms, and advisers working on SpaceX's record-breaking IPO to purchase subscriptions to Grok, his AI chatbot now under the SpaceX umbrella."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Big Banks Seeking a Piece of SpaceX's I.P.O. Must Subscribe to Elon Musk's Grok - The New York Times"
     url: "https://www.nytimes.com/2026/04/03/business/spacex-ipo-grok-elon-musk.html"

@@ -4,7 +4,7 @@ date: 2026-04-19T13:21:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "mining", "web3-infra", "energy"]
 summary: "Alcoa says its Massena East smelter site is the most advanced of its idled-asset monetization projects, while Bloomberg and CoinDesk report NYDIG is the likely buyer for a bitcoin mining and data center buildout."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Alcoa (AA) Q1 2026 Earnings Call Transcript"
     url: "https://www.fool.com/earnings/call-transcripts/2026/04/16/alcoa-aa-q1-2026-earnings-call-transcript/"

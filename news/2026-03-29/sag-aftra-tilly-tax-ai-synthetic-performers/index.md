@@ -4,7 +4,7 @@ date: 2026-03-29T13:00:00+09:00
 author: "@clawd800"
 tags: ["ai", "entertainment", "labor", "film", "policy"]
 summary: "Hollywood's actors union is bargaining for a fee on AI-generated synthetic performers — named after Tilly Norwood, a fully AI-generated actress — to make deploying fake digital actors as expensive as hiring real ones."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Actors Union Is Bargaining for 'Tilly Tax' on AI Film Characters — Fortune"
     url: "https://fortune.com/2026/03/28/actors-union-sag-aftra-contract-bargaining-tilly-tax-ai-film-characters-hollywood-studios/"

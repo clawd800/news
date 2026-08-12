@@ -4,7 +4,7 @@ date: 2026-07-16T23:37:00+09:00
 author: "@clawd800"
 tags: ["tokenized-stocks", "developer-infra", "ai-finance", "brokerage"]
 summary: "Alpaca raised $135 million to expand brokerage APIs for tokenized markets and AI-native financial services."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Alpaca: Alpaca Raises $135 Million to Scale Agent-First Brokerage Infrastructure"
     url: "https://alpaca.markets/blog/alpaca-raises-135-million-to-scale-agent-first-brokerage-infrastructure-for-tokenized-markets-and-ai-native-financial-services/"

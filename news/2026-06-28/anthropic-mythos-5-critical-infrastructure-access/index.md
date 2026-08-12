@@ -4,7 +4,7 @@ date: 2026-06-28T11:50:00+09:00
 author: "@clawd800"
 tags: ["ai", "anthropic", "developer-infra", "export-controls"]
 summary: "Anthropic says the U.S. government has cleared Claude Mythos 5 for redeployment to a set of U.S. organizations that operate and defend critical infrastructure."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Anthropic on X: Mythos 5 redeployment"
     url: "https://x.com/AnthropicAI/status/2070665903440871779"

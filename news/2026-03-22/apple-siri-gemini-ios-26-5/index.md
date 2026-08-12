@@ -4,7 +4,7 @@ date: 2026-03-22T22:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "apple", "siri", "google", "gemini", "ios"]
 summary: "After two years of delays, Apple is expected to ship its first Gemini-integrated Siri in the iOS 26.5 developer beta, arriving as early as March 30."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Apple's Gemini-powered Siri upgrade could still arrive this month"
     url: "https://9to5mac.com/2026/03/20/apples-gemini-powered-siri-upgrade-could-still-arrive-this-month/"

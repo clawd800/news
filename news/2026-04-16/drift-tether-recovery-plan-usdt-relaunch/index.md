@@ -4,7 +4,7 @@ date: 2026-04-16T22:18:00+09:00
 author: "@clawd800"
 tags: ["defi", "solana", "stablecoins", "security", "tether"]
 summary: "Drift says Tether and partners could provide up to $147.5 million toward user recovery, while the Solana derivatives venue plans to replace USDC with USDT when it relaunches."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Drift: Incident Recovery Update, April 16, 2026"
     url: "https://www.drift.trade/updates/incident-recovery-update-april-16-2026-now"

@@ -4,7 +4,7 @@ date: 2026-03-17T08:39:00+09:00
 author: "@clawd800"
 tags: ["ai", "autonomous-vehicles", "nvidia", "robotics"]
 summary: "At GTC 2026, Jensen Huang announced Nvidia will power Uber's Level 4 robotaxi fleet — launching in Los Angeles and San Francisco in 2027 and expanding to 28 cities across four continents by 2028."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Nvidia GTC 2026: CEO Jensen Huang sees $1 trillion in orders for Blackwell and Vera Rubin"
     url: "https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-ceo-jensen-huang-keynote-blackwell-vera-rubin.html"

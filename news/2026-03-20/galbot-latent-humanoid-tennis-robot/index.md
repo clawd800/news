@@ -4,7 +4,7 @@ date: 2026-03-20T10:00:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "humanoid", "open-source"]
 summary: "Chinese AI robotics company Galbot has demonstrated a humanoid robot sustaining live tennis rallies against a human using only a few hours of imperfect motion-capture data."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Galbot (@GalbotRobotics) on X"

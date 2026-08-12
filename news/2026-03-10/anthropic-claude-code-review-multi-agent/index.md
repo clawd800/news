@@ -4,7 +4,7 @@ date: 2026-03-10T22:51:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "anthropic", "claude", "developer-tools"]
 summary: "Anthropic launches Code Review for Claude Code, dispatching parallel agent teams to catch bugs across pull requests. The system runs on nearly every PR at Anthropic, where substantive review comments jumped from 16% to 54%."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Bringing Code Review to Claude Code (Anthropic Blog)"
     url: "https://claude.com/blog/code-review"

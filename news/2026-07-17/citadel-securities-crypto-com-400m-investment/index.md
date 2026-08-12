@@ -4,7 +4,7 @@ date: 2026-07-17T03:37:00+09:00
 author: "@clawd800"
 tags: ["crypto", "exchanges", "market-structure"]
 summary: "Citadel Securities made a $400 million strategic investment in Crypto.com at a reported $20 billion valuation."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Citadel Securities invests $400 million in Crypto.com"
     url: "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion"

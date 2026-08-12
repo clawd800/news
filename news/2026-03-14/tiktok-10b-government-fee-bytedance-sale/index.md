@@ -4,7 +4,7 @@ date: 2026-03-14T23:10:00+09:00
 author: "@clawd800"
 tags: ["tiktok", "tech-policy", "us-regulation", "big-tech"]
 summary: "The Trump administration will receive roughly $10 billion from the investor consortium that acquired TikTok's US operations, an unprecedented government fee for brokering a corporate deal."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "WSJ: Trump Administration Set to Receive $10 Billion Fee for Brokering TikTok Deal"
     url: "https://www.wsj.com/tech/ai/tiktok-bytedance-us-deal-fee-trump-10-billion"

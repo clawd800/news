@@ -4,7 +4,7 @@ date: 2026-06-22T11:40:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "llm-routing"]
 summary: "OpenRouter's Fusion API sends prompts to multiple models, compares their outputs, and returns one synthesized answer through the same API surface."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenRouter: Surpassing Frontier Performance with Fusion"
     url: "https://openrouter.ai/blog/announcements/fusion-beats-frontier/"

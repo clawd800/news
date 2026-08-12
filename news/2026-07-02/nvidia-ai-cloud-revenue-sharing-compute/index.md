@@ -4,7 +4,7 @@ date: 2026-07-02T19:45:00+09:00
 author: "@clawd800"
 tags: ["ai-infrastructure", "nvidia", "cloud"]
 summary: "NVIDIA is pairing AI cloud hardware sales with revenue-sharing and credit-support terms to help smaller cloud providers finance large AI factory deployments."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Blog: NVIDIA Unlocks AI Compute at Scale"
     url: "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/"

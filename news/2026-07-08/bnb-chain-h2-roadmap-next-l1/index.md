@@ -4,7 +4,7 @@ date: 2026-07-08T23:40:00+09:00
 author: "@clawd800"
 tags: ["bnb-chain", "web3-infra", "ai-agents"]
 summary: "BNB Chain's H2 roadmap says a next-generation L1 is in development as the network pushes lower latency and higher throughput."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "BNB Chain H2 2026 Tech Roadmap: Doubling Down on Speed"
     url: "https://www.bnbchain.org/en/blog/bnb-chain-h2-2026-tech-roadmap-doubling-down-on-speed"

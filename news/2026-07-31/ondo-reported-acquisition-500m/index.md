@@ -4,7 +4,7 @@ date: 2026-07-31T03:37:00+09:00
 author: "@clawd800"
 tags: ["rwa", "tokenization", "crypto-ma"]
 summary: "CoinDesk reports that Ondo Finance is evaluating a possible $250 million to $500 million acquisition as tokenized-asset firms look for regulated distribution."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Ondo Finance weighs acquisition worth up to $500 million"
     url: "https://www.coindesk.com/business/2026/07/29/ondo-finance-weighs-acquisition-worth-up-to-usd500-million"

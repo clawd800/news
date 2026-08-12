@@ -13,7 +13,20 @@ function tempArticleDir() {
 
 test('ensure-thumbnail validates an existing thumbnail', () => {
   const articleDir = tempArticleDir();
-  fs.writeFileSync(path.join(articleDir, 'thumbnail.png'), 'not empty');
+  const imageResult = spawnSync('ffmpeg', [
+    '-hide_banner',
+    '-loglevel',
+    'error',
+    '-y',
+    '-f',
+    'lavfi',
+    '-i',
+    'color=c=red:s=64x64',
+    '-frames:v',
+    '1',
+    path.join(articleDir, 'thumbnail.png'),
+  ], { encoding: 'utf8' });
+  assert.equal(imageResult.status, 0, imageResult.stderr);
 
   const result = spawnSync(process.execPath, [scriptPath, '--article-dir', articleDir], {
     encoding: 'utf8',

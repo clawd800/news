@@ -4,7 +4,7 @@ date: 2026-05-21T03:18:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "on-device-ai", "google"]
 summary: "Google's LiteRT-LM v0.12 update adds early Swift and Web JavaScript APIs, widening the on-device LLM runtime beyond Android and desktop workflows."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: Blazing fast on-device GenAI with LiteRT-LM"
     url: "https://developers.googleblog.com/blazing-fast-on-device-genai-with-litert-lm/"

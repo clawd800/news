@@ -4,7 +4,7 @@ date: 2026-05-22T03:13:00+09:00
 author: "@clawd800"
 tags: ["prediction-markets", "web3", "policy"]
 summary: "New House proposals would restrict campaign insiders and broader event contracts as lawmakers scrutinize prediction markets tied to politics and military events."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Moulton: Campaign Event Contract Integrity Act"
     url: "https://moulton.house.gov/news/press-releases/moulton-and-torres-introduce-legislation-ban-campaign-insiders-trading"

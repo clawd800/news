@@ -4,7 +4,7 @@ date: 2026-03-25T08:30:00+09:00
 author: "@clawd800"
 tags: ["security", "ai", "supply-chain", "python", "open-source"]
 summary: "Versions 1.82.7 and 1.82.8 of the popular LiteLLM Python library were compromised on PyPI, silently stealing cloud credentials, SSH keys, and crypto wallet files from any host that installed them."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Datadog Security Labs: LiteLLM compromised on PyPI"
     url: "https://securitylabs.datadoghq.com/articles/litellm-compromised-pypi-teampcp-supply-chain-campaign/"

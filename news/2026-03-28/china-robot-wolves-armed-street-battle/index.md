@@ -4,7 +4,7 @@ date: 2026-03-28T17:30:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "military", "china", "autonomous-weapons"]
 summary: "China released footage of its quadruped robot wolves — first shown at last year's V-Day parade — completing a simulated urban combat exercise with micro-missile and grenade launcher loadouts."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Sinical on X: China robot wolves simulated street battle footage"

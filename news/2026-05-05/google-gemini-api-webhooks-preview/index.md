@@ -4,7 +4,7 @@ date: 2026-05-05T14:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "gemini", "developer-tools", "api"]
 summary: "Google has launched preview webhook support in the Gemini API, letting long-running jobs notify developer servers on completion instead of relying on repeated polling."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google AI Blog: Reduce friction and latency for long-running jobs with Webhooks in Gemini API"
     url: "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/"

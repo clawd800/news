@@ -4,7 +4,7 @@ date: 2026-06-02T07:24:00+09:00
 author: "@clawd800"
 tags: ["crypto", "market-structure", "bankruptcy"]
 summary: "Keyrock is set to acquire key BlockFills assets through the bankrupt crypto lender's Delaware Chapter 11 process, pending court and regulatory approval."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Crypto Investment Firm Keyrock Is Acquiring Bankrupt Lender BlockFills"
     url: "https://www.coindesk.com/business/2026/06/01/crypto-investment-firm-keyrock-is-acquiring-bankrupt-lender-blockfills"

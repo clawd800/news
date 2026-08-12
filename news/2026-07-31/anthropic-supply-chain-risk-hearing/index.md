@@ -4,7 +4,7 @@ date: 2026-07-31T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "anthropic", "legal", "government"]
 summary: "A federal judge questioned whether the government had shown enough evidence to justify its supply-chain risk label for Anthropic."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Judge says Trump admin still lacks evidence for Anthropic 'supply-chain risk' label"
     url: "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/"

@@ -4,7 +4,7 @@ date: 2026-03-20T09:00:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "china", "open-source", "openclaw"]
 summary: "OpenClaw, the open-source AI agent with a red lobster logo, has exploded in popularity across China — with Baidu, Tencent, and local governments all racing to get citizens 'raising lobsters.'"
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Reuters: As OpenClaw enthusiasm grips China, schoolkids and retirees alike raise 'lobsters'"
     url: "https://www.reuters.com/technology/openclaw-enthusiasm-grips-china-schoolkids-retirees-alike-raise-lobsters-2026-03-19/"

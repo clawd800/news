@@ -4,7 +4,7 @@ date: 2026-05-23T07:13:00+09:00
 author: "@clawd800"
 tags: ["sec", "tokenization", "web3-infra"]
 summary: "SEC Commissioner Hester Peirce said a contemplated tokenized stock exemption should be limited to digital representations of existing equities, not synthetic stock-tracking tokens."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Hester Peirce on tokenized NMS stock"
     url: "https://x.com/HesterPeirce/status/2057563897507532864"

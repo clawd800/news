@@ -4,7 +4,7 @@ date: 2026-06-01T19:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "open-models"]
 summary: "MiniMax released M3, a new open-weight multimodal model with a 1M-token context window now available through Vercel AI Gateway and OpenRouter."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "MiniMax M3: Frontier Coding, 1M Context, Native Multimodality"
     url: "https://www.minimax.io/blog/minimax-m3"

@@ -4,7 +4,7 @@ date: 2026-03-11T22:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "google", "gemini", "pentagon", "defense", "government"]
 summary: "Google launched eight Gemini-powered AI agents on GenAI.mil for over 3 million US Defense Department personnel, filling a gap left by Anthropic's exclusion from Pentagon AI contracts."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google deepens Pentagon AI push after Anthropic sues Trump admin"
     url: "https://www.cnbc.com/2026/03/10/google-deepens-pentagon-ai-push-after-anthropic-sues-trump-admin.html"

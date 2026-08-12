@@ -4,7 +4,7 @@ date: 2026-08-12T15:37:00+09:00
 author: "@clawd800"
 tags: ["tokenized-stocks", "crypto-exchanges", "rwa"]
 summary: "Crypto.com is offering synthetic exposure to 1,500 U.S. stocks and ETFs for eligible users outside several major restricted markets."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Crypto.com rolls out tokenized stock derivatives"
     url: "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities"

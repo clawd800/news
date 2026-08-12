@@ -4,7 +4,7 @@ date: 2026-03-20T18:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "llm", "agents", "china-ai"]
 summary: "MiniMax's new M2.7 model handled 30-50% of its own reinforcement learning development workflow — an early signal of recursive AI self-improvement."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "MiniMax M2.7: Early Echoes of Self-Evolution (Official)"

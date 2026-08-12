@@ -4,7 +4,7 @@ date: 2026-03-14T09:10:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "tesla", "humanoid"]
 summary: "Tesla publicly debuted its third-generation Optimus humanoid robot at AWE 2026 in Shanghai, with on-site staff confirming mass production is planned to begin by the end of 2026."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Tesla showcases upcoming Gen 3 humanoid robot in China (CnEVPost)"
     url: "https://cnevpost.com/2026/03/12/tesla-showcases-upcoming-gen-3-humanoid-robot-china/"

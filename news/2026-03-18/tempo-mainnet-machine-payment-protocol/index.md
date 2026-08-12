@@ -4,7 +4,7 @@ date: 2026-03-18T23:30:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "web3", "payments", "stripe", "stablecoins", "blockchain", "layer1"]
 summary: "Stripe and Paradigm's payments-focused Layer 1 goes live alongside an open standard for autonomous machine-to-machine transactions, positioning Tempo as the settlement rail for an AI-native economy."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Stripe-backed crypto startup Tempo releases AI payments protocol, launches blockchain"
     url: "https://fortune.com/2026/03/18/stripe-tempo-paradigm-mpp-ai-payments-protocol/"

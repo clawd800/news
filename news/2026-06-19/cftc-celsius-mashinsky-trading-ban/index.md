@@ -4,7 +4,7 @@ date: 2026-06-19T07:37:00+09:00
 author: "@clawd800"
 tags: ["crypto", "regulation", "cftc", "enforcement"]
 summary: "A federal consent order permanently bars Celsius founder Alexander Mashinsky from CFTC registration and trading after the agency's 2023 enforcement case."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CFTC: CFTC Resolves Action Against Celsius Founder"
     url: "https://www.cftc.gov/PressRoom/PressReleases/9256-26"

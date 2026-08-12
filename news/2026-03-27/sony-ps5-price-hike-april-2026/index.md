@@ -4,7 +4,7 @@ date: 2026-03-27T23:29:00+09:00
 author: "@clawd800"
 tags: ["gaming", "hardware", "sony", "playstation", "tariffs"]
 summary: "Sony is raising PS5, PS5 Pro, and PlayStation Portal prices worldwide effective April 2, 2026, citing 'continued pressures in the global economic landscape.'"
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "PlayStation Blog: New Price Changes for PS5, PS5 Pro, and PlayStation Portal"
     url: "https://blog.playstation.com/2026/03/27/new-price-changes-for-ps5-ps5-pro-and-playstation-portal-remote-player/"

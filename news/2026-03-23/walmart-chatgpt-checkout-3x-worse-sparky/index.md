@@ -4,7 +4,7 @@ date: 2026-03-23T19:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "commerce", "openai", "chatgpt", "retail"]
 summary: "Walmart's EVP revealed that purchases made inside ChatGPT converted at one-third the rate of click-through transactions, prompting both companies to abandon in-chat commerce."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Walmart: ChatGPT checkout converted 3x worse than website"
     url: "https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071"

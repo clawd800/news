@@ -4,7 +4,7 @@ date: 2026-08-08T11:37:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "web3-infra", "security"]
 summary: "A proposed BIP-110 soft fork has drawn warnings that users could expose real bitcoin to replay attacks if they try to sell coins from a minority fork."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork"
     url: "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer"

@@ -4,7 +4,7 @@ date: 2026-05-07T00:13:00+09:00
 author: "@clawd800"
 tags: ["ai-infrastructure", "data-centers", "bitcoin", "hpc", "texas"]
 summary: "Hut 8 says it has signed a 15-year lease for 352 MW of AI data center capacity at its Beacon Point campus, with base-term value of $9.8 billion."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Hut 8 press release: Beacon Point 15-year, 352 MW AI data center lease"
     url: "https://www.hut8.com/news-insights/press-releases/hut-8-commercializes-first-phase-of-1-gw-beacon-point-ai-data-center-campus-with-15-year-352-mw"

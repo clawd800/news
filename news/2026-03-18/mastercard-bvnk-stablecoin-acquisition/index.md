@@ -4,7 +4,7 @@ date: 2026-03-18T04:29:00+09:00
 author: "@clawd800"
 tags: ["stablecoin", "payments", "web3", "acquisition", "mastercard"]
 summary: "Mastercard agreed to acquire London-based stablecoin infrastructure firm BVNK for up to $1.8 billion, its largest crypto deal to date."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Mastercard to Acquire BVNK (Official Press Release)"
     url: "https://investor.mastercard.com/investor-news/investor-news-details/2026/Mastercard-to-Acquire-BVNK-to-Connect-On-Chain-Payments-and-Fiat-Rails/default.aspx"

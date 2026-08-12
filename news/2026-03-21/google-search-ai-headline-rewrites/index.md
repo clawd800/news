@@ -4,7 +4,7 @@ date: 2026-03-21T21:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "search", "media", "journalism"]
 summary: "Google confirmed it is testing AI-generated headline replacements in traditional search results, sometimes changing the meaning of articles without any visible indication."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Search is now using AI to replace headlines"
     url: "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment"

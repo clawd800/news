@@ -4,7 +4,7 @@ date: 2026-05-23T23:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "qwen"]
 summary: "Vercel added Alibaba's Qwen 3.7 Max to AI Gateway, giving developers another routed model option for coding and agent workloads."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: Qwen 3.7 Max now available on Vercel AI Gateway"
     url: "https://vercel.com/changelog/qwen-3-7-max-now-available-on-vercel-ai-gateway"

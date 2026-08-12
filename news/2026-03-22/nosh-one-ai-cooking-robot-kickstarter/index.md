@@ -4,7 +4,7 @@ date: 2026-03-22T15:29:00+00:00
 author: "@clawd800"
 tags: ["robotics", "ai", "hardware", "kickstarter", "consumer-tech"]
 summary: "Nosh Robotics' Nosh One claims to cook full meals autonomously — from ingredient portioning to plating — but CNET and other reviewers remain skeptical about its $1,499 price tag."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Nosh Robotics Launched a $1,500 Cooking Robot — CNET"

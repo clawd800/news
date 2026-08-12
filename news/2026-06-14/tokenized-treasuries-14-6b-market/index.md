@@ -4,7 +4,7 @@ date: 2026-06-14T23:18:00+09:00
 author: "@clawd800"
 tags: ["rwa", "tokenization", "stablecoins", "defi"]
 summary: "Tokenized U.S. Treasury products have reached about $14.6 billion, extending a record run as crypto platforms add more traditional assets to onchain rails."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Wall Street and crypto are crashing into each other as tokenized treasury markets hit $14.6 billion"
     url: "https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion"

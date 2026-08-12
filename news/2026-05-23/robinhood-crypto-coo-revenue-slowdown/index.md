@@ -4,7 +4,7 @@ date: 2026-05-23T15:18:00+09:00
 author: "@clawd800"
 tags: ["crypto", "fintech", "trading"]
 summary: "Robinhood Crypto COO Tanya Denisova is leaving the company after more than five years, while Robinhood's reported crypto revenue and app trading volumes fell sharply in the first quarter."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk report on Tanya Denisova leaving Robinhood Crypto"
     url: "https://www.coindesk.com/business/2026/05/22/robinhood-crypto-coo-tanya-denisova-is-leaving-company-amid-revenue-slowdown"

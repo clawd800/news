@@ -4,7 +4,7 @@ date: 2026-03-21T20:29:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-tools", "anthropic", "mcp", "telegram", "discord"]
 summary: "Anthropic launched Claude Code Channels in research preview, letting developers remotely control their local coding agent from Telegram or Discord via MCP plugins."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Claude Code Channels announcement (@trq212 on X)"

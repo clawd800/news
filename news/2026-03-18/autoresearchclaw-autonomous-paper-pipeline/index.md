@@ -4,7 +4,7 @@ date: 2026-03-18T21:00:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "research", "ai-agents"]
 summary: "AutoResearchClaw automates the entire academic research workflow - from literature review to sandbox experiments to LaTeX paper - across 23 autonomous stages. The project hit 5,700 GitHub stars in three days."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GitHub: aiming-lab/AutoResearchClaw"
     url: "https://github.com/aiming-lab/AutoResearchClaw"

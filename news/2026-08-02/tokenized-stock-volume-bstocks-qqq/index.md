@@ -4,7 +4,7 @@ date: 2026-08-02T11:37:00+09:00
 author: "@clawd800"
 tags: ["tokenized-assets", "rwa", "trading", "binance"]
 summary: "CoinDesk Data reported that tokenized stock and ETF trading volume rose 288% in July, with Binance bStocks making up most of the activity."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it (CoinDesk)"
     url: "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it"

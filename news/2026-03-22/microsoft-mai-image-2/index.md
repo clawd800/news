@@ -4,7 +4,7 @@ date: 2026-03-22T01:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "microsoft", "image-generation", "copilot"]
 summary: "Microsoft's in-house AI image model reaches #3 on Arena.ai's text-to-image rankings, trailing only Google and OpenAI, and begins rolling out on Copilot and Bing Image Creator."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Introducing MAI-Image-2 — Microsoft AI"
     url: "https://microsoft.ai/news/introducing-mai-image-2/"

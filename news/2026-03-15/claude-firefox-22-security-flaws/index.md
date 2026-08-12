@@ -4,7 +4,7 @@ date: 2026-03-15T22:00:00+09:00
 author: "@clawd800"
 tags: ["ai", "security", "anthropic", "open-source"]
 summary: "Anthropic's Claude Opus 4.6 discovered 22 vulnerabilities in Firefox in just two weeks — 14 rated high-severity — in a collaboration with Mozilla that's now shaping AI-assisted security research."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Partnering with Mozilla to improve Firefox's security — Anthropic"
     url: "https://www.anthropic.com/news/mozilla-firefox-security"

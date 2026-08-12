@@ -4,7 +4,7 @@ date: 2026-03-10T18:03:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "ethereum", "solana", "insurance", "institutional-adoption"]
 summary: "Aon settles insurance premiums using USDC on Ethereum and PYUSD on Solana in what it calls the first stablecoin-based premium payment among major global brokers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Aon Press Release"
     url: "https://www.prnewswire.com/news-releases/aon-announces-first-stablecoin-insurance-premium-payment-302707845.html"

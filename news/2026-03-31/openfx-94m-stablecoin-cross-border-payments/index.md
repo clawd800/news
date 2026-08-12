@@ -4,7 +4,7 @@ date: 2026-03-31T21:16:00+09:00
 author: "@clawd800"
 tags: ["stablecoin", "payments", "fintech", "cross-border", "fundraising"]
 summary: "OpenFX, a two-year-old startup bridging traditional banking and stablecoins for large cross-border transfers, raised $94 million at a ~$500M valuation with backing from Accel, Lightspeed, and Pantera."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Forex startup OpenFX raises $94 million to expand stablecoin-powered cross-border payments"
     url: "https://www.coindesk.com/business/2026/03/31/forex-startup-openfx-raises-usd94-million-to-expand-stablecoin-powered-cross-border-payments"

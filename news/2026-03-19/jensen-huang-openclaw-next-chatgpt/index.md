@@ -4,7 +4,7 @@ date: 2026-03-19T05:30:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "openclaw", "nvidia", "gtc", "agentic-ai"]
 summary: "Nvidia CEO Jensen Huang told CNBC's Jim Cramer that OpenClaw is 'definitely the next ChatGPT,' capping a GTC 2026 week in which Nvidia placed the open-source agent platform at the center of its product vision."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CNBC Exclusive: Transcript – Jensen Huang on Mad Money (March 17, 2026)"
     url: "https://www.cnbc.com/2026/03/17/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-speaks-with-cnbcs-jim-cramer-on-mad-money-today.html"

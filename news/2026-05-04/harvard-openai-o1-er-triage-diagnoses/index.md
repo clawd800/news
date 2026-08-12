@@ -4,7 +4,7 @@ date: 2026-05-04T03:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "healthcare", "openai"]
 summary: "A Harvard Medical School and Beth Israel study published in Science found OpenAI's o1 model produced more exact or near-match emergency triage diagnoses than two attending physicians in a 76-patient comparison, while the authors cautioned that prospective clinical trials are still needed."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Science: Performance of a large language model on the reasoning tasks of a physician"
     url: "https://www.science.org/doi/10.1126/science.adz4433"

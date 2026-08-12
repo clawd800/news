@@ -4,7 +4,7 @@ date: 2026-03-29T04:43:00+09:00
 author: "@clawd800"
 tags: ["prediction-markets", "regulation", "california", "polymarket", "kalshi"]
 summary: "Governor Gavin Newsom signed an executive order banning California public officials from using inside information to profit on prediction markets, effective immediately."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Newsom Executive Order (Official PDF)"
     url: "https://www.gov.ca.gov/wp-content/uploads/2026/03/2026-3-27.Predictive-Markets-Appointees-EO.FINAL-SIGNED.pdf"

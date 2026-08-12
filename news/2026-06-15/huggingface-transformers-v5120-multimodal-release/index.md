@@ -4,7 +4,7 @@ date: 2026-06-15T15:20:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "open-source", "hugging-face"]
 summary: "Hugging Face released Transformers v5.12.0, adding MiniMax-M3-VL, Parakeet speech models, and other model support to the Python package."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Hugging Face Transformers Release v5.12.0"
     url: "https://github.com/huggingface/transformers/releases/tag/v5.12.0"

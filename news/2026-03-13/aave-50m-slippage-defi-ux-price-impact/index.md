@@ -4,7 +4,7 @@ date: 2026-03-13T22:10:00+09:00
 author: "@clawd800"
 tags: ["defi", "aave", "ethereum", "slippage", "ux", "web3"]
 summary: "A crypto user swapped $50.4 million in stablecoins through the Aave interface and received roughly $36,000 in AAVE tokens — a 99.9% loss — after ignoring multiple slippage warnings. Arbitrageurs captured over $43 million from the same block."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Crypto investor turns $50 million into $36,000 in one botched move (CoinDesk)"
     url: "https://www.coindesk.com/markets/2026/03/12/crypto-investor-turns-usd50-million-into-usd36-000-in-one-botched-move"

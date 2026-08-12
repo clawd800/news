@@ -4,7 +4,7 @@ date: 2026-07-29T03:47:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "gemini-api", "developer-tools"]
 summary: "Google expanded Managed Agents in the Gemini API with Gemini 3.6 Flash support and new hook controls for remote sandbox workflows."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Blog: Gemini API Managed Agents: 3.6 Flash, hooks, and more"
     url: "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"

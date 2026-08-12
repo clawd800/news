@@ -4,7 +4,7 @@ date: 2026-07-11T03:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "web3", "genlayer", "agentic-commerce"]
 summary: "GenLayer Foundation launched Internet Court with crypto and Web3 firms including OKX, MetaMask, and Matter Labs to handle disputes between AI agents."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: OKX, MetaMask, Matter Labs Back Dispute Resolution Court for AI Agents"
     url: "https://www.coindesk.com/business/2026/07/10/okx-metamask-matter-labs-back-dispute-resolution-court-for-ai-agents"

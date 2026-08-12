@@ -4,7 +4,7 @@ date: 2026-03-18T07:30:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "nvidia", "openclaw", "enterprise", "open-source"]
 summary: "Nvidia's NemoClaw stack adds enterprise-grade security and privacy controls to OpenClaw, letting companies deploy AI agents in production with a single command."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Nvidia's version of OpenClaw could solve its biggest problem: security"
     url: "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/"

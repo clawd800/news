@@ -4,7 +4,7 @@ date: 2026-07-03T11:43:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "meta", "ai-infra"]
 summary: "Mark Zuckerberg reportedly told Meta employees that AI agent development has not accelerated as quickly as executives expected."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Reuters via Yahoo Finance: Meta's Zuckerberg says AI agent tech progressing slower than expected"
     url: "https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html"

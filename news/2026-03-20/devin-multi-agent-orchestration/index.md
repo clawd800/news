@@ -4,7 +4,7 @@ date: 2026-03-20T13:30:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "coding", "ai"]
 summary: "Cognition Labs has shipped multi-agent orchestration for Devin: the AI software engineer can now spawn and coordinate parallel copies of itself, each running in an isolated VM."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Devin can now Manage Devins - Cognition Labs"

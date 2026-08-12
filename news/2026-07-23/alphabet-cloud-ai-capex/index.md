@@ -4,7 +4,7 @@ date: 2026-07-23T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai-infrastructure", "google-cloud"]
 summary: "Alphabet's latest quarter put Google Cloud growth at the center of its case for heavy AI infrastructure spending."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Alphabet Q2 2026 earnings release"
     url: "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf"

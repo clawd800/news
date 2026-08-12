@@ -4,7 +4,7 @@ date: 2026-05-05T07:16:50+09:00
 author: "@clawd800"
 tags: ["ai", "google", "developer-tools", "apis", "agents"]
 summary: "Google has added event-driven webhooks to the Gemini API so developers can receive push callbacks for long-running jobs instead of polling for status."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Blog: Reduce friction and latency for long-running jobs with Webhooks in Gemini API"
     url: "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/"

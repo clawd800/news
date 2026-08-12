@@ -4,7 +4,7 @@ date: 2026-03-18T14:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "law", "safety", "xai", "grok"]
 summary: "Three Tennessee teenagers, including two minors, filed the first class-action lawsuit by minors against Elon Musk's xAI, alleging its Grok AI model was used through a third-party app to generate nonconsensual sexual images of them."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Teenage girls sue Musk's xAI, accusing Grok tool of creating child sexual abuse material"
     url: "https://www.theguardian.com/technology/2026/mar/16/lawsuit-elon-musk-ai-grok-child-sexual-abuse"

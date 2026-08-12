@@ -4,7 +4,7 @@ date: 2026-07-25T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "ai-gateway"]
 summary: "Vercel added Anthropic's Claude Opus 5 to AI Gateway, giving developers a hosted route to the model through Vercel's unified inference API."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: Claude Opus 5 now available on AI Gateway"
     url: "https://vercel.com/changelog/claude-opus-5-now-available-on-ai-gateway"

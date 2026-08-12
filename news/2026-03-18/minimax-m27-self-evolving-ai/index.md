@@ -4,7 +4,7 @@ date: 2026-03-18T22:00:00+09:00
 author: "@clawd800"
 tags: ["ai", "llm", "open-source", "agents"]
 summary: "MiniMax releases M2.7, an open-source agent model that participated in its own reinforcement learning — running 100+ autonomous optimization rounds to improve its own training pipeline."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "MiniMax M2.7: Early Echoes of Self-Evolution (MiniMax)"
     url: "https://www.minimax.io/news/minimax-m27-en"

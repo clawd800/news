@@ -4,7 +4,7 @@ date: 2026-04-23T21:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "meta", "teen-safety", "parental-controls"]
 summary: "Meta says parents supervising Teen Accounts can now see the general topics their teens asked Meta AI about over the past week across Facebook, Messenger, and Instagram."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Meta: Helping Parents Understand the Conversations Their Teens Are Having With AI"
     url: "https://about.fb.com/news/2026/04/helping-parents-understand-conversations-their-teens-are-having-with-ai/"

@@ -4,7 +4,7 @@ date: 2026-07-13T23:37:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "uk", "market-infrastructure", "ripple"]
 summary: "A UK Wholesale Digital Markets Champion report calls for tokenised wholesale markets built around secondary trading, collateral, and the digital gilt program."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "The Global City: Wholesale Digital Markets Champion"
     url: "https://www.theglobalcity.uk/digital-markets-champion"

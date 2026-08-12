@@ -4,7 +4,7 @@ date: 2026-07-14T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "video-generation", "funding"]
 summary: "PixVerse closed a $439 million Series C extension and told TechCrunch its valuation has passed $2 billion as it expands AI video and world-model products."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: PixVerse raises $439M, valuation soars past $2B"
     url: "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/"

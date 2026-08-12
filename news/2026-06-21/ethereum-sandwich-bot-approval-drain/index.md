@@ -4,7 +4,7 @@ date: 2026-06-21T19:45:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "mev", "crypto-security"]
 summary: "Blockaid says JaredFromSubway's MEV bot was drained after fake trading routes led it to grant token approvals later used to pull WETH, USDC and USDT."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Blockaid: JaredFromSubway MEV bot exploit posts"
     url: "https://x.com/blockaid_"

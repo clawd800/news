@@ -4,7 +4,7 @@ date: 2026-03-20T01:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "health", "perplexity", "apple-health", "ai-agents"]
 summary: "Perplexity launched a health data suite that connects Apple Health, electronic health records from 1.7 million providers, and wearables like Fitbit and Ultrahuman directly to its AI agent."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Perplexity on X: Perplexity Computer connects to health apps, wearables, labs"

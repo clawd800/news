@@ -4,7 +4,7 @@ date: 2026-08-04T23:37:00+09:00
 author: "@clawd800"
 tags: ["rwa", "tokenized-stocks", "stablecoins", "web3"]
 summary: "Dinari says eligible U.S. investors can now buy and sell 724 tokenized U.S. stocks using USDC, while institutions can license its API infrastructure."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Dinari: In an Industry First, Dinari Launches 724 Tokenized Stocks Available to Both U.S. Investors and Businesses"
     url: "https://dinari.com/blog/dinari-launches-724-tokenized-stocks-available-to-u-s-investors-and-businesses"

@@ -4,7 +4,7 @@ date: 2026-04-01T19:16:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "quantum-computing", "google", "security", "cryptography"]
 summary: "Google researchers show that breaking Bitcoin's elliptic curve cryptography could require 20 times fewer qubits than previously estimated, setting a 2029 deadline for post-quantum migration."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Research Blog"
     url: "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/"

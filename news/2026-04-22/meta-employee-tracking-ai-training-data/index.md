@@ -4,7 +4,7 @@ date: 2026-04-22T10:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-agents", "meta", "workplace-tech"]
 summary: "Meta says it will capture mouse movements, clicks, keystrokes, and some screenshots from certain employee work apps to improve AI agents that can use computers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Reuters: Meta to start capturing employee mouse movements, keystrokes for AI training data"
     url: "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/"

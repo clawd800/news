@@ -4,7 +4,7 @@ date: 2026-07-14T23:45:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "privacy", "web3-infrastructure"]
 summary: "EthSystems, a team that grew out of the Ethereum Foundation's Institutional Privacy Task Force, has launched as a for-profit company focused on confidential systems for institutional Ethereum."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "EthSystems: Introducing EthSystems"
     url: "https://ethsystems.org/blog/introducing-ethsystems/"

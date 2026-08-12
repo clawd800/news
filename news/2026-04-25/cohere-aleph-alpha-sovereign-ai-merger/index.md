@@ -4,7 +4,7 @@ date: 2026-04-25T07:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "enterprise-ai", "sovereign-ai", "europe", "mergers"]
 summary: "Cohere says it plans to acquire Aleph Alpha, pairing its enterprise AI stack with the German firm's public-sector and regulated-market footprint in Europe."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Cohere Blog: Cohere and Aleph Alpha join forces to form global AI powerhouse"
     url: "https://cohere.com/blog/cohere-alephalpha-join-forces"

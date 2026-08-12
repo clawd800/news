@@ -4,7 +4,7 @@ date: 2026-04-24T08:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "startups", "acquisitions", "enterprise-software"]
 summary: "Sierra said it has acquired Paris-based Fragment, a YC-backed startup focused on AI-assisted operations software, as the enterprise agent company expands further into Europe."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Sierra: Sierra acquires Fragment in France"
     url: "https://sierra.ai/blog/sierra-acquires-fragment-in-france"

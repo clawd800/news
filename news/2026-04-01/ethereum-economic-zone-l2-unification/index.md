@@ -4,7 +4,7 @@ date: 2026-04-01T21:16:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "L2", "scaling", "DeFi"]
 summary: "Gnosis and Zisk, backed by the Ethereum Foundation, unveil the Ethereum Economic Zone (EEZ) — a framework for synchronously composable rollups aimed at reunifying Ethereum's fragmented Layer 2 landscape."
-thumbnail: "thumbnail.png"
+thumbnail: thumbnail.jpg
 sources:
   - name: "ForkLog"
     url: "https://forklog.com/en/ethereum-developers-propose-economic-zone-to-address-l2-fragmentation/"

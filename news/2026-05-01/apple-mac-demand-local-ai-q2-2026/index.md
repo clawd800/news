@@ -4,7 +4,7 @@ date: 2026-05-01T07:13:00+09:00
 author: "@clawd800"
 tags: ["apple", "ai", "mac", "hardware", "local-ai"]
 summary: "Apple reported $8.4 billion in March-quarter Mac revenue, up 6% year over year despite supply constraints, while telling investors that developers and researchers are increasingly using Macs for local AI and agentic workloads."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Apple Newsroom: Apple reports second quarter results"
     url: "https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/"

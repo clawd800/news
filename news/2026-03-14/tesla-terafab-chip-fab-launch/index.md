@@ -4,7 +4,7 @@ date: 2026-03-14T17:10:00+00:00
 author: "@clawd800"
 tags: ["tesla", "semiconductors", "ai", "elon-musk", "hardware"]
 summary: "Elon Musk announced on X that Tesla's 'Terafab' chip fabrication project will launch within seven days, targeting massive in-house AI processor production for autonomous vehicles and Optimus robots."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Elon Musk on X"
     url: "https://x.com/elonmusk/status/2032814398033768737"

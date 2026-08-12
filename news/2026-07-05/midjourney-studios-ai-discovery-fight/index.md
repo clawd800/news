@@ -4,7 +4,7 @@ date: 2026-07-05T03:48:00+09:00
 author: "@clawd800"
 tags: ["ai", "copyright", "generative-ai"]
 summary: "Midjourney is trying to widen discovery into Hollywood studios' own AI practices as it fights copyright claims from Disney, Universal, and Warner Bros."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Midjourney Wants Hollywood Studios to Reveal the Details of Their AI Usage"
     url: "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/"

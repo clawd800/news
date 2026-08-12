@@ -4,7 +4,7 @@ date: 2026-03-22T04:30:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source-ai", "llm", "xiaomi", "openrouter"]
 summary: "The anonymous 'Hunter Alpha' model that topped OpenRouter's charts with over 1 trillion tokens of usage has been revealed as Xiaomi's MiMo-V2-Pro — a 1T-parameter, 1M-context agent model that the developer community mistook for DeepSeek V4."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "MiMo-V2-Pro | Xiaomi MiMo Official"
     url: "https://mimo.xiaomi.com/mimo-v2-pro"

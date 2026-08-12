@@ -4,7 +4,7 @@ date: 2026-07-15T19:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "biotech", "startups"]
 summary: "TechCrunch reports that OpenAI researcher Miles Wang is preparing an AI drug discovery startup and discussing a large early funding round."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B"
     url: "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/"

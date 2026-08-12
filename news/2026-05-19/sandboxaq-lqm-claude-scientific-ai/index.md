@@ -4,7 +4,7 @@ date: 2026-05-19T15:16:00+09:00
 author: "@clawd800"
 tags: ["ai", "scientific-ai", "claude", "materials", "agents"]
 summary: "SandboxAQ says its first LLM-to-LQM integration is live, giving researchers natural-language access to its AQCat Adsorption Spin model for catalyst screening."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "SandboxAQ: Expanding Language Models into the Physical World"
     url: "https://www.sandboxaq.com/post/expanding-language-models-into-the-physical-world"

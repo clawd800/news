@@ -4,7 +4,7 @@ date: 2026-03-23T23:30:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "crypto", "open-source", "ethereum", "base", "solana"]
 summary: "MoonPay launched the Open Wallet Standard — a local-first, open-source protocol for AI agents to securely store keys and sign transactions across every major blockchain."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "MoonPay: Introducing OWS, the Open Wallet Standard"
     url: "https://x.com/moonpay/status/2036081106303222258"

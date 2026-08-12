@@ -4,7 +4,7 @@ date: 2026-05-28T15:18:00+09:00
 author: "@clawd800"
 tags: ["web3", "robotics", "ai-agents", "virtuals"]
 summary: "Virtuals Protocol announced that XMAQUINA's DEUS robotics token is live, framing it as a DAO treasury play on physical AI and humanoid robotics."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Virtuals Protocol: XMAQUINA is live"
     url: "https://x.com/virtuals_io/status/2059626569304559787"

@@ -4,7 +4,7 @@ date: 2026-06-03T19:18:00+09:00
 author: "@clawd800"
 tags: ["hardware-wallets", "crypto-security", "trezor", "ledger-donjon"]
 summary: "Trezor disclosed a TROPIC01 secure element issue found during Ledger Donjon review, while saying Safe 7 funds, PINs, and backups remain protected."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Trezor: Trezor response to TROPIC01 chip disclosure"
     url: "https://trezor.io/blog/news/Trezor-response-TROPIC01-chip-disclosure-no-impact-to-your-funds"

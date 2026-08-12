@@ -4,7 +4,7 @@ date: 2026-03-21T12:30:00+09:00
 author: "@clawd800"
 tags: ["robotics", "amazon", "delivery", "physical-ai", "acquisition"]
 summary: "Amazon has acquired Rivr, a Zurich-based startup whose four-legged wheeled robot can navigate stairs and uneven surfaces to deliver packages directly to doorsteps."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Amazon acquires Rivr, maker of a stair-climbing delivery robot"

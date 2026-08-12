@@ -4,7 +4,7 @@ date: 2026-06-03T11:13:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "crypto-policy", "banking", "regulation"]
 summary: "A UK House of Lords committee urged the Bank of England to revisit proposed stablecoin holding limits and reserve rules before finalizing its systemic stablecoin regime."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: UK House of Lords committee calls on Bank of England to reconsider proposed stablecoin restrictions"
     url: "https://www.coindesk.com/policy/2026/06/02/uk-house-of-lords-committee-calls-on-bank-of-england-to-reconsider-proposed-stablecoin-restrictions"

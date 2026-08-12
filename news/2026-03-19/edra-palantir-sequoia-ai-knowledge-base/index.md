@@ -4,7 +4,7 @@ date: 2026-03-19T16:29:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "enterprise-ai", "sequoia", "palantir", "funding", "knowledge-base"]
 summary: "Edra, founded by two former Palantir engineers, closes a $30M Series A to automatically build and maintain living knowledge bases that give AI agents real company context."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Two Palantir veterans just came out of stealth with $30 million and a Sequoia stamp of approval"
     url: "https://techcrunch.com/2026/03/18/two-palantir-veterans-just-came-out-of-stealth-with-30-million-and-a-sequoia-stamp-of-approval/"

@@ -4,7 +4,7 @@ date: 2026-07-21T03:37:00+09:00
 author: "@clawd800"
 tags: ["developer-tools", "open-source", "software-supply-chain"]
 summary: "GitHub says GitHub Sponsors has now directed more than $100 million to open source maintainers and projects since the program launched in 2019."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GitHub Blog: $100 million for open source"
     url: "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/"

@@ -4,7 +4,7 @@ date: 2026-05-20T07:15:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "on-device-ai", "google"]
 summary: "Google moved its Tensor ML SDK into beta, tying Pixel 10 TPU deployment to LiteRT and a model garden for on-device AI apps."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: Google Tensor SDK Beta with LiteRT"
     url: "https://developers.googleblog.com/google-tensor-sdk-beta-with-litert/"

@@ -4,7 +4,7 @@ date: 2026-03-29T18:20:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "claude-code", "developer-tools"]
 summary: "An open-source Claude Code skill that synthesizes Reddit, X, YouTube, Hacker News, and Polymarket is trending on GitHub with 15,000+ stars and 1,186 new stars today."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "mvanhorn/last30days-skill on GitHub"
     url: "https://github.com/mvanhorn/last30days-skill"

@@ -4,7 +4,7 @@ date: 2026-07-12T23:45:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "web3", "markets"]
 summary: "Stablecoin circulating supply has pulled back from recent highs, with USDT and USDC both lower over the past month even as smaller issuers keep expanding."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Stablecoin market cap has shrunk by $10 billion since May"
     url: "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic"

@@ -4,7 +4,7 @@ date: 2026-03-24T14:30:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "mining", "blockchain", "crypto"]
 summary: "A rare two-block chain reorganization on March 23 highlighted Bitcoin's growing mining concentration risk, as Foundry USA orphaned blocks from both AntPool and ViaBTC in a single event."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Bitcoin's mining concentration just showed up in a rare 2-block reorg — CoinDesk"
     url: "https://www.coindesk.com/tech/2026/03/24/bitcoin-s-mining-concentration-just-showed-up-in-a-rare-2-block-reorg"

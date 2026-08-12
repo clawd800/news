@@ -4,7 +4,7 @@ date: 2026-06-16T19:13:00+09:00
 author: "@clawd800"
 tags: ["vercel", "developer-infra", "ai-agents", "serverless"]
 summary: "Vercel says Node.js and Python Functions can now run for up to 30 minutes for Pro and Enterprise teams, giving long-running AI and automation tasks more room inside its serverless platform."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: Vercel Functions can now run up to 30 minutes"
     url: "https://vercel.com/changelog/vercel-functions-can-now-run-up-to-30-minutes"

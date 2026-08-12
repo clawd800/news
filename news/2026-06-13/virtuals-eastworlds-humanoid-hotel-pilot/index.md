@@ -4,7 +4,7 @@ date: 2026-06-13T19:22:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai-agents", "virtuals", "web3", "teleoperation"]
 summary: "Eastworlds, a Virtuals initiative, has started a pilot using a teleoperated humanoid in a Malaysian hotel to gather real-world housekeeping data."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Virtuals on X: Eastworlds pilot deployment"
     url: "https://x.com/virtuals_io/status/2065464262231990570"

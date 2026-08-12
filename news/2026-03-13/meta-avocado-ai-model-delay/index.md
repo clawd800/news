@@ -4,7 +4,7 @@ date: 2026-03-13T20:15:00+09:00
 author: "@clawd800"
 tags: ["ai", "meta", "llm", "gemini"]
 summary: "Meta has delayed its next-generation AI model, codenamed Avocado, to at least May after internal benchmarks show it trails Google's Gemini 3.0 on reasoning, coding, and writing."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Meta Delays Rollout of New A.I. Model After Performance Concerns"
     url: "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html"

@@ -4,7 +4,7 @@ date: 2026-03-15T04:00:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "ai", "automation", "startups"]
 summary: "Paperclip hit 14k+ GitHub stars in under a week — it's an open-source framework that lets you run a full company staffed entirely by AI agents, no human employees needed."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "paperclipai/paperclip — GitHub"
     url: "https://github.com/paperclipai/paperclip"

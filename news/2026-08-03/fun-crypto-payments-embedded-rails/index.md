@@ -4,7 +4,7 @@ date: 2026-08-03T11:43:00+09:00
 author: "@clawd800"
 tags: ["crypto-payments", "web3-infra", "fintech"]
 summary: "Fun CEO Alex Fine told CoinDesk that crypto payment flows are shifting from standalone on-ramps and bridges toward embedded rails inside user apps."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: The future of crypto payments won't include on-ramps or bridges, Fun CEO says"
     url: "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says"

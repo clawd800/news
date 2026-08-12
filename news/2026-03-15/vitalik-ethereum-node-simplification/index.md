@@ -4,7 +4,7 @@ date: 2026-03-15T12:28:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "staking", "decentralization", "nodes", "snark"]
 summary: "Vitalik Buterin argued that running Ethereum nodes should be easy for everyone — and sketched a technical path to dropping the validator minimum from 32 ETH to 1 ETH."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vitalik on revisiting beacon/execution client separation"
     url: "https://x.com/VitalikButerin/status/2033016131884376541"

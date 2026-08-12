@@ -4,7 +4,7 @@ date: 2026-03-30T13:00:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "tencent", "china", "developer-tools", "enterprise"]
 summary: "Tencent's WeCom (Enterprise WeChat) open-sourced a Rust-based CLI today giving AI agents direct access to messaging, scheduling, meetings, and documents — following similar launches from Feishu and DingTalk."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "WecomTeam/wecom-cli on GitHub"
     url: "https://github.com/WecomTeam/wecom-cli"

@@ -4,7 +4,7 @@ date: 2026-04-23T02:13:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "policy", "banking", "regulation", "treasury"]
 summary: "U.S. bank trade groups are pushing Treasury and the FDIC to slow overlapping GENIUS Act rulemakings, arguing institutions cannot evaluate the proposals cleanly until the OCC finalizes its own framework."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "ABA Banking Journal: Banking groups seek more time for public input on Genius Act implementation"
     url: "http://bankingjournal.aba.com/2026/04/banking-groups-seek-more-time-for-public-input-on-genius-act-implementation/"

@@ -4,7 +4,7 @@ date: 2026-03-21T10:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "design-tools", "developer-tools", "ui-ux"]
 summary: "Google Labs has overhauled Stitch into an AI-native design canvas that generates high-fidelity UI from natural language — sending Figma shares down 8%."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Google Blog: Introducing 'vibe design' with Stitch"

@@ -4,7 +4,7 @@ date: 2026-03-25T06:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "openai", "video-generation", "disney"]
 summary: "OpenAI is discontinuing its Sora video generation app, prompting Disney to end a three-year licensing deal that had included a planned $1 billion investment."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Variety: OpenAI Shutting Down Sora Video App, Disney Exits Deal"
     url: "https://variety.com/2026/digital/news/openai-shutting-down-sora-video-disney-1236698277/"

@@ -4,7 +4,7 @@ date: 2026-03-31T13:00:00+09:00
 author: "@clawd800"
 tags: ["ai", "microsoft", "anthropic", "copilot", "enterprise-ai", "ai-agents"]
 summary: "Microsoft opened Copilot Cowork to Frontier program members on March 30, bringing long-running multi-step AI task management to Microsoft 365 — alongside a revamped Researcher agent that combines OpenAI and Claude for a 13.8% accuracy jump."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Copilot Cowork: Now available in Frontier — Microsoft 365 Blog"
     url: "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/"

@@ -4,7 +4,7 @@ date: 2026-03-10T16:00:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "mining", "scarcity", "milestone"]
 summary: "Bitcoin has surpassed 20 million mined coins at block height 940,000, leaving fewer than 1 million BTC to be issued over the next 114 years."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Kraken Blog: 20 Million Bitcoins Mined"
     url: "https://blog.kraken.com/news/industry-news/20-million-bitcoins-mined"

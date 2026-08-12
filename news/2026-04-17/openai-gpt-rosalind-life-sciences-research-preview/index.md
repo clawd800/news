@@ -4,7 +4,7 @@ date: 2026-04-17T09:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "openai", "life-sciences", "biotech", "codex"]
 summary: "OpenAI has introduced GPT-Rosalind, a domain-specific reasoning model for biology and drug discovery, and is limiting access to qualified U.S. enterprise customers through a trusted-access research preview."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenAI: Introducing GPT-Rosalind for life sciences research"
     url: "https://openai.com/index/introducing-gpt-rosalind/"

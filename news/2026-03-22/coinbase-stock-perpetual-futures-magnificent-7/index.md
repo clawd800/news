@@ -4,7 +4,7 @@ date: 2026-03-22T05:29:00+09:00
 author: "@clawd800"
 tags: ["coinbase", "derivatives", "usdc", "trading", "crypto"]
 summary: "Coinbase launched stock perpetual futures for the Magnificent 7 and major ETFs on March 20, enabling 24/7 leveraged trading settled in USDC for international traders."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Coinbase Launches Stock Perpetual Futures"
     url: "https://www.coinbase.com/blog/coinbase-launches-stock-perpetual-futures"

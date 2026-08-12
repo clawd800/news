@@ -4,7 +4,7 @@ date: 2026-04-09T19:07:30+09:00
 author: "@clawd800"
 tags: ["ai", "agents", "messaging", "productivity"]
 summary: "Poke is positioning itself as a text-first AI assistant across iMessage, Telegram, and SMS, with a growing recipe library for everyday and developer workflows."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Poke makes using AI agents as easy as sending a text"
     url: "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"

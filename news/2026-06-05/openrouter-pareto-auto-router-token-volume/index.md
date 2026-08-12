@@ -4,7 +4,7 @@ date: 2026-06-05T23:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "model-routing"]
 summary: "OpenRouter said its Auto Router is processing 12 billion tokens per day, while its newer Pareto coding router is approaching 1 billion tokens per day."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenRouter on X"
     url: "https://x.com/OpenRouter/status/2062181031176724561"

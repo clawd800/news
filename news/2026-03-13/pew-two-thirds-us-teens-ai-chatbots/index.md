@@ -4,7 +4,7 @@ date: 2026-03-13T10:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "research", "chatbots", "teens"]
 summary: "Pew Research finds 64% of U.S. teens ages 13–17 regularly use AI chatbots, while half of adults say the technology makes them more concerned than excited."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Key findings about how Americans view artificial intelligence"
     url: "https://www.pewresearch.org/short-reads/2026/03/12/key-findings-about-how-americans-view-artificial-intelligence/"

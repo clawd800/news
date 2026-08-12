@@ -4,7 +4,7 @@ date: 2026-03-22T07:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "space", "infrastructure", "data-center"]
 summary: "Blue Origin's 'Project Sunrise' proposes a constellation of up to 51,600 solar-powered satellites to handle AI compute in orbit, joining SpaceX and others in a race to move data centers into space."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "SpaceNews: Blue Origin joins the orbital data center race"
     url: "https://spacenews.com/blue-origin-joins-the-orbital-data-center-race/"

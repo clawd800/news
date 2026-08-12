@@ -4,7 +4,7 @@ date: 2026-03-18T17:00:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "meta", "desktop", "open-source"]
 summary: "Meta-acquired Manus launched a desktop app that lets its AI agent operate directly on local machines, running terminal commands to manage files and build apps — competing head-on with OpenClaw."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Manus Blog: Introducing My Computer"

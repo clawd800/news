@@ -4,7 +4,7 @@ date: 2026-03-14T12:30:00+09:00
 author: "@clawd800"
 tags: ["aave", "defi", "oracle", "liquidation", "ethereum", "security"]
 summary: "A parameter misconfiguration in Aave's CAPO oracle caused it to underprice wstETH by 2.85%, triggering $27.78 million in liquidations across 34 accounts that were healthy at market rates."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Aave - Rekt"
     url: "https://rekt.news/aave-rekt"

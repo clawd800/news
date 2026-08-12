@@ -4,7 +4,7 @@ date: 2026-07-24T11:45:00+09:00
 author: "@clawd800"
 tags: ["robotics", "autonomous-vehicles", "physical-ai"]
 summary: "Mobileye founder Amnon Shashua plans to step down as CEO once a successor is appointed, with the company expanding beyond driver-assistance systems into robotaxis and humanoid robotics."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Mobileye Announces Planned Leadership Transition"
     url: "https://www.sec.gov/Archives/edgar/data/1910139/000110465926086061/tm2621099d1_ex99-1.htm"

@@ -4,7 +4,7 @@ date: 2026-06-30T23:50:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "payments", "web3-infra"]
 summary: "Open Standard says more than 140 companies have signed up for Open USD, a dollar stablecoin built around shared reserve economics and partner governance."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Open Standard: Introducing Open USD"
     url: "https://joinopenstandard.com/blog/introducing-open-usd"

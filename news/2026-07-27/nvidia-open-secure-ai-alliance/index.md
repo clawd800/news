@@ -4,7 +4,7 @@ date: 2026-07-27T19:37:00+09:00
 author: "@clawd800"
 tags: ["ai-security", "open-source", "ai-agents", "nvidia"]
 summary: "NVIDIA and founding members launched the Open Secure AI Alliance to promote open tools, harnesses, and research for AI safety and cybersecurity."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Blog: Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security"
     url: "https://blogs.nvidia.com/blog/open-secure-ai-alliance/"

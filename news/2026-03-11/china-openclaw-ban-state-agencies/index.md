@@ -4,7 +4,7 @@ date: 2026-03-11T18:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "openclaw", "china", "security", "regulation"]
 summary: "Beijing moves to block OpenClaw AI installations on government and state enterprise devices, citing data security risks from the autonomous agent platform."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "China Moves to Curb OpenClaw AI Use at Banks, State Agencies – Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-03-11/china-moves-to-limit-use-of-openclaw-ai-at-banks-government-agencies"

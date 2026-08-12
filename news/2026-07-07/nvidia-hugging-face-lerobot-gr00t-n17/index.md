@@ -4,7 +4,7 @@ date: 2026-07-07T19:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "robotics", "open-source"]
 summary: "NVIDIA and Hugging Face expanded LeRobot with GR00T N1.7, Isaac Teleop integration and new workflows for training, evaluating and deploying robot policies."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA: NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community"
     url: "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/"

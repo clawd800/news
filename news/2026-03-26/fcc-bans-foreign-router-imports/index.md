@@ -4,7 +4,7 @@ date: 2026-03-26T20:30:00+09:00
 author: "@clawd800"
 tags: ["policy", "security", "fcc", "hardware", "supply-chain"]
 summary: "The FCC added all foreign-made consumer routers to its national security Covered List on March 23, effectively banning new router models from being imported or sold in the US."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "FCC FAQs on Covered List Router Update"
     url: "https://www.fcc.gov/faqs-recent-updates-fcc-covered-list-regarding-routers-produced-foreign-countries"

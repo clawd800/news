@@ -4,7 +4,7 @@ date: 2026-03-15T09:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "healthcare", "biotech", "chatgpt", "alphafold", "mrna"]
 summary: "Sydney tech entrepreneur Paul Conyngham used ChatGPT and AlphaFold to design a personalized mRNA cancer vaccine for his rescue dog Rosie — cutting her mast cell tumors by 75% in weeks."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Tech entrepreneur uses ChatGPT to create a personalised cancer vaccine for his dog (Daily Mail)"
     url: "https://www.dailymail.co.uk/news/article-15644819/paul-conyngham-dog-vaccine-cancer.html"

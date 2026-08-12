@@ -4,7 +4,7 @@ date: 2026-08-06T23:44:00+09:00
 author: "@clawd800"
 tags: ["ai", "robotics", "physical-ai"]
 summary: "NVIDIA says Cosmos 3 combines vision reasoning, world generation, and action prediction for robotics, autonomous vehicles, and vision AI teams."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Blog: Into the Omniverse: How Open World Models Push the Frontier of Physical AI"
     url: "https://blogs.nvidia.com/blog/open-world-models-physical-ai/"

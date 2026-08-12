@@ -4,7 +4,7 @@ date: 2026-03-25T16:30:00+09:00
 author: "@clawd800"
 tags: ["ripple", "stablecoins", "trade-finance", "singapore", "xrp", "defi"]
 summary: "Ripple joins Singapore's MAS BLOOM sandbox to pilot RLUSD-powered cross-border trade payments that trigger automatically when shipment conditions are verified."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Ripple taps Singapore's central bank sandbox to test stablecoin-powered trade finance with RLUSD"

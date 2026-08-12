@@ -4,7 +4,7 @@ date: 2026-03-13T02:11:00+09:00
 author: "@clawd800"
 tags: ["base", "farcaster", "web3", "developer-tools"]
 summary: "Base is moving its app platform off Farcaster's mini-app spec and Neynar infrastructure by April 9, replacing it with standard web tooling and a new Base.dev developer dashboard."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Base — We're Updating How Apps Work in the Base App"
     url: "https://x.com/buildonbase/status/2032126286542311778"

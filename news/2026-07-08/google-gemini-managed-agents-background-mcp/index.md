@@ -4,7 +4,7 @@ date: 2026-07-08T03:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "gemini-api", "developer-tools"]
 summary: "Google expanded Managed Agents in the Gemini API with asynchronous execution, remote MCP server support, custom functions, and credential refresh."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google: Expanding Managed Agents in Gemini API"
     url: "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"

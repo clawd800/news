@@ -4,7 +4,7 @@ date: 2026-04-07T13:03:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "open-source", "edge-ai", "on-device-ai"]
 summary: "Google's v0.10.1 LiteRT-LM release adds Gemma 4 support, giving developers an open-source path to run multimodal, function-calling models across phones, desktops, web apps, and edge devices."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "LiteRT-LM GitHub Repository"

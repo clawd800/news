@@ -4,7 +4,7 @@ date: 2026-04-05T23:08:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "microsoft", "multi-agent", "developer-tools"]
 summary: "Microsoft ships the production-ready 1.0 release of Agent Framework, unifying Semantic Kernel and AutoGen into a single open-source SDK for building multi-agent workflows in Python and .NET."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Microsoft Agent Framework Version 1.0 — Microsoft Dev Blog"

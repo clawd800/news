@@ -4,7 +4,7 @@ date: 2026-03-17T20:29:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "defi", "etf", "blackrock", "staking"]
 summary: "BlackRock launched the iShares Staked Ethereum Trust ETF (ETHB) on March 12, giving traditional investors regulated access to Ethereum staking yield for the first time."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Phemex: BlackRock's Staked Ethereum ETF (ETHB) Explained"
     url: "https://phemex.com/blogs/blackrock-staked-ethereum-etf-ethb-explained"

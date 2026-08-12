@@ -4,7 +4,7 @@ date: 2026-06-24T11:42:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "ethereum", "real-world-assets", "stablecoins"]
 summary: "Nouriel Roubini has co-authored Atlas's USAFi whitepaper, backing a planned tokenized security tied to the Nasdaq-listed Atlas America Fund."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Atlas AI Labs: USAFi Whitepaper"
     url: "https://atlas-ai.ae/whitepaper"

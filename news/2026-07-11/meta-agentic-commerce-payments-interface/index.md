@@ -4,7 +4,7 @@ date: 2026-07-11T19:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "agentic-commerce", "payments", "meta", "stablecoins"]
 summary: "Meta chief data officer Alex Schultz described agentic commerce as a potential next tier of business, with messaging interfaces layered over digital payment systems."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Meta's Chief Data Officer Says Agentic Commerce is the Next Tier of Business"
     url: "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business"

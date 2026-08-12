@@ -4,7 +4,7 @@ date: 2026-08-02T03:37:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "payments", "remittances"]
 summary: "A Bank of Italy mystery-shopping study found stablecoin remittances had no systematic cost advantage over traditional channels once on-ramps, off-ramps, FX spreads, and local payment rails were included."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Banca d'Italia: Are Stablecoins Efficient for Remittances?"
     url: "https://www.bancaditalia.it/pubblicazioni/mercati-infrastrutture-e-sistemi-di-pagamento/approfondimenti/2026-086/index.html?language_id=1"

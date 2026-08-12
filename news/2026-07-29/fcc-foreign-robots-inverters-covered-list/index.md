@@ -4,7 +4,7 @@ date: 2026-07-29T19:43:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai-infrastructure", "policy"]
 summary: "The FCC updated its Covered List to include foreign-produced advanced robotic devices and power inverters after national security determinations from executive branch agencies."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "FCC: FCC Adds Foreign-Produced Power Inverters and Robots to Covered List"
     url: "https://www.fcc.gov/document/fcc-adds-foreign-produced-power-inverters-and-robots-covered-list-0"

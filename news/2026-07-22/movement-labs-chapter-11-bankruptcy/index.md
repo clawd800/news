@@ -4,7 +4,7 @@ date: 2026-07-22T03:39:00+09:00
 author: "@clawd800"
 tags: ["movement", "ethereum", "layer-2", "web3-infra"]
 summary: "MVMT Labs filed for Chapter 11 in Delaware after months of governance turmoil and scrutiny over the MOVE token launch."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "PacerMonitor: MVMT Labs, Inc. Bankruptcy"
     url: "https://www.pacermonitor.com/public/case/65708680/MVMT_Labs,_Inc"

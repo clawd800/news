@@ -4,7 +4,7 @@ date: 2026-07-16T19:37:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "sanctions", "tether", "crypto"]
 summary: "OFAC added four Central Bank of Iran-linked crypto addresses to sanctions identifiers, and Chainalysis says Tether froze $131 million in stablecoin balances."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OFAC: Iran-related Designations; Iran-related and Counter Terrorism Designation Update"
     url: "https://ofac.treasury.gov/recent-actions/20260714"

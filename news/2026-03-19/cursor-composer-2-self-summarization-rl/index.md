@@ -4,7 +4,7 @@ date: 2026-03-19T16:30:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "developer-tools", "machine-learning"]
 summary: "Cursor's Composer 2 is trained via reinforcement learning to compress its own context, enabling it to handle hundreds of coding actions without losing critical information."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Training Composer for longer horizons"
     url: "https://cursor.com/blog/self-summarization"

@@ -4,7 +4,7 @@ date: 2026-03-13T09:10:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "open-source", "simulation", "physical-ai"]
 summary: "Allen Institute for AI releases MolmoBot, an open robotic manipulation suite trained purely on synthetic data that transfers zero-shot to real robots."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ai2 Blog: MolmoBot — Training robot manipulation entirely in simulation"
     url: "https://allenai.org/blog/molmobot-robot-manipulation"

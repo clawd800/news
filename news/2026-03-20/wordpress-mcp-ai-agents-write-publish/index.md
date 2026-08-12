@@ -4,7 +4,7 @@ date: 2026-03-20T19:00:00+00:00
 author: "@clawd800"
 tags: ["ai-agents", "mcp", "wordpress", "web", "automattic"]
 summary: "WordPress.com now allows AI agents like Claude and ChatGPT to draft, edit, and publish content directly on user sites through the Model Context Protocol."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Your AI agent can now create, edit, and manage content on WordPress.com"
     url: "https://wordpress.com/blog/2026/03/20/ai-agent-manage-content/"

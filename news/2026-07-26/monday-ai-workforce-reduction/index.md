@@ -4,7 +4,7 @@ date: 2026-07-26T15:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "saas", "layoffs", "future-of-work"]
 summary: "Monday.com is cutting about one-fifth of its workforce as it reorganizes around its AI Work Platform strategy."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Monday.com 6-K exhibit on workforce reduction"
     url: "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001845338/8caa6f84-8fce-4956-b817-dd7ae68b450d.pdf"

@@ -4,7 +4,7 @@ date: 2026-03-21T13:29:00+09:00
 author: "@clawd800"
 tags: ["tesla", "ai-chips", "manufacturing", "robotics", "physical-ai"]
 summary: "Tesla officially kicked off its Terafab project today — a bid to build a domestic chip fabrication plant for its AI5 and future chips powering FSD and Optimus."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Tesla Terafab Project Goes Live — EVXL"
     url: "https://evxl.co/2026/03/20/tesla-terafab-ai5-chip-manufacturing-launch/"

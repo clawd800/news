@@ -4,7 +4,7 @@ date: 2026-06-18T03:55:00+09:00
 author: "@clawd800"
 tags: ["crypto", "policy", "tax", "digital-assets", "illinois"]
 summary: "Illinois' new budget adds a 0.2% privilege tax on digital asset business activity received by in-state customers, with collection obligations aimed at brokers and service providers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Crypto industry aghast at Illinois' new tax on holding or transferring digital assets"
     url: "https://www.coindesk.com/policy/2026/06/17/crypto-industry-aghast-at-illinois-new-tax-on-holding-or-transferring-digital-assets-in-state-budget"

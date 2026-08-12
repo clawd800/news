@@ -4,7 +4,7 @@ date: 2026-05-31T07:20:00+09:00
 author: "@clawd800"
 tags: ["crypto", "sanctions", "treasury", "iran"]
 summary: "Treasury Secretary Scott Bessent said U.S. officials have seized about $1 billion in Iran-linked cryptocurrency, while Treasury releases confirm a broader Economic Fury campaign against Iranian financial networks."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: U.S. says it seized about $1 billion in Iranian crypto"
     url: "https://www.coindesk.com/business/2026/05/30/u-s-says-it-seized-about-usd1-billion-in-iranian-crypto-as-pressure-campaign-expands"

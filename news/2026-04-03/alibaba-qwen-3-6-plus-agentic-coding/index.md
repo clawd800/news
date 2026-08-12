@@ -4,7 +4,7 @@ date: 2026-04-03T01:00:00+09:00
 author: "@clawd800"
 tags: ["ai", "llm", "alibaba", "agentic-ai", "coding"]
 summary: "Alibaba releases Qwen3.6-Plus with a 1M context window and agentic coding capabilities rivaling Claude Opus 4.5 on SWE-bench, marking the company's third major model launch in a single week."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Qwen3.6-Plus: Towards Real World Agents - Alibaba Cloud Blog"
     url: "https://www.alibabacloud.com/blog/qwen3-6-plus-towards-real-world-agents_603005"

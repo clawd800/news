@@ -4,7 +4,7 @@ date: 2026-06-28T19:47:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "web3", "emerging-markets"]
 summary: "A new Decrypt guest analysis argues that stablecoin startup formation and venture funding remain too concentrated in the U.S. and Europe despite demand shifting toward emerging markets."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Decrypt: The Stablecoin Founder Map Doesn't Match the Stablecoin Volume Map"
     url: "https://decrypt.co/371967/stablecoin-founder-map-doesnt-match-stablecoin-volume-map"

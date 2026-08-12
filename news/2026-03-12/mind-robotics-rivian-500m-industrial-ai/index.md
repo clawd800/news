@@ -4,7 +4,7 @@ date: 2026-03-12T09:00:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "funding", "manufacturing", "industrial-ai"]
 summary: "Mind Robotics, founded by Rivian CEO RJ Scaringe, closed a $500M Series A co-led by Accel and a16z, reaching a $2B valuation as it bets on AI-trained industrial robots over humanoids."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots - TechCrunch"
     url: "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/"

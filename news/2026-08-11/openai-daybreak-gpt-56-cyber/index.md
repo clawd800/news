@@ -4,7 +4,7 @@ date: 2026-08-11T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "openai", "cybersecurity", "developer-infra"]
 summary: "OpenAI expanded its Daybreak cyber defense program with Blue and Red access tiers and a new GPT-5.6-Cyber model for approved defenders."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenAI: Expanding Daybreak as the Cyber Defense Window Narrows"
     url: "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/"

@@ -4,7 +4,7 @@ date: 2026-06-11T07:22:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "privacy", "token-standards", "zero-knowledge"]
 summary: "Ethereum developers are revisiting private token transfers through draft ERCs that hide balances while preserving an auditable transfer graph."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Privacy returns to focus as Ethereum developers explore new token standards"
     url: "https://www.coindesk.com/tech/2026/06/10/privacy-returns-to-focus-as-ethereum-developers-explore-new-token-standards"

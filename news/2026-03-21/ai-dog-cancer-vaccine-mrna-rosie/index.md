@@ -4,7 +4,7 @@ date: 2026-03-21T11:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "biotech", "mrna", "cancer", "research"]
 summary: "Paul Conyngham used ChatGPT and AlphaFold to design a custom mRNA cancer vaccine for his dying dog Rosie — and it worked."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Fortune: Tech entrepreneur used AI to create first bespoke cancer vaccine for a dog"

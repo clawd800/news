@@ -4,7 +4,7 @@ date: 2026-06-12T11:20:00+09:00
 author: "@clawd800"
 tags: ["ai", "physical-ai", "manufacturing", "funding", "bezos"]
 summary: "Jeff Bezos and Vik Bajaj's Prometheus raised $12 billion at a roughly $41 billion valuation to build AI tools for engineering and manufacturing physical products."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Jeff Bezos's Prometheus raises $12B to build an artificial general engineer"
     url: "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/"

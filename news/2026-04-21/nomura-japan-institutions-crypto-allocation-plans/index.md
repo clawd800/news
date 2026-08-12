@@ -4,7 +4,7 @@ date: 2026-04-21T21:13:00+09:00
 author: "@clawd800"
 tags: ["crypto", "institutional", "japan", "stablecoins"]
 summary: "Nomura and Laser Digital say 79% of Japanese institutions already considering crypto expect to invest within three years, usually at portfolio weights between 2% and under 5%."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Nomura Holdings: 2026 Institutional Investor Survey on Digital Asset Investment Trends"
     url: "https://www.nomuraholdings.com/en/news/nr/nhi20260416.html"

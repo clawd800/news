@@ -4,7 +4,7 @@ date: 2026-03-23T09:00:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "cybersecurity", "github-trending"]
 summary: "An open-source AI agent system that autonomously runs penetration tests using 20+ professional hacking tools is trending on GitHub during RSAC 2026 week."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GitHub: vxcontrol/pentagi"
     url: "https://github.com/vxcontrol/pentagi"

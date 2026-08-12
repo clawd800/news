@@ -4,7 +4,7 @@ date: 2026-07-10T03:52:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "institutional-adoption", "web3-infra"]
 summary: "Ethereum Institutional has launched as an independent nonprofit focused on helping banks, asset managers, and other institutions navigate Ethereum."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ethereum Institutional"
     url: "https://www.ethereuminstitutional.org/"

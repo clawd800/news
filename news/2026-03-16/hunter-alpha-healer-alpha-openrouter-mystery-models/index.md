@@ -4,7 +4,7 @@ date: 2026-03-16T14:00:00+09:00
 author: "@clawd800"
 tags: ["ai-models", "openrouter", "deepseek", "open-source", "ai-agents"]
 summary: "Two unattributed frontier models — Hunter Alpha and Healer Alpha — appeared on OpenRouter with extraordinary specs and $0 pricing, sparking speculation about their true origin."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "AiBattle on X: 2 new Stealth models on OpenRouter"
     url: "https://x.com/AiBattle_/status/2031834303827681727"

@@ -4,7 +4,7 @@ date: 2026-03-14T03:10:00+09:00
 author: "@clawd800"
 tags: ["stablecoin", "usdc", "usdt", "circle", "defi", "web3", "agentic-commerce"]
 summary: "Circle's USDC recorded roughly $2.2 trillion in adjusted transaction volume in 2026 versus $1.3 trillion for Tether's USDT, marking the first time USDC has led since 2019."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Circle's USDC volumes top Tether's USDT for first time since 2019 — CoinDesk"
     url: "https://www.coindesk.com/markets/2026/03/13/circle-s-usdc-volumes-top-tether-s-usdt-for-first-time-since-2019-prompting-sell-side-price-target-hike"

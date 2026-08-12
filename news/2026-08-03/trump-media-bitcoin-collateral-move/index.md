@@ -4,7 +4,7 @@ date: 2026-08-03T15:37:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "crypto-treasury", "onchain-data"]
 summary: "Wallets attributed to Trump Media moved about $165 million in bitcoin to Crypto.com, raising questions about how much of its reported treasury remains freely held."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Trump Media's bitcoin stash may be down to loan collateral after $165 million BTC move"
     url: "https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move"

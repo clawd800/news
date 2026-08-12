@@ -4,7 +4,7 @@ date: 2026-04-17T06:20:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "embodied-ai", "physical-intelligence", "foundation-models"]
 summary: "Physical Intelligence says its new π0.7 model can follow coached language instructions for unfamiliar tasks and transfer skills across robot setups without task-specific retraining."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Physical Intelligence Blog: π0.7: a Steerable Model with Emergent Capabilities"

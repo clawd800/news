@@ -4,7 +4,7 @@ date: 2026-04-26T21:13:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "anthropic", "claude", "agentic-commerce", "research"]
 summary: "Anthropic's Project Deal experiment put Claude agents in a weeklong internal marketplace, where they negotiated 186 real transactions and exposed measurable gaps between stronger and weaker models."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Project Deal: our Claude-run marketplace experiment"
     url: "https://www.anthropic.com/features/project-deal"

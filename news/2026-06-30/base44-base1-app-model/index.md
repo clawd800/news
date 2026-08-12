@@ -4,7 +4,7 @@ date: 2026-06-30T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-tools", "vibe-coding"]
 summary: "Wix-owned Base44 says its first proprietary model, Base 1, is now serving users on its app-building platform."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Wix News Room: Base44 Becomes First App-Creation Platform to Launch Its Own Proprietary LLM Base 1"
     url: "https://www.wix.com/press-room/home/post/base44-becomes-first-app-creation-platform-to-launch-its-own-proprietary-llm-base-1-marking-a-maj"

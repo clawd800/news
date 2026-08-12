@@ -4,7 +4,7 @@ date: 2026-03-26T11:35:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "crypto-crime", "blockchain-analytics", "law-enforcement", "web3"]
 summary: "TRM Labs released Co-Case Agent, an AI investigative assistant embedded in its forensics platform that traces illicit crypto funds using natural language — deployed to law enforcement starting March 25."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "TRM Labs: Co-Case Agent Launch"

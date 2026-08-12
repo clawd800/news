@@ -4,7 +4,7 @@ date: 2026-05-07T07:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "snap", "perplexity", "consumer-apps", "search"]
 summary: "Snap says it amicably ended its Perplexity relationship in Q1, removing expected revenue from the planned AI search integration inside Snapchat."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Snap Q1 2026 Investor Letter"
     url: "https://s25.q4cdn.com/442043304/files/doc_financials/2026/q1/Snap-Inc-Q1-2026-Investor-Letter.pdf"

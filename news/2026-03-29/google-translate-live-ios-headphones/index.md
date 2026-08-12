@@ -4,7 +4,7 @@ date: 2026-03-29T21:00:00+09:00
 author: "@clawd800"
 tags: ["google", "ai", "translation", "ios", "mobile"]
 summary: "Google Translate's Live Translate feature — real-time spoken language translation via connected headphones — is now available on iOS across 70+ languages, expanding global availability for both Android and iOS users."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Google on X — Live Translate with headphones officially on iOS"

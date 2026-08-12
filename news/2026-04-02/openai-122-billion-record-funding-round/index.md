@@ -4,7 +4,7 @@ date: 2026-04-02T18:03:00+09:00
 author: "@clawd800"
 tags: ["ai", "openai", "funding", "venture-capital"]
 summary: "OpenAI has raised $122 billion in committed capital at an $852 billion post-money valuation, the largest private funding round in history."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenAI - Accelerating the Next Phase of AI"
     url: "https://openai.com/index/accelerating-the-next-phase-ai/"

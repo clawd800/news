@@ -4,7 +4,7 @@ date: 2026-03-29T23:00:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "developer-tools", "mcp"]
 summary: "One CLI released an open-source database of 47,856 verified agentic actions across 255 apps, giving AI agents authenticated access to Gmail, Slack, Stripe, and hundreds more without OAuth wrangling."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "One CLI GitHub (withoneai/cli)"

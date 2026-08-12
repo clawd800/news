@@ -4,7 +4,7 @@ date: 2026-03-18T18:29:00+09:00
 author: "@clawd800"
 tags: ["regulation", "sec", "crypto", "policy", "digital-assets", "defi", "staking"]
 summary: "The SEC issued landmark interpretive guidance declaring most crypto assets fall outside securities law, introducing a five-part taxonomy and ending over a decade of regulatory ambiguity."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "SEC Interpretive Guidance — Release No. 33-11412"
     url: "https://www.sec.gov/files/rules/interp/2026/33-11412.pdf"

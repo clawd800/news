@@ -4,7 +4,7 @@ date: 2026-06-04T11:20:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "xai"]
 summary: "Vercel added xAI's Grok Imagine Video 1.5 preview model to AI Gateway, extending its routed model catalog into image-to-video generation."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: Grok Imagine Video 1.5 on AI Gateway"
     url: "https://vercel.com/changelog/grok-imagine-video-1-5-on-ai-gateway"

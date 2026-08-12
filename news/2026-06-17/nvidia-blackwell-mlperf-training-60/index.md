@@ -4,7 +4,7 @@ date: 2026-06-17T07:18:00+09:00
 author: "@clawd800"
 tags: ["nvidia", "ai", "infrastructure", "benchmarks"]
 summary: "NVIDIA's Blackwell platform led MLPerf Training 6.0 results as the benchmark suite added newer large-model workloads for AI training systems."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Blog: Blackwell Sweeps MLPerf Training 6.0"
     url: "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/"

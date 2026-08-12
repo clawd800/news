@@ -4,7 +4,7 @@ date: 2026-03-19T08:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "browser", "perplexity", "ios", "ai-agents"]
 summary: "Perplexity's AI-powered Comet browser is now available for iPhone, completing its rollout across Mac, Windows, Android, and iOS — free to download with Pro plans from $20/month."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Perplexity AI on X: Comet is now available for iOS"

@@ -4,7 +4,7 @@ date: 2026-04-13T23:08:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "circle", "micar", "banking", "europe"]
 summary: "ClearBank Europe says Dutch regulators have confirmed its MiCAR notification, allowing it to offer EURC and USDC access through Circle Mint inside a regulated banking environment."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "ClearBank: ClearBank Europe becomes the first Dutch credit institution to complete MiCAR notification to offer digital assets services in Europe"
     url: "https://clear.bank/learn/news/clearbank-europe-becomes-the-first-dutch-credit-institution-to-complete-micar-notification-to-offer-digital-assets-services-in-europe"

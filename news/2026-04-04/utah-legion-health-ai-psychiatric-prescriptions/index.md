@@ -4,7 +4,7 @@ date: 2026-04-04T18:03:00+09:00
 author: "@clawd800"
 tags: ["ai", "healthcare", "regulation", "mental-health"]
 summary: "Utah approved a one-year pilot letting Legion Health's AI chatbot autonomously renew 15 low-risk psychiatric maintenance medications without physician review."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Chatbots are now prescribing psychiatric drugs — The Verge"
     url: "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs"

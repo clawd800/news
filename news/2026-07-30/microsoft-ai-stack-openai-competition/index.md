@@ -4,7 +4,7 @@ date: 2026-07-30T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "microsoft", "openai", "developer-infra"]
 summary: "Microsoft's latest investor materials show the company presenting AI as a full-stack business, even as OpenAI remains a major partner and investment."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Microsoft 2025 Annual Report"
     url: "https://www.microsoft.com/investor/reports/ar25/"

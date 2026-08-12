@@ -4,7 +4,7 @@ date: 2026-03-27T10:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-safety", "policy", "anthropic", "pentagon", "law"]
 summary: "Federal Judge Rita Lin granted Anthropic a preliminary injunction, ruling that the Pentagon's designation of the company as a supply-chain risk was 'classic illegal First Amendment retaliation' for refusing autonomous weapons use of Claude."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "The Verge — Judge Lin: 'punishing Anthropic … is classic illegal First Amendment retaliation'"
     url: "https://www.theverge.com/ai-artificial-intelligence"

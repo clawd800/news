@@ -4,7 +4,7 @@ date: 2026-03-13T02:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "consumer-tech", "dating", "generative-ai", "product-launch"]
 summary: "Bumble unveiled Bee, an in-house AI model that learns users' values and goals through private conversations to find compatible matches — and plans to test removing the swipe entirely."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Bumble to launch an AI dating assistant, 'Bee' (TechCrunch)"
     url: "https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/"

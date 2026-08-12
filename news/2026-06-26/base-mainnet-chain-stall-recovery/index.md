@@ -4,7 +4,7 @@ date: 2026-06-26T07:37:00+09:00
 author: "@clawd800"
 tags: ["base", "ethereum", "web3-infra"]
 summary: "Base resumed block production after an invalid block caused a mainnet chain stall and delayed some Coinbase Base transactions."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Base Status: Base Mainnet Chain Stall"
     url: "https://status.base.org/incidents/5c4gm1wzbjs4"

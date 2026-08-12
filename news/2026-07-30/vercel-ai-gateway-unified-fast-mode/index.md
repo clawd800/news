@@ -4,7 +4,7 @@ date: 2026-07-30T03:41:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "ai-gateway"]
 summary: "Vercel added a unified fast-mode option to AI Gateway, letting developers request faster serving paths across supported models through one provider option."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: AI Gateway adds unified fast mode support"
     url: "https://vercel.com/changelog/ai-gateway-adds-unified-fast-mode-support"

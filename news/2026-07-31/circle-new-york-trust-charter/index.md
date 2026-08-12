@@ -4,7 +4,7 @@ date: 2026-07-31T23:37:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "circle", "usdc", "regulation"]
 summary: "Circle received a limited purpose trust charter from New York regulators for Circle Internet Trust Company, adding state oversight alongside its federal trust-bank path."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Circle: Circle Granted Trust Charter by the New York Department of Financial Services"
     url: "https://investingnews.com/circle-granted-trust-charter-by-the-new-york-department-of-financial-services/"

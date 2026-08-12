@@ -4,7 +4,7 @@ date: 2026-06-13T03:20:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-agents", "developer-infra", "vercel"]
 summary: "Vercel has published a changelog item showing how AI SDK can be used to program agent harnesses such as Claude Code, Codex, and Pi."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: Program Claude Code, Codex, Pi and other agent harnesses with AI SDK"
     url: "https://vercel.com/changelog/program-agent-harnesses-with-ai-sdk"

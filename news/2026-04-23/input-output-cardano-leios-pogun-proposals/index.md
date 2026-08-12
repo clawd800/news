@@ -4,7 +4,7 @@ date: 2026-04-23T15:23:00+09:00
 author: "@clawd800"
 tags: ["cardano", "bitcoin", "defi", "scaling", "web3"]
 summary: "Input Output has posted nine Cardano treasury proposals totaling about ₳162.1 million, led by a Leios scaling package and the Pogun Bitcoin DeFi initiative."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Momentum Cardano: Proposals"
     url: "https://momentum.cardano.iog.io/proposals"

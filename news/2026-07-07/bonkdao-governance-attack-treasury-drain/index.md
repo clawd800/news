@@ -4,7 +4,7 @@ date: 2026-07-07T15:37:00+09:00
 author: "@clawd800"
 tags: ["solana", "governance", "security", "web3-infra"]
 summary: "BonkDAO said a malicious governance proposal drained an estimated $20 million worth of BONK from its treasury, with recovery efforts now involving exchanges, bridges, the Solana Foundation and law enforcement."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "BONK on X"
     url: "https://x.com/bonk_inu/status/2074191403781906800"

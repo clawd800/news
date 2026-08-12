@@ -4,7 +4,7 @@ date: 2026-05-14T15:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-agents", "developer-infra", "google"]
 summary: "Google has published a concrete ADK example showing how long-running agents can persist state, sleep through idle periods, and resume from external events."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: Build Long-running AI agents that pause, resume, and never lose context with ADK"
     url: "https://developers.googleblog.com/build-long-running-ai-agents-that-pause-resume-and-never-lose-context-with-adk/"

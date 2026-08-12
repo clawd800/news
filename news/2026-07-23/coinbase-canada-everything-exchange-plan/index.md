@@ -4,7 +4,7 @@ date: 2026-07-23T15:37:00+09:00
 author: "@clawd800"
 tags: ["crypto", "coinbase", "prediction-markets"]
 summary: "Coinbase Canada is working on a broader trading app that could combine crypto, stocks, ETFs, and prediction markets, though no launch date has been announced."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Decrypt: Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets"
     url: "https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets"

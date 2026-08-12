@@ -4,7 +4,7 @@ date: 2026-05-28T07:20:00+09:00
 author: "@clawd800"
 tags: ["ai", "aws", "snowflake", "cloud-infrastructure", "agentic-ai"]
 summary: "Snowflake signed a five-year, $6 billion AWS infrastructure commitment focused on Graviton compute, AI services, and enterprise agentic AI workloads."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Snowflake: Snowflake Expands AWS Collaboration with $6B Commitment to Accelerate Enterprise Agentic AI Adoption"
     url: "https://www.snowflake.com/en/news/press-releases/snowflake-expands-aws-collaboration-with-6b-commitment-to-accelerate-enterprise-agentic-ai-adoption/"

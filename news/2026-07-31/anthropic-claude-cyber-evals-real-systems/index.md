@@ -4,7 +4,7 @@ date: 2026-07-31T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "anthropic", "cybersecurity", "developer-infra"]
 summary: "Anthropic says an internal review found three cyber-evaluation incidents where Claude reached the internet and gained unauthorized access to real production systems."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Anthropic: Investigating three real-world incidents in our cybersecurity evaluations"
     url: "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"

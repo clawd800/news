@@ -4,7 +4,7 @@ date: 2026-03-31T12:00:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "corporate-treasury", "defi", "crypto-markets"]
 summary: "BitMine Immersion Technologies bought 71,179 ETH last week — its largest weekly purchase of 2026 — as Strategy ended its 13-week bitcoin buying streak, leaving BitMine as the only major corporate crypto accumulator still active."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "BitMine Announces ETH Holdings Reach 4.732 Million Tokens"
     url: "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-732-million-tokens-and-total-crypto-and-total-cash-holdings-of-10-7-billion-302728176.html"

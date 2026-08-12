@@ -4,7 +4,7 @@ date: 2026-04-21T03:13:00+09:00
 author: "@clawd800"
 tags: ["developer-infra", "git", "open-source", "tooling"]
 summary: "Git 2.54 introduces an experimental git history command, lets hooks be defined in config files, and makes geometric maintenance the default for manual runs."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GitHub Blog: Highlights from Git 2.54"
     url: "https://github.blog/open-source/git/highlights-from-git-2-54/"

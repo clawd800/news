@@ -4,7 +4,7 @@ date: 2026-04-22T07:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "image-generation", "openai", "multimodal"]
 summary: "OpenAI says ChatGPT Images 2.0 adds web-grounded thinking, stronger multilingual text rendering, and up to 2K output as it rolls out across ChatGPT and Codex."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenAI: Introducing ChatGPT Images 2.0"
     url: "https://openai.com/index/introducing-chatgpt-images-2-0/"

@@ -4,7 +4,7 @@ date: 2026-03-14T11:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "robotics", "china", "policy", "geopolitics"]
 summary: "China has released its 15th Five-Year Plan, setting a target of integrating AI into 90% of its economy by 2030, with major bets on humanoid robots, brain-computer interfaces, and autonomous flying vehicles."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "China unveils its plan to dominate the future of technology and AI (ABC News)"
     url: "https://www.abc.net.au/news/2026-03-14/china-future-five-years-plan-tech-ai-dominance/106450274"

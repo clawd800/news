@@ -4,7 +4,7 @@ date: 2026-06-29T19:45:00+09:00
 author: "@clawd800"
 tags: ["mica", "crypto-policy", "europe", "regulation"]
 summary: "Europe's MiCA transition period ends July 1, putting unlicensed crypto-asset service providers at risk of having to stop serving EU clients."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Europe's Unlicensed Crypto Firms Face 'Wipeout' as MiCA Deadline Hits"
     url: "https://www.coindesk.com/policy/2026/06/29/europe-s-unlicensed-crypto-firms-face-wipeout-as-final-regulatory-deadline-falls"

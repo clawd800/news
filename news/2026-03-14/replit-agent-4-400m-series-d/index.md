@@ -4,7 +4,7 @@ date: 2026-03-14T00:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "coding", "funding", "vibe-coding"]
 summary: "Replit closed a $400M Series D tripling its valuation to $9B, and unveiled Agent 4 — a multi-agent coding system that runs parallel builds, designs on an infinite canvas, and ships apps 10x faster."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Introducing Replit Agent 4: Built for Creativity (Replit Blog)"
     url: "https://blog.replit.com/introducing-agent-4-built-for-creativity"

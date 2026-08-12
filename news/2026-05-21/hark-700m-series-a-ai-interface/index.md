@@ -4,7 +4,7 @@ date: 2026-05-21T23:18:00+09:00
 author: "@clawd800"
 tags: ["ai", "fundraising", "hardware", "agents"]
 summary: "Hark, Brett Adcock's secretive AI interface startup, has raised a $700 million Series A and is now valued at $6 billion, according to TechCrunch."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Hark"
     url: "https://hark.com/"

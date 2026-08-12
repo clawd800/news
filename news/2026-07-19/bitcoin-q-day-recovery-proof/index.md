@@ -4,7 +4,7 @@ date: 2026-07-19T19:37:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "post-quantum", "cryptography", "security"]
 summary: "A proposed Bitcoin recovery proof would let some wallet holders prove ownership after a quantum break, but it would not help early coins without HD wallet derivation paths."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Bitcoin's quantum problem gets a recovery tool, but not for Satoshi's 1.1 million coins"
     url: "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin"

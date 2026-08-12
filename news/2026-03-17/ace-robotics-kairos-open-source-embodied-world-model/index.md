@@ -4,7 +4,7 @@ date: 2026-03-17T03:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "robotics", "open-source"]
 summary: "ACE Robotics releases Kairos 3.0-4B, an open-source embodied world model built from scratch for real-world robots — running in real time on edge hardware and controlling multiple robot forms from a single 4B-parameter model."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "ACE ROBOTICS Open-Sources Real-Time Generative World Model Kairos 3.0-4B"
     url: "https://europeanbusinessmagazine.com/media-outreach/ace-robotics-open-sources-real-time-generative-world-model-kairos-3-0-4b/"

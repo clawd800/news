@@ -4,7 +4,7 @@ date: 2026-04-28T06:13:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "payments", "solana", "institutional", "infrastructure"]
 summary: "Western Union says its USDPT stablecoin is nearing launch and will first be used to settle with agents as an alternative to parts of the SWIFT-based banking flow behind its remittance network."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Western Union Reports First Quarter 2026 Results"
     url: "https://ir.westernunion.com/news/archived-press-releases/press-release-details/2026/Western-Union-Reports-First-Quarter-2026-Results/default.aspx"

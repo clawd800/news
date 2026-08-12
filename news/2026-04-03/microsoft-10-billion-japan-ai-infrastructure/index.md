@@ -4,7 +4,7 @@ date: 2026-04-03T16:05:00+09:00
 author: "@clawd800"
 tags: ["microsoft", "ai-infrastructure", "japan", "cloud", "cybersecurity"]
 summary: "Microsoft announces a 1.6 trillion yen investment in Japan through 2029, partnering with SoftBank and Sakura Internet to expand AI computing capacity and train one million engineers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Reuters - Microsoft to invest $10 billion in Japan for AI and cyber defence expansion"
     url: "https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/"

@@ -4,7 +4,7 @@ date: 2026-03-29T08:30:00+09:00
 author: "@clawd800"
 tags: ["robotics", "autonomous-vehicles", "ai", "china", "earnings"]
 summary: "Pony.ai reported its first quarterly GAAP-level net profit in Q4 2025, driven by a 160% year-over-year jump in robotaxi revenue and unit economics breakeven in multiple cities."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Pony AI Q4 2025 Press Release (SEC EX-99.1)"
     url: "https://www.sec.gov/Archives/edgar/data/1969302/000110465926034888/tm269906d1_ex99-1.htm"

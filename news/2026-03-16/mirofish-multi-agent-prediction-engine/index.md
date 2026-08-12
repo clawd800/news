@@ -4,7 +4,7 @@ date: 2026-03-16T03:00:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "multi-agent", "github", "ai-agents"]
 summary: "A Chinese undergraduate built MiroFish in 10 days — an open-source engine that spawns thousands of AI agents in a simulated world to forecast real-world outcomes. It topped GitHub trending and secured 30M RMB in funding within 24 hours."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "MiroFish GitHub Repository (666ghj/MiroFish)"
     url: "https://github.com/666ghj/MiroFish"

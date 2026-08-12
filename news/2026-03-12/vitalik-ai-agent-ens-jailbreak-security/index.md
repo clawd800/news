@@ -4,7 +4,7 @@ date: 2026-03-12T15:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "ethereum", "security", "prompt-injection", "ens", "crypto-wallets"]
 summary: "Ethereum co-founder Vitalik Buterin warns that AI agents holding crypto wallets are vulnerable to prompt injection attacks hidden inside ENS profiles — a threat that no current solution fully solves."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vitalik Buterin on X — ENS jailbreak scenario"
     url: "https://x.com/VitalikButerin/status/2031614426336604311"

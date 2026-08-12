@@ -4,7 +4,7 @@ date: 2026-03-16T07:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "physics", "research-ai", "agentic-ai"]
 summary: "Physical Superintelligence PBC has open-sourced Get Physics Done (GPD), an agentic AI that scopes problems, derives equations, verifies against physical laws, and compresses weeks of research into hours."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "The First Open-Source Agentic AI Physicist (X thread by @alexwg)"

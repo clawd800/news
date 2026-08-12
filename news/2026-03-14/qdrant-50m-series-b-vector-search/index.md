@@ -4,7 +4,7 @@ date: 2026-03-14T15:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "vector-search", "funding", "infrastructure"]
 summary: "Open-source vector search engine Qdrant closes a $50M Series B led by AVP to expand composable retrieval infrastructure for RAG pipelines, AI agents, and production-scale workloads."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Qdrant raises $50M Series B — Tech.eu"
     url: "https://tech.eu/2026/03/12/qdrant-closes-50m-series-b-to-expand-vector-search-infrastructure/"

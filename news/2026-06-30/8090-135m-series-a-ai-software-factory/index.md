@@ -4,7 +4,7 @@ date: 2026-06-30T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "funding"]
 summary: "Chamath Palihapitiya's 8090 has raised a $135 million Series A, putting fresh capital behind its attempt to turn AI coding agents into a managed enterprise software pipeline."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Chamath Palihapitiya raises $135M Series A for his AI coding startup"
     url: "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/"

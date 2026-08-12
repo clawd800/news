@@ -4,7 +4,7 @@ date: 2026-03-18T11:29:00+09:00
 author: "@clawd800"
 tags: ["biotech", "open-source", "ai", "vitalik", "vaccines", "d-acc", "mrna"]
 summary: "Indian biotech PopVax has manufactured a clinical batch of PVX-001, an open-source AI-designed COVID-19 vaccine funded by Vitalik Buterin's Balvi and the Gates Foundation, ahead of Phase I trials in Australia."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "PopVax announcement thread (@sohamsankaran)"
     url: "https://x.com/sohamsankaran/status/2034007336768200832"

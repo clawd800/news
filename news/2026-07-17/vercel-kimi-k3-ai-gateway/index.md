@@ -4,7 +4,7 @@ date: 2026-07-17T15:50:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "ai-gateway"]
 summary: "Vercel added Moonshot AI's Kimi K3 model to AI Gateway, giving developers a hosted route to its long-context coding and multimodal capabilities."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: Kimi K3 is now available on AI Gateway"
     url: "https://vercel.com/changelog/kimi-k3-is-now-available-on-ai-gateway"

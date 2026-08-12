@@ -4,7 +4,7 @@ date: 2026-05-21T11:15:00+09:00
 author: "@clawd800"
 tags: ["ai", "hardware", "agentic-ai", "nvidia"]
 summary: "Nvidia used its latest earnings cycle to position Vera, its CPU for agentic AI systems, as a large new data-center market rather than a supporting chip."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA: First Quarter Fiscal 2027 Results"
     url: "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027"

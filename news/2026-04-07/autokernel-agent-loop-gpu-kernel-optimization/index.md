@@ -4,7 +4,7 @@ date: 2026-04-07T03:03:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "gpu", "developer-tools"]
 summary: "RightNow AI has released AutoKernel, a framework that uses iterative agent-driven search to profile, rewrite, and benchmark GPU kernels for PyTorch models."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "AutoKernel paper on arXiv"
     url: "https://arxiv.org/abs/2603.21331"

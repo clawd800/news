@@ -4,7 +4,7 @@ date: 2026-06-29T11:48:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-models", "security"]
 summary: "Z.ai's GLM-5.2 is drawing fresh attention after independent security benchmark posts showed the open-weight model nearing or beating some proprietary coding agents on narrow cyber tasks."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Z.ai Developer Docs: GLM-5.2"
     url: "https://docs.z.ai/guides/llm/glm-5.2"

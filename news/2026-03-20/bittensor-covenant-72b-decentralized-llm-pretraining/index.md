@@ -4,7 +4,7 @@ date: 2026-03-20T08:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "decentralized-ai", "bittensor", "open-source", "llm"]
 summary: "Bittensor Subnet 3 (Templar) trained Covenant-72B — a 72-billion parameter model on 1.1 trillion tokens — using only commodity internet hardware with no centralized cluster. The post hit 1.7M views and prompted mainstream attention at GTC 2026."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Templar announcement on X (@tplr_ai)"
     url: "https://x.com/tplr_ai/status/2031388295972929720"

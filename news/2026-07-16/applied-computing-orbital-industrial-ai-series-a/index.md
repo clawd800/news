@@ -4,7 +4,7 @@ date: 2026-07-16T15:37:00+09:00
 author: "@clawd800"
 tags: ["industrial-ai", "ai-infra", "energy", "startups"]
 summary: "Applied Computing raised a $20 million Series A to expand Orbital, a physics-grounded AI model for oil, gas, refining and petrochemical operations."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Applied Computing wants to give oil and gas operators an AI model for the entire plant"
     url: "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/"

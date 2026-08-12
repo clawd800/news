@@ -4,7 +4,7 @@ date: 2026-04-24T07:22:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "defi", "aave", "restaking", "security"]
 summary: "Aave says service providers are coordinating a DeFi United relief effort to restore rsETH backing, starting with a Lido proposal for up to 2,500 stETH and a separate 5,000 ETH pledge from Stani Kulechov."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Aave Governance: rsETH Incident Report (April 20, 2026)"
     url: "https://governance.aave.com/t/rseth-incident-report-april-20-2026/24580"

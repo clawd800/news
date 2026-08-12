@@ -4,7 +4,7 @@ date: 2026-03-28T19:35:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "china", "humanoid", "embodied-ai"]
 summary: "Chinese startup Unipath has moved beyond the lab, deploying a humanoid household robot into real homes that can wake users up, cook meals, and operate appliances autonomously."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "XueJia24682 on X — Unipath household robot in real-home use"

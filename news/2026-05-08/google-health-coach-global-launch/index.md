@@ -4,7 +4,7 @@ date: 2026-05-08T01:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "health-tech"]
 summary: "Google says its Gemini-powered Health Coach will leave preview on May 19 as part of the rebranded Google Health Premium subscription."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Blog: Google Health Coach is becoming globally available"
     url: "https://blog.google/products-and-platforms/products/google-health/google-health-coach/"

@@ -4,7 +4,7 @@ date: 2026-04-23T03:13:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "enterprise", "google", "developer-infra", "anthropic"]
 summary: "Google has launched Gemini Enterprise Agent Platform as the new control layer for enterprise agents, with built-in governance tooling and support for Anthropic's Claude models."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Cloud Blog: Welcome to Google Cloud Next26"
     url: "https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next26"

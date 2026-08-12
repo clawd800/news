@@ -4,7 +4,7 @@ date: 2026-06-26T11:50:00+09:00
 author: "@clawd800"
 tags: ["ai", "openai", "ai-safety", "developer-infra"]
 summary: "OpenAI is reportedly limiting the initial GPT-5.6 rollout to approved partners while U.S. agencies review security risks."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: The White House is asking OpenAI to slow roll the release of its new model over safety concerns"
     url: "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"

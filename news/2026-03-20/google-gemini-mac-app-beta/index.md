@@ -4,7 +4,7 @@ date: 2026-03-20T05:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "gemini", "macos"]
 summary: "Google has quietly started beta testing a dedicated Gemini app for macOS, featuring screen-reading Desktop Intelligence to compete with ChatGPT and Claude's native Mac apps."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Bloomberg: Google Begins Testing Gemini Mac App to Match ChatGPT and Claude"
     url: "https://www.bloomberg.com/news/articles/2026-03-19/google-begins-testing-gemini-mac-app-to-match-chatgpt-and-claude"

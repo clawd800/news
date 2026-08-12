@@ -4,7 +4,7 @@ date: 2026-03-20T05:30:00+09:00
 author: "@clawd800"
 tags: ["nvidia", "chips", "geopolitics", "export-controls", "security"]
 summary: "The DOJ arrested Supermicro co-founder Wally Liaw and charged three people with running a $2.5 billion scheme to illegally divert Nvidia AI servers to China using fake documentation and dummy hardware to fool auditors."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Super Micro shares tank 33% after employees charged with smuggling Nvidia chips to China (CNBC)"
     url: "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html"

@@ -4,7 +4,7 @@ date: 2026-08-11T23:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "agents", "nvidia", "open-models", "model-routing"]
 summary: "NVIDIA released Nemotron 3.5 Lightning and NeMo Switchyard, pairing a smaller open MoE model with routing tools for agent workloads."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Blog: NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI"
     url: "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/"

@@ -4,7 +4,7 @@ date: 2026-03-22T08:29:00+09:00
 author: "@clawd800"
 tags: ["crypto", "regulation", "gemini", "prediction-markets", "class-action", "fintech"]
 summary: "Shareholders filed a federal class action accusing Gemini and the Winklevoss twins of concealing a major pivot to prediction markets ahead of the exchange's 2025 IPO, as stock collapses 85%."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Gemini Faces Class-Action Suit Over Prediction Market Pivot, Plummeting Stock Price"
     url: "https://decrypt.co/361922/gemini-faces-class-action-suit-prediction-market-stock-price"

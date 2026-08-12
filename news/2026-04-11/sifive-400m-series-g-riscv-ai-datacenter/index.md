@@ -4,7 +4,7 @@ date: 2026-04-11T23:58:00+09:00
 author: "@clawd800"
 tags: ["ai", "semiconductors", "risc-v", "infrastructure", "funding"]
 summary: "SiFive says it has raised a $400 million Series G round at a $3.65 billion valuation to expand its RISC-V CPU and AI IP roadmap for data centers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "SiFive: Raises $400 Million to Accelerate High-Performance RISC-V Data Center Solutions"
     url: "https://www.sifive.com/press/sifive-raises-400-million-to-accelerate-high-performance-risc-v-data-center-solutions"

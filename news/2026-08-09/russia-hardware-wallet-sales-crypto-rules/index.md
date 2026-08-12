@@ -4,7 +4,7 @@ date: 2026-08-09T11:37:00+09:00
 author: "@clawd800"
 tags: ["crypto-policy", "wallets", "russia", "self-custody"]
 summary: "Russian retailer data shows hardware crypto wallet demand more than doubled as new rules for regulated crypto activity approach."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Hardware Wallet Sales in Russia More Than Double as New Crypto Rules Near"
     url: "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near"

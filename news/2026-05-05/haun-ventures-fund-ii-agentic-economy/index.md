@@ -4,7 +4,7 @@ date: 2026-05-05T05:13:00+09:00
 author: "@clawd800"
 tags: ["web3", "venture", "ai-agents", "stablecoins", "tokenization"]
 summary: "Haun Ventures says it has raised $1 billion in new funds to back startups across crypto infrastructure, tokenized assets, and what it calls the emerging agentic economy."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Haun Ventures — Announcing Fund II"
     url: "https://www.haun.co/writing/fundii"

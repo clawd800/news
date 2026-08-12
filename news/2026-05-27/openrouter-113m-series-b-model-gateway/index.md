@@ -4,7 +4,7 @@ date: 2026-05-27T07:18:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "model-routing"]
 summary: "OpenRouter raised a $113 million Series B led by CapitalG, while investor and company materials point to rapid growth in multi-model AI gateway usage."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Menlo Ventures: OpenRouter Now Processes More Than a Quadrillion Tokens a Year"
     url: "https://menlovc.com/perspective/openrouter-now-processes-more-than-a-quadrillion-tokens-a-year/"

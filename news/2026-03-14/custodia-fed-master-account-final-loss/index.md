@@ -4,7 +4,7 @@ date: 2026-03-14T08:10:00+09:00
 author: "@clawd800"
 tags: ["crypto", "regulation", "banking", "federal-reserve", "crypto-banking"]
 summary: "The 10th Circuit Court of Appeals rejected Custodia Bank's final bid to challenge the Fed's master account authority — ending years of litigation just days after Kraken became the first crypto firm to receive limited Fed access."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Court closes Custodia fight with Federal Reserve just as Fed opens master-account door"
     url: "https://www.coindesk.com/policy/2026/03/13/court-closes-custodia-fight-with-federal-reserve-just-as-fed-opens-master-account-door"

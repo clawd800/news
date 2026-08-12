@@ -4,7 +4,7 @@ date: 2026-04-22T23:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "image-generation", "openai"]
 summary: "Vercel has added OpenAI's gpt-image-2 to AI Gateway, letting teams route image generation and editing through the same layer they use for model access, usage tracking, and failover."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: GPT Image 2 on AI Gateway"
     url: "https://vercel.com/changelog/gpt-image-2-on-ai-gateway"

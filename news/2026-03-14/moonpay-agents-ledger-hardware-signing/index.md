@@ -4,7 +4,7 @@ date: 2026-03-14T02:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "crypto", "security", "defi", "ledger"]
 summary: "MoonPay added Ledger hardware wallet signing to its AI agent CLI, making it the first agent-focused wallet where private keys never leave the device — even as the agent trades autonomously."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "MoonPay adds Ledger-secured AI crypto agents to deal with wallet key risks (CoinDesk)"
     url: "https://www.coindesk.com/tech/2026/03/13/moonpay-introduces-ledger-secured-ai-crypto-agents-to-address-wallet-key-risks"

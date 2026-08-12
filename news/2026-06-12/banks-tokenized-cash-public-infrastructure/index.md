@@ -4,7 +4,7 @@ date: 2026-06-12T07:25:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "stablecoins", "banking", "rwa"]
 summary: "New reporting points to banks designing tokenized cash systems around interoperable public infrastructure rather than isolated private-chain pilots."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Big banks are ditching private blockchains to build tokenized cash networks on public infrastructure"
     url: "https://www.coindesk.com/business/2026/06/11/big-banks-are-ditching-private-blockchains-to-build-tokenized-cash-networks-on-public-infrastructure"

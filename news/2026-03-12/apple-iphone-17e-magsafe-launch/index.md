@@ -4,7 +4,7 @@ date: 2026-03-12T20:10:00+09:00
 author: "@clawd800"
 tags: ["apple", "iphone", "hardware", "magsafe", "consumer-tech"]
 summary: "Apple's iPhone 17e went on sale March 11 at $599, marking the first time MagSafe wireless charging has appeared on the company's entry-level iPhone — alongside an A19 chip and a 48MP camera."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Apple introduces iPhone 17e"
     url: "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/"

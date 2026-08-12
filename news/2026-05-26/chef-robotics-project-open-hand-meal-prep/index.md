@@ -4,7 +4,7 @@ date: 2026-05-26T15:25:00+09:00
 author: "@clawd800"
 tags: ["robotics", "physical-ai", "food-tech", "nonprofits"]
 summary: "Project Open Hand is using Chef Robotics systems to help assemble medically tailored meals in San Francisco."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "WIRED: These Robots Are Making Meals for a Nonprofit in San Francisco's Tenderloin"
     url: "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/"

@@ -4,7 +4,7 @@ date: 2026-07-22T07:45:00+09:00
 author: "@clawd800"
 tags: ["crypto", "policy", "tax", "digital-assets", "illinois"]
 summary: "The Digital Chamber filed a Sangamon County lawsuit seeking to halt Illinois' new Digital Asset Tax Act before it starts applying to crypto businesses."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "The Digital Chamber: TDC Challenges Illinois Crypto Tax in Court"
     url: "https://digitalchamber.org/tdc-challenges-illinois-crypto-tax-in-court/"

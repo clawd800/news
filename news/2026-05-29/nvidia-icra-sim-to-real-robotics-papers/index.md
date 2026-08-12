@@ -4,7 +4,7 @@ date: 2026-05-29T11:16:00+09:00
 author: "@clawd800"
 tags: ["ai", "robotics", "simulation", "physical-ai"]
 summary: "Nvidia highlighted eight robotics research papers for ICRA 2026, centered on moving robot policies from simulated training into real-world operation."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Blog: NVIDIA Research Advances Robotics From Simulation to the Real World"
     url: "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/"

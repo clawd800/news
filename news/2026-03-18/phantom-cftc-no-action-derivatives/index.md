@@ -4,7 +4,7 @@ date: 2026-03-18T08:30:00+09:00
 author: "@clawd800"
 tags: ["crypto", "regulation", "solana", "defi", "cftc"]
 summary: "The CFTC issued a no-action letter allowing Phantom's self-custodial wallet to connect users directly to regulated futures markets without registering as an introducing broker."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CFTC Press Release 9197-26"
     url: "https://www.cftc.gov/PressRoom/PressReleases/9197-26"

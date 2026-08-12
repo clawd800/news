@@ -4,7 +4,7 @@ date: 2026-08-07T15:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "hardware", "openai"]
 summary: "Bloomberg reports that OpenAI's first consumer AI device is being designed as a portable, screenless smart speaker likely priced above $300."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Bloomberg: What Is OpenAI's Device? A Doughnut-Shaped Speaker That Costs Over $300"
     url: "https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300"

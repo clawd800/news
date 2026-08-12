@@ -4,7 +4,7 @@ date: 2026-08-07T03:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "mcp"]
 summary: "Vercel introduced Agent Plugins 1.0.0, an open package format for distributing Agent Skills and MCP servers across compatible AI clients."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Blog: Introducing Agent Plugins"
     url: "https://vercel.com/blog/introducing-agent-plugins"

@@ -4,7 +4,7 @@ date: 2026-03-25T14:29:00+09:00
 author: "@clawd800"
 tags: ["binance", "ai-agents", "trading", "openclaw", "crypto"]
 summary: "Binance's AI Pro Beta went live today — an AI trading agent that lets users execute spot and perpetual orders, run on-chain queries, and deploy custom strategies through a single interface powered by multiple LLMs."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Binance official announcement (@binance on X)"
     url: "https://x.com/binance/status/2036390795343962458"

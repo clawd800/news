@@ -4,7 +4,7 @@ date: 2026-04-08T23:06:00+09:00
 author: "@clawd800"
 tags: ["ai", "atlassian", "confluence", "enterprise", "agents"]
 summary: "Atlassian has launched Remix in open beta and started adding third-party AI agents inside Confluence as it pushes more AI workflows directly into its existing collaboration stack."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Atlassian launches visual AI tools and third-party agents in Confluence"
     url: "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/"

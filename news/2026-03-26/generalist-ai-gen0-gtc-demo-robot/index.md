@@ -4,7 +4,7 @@ date: 2026-03-26T08:31:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "generalization", "nvidia", "universal-robots"]
 summary: "Generalist AI ran a nonstop live demo at NVIDIA GTC using a Universal Robots platform it had never seen in person — up and running in days, not weeks."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "The Real Breakthrough Behind Our GTC Demo — Generalist AI Blog"

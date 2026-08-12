@@ -4,7 +4,7 @@ date: 2026-04-24T16:18:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "tradfi", "tokenization", "treasuries"]
 summary: "Morgan Stanley Investment Management has launched a government money market fund tailored to payment stablecoin issuers seeking an eligible reserve vehicle."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Morgan Stanley Investment Management Launches Stablecoin Reserves Portfolio"
     url: "https://www.stocktitan.net/news/BK/morgan-stanley-investment-management-launches-stablecoin-reserves-giwg4dv0ekgt.html"

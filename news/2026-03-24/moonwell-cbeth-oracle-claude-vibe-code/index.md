@@ -4,7 +4,7 @@ date: 2026-03-24T09:29:00+09:00
 author: "@clawd800"
 tags: ["defi", "base", "security", "ai-agents", "oracle", "moonwell"]
 summary: "A Chainlink oracle misconfiguration in a Claude Opus 4.6-co-authored commit priced cbETH at $1.12 instead of $2,200, triggering automated liquidations that left Moonwell with $1.78M in bad debt."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "rekt.news: Moonwell - Rekt"
     url: "https://rekt.news/moonwell-rekt"

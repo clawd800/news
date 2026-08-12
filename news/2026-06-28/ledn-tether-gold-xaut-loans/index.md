@@ -4,7 +4,7 @@ date: 2026-06-28T03:47:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "tokenization", "lending", "tether"]
 summary: "Ledn added Tether Gold and new stablecoin rails, with XAUt-backed loans planned for later this year."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ledn: Bitcoin. Gold. The Stablecoins the world runs on."
     url: "https://www.ledn.io/post/hard-assets"

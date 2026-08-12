@@ -4,7 +4,7 @@ date: 2026-07-26T19:44:00+09:00
 author: "@clawd800"
 tags: ["crypto-exchanges", "web3", "tokens"]
 summary: "BitMart said it will begin an orderly wind-down of its trading platform, while BMX traded more than 50% lower after the announcement."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "BitMart announcement on X"
     url: "https://x.com/BitMartExchange/status/2081197305491845201"

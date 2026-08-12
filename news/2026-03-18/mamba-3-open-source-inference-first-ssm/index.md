@@ -4,7 +4,7 @@ date: 2026-03-18T20:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "llm", "research"]
 summary: "Researchers from Carnegie Mellon and Princeton release Mamba-3, a state space model that achieves better accuracy and hardware efficiency than Transformers under an Apache 2.0 license."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Mamba-3: Improved Sequence Modeling using State Space Principles (arXiv)"
     url: "https://arxiv.org/abs/2603.15569"

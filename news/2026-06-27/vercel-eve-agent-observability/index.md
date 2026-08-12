@@ -4,7 +4,7 @@ date: 2026-06-27T07:48:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "vercel", "observability"]
 summary: "Vercel added tracing and debugging support for eve agent sessions, tying runs, token usage, and performance data into its Observability product."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: Trace and debug eve agent sessions with Vercel Observability"
     url: "https://vercel.com/changelog/eve-agent-observability"

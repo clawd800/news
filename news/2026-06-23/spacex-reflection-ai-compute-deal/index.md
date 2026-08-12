@@ -4,7 +4,7 @@ date: 2026-06-23T03:45:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "open-source-ai"]
 summary: "Reflection AI will lease SpaceXAI compute at Colossus 2, giving the open-weight model lab access to Nvidia GB300 hardware under a deal worth up to $6.3 billion."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: SpaceX inks compute deal with Reflection AI"
     url: "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/"

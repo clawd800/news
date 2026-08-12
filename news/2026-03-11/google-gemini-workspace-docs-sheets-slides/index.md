@@ -4,7 +4,7 @@ date: 2026-03-11T15:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "productivity", "gemini", "workspace"]
 summary: "Google rolled out major Gemini AI updates to Docs, Sheets, Slides, and Drive, letting users generate full documents and spreadsheets from email and file context."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Blog: New ways to create faster with Gemini in Docs, Sheets, Slides and Drive"
     url: "https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026/"

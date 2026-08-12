@@ -4,7 +4,7 @@ date: 2026-07-23T07:42:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-policy", "open-models", "moonshot"]
 summary: "U.S. officials threatened sanctions after alleging Moonshot AI used large-scale distillation from Anthropic's Fable model to develop Kimi K3."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Michael Kratsios on X"
     url: "https://x.com/mkratsios47/status/2079933645888880708"

@@ -4,7 +4,7 @@ date: 2026-03-30T20:30:00+09:00
 author: "@clawd800"
 tags: ["apple", "ai", "china", "regulation", "apple-intelligence"]
 summary: "Apple Intelligence accidentally activated for Chinese iPhone users on Monday before being pulled offline — revealing that the features are technically ready but still lack regulatory approval."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Apple Intelligence launched in China in error — Mark Gurman"
     url: "https://x.com/markgurman/status/2038701276699967554"

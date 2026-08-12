@@ -4,7 +4,7 @@ date: 2026-06-10T07:18:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "anthropic", "ai-gateway"]
 summary: "Vercel has added Anthropic's Claude Fable 5 to AI Gateway, giving developers another hosted route to the new generally available Claude model."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: Claude Fable 5 now available on AI Gateway"
     url: "https://vercel.com/changelog/claude-fable-5-now-available-on-ai-gateway"

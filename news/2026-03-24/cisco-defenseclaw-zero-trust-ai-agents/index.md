@@ -4,7 +4,7 @@ date: 2026-03-24T10:30:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "security", "open-source", "cisco", "enterprise"]
 summary: "At RSAC 2026, Cisco unveiled DefenseClaw — an open-source framework for securing AI agents — alongside zero trust agent access controls built into Duo IAM."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Cisco debuts new AI agent security features, open-source DefenseClaw tool"
     url: "https://siliconangle.com/2026/03/23/cisco-debuts-new-ai-agent-security-features-open-source-defenseclaw-tool/"

@@ -4,7 +4,7 @@ date: 2026-03-23T18:30:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "hardware", "manufacturing"]
 summary: "LG Electronics CEO Lyu Jae-cheol announced the company will build robot actuators in-house and achieve mass production this year, targeting a components market projected at $23B by 2030."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "LG Electronics to make 2026 pivotal for robotics push: CEO — Korea Herald"
     url: "https://www.koreaherald.com/article/10700551"

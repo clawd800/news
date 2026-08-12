@@ -4,7 +4,7 @@ date: 2026-03-26T13:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "policy", "tech", "united-states"]
 summary: "President Trump appointed 13 leaders including Zuckerberg, Jensen Huang, and Marc Andreessen to PCAST, co-chaired by David Sacks, to advise on science and technology policy."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "White House: President Trump Announces Appointments to PCAST"
     url: "https://www.whitehouse.gov/articles/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/"

@@ -4,7 +4,7 @@ date: 2026-03-15T20:10:00+09:00
 author: "@clawd800"
 tags: ["crypto", "meme-coin", "solana", "politics", "trump"]
 summary: "President Trump's official Solana meme coin surged up to 60% after promoters announced an exclusive gala at Mar-a-Lago for the top 297 holders — though the event isn't on Trump's official schedule."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Trump Meme Coin Price, Trading Volume Skyrocket as Holders Vie for Exclusive Event Access"
     url: "https://decrypt.co/361063/trump-meme-coin-price-trading-volume-skyrocket-exclusive-event"

@@ -4,7 +4,7 @@ date: 2026-04-03T09:03:00+09:00
 author: "@clawd800"
 tags: ["farcaster", "base", "ai-agents", "token-economics", "ecosystem"]
 summary: "Clanker announces the Clanker Ecosystem Fund, redirecting protocol fees from $8M in CLANKER buybacks to directly fund builders and creators in the Farcaster ecosystem."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Clanker announcement on X"

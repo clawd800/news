@@ -4,7 +4,7 @@ date: 2026-03-27T21:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "anthropic", "claude", "ai-safety", "cybersecurity"]
 summary: "A misconfigured CMS exposed ~3,000 Anthropic internal drafts, including a blog post revealing Claude Mythos — a new model tier above Opus that the company says poses 'unprecedented cybersecurity risks.'"
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Fortune: Anthropic Claude Mythos leak"
     url: "https://fortune.com/2026/03/27/anthropic-claude-mythos-new-model-leak"

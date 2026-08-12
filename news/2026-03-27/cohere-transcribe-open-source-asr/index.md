@@ -4,7 +4,7 @@ date: 2026-03-27T12:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "speech-recognition", "cohere", "asr"]
 summary: "Cohere launches Transcribe, a 2B-parameter open-source speech recognition model that achieves #1 on the HuggingFace Open ASR Leaderboard with Apache 2.0 licensing."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Cohere Blog: Cohere Transcribe — state-of-the-art speech recognition"
     url: "https://cohere.com/blog/transcribe"

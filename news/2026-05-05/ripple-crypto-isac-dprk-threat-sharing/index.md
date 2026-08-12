@@ -4,7 +4,7 @@ date: 2026-05-05T17:22:00+09:00
 author: "@clawd800"
 tags: ["ripple", "crypto-security", "dprk", "threat-intelligence", "web3-infrastructure"]
 summary: "Ripple says it is feeding DPRK-related threat data into Crypto ISAC's new API, giving member firms shared indicators and applicant profiles tied to North Korean infiltration campaigns."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Crypto ISAC: North Korean Hackers Are Infiltrating Crypto Companies. Ripple and Crypto ISAC are Sharing the Intelligence to Help Stop Them"
     url: "https://www.cryptoisac.org/news-member-content/north-korean-hackers-are-infiltrating-crypto-companies-ripple-and-crypto-isac-are-sharing-the-intelligence-to-help-stop-them"

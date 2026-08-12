@@ -4,7 +4,7 @@ date: 2026-03-12T10:10:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "geospatial", "last-mile-delivery", "niantic", "computer-vision"]
 summary: "Niantic Spatial is putting its 30-billion-image map of the world — built from years of Pokémon Go players scanning city streets — to work inside Coco Robotics' sidewalk delivery fleet."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "How Pokémon Go is giving delivery robots an inch-perfect view of the world"
     url: "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/"

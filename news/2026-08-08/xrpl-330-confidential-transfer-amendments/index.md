@@ -4,7 +4,7 @@ date: 2026-08-08T19:37:00+09:00
 author: "@clawd800"
 tags: ["xrp-ledger", "tokenization", "web3-infra"]
 summary: "XRPL's 3.3.0 server release adds amendment-gated confidential transfers and batch transactions, but validators still need to approve the changes before they activate."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "XRPLF rippled 3.3.0 Release"
     url: "https://github.com/XRPLF/rippled/releases/tag/3.3.0"

@@ -4,7 +4,7 @@ date: 2026-03-21T08:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "video-generation", "nvidia", "runway", "world-models"]
 summary: "Runway and NVIDIA demonstrated a real-time video generation model at GTC 2026 that produces the first HD frame in under 100 milliseconds — faster than a human blink."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Runway on X: real-time video model announcement"

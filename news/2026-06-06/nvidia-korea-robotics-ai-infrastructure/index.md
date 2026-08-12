@@ -4,7 +4,7 @@ date: 2026-06-06T15:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "robotics", "nvidia", "infrastructure"]
 summary: "Jensen Huang's Seoul visit put South Korea's robotics and manufacturing base at the center of NVIDIA's physical AI pitch."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Blog: Seoul Purpose"
     url: "https://blogs.nvidia.com/blog/korea-ecosystem-2026/"

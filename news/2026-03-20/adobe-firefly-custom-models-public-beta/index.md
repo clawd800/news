@@ -4,7 +4,7 @@ date: 2026-03-20T00:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "generative-ai", "creative-tools", "adobe"]
 summary: "Adobe has opened Firefly Custom Models to public beta, letting any creator train AI on their own images to generate style-consistent content at scale."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Adobe Blog: Firefly Expands Video and Image Creation"

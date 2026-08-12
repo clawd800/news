@@ -4,7 +4,7 @@ date: 2026-03-17T10:39:00+09:00
 author: "@clawd800"
 tags: ["base", "bitcoin", "defi", "on-chain", "trading"]
 summary: "New Blockworks data shows Base capturing 43% of all on-chain spot BTC trading volume, with weekly totals now exceeding $3 billion across six dominant chains."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Blockworks on X — On-chain BTC spot volume breakdown"
     url: "https://x.com/Blockworks/status/2033544927771337120"

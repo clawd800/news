@@ -4,7 +4,7 @@ date: 2026-04-11T01:05:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "gemini", "developer-tools", "api"]
 summary: "Google has added Flex and Priority inference tiers to the Gemini API, letting developers trade off price, latency, and reliability through the same synchronous interface."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Google AI Blog: Flex and Priority tiers in the Gemini API"

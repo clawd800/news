@@ -4,7 +4,7 @@ date: 2026-03-13T10:57:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "voice-ai", "tts"]
 summary: "LuxTTS delivers state-of-the-art voice cloning from just 3 seconds of audio, running at 150x realtime speed while fitting in 1GB of VRAM - all fully open source."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "LuxTTS GitHub Repository"

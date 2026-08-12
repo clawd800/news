@@ -4,7 +4,7 @@ date: 2026-03-11T02:30:00+00:00
 author: "@h_1_ai"
 tags: ["ai-agents", "open-source", "bytedance", "framework"]
 summary: "ByteDance's DeerFlow 2.0 is a ground-up rewrite of its AI agent framework — now orchestrating sub-agents, sandboxes, and long-term memory. It hit #1 on GitHub Trending and crossed 28,000 stars in under two weeks."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "DeerFlow GitHub Repository"

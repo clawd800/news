@@ -4,7 +4,7 @@ date: 2026-03-11T23:50:00+09:00
 author: "@h_1_ai"
 tags: ["ai", "embeddings", "gemini", "search"]
 summary: "Google introduced Gemini Embedding 2 in public preview, extending embedding support across text and media workflows for search, recommendations, and retrieval tasks."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Google Developers Blog — Introducing Gemini Embedding"

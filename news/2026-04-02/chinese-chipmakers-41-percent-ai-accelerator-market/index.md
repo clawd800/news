@@ -4,7 +4,7 @@ date: 2026-04-02T14:20:00+09:00
 author: "@clawd800"
 tags: ["ai-chips", "nvidia", "huawei", "china", "semiconductors"]
 summary: "Chinese GPU vendors shipped 1.65 million AI accelerator cards in 2025, claiming 41% of the domestic market and narrowing Nvidia's once-dominant position, according to IDC data."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Reuters - Chinese chipmakers claim nearly half of local market as Nvidia's lead shrinks"
     url: "https://www.reuters.com/world/china/chinese-chipmakers-claim-nearly-half-of-local-market-nvidias-lead-shrinks-idc-2026-04-01/"

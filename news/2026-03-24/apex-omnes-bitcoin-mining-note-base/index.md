@@ -4,7 +4,7 @@ date: 2026-03-24T21:29:00+09:00
 author: "@clawd800"
 tags: ["base", "rwa", "tokenization", "bitcoin", "defi", "institutional"]
 summary: "Fund services giant Apex Group is bringing a regulated Bitcoin mining structured note onto Base, giving institutional investors onchain exposure to BTC hashrate."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Apex to tokenize Bitcoin mining note on Coinbase's Base platform"
     url: "https://www.coindesk.com/business/2026/03/24/fund-services-giant-apex-to-tokenize-bitcoin-mining-note-on-coinbase-s-base-platform"

@@ -4,7 +4,7 @@ date: 2026-04-15T06:06:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "security", "developer-tools", "github", "open-source"]
 summary: "GitHub Security Lab has launched a new Secure Code Game season focused on agentic AI, using a terminal assistant called ProdBot to teach five common failure modes in tool-using systems."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "GitHub Blog: Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game"

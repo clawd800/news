@@ -4,7 +4,7 @@ date: 2026-06-28T23:42:00+09:00
 author: "@clawd800"
 tags: ["crypto", "ai", "robotics", "venture-capital"]
 summary: "Framework Ventures has raised a $400 million fourth fund that extends its crypto investing thesis into AI, robotics, energy, and other frontier technology markets."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Crypto's next frontier isn't crypto, it's financing AI and robotics, Framework's Anderson says"
     url: "https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says"

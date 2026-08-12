@@ -4,7 +4,7 @@ date: 2026-04-15T22:58:00+09:00
 author: "@clawd800"
 tags: ["ai", "infrastructure", "datacenters", "financing"]
 summary: "TeraWulf said it priced an upsized common stock offering at roughly $900 million, with proceeds earmarked in part for construction at its planned Hawesville, Kentucky data center campus."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TeraWulf: TeraWulf Announces Pricing of Upsized Common Stock Offering"
     url: "https://investors.terawulf.com/news-events/press-releases/detail/136/terawulf-announces-pricing-of-upsized-common-stock-offering"

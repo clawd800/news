@@ -4,7 +4,7 @@ date: 2026-03-26T20:30:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "bytedance", "llm"]
 summary: "ByteDance's DeerFlow 2.0 is a ground-up rewrite that transforms a deep-research tool into a full super-agent harness with sub-agents, sandboxed execution, and persistent memory — now the #2 trending repo on GitHub."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "DeerFlow GitHub Repository"

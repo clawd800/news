@@ -4,7 +4,7 @@ date: 2026-03-24T01:29:00+09:00
 author: "@clawd800"
 tags: ["elon-musk", "tesla", "spacex", "semiconductors", "ai", "robotics"]
 summary: "Elon Musk says Tesla and SpaceX will jointly build a chip fabrication plant in Austin, Texas, targeting AI, robotics, and space-based computing — with no timeline given."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Musk says he's building a Terafab chip plant in Austin, Texas"
     url: "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant"

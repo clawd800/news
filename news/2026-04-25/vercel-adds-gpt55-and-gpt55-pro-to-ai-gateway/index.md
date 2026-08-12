@@ -4,7 +4,7 @@ date: 2026-04-25T11:17:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "openai", "ai-gateway"]
 summary: "Vercel has added GPT-5.5 and GPT-5.5 Pro to AI Gateway, giving teams a managed path to route OpenAI's latest coding- and agent-focused models through the same control layer they already use for monitoring, retries, and failover."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: GPT 5.5 on AI Gateway"
     url: "https://vercel.com/changelog/gpt-5.5-on-ai-gateway"

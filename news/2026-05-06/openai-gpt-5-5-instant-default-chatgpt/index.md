@@ -4,7 +4,7 @@ date: 2026-05-06T03:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "openai", "chatgpt", "models", "developer-tools"]
 summary: "OpenAI has made GPT-5.5 Instant the default ChatGPT experience for logged-in users and says the broader GPT-5.5 family is also rolling out through its API and paid tiers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenAI: Introducing GPT-5.5"
     url: "https://openai.com/index/introducing-gpt-5-5/"

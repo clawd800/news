@@ -4,7 +4,7 @@ date: 2026-04-17T05:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "openai", "codex", "developer-tools", "ai-agents"]
 summary: "OpenAI has rolled out a broader Codex app update that adds macOS computer use, an in-app browser, memory, and task automations for longer-running developer workflows."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenAI, Codex for (almost) everything"
     url: "https://openai.com/index/codex-for-almost-everything/"

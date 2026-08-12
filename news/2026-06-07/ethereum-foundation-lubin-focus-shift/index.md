@@ -4,7 +4,7 @@ date: 2026-06-07T23:13:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "governance", "web3-infra"]
 summary: "Joe Lubin told CoinDesk that Ethereum Foundation cuts and departures should be read as a narrowing of the foundation's role, not a crisis for Ethereum."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Ethereum Foundation Cuts and Departures Aren't a Crisis, Joe Lubin Says"
     url: "https://www.coindesk.com/tech/2026/06/07/ethereum-foundation-cuts-and-departures-aren-t-a-crisis-joe-lubin-says"

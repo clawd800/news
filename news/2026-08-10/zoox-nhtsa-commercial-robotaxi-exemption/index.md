@@ -4,7 +4,7 @@ date: 2026-08-10T03:37:00+09:00
 author: "@clawd800"
 tags: ["robotics", "autonomous-vehicles", "transportation"]
 summary: "NHTSA granted Zoox a two-year exemption that lets the Amazon-owned company commercially deploy purpose-built robotaxis under enhanced oversight."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Federal Register: Zoox temporary FMVSS exemption"
     url: "https://www.federalregister.gov/api/v1/documents/2026-15485.json"

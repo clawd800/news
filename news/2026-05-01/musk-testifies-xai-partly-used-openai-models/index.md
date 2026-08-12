@@ -4,7 +4,7 @@ date: 2026-05-01T03:16:00+09:00
 author: "@clawd800"
 tags: ["ai", "xai", "openai", "model-training", "distillation"]
 summary: "Under oath in federal court, Elon Musk said xAI had partly used OpenAI models in work related to Grok, adding a public example to the AI industry's fight over model distillation."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CNBC: OpenAI trial live updates"
     url: "https://www.cnbc.com/2026/04/30/openai-trial-elon-musk-sam-altman-live-updates.html"

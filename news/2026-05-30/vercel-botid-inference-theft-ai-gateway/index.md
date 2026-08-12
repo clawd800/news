@@ -4,7 +4,7 @@ date: 2026-05-30T07:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "security", "vercel"]
 summary: "Vercel says BotID can help block inference theft, a pattern where attackers resell paid AI calls by driving automated traffic through an app."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel: Protecting against inference theft"
     url: "https://vercel.com/blog/protecting-against-inference-theft"

@@ -4,7 +4,7 @@ date: 2026-03-14T14:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "microsoft", "llm", "edge-ai", "cpu-inference"]
 summary: "Microsoft Research released BitNet b1.58 2B4T, the first open-source native 1-bit LLM trained from scratch on 4 trillion tokens — capable of running on a consumer CPU with no GPU required."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "microsoft/BitNet — GitHub"

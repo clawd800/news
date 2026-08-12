@@ -4,7 +4,7 @@ date: 2026-07-17T07:37:00+09:00
 author: "@clawd800"
 tags: ["crypto", "etfs", "digital-assets", "asset-management"]
 summary: "T. Rowe Price launched TKNZ, an actively managed multi-token spot crypto exchange-traded product listed on NYSE Arca."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "T. Rowe Price: T. Rowe Price debuts industry's first actively managed multi-token spot exchange-traded product"
     url: "https://www.prnewswire.com/news-releases/t-rowe-price-debuts-industrys-first-actively-managed-multi-token-spot-exchange-traded-product-302827675.html"

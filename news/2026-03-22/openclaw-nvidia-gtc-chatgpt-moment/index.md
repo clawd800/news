@@ -4,7 +4,7 @@ date: 2026-03-22T19:30:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "nvidia", "openclaw", "open-source", "gtc"]
 summary: "Jensen Huang called OpenClaw 'the next ChatGPT' at GTC 2026, and analysts say the viral AI agent platform is exposing a fault line in Big AI's business model."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities"

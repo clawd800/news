@@ -4,7 +4,7 @@ date: 2026-04-01T08:16:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "bonds", "tradfi", "crypto", "institutional"]
 summary: "New Hampshire's Business Finance Authority is issuing the first Moody's-rated bitcoin-backed bond, backed by BTC held in BitGo custody with 1.6x overcollateralization."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Bitcoin Enters the Public Bond Market"
     url: "https://www.coindesk.com/markets/2026/03/31/bitcoin-enters-the-public-bond-market-as-moody-s-gives-a-first-of-its-kind-crypto-deal-a-rating"

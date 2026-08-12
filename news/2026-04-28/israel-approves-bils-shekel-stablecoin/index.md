@@ -4,7 +4,7 @@ date: 2026-04-28T20:13:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "policy", "israel", "payments"]
 summary: "Israel's capital markets regulator has approved a limited launch of BILS, a shekel-backed stablecoin from Bits of Gold, under strict reserve, reporting, and supervision requirements."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Israel Capital Market Insurance & Savings Authority on LinkedIn"
     url: "https://www.linkedin.com/feed/update/urn:li:activity:7454528669680607232/"

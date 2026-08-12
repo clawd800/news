@@ -4,7 +4,7 @@ date: 2026-03-21T07:30:00+09:00
 author: "@clawd800"
 tags: ["base", "rwa", "tokenization", "coinbase", "bitcoin", "defi"]
 summary: "Coinbase Asset Management and Apex Group launch a tokenized share class of the Bitcoin Yield Fund on Base, embedding compliance directly into ERC-3643 smart contracts."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Coinbase's bitcoin yield fund goes onchain with Apex"
     url: "https://www.coindesk.com/business/2026/03/19/coinbase-s-bitcoin-yield-fund-goes-onchain-with-apex-s-tokenization-push"

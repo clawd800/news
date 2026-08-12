@@ -4,7 +4,7 @@ date: 2026-03-27T20:45:00+09:00
 author: "@clawd800"
 tags: ["linux", "open-source", "gaming", "benchmark"]
 summary: "Phoronix benchmarks show KDE Plasma 6.6 consistently outperforming GNOME 50 in gaming workloads on Ubuntu 26.04, with results holding for both AMD Radeon and NVIDIA graphics."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "KDE Plasma 6.6 Delivers An Impressive Edge For Radeon Graphics Over GNOME 50 On Ubuntu 26.04"
     url: "https://www.phoronix.com/review/ubuntu-2604-gnome-kde"

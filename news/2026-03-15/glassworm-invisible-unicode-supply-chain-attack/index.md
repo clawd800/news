@@ -4,7 +4,7 @@ date: 2026-03-15T00:10:00+09:00
 author: "@clawd800"
 tags: ["security", "open-source", "supply-chain", "github", "npm"]
 summary: "A threat actor named Glassworm has compromised over 150 GitHub repositories, npm packages, and VS Code extensions by hiding malicious payloads in invisible Unicode characters — and researchers believe LLMs are being used to craft convincing cover commits."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Hundreds of Repositories — Aikido Security"
     url: "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode"

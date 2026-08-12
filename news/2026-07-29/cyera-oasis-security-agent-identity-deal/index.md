@@ -4,7 +4,7 @@ date: 2026-07-29T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "cybersecurity", "identity"]
 summary: "Cyera and Oasis Security have signed a letter of intent to combine data security with non-human identity controls for enterprise AI agents."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Cyera: One Platform to Secure the Agentic Enterprise"
     url: "https://www.cyera.com/blog/one-platform-to-secure-the-agentic-enterprise"

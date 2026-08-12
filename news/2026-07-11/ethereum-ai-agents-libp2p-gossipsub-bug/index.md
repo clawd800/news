@@ -4,7 +4,7 @@ date: 2026-07-11T23:37:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "ai-agents", "security", "developer-infra"]
 summary: "Ethereum Foundation security researchers used AI agents to find a remotely reachable libp2p gossipsub panic, but said human triage remained the hard part."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ethereum Foundation: The triage is the product"
     url: "https://blog.ethereum.org/2026/07/09/triage-is-the-product"

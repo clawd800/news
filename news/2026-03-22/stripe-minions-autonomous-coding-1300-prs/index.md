@@ -4,7 +4,7 @@ date: 2026-03-22T18:35:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "coding", "developer-tools", "open-source", "stripe"]
 summary: "Stripe's autonomous coding agents, called Minions, now produce over 1,300 pull requests per week — all human-reviewed but zero human-written — running on infrastructure that handles more than $1 trillion in annual payment volume."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Minions: Stripe's one-shot, end-to-end coding agents"
     url: "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents"

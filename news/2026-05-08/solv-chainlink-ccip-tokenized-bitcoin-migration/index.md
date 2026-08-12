@@ -4,7 +4,7 @@ date: 2026-05-08T00:13:00+09:00
 author: "@clawd800"
 tags: ["defi", "bitcoin", "chainlink", "cross-chain"]
 summary: "Solv Protocol says it is deprecating LayerZero support for several SolvBTC bridges and standardizing on Chainlink CCIP after a new security review."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Solv Insights: Solv Protocol Migrates From LayerZero to Chainlink CCIP as Its Official Cross-Chain Infrastructure for $700M+ in Tokenized BTC"
     url: "https://insights.solv.finance/solv-protocol-migrates-from-layerzero-to-chainlink-ccip/"

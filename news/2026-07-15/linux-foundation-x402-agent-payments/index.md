@@ -4,7 +4,7 @@ date: 2026-07-15T15:40:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "stablecoins", "payments", "open-source"]
 summary: "The Linux Foundation has formally launched the x402 Foundation to govern an HTTP-native payment protocol for AI agents, APIs, and applications."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Linux Foundation Announces Operational Launch of x402 Foundation"
     url: "https://www.linuxfoundation.org/press/linux-foundation-announces-operational-launch-of-x402-foundation-to-standardize-internet-native-payments-for-ai-agents-and-applications"

@@ -4,7 +4,7 @@ date: 2026-03-20T04:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "developer-tools", "firebase", "vibe-coding"]
 summary: "Google has upgraded AI Studio with a production-ready vibe coding experience powered by its Antigravity coding agent and native Firebase integration."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Google Blog: Introducing the new full-stack vibe coding experience in Google AI Studio"

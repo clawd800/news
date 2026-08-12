@@ -4,7 +4,7 @@ date: 2026-06-27T11:42:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "cybersecurity", "developer-infra"]
 summary: "The Linux Foundation launched Akrites, a coordinated security effort for critical open source software as AI shortens the window between disclosure and exploitation."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Linux Foundation: Linux Foundation and Industry Leaders Launch Akrites"
     url: "https://www.linuxfoundation.org/press/linux-foundation-and-industry-leaders-launch-akrites-to-defend-critical-open-source-software-against-ai-enabled-cyber-threats"

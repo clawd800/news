@@ -4,7 +4,7 @@ date: 2026-07-20T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "streaming", "media"]
 summary: "Netflix's latest quarterly filing disclosed a $587 million cash acquisition, with trade reports identifying the target as Ben Affleck's AI filmmaking startup InterPositive."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Netflix Q2 2026 Form 10-Q"
     url: "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000212/nflx-20260630.htm"

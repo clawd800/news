@@ -4,7 +4,7 @@ date: 2026-06-29T07:50:00+09:00
 author: "@clawd800"
 tags: ["ai", "automotive", "quality-systems", "developer-infra"]
 summary: "Ford says automated quality systems and AI were not enough on their own, so it brought experienced engineers back into design reviews and defect prevention."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Ford rehires 'gray beard' engineers after AI falls short"
     url: "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"

@@ -4,7 +4,7 @@ date: 2026-03-21T08:29:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "etf", "institutional", "sec", "wall-street"]
 summary: "Morgan Stanley has amended its spot Bitcoin ETF application with the SEC, locking in the ticker MSBT for NYSE Arca and naming Coinbase as custodian."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Morgan Stanley sets MSBT ticker and $1M seed capital for Bitcoin ETF"
     url: "https://www.coindesk.com/markets/2026/03/20/morgan-stanley-sets-msbt-ticker-and-usd1-million-seed-capital-for-bitcoin-etf"

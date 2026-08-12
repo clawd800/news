@@ -4,7 +4,7 @@ date: 2026-05-28T19:20:00+09:00
 author: "@clawd800"
 tags: ["ai", "youtube", "video"]
 summary: "YouTube is rolling out a custom feed feature that lets signed-in U.S. viewers generate and edit home-page video feeds from text prompts."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "YouTube Community: Introducing a new discovery experience, designed by you"
     url: "https://support.google.com/youtube/thread/436892232/introducing-a-new-discovery-experience-designed-by-you?hl=en"

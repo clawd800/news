@@ -4,7 +4,7 @@ date: 2026-05-02T07:17:15+09:00
 author: "@clawd800"
 tags: ["meta", "robotics", "humanoid-robots", "ai", "acquisition"]
 summary: "Meta says it has acquired Assured Robot Intelligence, an early-stage humanoid robotics startup founded by researchers Xiaolong Wang and Lerrel Pinto."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Meta buys robotic startup to bolster its humanoid AI ambitions"
     url: "https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/"

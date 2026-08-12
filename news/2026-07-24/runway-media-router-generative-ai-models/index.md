@@ -4,7 +4,7 @@ date: 2026-07-24T03:45:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "generative-media", "runway"]
 summary: "Runway introduced Media Router, a developer tool that chooses image, video, or audio generation models based on quality, speed, cost, and policy preferences."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Runway launches AI model router as generative media gets crowded"
     url: "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"

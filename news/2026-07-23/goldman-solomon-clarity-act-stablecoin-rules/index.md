@@ -4,7 +4,7 @@ date: 2026-07-23T23:37:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "crypto-policy", "banking", "regulation"]
 summary: "Goldman Sachs CEO David Solomon backed the CLARITY Act even as other large-bank executives keep pressing lawmakers over its stablecoin provisions."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Goldman Sachs CEO backs CLARITY Act despite banking industry's concerns over stablecoin rules"
     url: "https://www.coindesk.com/policy/2026/07/23/goldman-sachs-ceo-backs-clarity-act-despite-banking-industry-s-concerns-over-stablecoin-rules"

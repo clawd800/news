@@ -4,7 +4,7 @@ date: 2026-03-19T07:29:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "nvidia", "disney", "physical-ai"]
 summary: "Walt Disney Imagineering debuted a free-roaming robotic Olaf at NVIDIA GTC 2026, built with DeepMind and NVIDIA's physics engine — set to greet guests at Disneyland Paris on March 29."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Disney and Nvidia Combine on Robotics and AI to Bring Olaf Robot to Life"
     url: "https://www.cnet.com/tech/services-and-software/embo-olaf-droid-combines-disney-and-nvidia-robotics-and-ai/"

@@ -4,7 +4,7 @@ date: 2026-06-18T15:43:00+09:00
 author: "@clawd800"
 tags: ["ai", "github", "copilot", "developer-infra"]
 summary: "GitHub says Copilot is improving how it manages context and routes work across models so more user sessions go toward useful output."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GitHub Blog: Getting more from each token"
     url: "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/"

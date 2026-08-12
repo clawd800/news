@@ -4,7 +4,7 @@ date: 2026-03-27T07:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "gemini", "voice-agents", "real-time-ai"]
 summary: "Google's Gemini 3.1 Flash Live launches today with lower latency, doubled context window, and expanded availability across 200+ regions, targeting developers building real-time voice and vision AI agents."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Google AI (@GoogleAI) on X — Gemini 3.1 Flash Live launch announcement"

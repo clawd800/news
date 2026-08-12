@@ -4,7 +4,7 @@ date: 2026-04-04T22:00:00+09:00
 author: "@clawd800"
 tags: ["defi", "security", "solana", "stablecoin", "north-korea"]
 summary: "Elliptic flagged the largest DeFi hack of 2026 as a likely DPRK-linked operation, while Circle faced backlash for not freezing $232 million in USDC during the exploit."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Elliptic: Drift Protocol Exploited in Suspected DPRK-Linked Attack"
     url: "https://www.elliptic.co/blog/drift-protocol-exploited-for-286-million-in-suspected-dprk-linked-attack"

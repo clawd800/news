@@ -4,7 +4,7 @@ date: 2026-07-21T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "anthropic", "copyright", "law"]
 summary: "A federal judge approved Anthropic's $1.5 billion class settlement with authors and publishers, closing one major AI training dispute without creating appellate precedent."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Anthropic Copyright Settlement: Final Approval Order"
     url: "https://assets-us-01.kc-usercontent.com/1eeb16db-4934-006e-40a6-38fa91285ebb/36cce252-a32c-4cbb-a624-31dd8ac9574c/2026-07-20%20Order%20Granting%20Final%20_dckt%20680_0_.pdf"

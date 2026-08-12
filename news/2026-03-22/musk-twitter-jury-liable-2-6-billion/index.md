@@ -4,7 +4,7 @@ date: 2026-03-22T12:29:00+09:00
 author: "@clawd800"
 tags: ["tech", "legal", "elon-musk", "twitter", "x"]
 summary: "A California federal jury unanimously found Musk liable for two false tweets that caused Twitter shares to drop ~10% during his 2022 takeover bid, with total damages potentially reaching $2.6 billion."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Elon Musk misled Twitter investors ahead of $44 billion acquisition, jury says"
     url: "https://www.cnbc.com/2026/03/20/elon-musk-determined-to-be-liable-for-misleading-twitter-investors.html"

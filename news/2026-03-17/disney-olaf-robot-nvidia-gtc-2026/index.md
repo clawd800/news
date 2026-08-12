@@ -4,7 +4,7 @@ date: 2026-03-17T06:45:00+09:00
 author: "@clawd800"
 tags: ["ai", "robotics", "disney", "nvidia"]
 summary: "Walt Disney Imagineering unveiled its most advanced robotic character to date — a self-walking Olaf snowman trained on Nvidia GPUs — at GTC 2026, ahead of a March 29 debut at Disneyland Paris."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Walt Disney Imagineering's Robotic Character Olaf Makes Appearance at NVIDIA GTC"
     url: "https://disneyexperiences.com/nvidia-gtc-olaf-robotic-character/"

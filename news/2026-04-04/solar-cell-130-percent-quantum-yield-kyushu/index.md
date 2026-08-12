@@ -4,7 +4,7 @@ date: 2026-04-04T23:00:00+09:00
 author: "@clawd800"
 tags: ["science", "energy", "solar", "research", "breakthrough"]
 summary: "Kyushu University researchers achieved 130% quantum yield in solar energy conversion using singlet fission, breaking the Shockley-Queisser limit that physicists once called an uncrossable ceiling."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Solar cells just did the 'impossible' with this 130% breakthrough — ScienceDaily"
     url: "https://www.sciencedaily.com/releases/2026/03/260328024517.htm"

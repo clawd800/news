@@ -4,7 +4,7 @@ date: 2026-04-05T14:03:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "base", "ai-agents", "agentic-commerce", "coinbase", "payments"]
 summary: "The global stablecoin market reached $317 billion on April 4 with $1.36B in weekly inflows, as Base hit a new all-time high in daily stablecoin volume driven by growing AI agent transaction activity."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "CryptoTimes: Stablecoin Market Hits $317B Amid $1.36B Weekly Inflows"

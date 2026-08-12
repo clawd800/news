@@ -4,7 +4,7 @@ date: 2026-06-10T11:20:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "ai-gateway"]
 summary: "Vercel has added budget controls for AI Gateway API keys, extending its cost-governance layer for teams routing model traffic through the service."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: Budgets for API keys on AI Gateway"
     url: "https://vercel.com/changelog/budgets-for-api-keys-on-ai-gateway"

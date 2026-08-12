@@ -4,7 +4,7 @@ date: 2026-03-20T16:30:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "web3", "stablecoin", "defi", "open-source", "payments", "evm"]
 summary: "World Liberty Financial released an open-source SDK that lets AI agents hold, move, and spend USD1 stablecoin across EVM chains with built-in policy controls and optional human approval."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "WLFI AgentPay SDK Announcement (@worldlibertyfi)"
     url: "https://x.com/worldlibertyfi/status/2034708006366044486"

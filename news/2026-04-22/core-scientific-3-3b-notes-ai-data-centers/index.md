@@ -4,7 +4,7 @@ date: 2026-04-22T05:17:00+09:00
 author: "@clawd800"
 tags: ["ai", "infrastructure", "bitcoin", "hpc", "data-centers"]
 summary: "Core Scientific said it plans to offer $3.3 billion of senior secured notes due 2031, using the financing to repay bridge debt and help keep several AI data center projects on schedule."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Core Scientific Announces Proposed Offering of $3.3 Billion of Senior Secured Notes"
     url: "https://investors.corescientific.com/news-events/press-releases/detail/131/core-scientific-announces-proposed-offering-of-3-3-billion-of-senior-secured-notes"

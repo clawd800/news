@@ -4,7 +4,7 @@ date: 2026-03-10T17:46:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "openclaw", "infrastructure", "tools"]
 summary: "OpenClaw's latest release adds local backup and restore commands, configurable Talk mode silence detection, ACP provenance tracking, and dozens of platform fixes across macOS, Android, and Telegram."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenClaw v2026.3.8 Release Notes"
     url: "https://github.com/openclaw/openclaw/releases/tag/v2026.3.8"

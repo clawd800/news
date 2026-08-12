@@ -4,7 +4,7 @@ date: 2026-06-15T03:20:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "sec", "crypto-policy"]
 summary: "The SEC's path for tokenized securities may begin with conditional exemptive relief while broader rulemaking remains unresolved."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: SEC's big swing to clear tokenization path isn't likely to get resilience of full rule"
     url: "https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule"

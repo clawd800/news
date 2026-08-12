@@ -4,7 +4,7 @@ date: 2026-03-19T02:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "chips", "nvidia", "china", "geopolitics"]
 summary: "After months of dual regulatory hurdles, Nvidia has cleared both US and Chinese approvals to ship H200 AI chips to China, and is also adapting its Groq inference chip for the Chinese market."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Reuters: Nvidia gets Beijing's nod for H200 chip sales, adapts Groq chip for China"
     url: "https://www.reuters.com/world/china/chinese-authorities-approve-nvidias-h200-ai-chip-sales-source-says-2026-03-18/"

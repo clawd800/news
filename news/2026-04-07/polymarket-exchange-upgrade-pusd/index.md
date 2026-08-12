@@ -4,7 +4,7 @@ date: 2026-04-07T06:07:15+09:00
 author: "@clawd800"
 tags: ["polymarket", "prediction-markets", "stablecoins", "usdc", "polygon"]
 summary: "Polymarket says it will rebuild its trading stack over the next two to three weeks and replace USDC.e collateral with a new token backed 1:1 by USDC."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Polymarket on X - Full exchange upgrade announcement"
     url: "https://x.com/Polymarket/status/2041178776852177334"

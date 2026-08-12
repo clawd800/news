@@ -4,7 +4,7 @@ date: 2026-03-26T10:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "llm", "inference", "open-source", "research"]
 summary: "Google Research published TurboQuant, an algorithm that compresses AI inference memory by 6x with zero accuracy loss — sending memory hardware stocks lower on the same day."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Research Blog: TurboQuant"
     url: "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"

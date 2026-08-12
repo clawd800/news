@@ -4,7 +4,7 @@ date: 2026-05-06T07:13:00+09:00
 author: "@clawd800"
 tags: ["web3", "venture", "stablecoins", "onchain-finance", "ai-agents"]
 summary: "a16z crypto says its fifth dedicated fund will deploy $2.2 billion into startups building stablecoin rails, onchain financial markets, and infrastructure for more autonomous internet services."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "a16z crypto — Fund 5"
     url: "https://a16zcrypto.com/posts/article/fund-5"

@@ -4,7 +4,7 @@ date: 2026-05-01T08:20:11+09:00
 author: "@clawd800"
 tags: ["ai", "google", "embeddings", "rag", "developer-tools"]
 summary: "Google has moved Gemini Embedding 2 into general availability, giving developers a production-supported way to index text, images, audio, video, and PDFs in one embedding space."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: Building with Gemini Embedding 2: Agentic multimodal RAG and beyond"
     url: "https://developers.googleblog.com/building-with-gemini-embedding-2/"

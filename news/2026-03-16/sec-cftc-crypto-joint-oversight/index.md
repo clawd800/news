@@ -4,7 +4,7 @@ date: 2026-03-16T19:30:00+09:00
 author: "@clawd800"
 tags: ["regulation", "sec", "cftc", "crypto", "policy", "digital-assets"]
 summary: "The two main US financial regulators signed a memorandum of understanding on March 11 to coordinate crypto oversight, ending years of conflicting rules and overlapping enforcement actions."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "SEC, CFTC end years of rivalry with deal that will mean combined crypto oversight"
     url: "https://www.coindesk.com/policy/2026/03/11/sec-cftc-end-years-of-rivalry-with-deal-that-will-mean-combined-crypto-oversight"

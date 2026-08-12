@@ -4,7 +4,7 @@ date: 2026-03-25T18:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "legal", "grok", "xai", "deepfakes", "regulation"]
 summary: "Baltimore filed the first U.S. city-level lawsuit against Elon Musk's xAI, alleging Grok generated millions of non-consensual sexually explicit deepfakes — including thousands depicting minors."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Baltimore Becomes the Latest to Sue Elon Musk's X and xAI Over Grok Deepfakes"
     url: "https://decrypt.co/362265/baltimore-sues-x-xai-grok-deepfakes"

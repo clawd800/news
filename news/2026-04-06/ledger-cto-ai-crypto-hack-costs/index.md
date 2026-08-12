@@ -4,7 +4,7 @@ date: 2026-04-06T00:05:00+09:00
 author: "@clawd800"
 tags: ["security", "ai", "crypto", "defi", "hardware"]
 summary: "Ledger's CTO says AI tools are eroding the economics of cybersecurity by making vulnerability discovery and exploitation dramatically cheaper — calling traditional code audits insufficient."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "AI is making crypto's security problem even worse, Ledger CTO warns — CoinDesk"
     url: "https://www.coindesk.com/tech/2026/04/05/ai-is-making-crypto-s-security-problem-even-worse-ledger-cto-warns"

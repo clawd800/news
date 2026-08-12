@@ -4,7 +4,7 @@ date: 2026-04-03T03:05:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "google", "gemma", "on-device-ai"]
 summary: "Google DeepMind releases Gemma 4, a family of four open-weight models with native agentic capabilities, now under Apache 2.0 license — running everywhere from Raspberry Pi to H100 GPUs."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Google Developers Blog: Gemma 4 Launch"

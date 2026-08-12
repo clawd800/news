@@ -4,7 +4,7 @@ date: 2026-04-22T02:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "privacy", "facial-recognition", "regulation"]
 summary: "Reuters reports Clarifai deleted nearly 3 million OkCupid photos and related facial-recognition models after an FTC case over how the dating app shared user data in 2014."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "FTC: Match and OkCupid settlement press release"
     url: "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party"

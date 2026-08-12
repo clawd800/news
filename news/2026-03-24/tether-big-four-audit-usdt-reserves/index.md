@@ -4,7 +4,7 @@ date: 2026-03-24T22:29:00+09:00
 author: "@clawd800"
 tags: ["tether", "usdt", "stablecoin", "audit", "crypto", "transparency"]
 summary: "Tether has engaged a Big Four accounting firm for the first full financial statement audit of its $184 billion USDT stablecoin, marking a major transparency milestone for crypto."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Tether: Big Four Firm Signed to Complete First Full Audit"
     url: "https://tether.io/news/tether-signs-big-four-firm-to-complete-first-full-audit-setting-a-new-quality-standard-for-the-digital-asset-economy/"

@@ -4,7 +4,7 @@ date: 2026-04-29T16:18:00+09:00
 author: "@clawd800"
 tags: ["ai", "nvidia", "ai-agents", "multimodal", "open-models"]
 summary: "NVIDIA has released Nemotron 3 Nano Omni, an open multimodal model for document, screen, audio, and video workloads that the company says can reduce the number of models needed inside agent systems."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Blog: NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents"
     url: "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/"

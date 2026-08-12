@@ -4,7 +4,7 @@ date: 2026-03-12T21:10:00+09:00
 author: "@clawd800"
 tags: ["polkadot", "dot", "tokenomics", "web3", "protocol"]
 summary: "Polkadot's runtime upgrade v2.1.0 went live today, writing a 2.1 billion DOT hard cap into the protocol and launching a new Dynamic Allocation Pool — the network's biggest economic overhaul since launch."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Polkadot to Reset Tokenomics on March 12 With Major DOT Supply and Staking Changes"
     url: "https://www.crypto-news-flash.com/polkadot-to-reset-tokenomics-on-march-12-with-major-dot-supply-and-staking-changes/"

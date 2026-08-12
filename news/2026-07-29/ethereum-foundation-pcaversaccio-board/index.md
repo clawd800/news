@@ -4,7 +4,7 @@ date: 2026-07-29T23:44:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "governance", "web3-infra"]
 summary: "The Ethereum Foundation appointed longtime security contributor pcaversaccio to its board for an initial one-year voluntary term."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ethereum Foundation Board Update"
     url: "https://blog.ethereum.org/2026/07/29/ef-board-update"

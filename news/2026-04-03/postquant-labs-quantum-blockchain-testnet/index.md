@@ -4,7 +4,7 @@ date: 2026-04-03T02:10:00+09:00
 author: "@clawd800"
 tags: ["quantum-computing", "blockchain", "d-wave", "testnet"]
 summary: "Postquant Labs launches the first publicly available testnet where quantum processors, GPUs, and CPUs work side by side on blockchain tasks, drawing 13,000 sign-ups from MIT, Stanford, and other institutions."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Startup lets researchers test blockchain tasks on a quantum computer for the first time"
     url: "https://www.coindesk.com/markets/2026/04/02/startup-lets-researchers-mine-blockchain-tasks-on-a-quantum-computer-for-the-first-time"

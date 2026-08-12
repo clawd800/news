@@ -4,7 +4,7 @@ date: 2026-03-18T19:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "enterprise", "mistral", "llm", "open-source"]
 summary: "Mistral AI has launched Forge, an enterprise platform that lets companies train frontier-grade AI models on proprietary data — going beyond fine-tuning to full model training from scratch."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Mistral bets on 'build-your-own AI' as it takes on OpenAI, Anthropic in the enterprise — TechCrunch"

@@ -4,7 +4,7 @@ date: 2026-07-03T19:37:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "imf", "stablecoins", "financial-infrastructure"]
 summary: "The IMF says tokenized finance could make settlement faster and cheaper, but also move risk into new infrastructure and speed up market stress."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "IMF Blog: Tokenization Can Change the World's Financial Architecture"
     url: "https://www.imf.org/en/blogs/articles/2026/07/02/tokenization-can-change-the-worlds-financial-architecture"

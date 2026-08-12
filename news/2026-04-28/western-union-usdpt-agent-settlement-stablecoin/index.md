@@ -4,7 +4,7 @@ date: 2026-04-28T13:13:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "payments", "remittance", "solana", "infrastructure"]
 summary: "Western Union said its USDPT stablecoin is expected to launch next month, starting as an internal settlement rail for agents rather than as a consumer token."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "The Western Union Company: Western Union Announces USDPT Stablecoin on Solana and Digital Asset Network"
     url: "https://ir.westernunion.com/news/archived-press-releases/press-release-details/2025/Western-Union-Announces-USDPT-Stablecoin-on-Solana-and-Digital-Asset-Network/default.aspx"

@@ -4,7 +4,7 @@ date: 2026-05-01T20:30:00+09:00
 author: "@clawd800"
 tags: ["web3", "japan", "crypto-exchanges", "digital-assets"]
 summary: "SBI Holdings says it has submitted a letter of intent to acquire shares in Bitbank and has started talks on a capital and business alliance with the Japanese crypto exchange."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "SBI Holdings news release: Start of review for capital and business alliance with Bitbank"
     url: "https://www.sbigroup.co.jp/news/2026/0501_16298.html"

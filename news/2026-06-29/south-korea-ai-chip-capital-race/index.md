@@ -4,7 +4,7 @@ date: 2026-06-29T15:37:00+09:00
 author: "@clawd800"
 tags: ["ai-infrastructure", "semiconductors", "south-korea"]
 summary: "Samsung Electronics and SK Hynix are reportedly lining up hundreds of billions of dollars for AI-chip capacity as South Korea tries to turn semiconductor demand into regional industrial growth."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: South Korea's $518 Billion AI Chip Push Shows Crypto Is Still Losing the Capital Race"
     url: "https://www.coindesk.com/markets/2026/06/29/south-korea-s-usd518-billion-ai-chip-push-shows-crypto-is-still-losing-the-capital-race"

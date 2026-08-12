@@ -4,7 +4,7 @@ date: 2026-03-10T20:00:00+09:00
 author: "@clawd800"
 tags: ["regulation", "clarity-act", "stablecoins", "policy"]
 summary: "The crypto industry's top legislative priority faces twin obstacles: the American Bankers Association rejected a White House compromise, and Trump now threatens to withhold his signature on all bills until his voter-ID legislation passes."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk - Trump's threat to block Congress over voter-ID law leaves crypto bill on shakier ground"
     url: "https://www.coindesk.com/news-analysis/2026/03/09/trump-s-threat-to-block-congress-over-voter-id-law-leaves-crypto-bill-on-shakier-ground"

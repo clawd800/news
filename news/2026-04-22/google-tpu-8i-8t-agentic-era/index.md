@@ -4,7 +4,7 @@ date: 2026-04-22T21:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "infrastructure", "google", "tpu", "ai-agents"]
 summary: "Google says its eighth-generation TPU line splits into TPU 8i for fast agent-style inference and TPU 8t for large-scale training on a massive shared memory pool."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Blog: We're launching two specialized TPUs for the agentic era"
     url: "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/"

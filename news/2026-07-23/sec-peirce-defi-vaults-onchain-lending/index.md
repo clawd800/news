@@ -4,7 +4,7 @@ date: 2026-07-23T03:50:00+09:00
 author: "@clawd800"
 tags: ["defi", "sec", "crypto-policy", "onchain-lending"]
 summary: "SEC Commissioner Hester Peirce warned that some crypto vaults and onchain lending strategies may still fall under securities laws depending on how they are structured."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "SEC: Headstands and Summervaults"
     url: "https://www.sec.gov/newsroom/speeches-statements/peirce-statement-crypto-vaults-lending-strategies-072226"

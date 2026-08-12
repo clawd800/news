@@ -4,7 +4,7 @@ date: 2026-04-01T23:16:00+09:00
 author: "@clawd800"
 tags: ["ai", "venture capital", "funding", "startups"]
 summary: "Global venture investment hit $297 billion in Q1 2026, up 150% year over year. AI startups captured 81% of all funding, with just four companies — OpenAI, Anthropic, xAI, and Waymo — raising 64% of the total."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Crunchbase: Q1 2026 Shatters Venture Funding Records"
     url: "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/"

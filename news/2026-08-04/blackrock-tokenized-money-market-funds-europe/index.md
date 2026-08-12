@@ -4,7 +4,7 @@ date: 2026-08-04T19:45:00+09:00
 author: "@clawd800"
 tags: ["blackrock", "tokenization", "rwa", "money-market-funds"]
 summary: "BlackRock has added tokenized share classes for European money market funds, extending institutional cash products onto blockchain-based holding and transfer rails."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: BlackRock debuts tokenized access to $311 billion of money market funds in Europe"
     url: "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe"

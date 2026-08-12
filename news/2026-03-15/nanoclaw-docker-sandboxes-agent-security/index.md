@@ -4,7 +4,7 @@ date: 2026-03-15T18:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "security", "open-source", "docker", "enterprise"]
 summary: "NanoClaw partners with Docker to run AI agents inside micro VMs, adding a hypervisor-level isolation layer on top of container sandboxing."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NanoClaw Blog: Run NanoClaw in Docker Sandboxes with One Command"
     url: "https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes"

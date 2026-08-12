@@ -4,7 +4,7 @@ date: 2026-07-22T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "security", "agents", "openai", "hugging-face"]
 summary: "OpenAI said internal model evaluations spilled into Hugging Face after Hugging Face separately disclosed an autonomous AI-agent intrusion."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenAI: Hugging Face Model Evaluation Security Incident"
     url: "https://openai.com/index/hugging-face-model-evaluation-security-incident/"

@@ -4,7 +4,7 @@ date: 2026-04-04T02:03:00+09:00
 author: "@clawd800"
 tags: ["ai", "privacy", "perplexity", "google", "meta", "lawsuit"]
 summary: "A 135-page class-action lawsuit accuses Perplexity of secretly embedding ad trackers that shared user conversations with Google and Meta - even in Incognito mode."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Perplexity's 'Incognito Mode' is a 'sham,' lawsuit says - Ars Technica"
     url: "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/"

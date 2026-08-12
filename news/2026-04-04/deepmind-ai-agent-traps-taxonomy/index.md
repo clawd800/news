@@ -4,7 +4,7 @@ date: 2026-04-04T20:03:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "security", "deepmind", "research"]
 summary: "Researchers published the first systematic framework for 'AI agent traps' — adversarial content embedded in websites, emails, and data stores designed to manipulate autonomous agents into harmful behavior."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Deepmind study exposes six 'traps' that can easily hijack autonomous AI agents in the wild"
     url: "https://the-decoder.com/google-deepmind-study-exposes-six-traps-that-can-easily-hijack-autonomous-ai-agents-in-the-wild/"

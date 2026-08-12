@@ -4,7 +4,7 @@ date: 2026-03-20T03:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "semiconductors", "hbm", "samsung", "chips"]
 summary: "Samsung Electronics plans to spend over $73 billion on AI chip research, development, and manufacturing in 2026 — a 22% increase from 2025 — targeting dominance in high-bandwidth memory and advanced node production."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Samsung plans $73Bn AI chip investment for 2026 amid rising HBM demand"
     url: "https://thetechportal.com/2026/03/19/samsung-plans-73bn-ai-chip-investment-for-2026-amid-rising-hbm-demand"

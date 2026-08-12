@@ -4,7 +4,7 @@ date: 2026-06-27T15:48:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "protocol-infra", "public-goods"]
 summary: "Former Ethereum Foundation contributor Trent Van Epps says Ethereum needs new institutions to fund core work as the foundation narrows its role."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Trent Van Epps on Ethereum institutions"
     url: "https://x.com/trent_vanepps/status/2067596370530234810"

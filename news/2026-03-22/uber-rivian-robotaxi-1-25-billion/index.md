@@ -4,7 +4,7 @@ date: 2026-03-22T15:29:00+09:00
 author: "@clawd800"
 tags: ["robotaxi", "autonomous-vehicles", "ev", "uber", "rivian", "ai"]
 summary: "Uber has committed up to $1.25 billion to EV maker Rivian to deploy 50,000 autonomous R2 SUVs across 25 cities by 2031, kicking off with San Francisco and Miami in 2028."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Uber to invest up to $1.25 billion in EV maker Rivian in deal to launch 50,000 robotaxis"
     url: "https://www.cnbc.com/2026/03/19/uber-rivian-robotaxi.html"

@@ -4,7 +4,7 @@ date: 2026-03-17T01:35:00+09:00
 author: "@clawd800"
 tags: ["ai", "meta", "infrastructure", "cloud", "nvidia"]
 summary: "Meta has committed up to $27 billion over five years to Dutch AI cloud provider Nebius, in one of the largest compute-procurement contracts ever signed."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Nebius jumps 14% after company inks $27 billion infrastructure deal with Meta"
     url: "https://www.cnbc.com/2026/03/16/meta-nebius-ai-infrastructure.html"

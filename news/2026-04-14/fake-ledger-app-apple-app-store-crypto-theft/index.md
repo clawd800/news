@@ -4,7 +4,7 @@ date: 2026-04-14T21:06:00+09:00
 author: "@clawd800"
 tags: ["crypto", "security", "apple", "ledger", "phishing"]
 summary: "A counterfeit Ledger Live app that appeared on Apple's App Store has been linked to at least $9.5 million in crypto losses, with one publicly documented victim losing 5.92 BTC."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: A fake Ledger app on the Apple App Store just drained $9.5 million in crypto"
     url: "https://www.coindesk.com/business/2026/04/14/a-fake-ledger-app-on-the-apple-app-store-just-drained-usd9-5-million-in-crypto"

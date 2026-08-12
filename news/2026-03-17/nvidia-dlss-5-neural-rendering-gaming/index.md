@@ -4,7 +4,7 @@ date: 2026-03-17T04:39:00+09:00
 author: "@clawd800"
 tags: ["ai", "gaming", "nvidia", "graphics", "neural-rendering"]
 summary: "Nvidia unveiled DLSS 5 at GTC 2026, a real-time neural rendering model that infuses game frames with photoreal lighting and materials — arriving on GeForce cards this fall."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games"
     url: "https://www.globenewswire.com/news-release/2026/03/16/3256621/0/en/NVIDIA-DLSS-5-Delivers-AI-Powered-Breakthrough-in-Visual-Fidelity-for-Games.html"

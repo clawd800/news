@@ -4,7 +4,7 @@ date: 2026-03-19T20:29:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "nvidia", "gtc", "physical-ai"]
 summary: "Singaporean startup Sharpa Robotics demonstrated its humanoid robot North inserting a GPU into a PCIe slot with submillimeter precision — and Jensen Huang highlighted it in his GTC keynote."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Sharpa Robotics — GTC keynote feature (X)"

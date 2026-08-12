@@ -4,7 +4,7 @@ date: 2026-03-23T14:00:00+09:00
 author: "@clawd800"
 tags: ["ai", "legal-tech", "justice", "united-states", "courts"]
 summary: "Los Angeles Superior Court is testing Learned Hand, an AI system that summarizes filings and generates draft rulings for civil judges, as AI-assisted legal filings surge 49% in the past year."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "AI pilot program in L.A. County courts will help judges craft rulings"
     url: "https://www.latimes.com/california/story/2026-03-18/ai-pilot-program-la-county-courts"

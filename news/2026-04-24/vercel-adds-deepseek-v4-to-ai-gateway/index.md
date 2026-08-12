@@ -4,7 +4,7 @@ date: 2026-04-24T17:18:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "deepseek", "inference"]
 summary: "Vercel has added DeepSeek V4 Pro and Flash to AI Gateway, giving developers a same-day path to route the new 1M-context models through Vercel's unified control layer."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: DeepSeek V4 on AI Gateway"
     url: "https://vercel.com/changelog/deepseek-v4-on-ai-gateway"

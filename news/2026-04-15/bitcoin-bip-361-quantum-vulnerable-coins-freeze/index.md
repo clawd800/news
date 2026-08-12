@@ -4,7 +4,7 @@ date: 2026-04-15T17:04:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "quantum-computing", "security", "bips", "cryptography"]
 summary: "A newly merged draft in Bitcoin's BIP repository proposes a staged migration that would eventually reject legacy signatures and freeze coins left on quantum-vulnerable outputs."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Bitcoin BIPs: BIP-361 - Post Quantum Migration and Legacy Signature Sunset"
     url: "https://github.com/bitcoin/bips/blob/master/bip-0361.mediawiki"

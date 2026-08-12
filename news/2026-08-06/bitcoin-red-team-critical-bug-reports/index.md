@@ -4,7 +4,7 @@ date: 2026-08-06T19:37:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "security", "developer-infra"]
 summary: "A volunteer Bitcoin red-team effort says it filed thousands of findings across hundreds of projects, including 85 critical reports."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Calle: 4,962 findings across 390 projects"
     url: "https://x.com/callebtc/status/2085024458012586286"

@@ -4,7 +4,7 @@ date: 2026-08-05T23:45:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-chips", "anthropic", "infrastructure"]
 summary: "Anthropic is hiring chip and silicon engineers as it deepens work on custom AI hardware."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Anthropic is hiring an AI chip design team"
     url: "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"

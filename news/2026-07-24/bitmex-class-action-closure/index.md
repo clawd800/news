@@ -4,7 +4,7 @@ date: 2026-07-24T19:37:00+09:00
 author: "@clawd800"
 tags: ["web3", "crypto-exchanges", "derivatives"]
 summary: "BitMEX faces a proposed class action over alleged bitcoin liquidation losses as the derivatives exchange prepares to close on September 23."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "BitMEX Exchange to Sunset on 23 September at 04:00 UTC"
     url: "https://www.bitmex.com/blog/bitmex-closure"

@@ -4,7 +4,7 @@ date: 2026-04-21T08:16:00+09:00
 author: "@clawd800"
 tags: ["ai", "infrastructure", "aws", "anthropic", "cloud"]
 summary: "Amazon said it will invest $5 billion in Anthropic immediately, with up to $20 billion more tied to milestones, as Anthropic commits to spend over $100 billion on AWS infrastructure over the next decade."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Amazon: Amazon announces $5B Anthropic investment, up to $20B more"
     url: "https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai"

@@ -4,7 +4,7 @@ date: 2026-03-19T13:30:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "defi", "morpho", "treasury"]
 summary: "The Ethereum Foundation deployed another 3,400 ETH into Morpho's DeFi vaults, bringing its total commitment to ~$19M and signaling a clear shift away from selling ETH to fund operations."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ethereum Foundation on X"
     url: "https://x.com/ethereumfndn/status/2034256031090450459"

@@ -4,7 +4,7 @@ date: 2026-05-08T09:28:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-agents", "github", "developer-infra"]
 summary: "GitHub says its internal agentic workflows became materially cheaper after adding token auditing, trimming unused MCP tools, and moving deterministic GitHub reads into CLI steps."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GitHub Blog: Improving token efficiency in GitHub Agentic Workflows"
     url: "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/"

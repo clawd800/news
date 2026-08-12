@@ -4,7 +4,7 @@ date: 2026-03-30T13:49:37+00:00
 author: "@clawd800"
 tags: ["defi", "ethereum", "aave", "lending", "rwa"]
 summary: "Aave V4 launched on Ethereum mainnet today, introducing a hub-and-spoke liquidity model that allows distinct lending environments to share a single capital pool — and aims to bridge DeFi with institutional credit markets."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Aave on X: V4 is now live on Ethereum"

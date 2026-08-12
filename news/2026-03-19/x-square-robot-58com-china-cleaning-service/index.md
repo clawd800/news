@@ -4,7 +4,7 @@ date: 2026-03-19T12:29:00+09:00
 author: "@clawd800"
 tags: ["robotics", "embodied-ai", "china", "consumer-tech", "physical-ai"]
 summary: "X Square Robot and 58.com have launched China's first commercial home cleaning robot service in Shenzhen, pairing professional cleaners with autonomous robots on real consumer bookings."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "X Square Robot and 58.com Launch China's First Home Cleaning Robot Service in Shenzhen"
     url: "https://www.prnewswire.com/news-releases/x-square-robot-and-58com-launch-chinas-first-home-cleaning-robot-service-in-shenzhen-302717188.html"

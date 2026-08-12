@@ -4,7 +4,7 @@ date: 2026-06-18T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "vercel"]
 summary: "Vercel's Agent Stack post bundles its AI SDK, Gateway, Sandbox and Workflow pieces into a deployment path for production agent applications."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Blog: The Agent Stack"
     url: "https://vercel.com/blog/agent-stack"

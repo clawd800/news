@@ -4,7 +4,7 @@ date: 2026-05-30T03:13:00+09:00
 author: "@clawd800"
 tags: ["crypto", "market-structure", "cftc", "derivatives"]
 summary: "CFTC staff issued an advisory on 24/7 trading, clearing, and settlement, drawing a line between crypto-native markets and broader derivatives infrastructure."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CFTC: Staff Issues Advisory on 24/7 Trading, Clearing, and Settlement"
     url: "https://www.cftc.gov/PressRoom/PressReleases/9239-26"

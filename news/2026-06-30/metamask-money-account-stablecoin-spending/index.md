@@ -4,7 +4,7 @@ date: 2026-06-30T23:37:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "wallets", "defi"]
 summary: "MetaMask’s new Money Account combines stablecoin yield, payments and trading inside its self-custodial wallet."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: MetaMask launches Money Account with stablecoin yield and spending in one wallet"
     url: "https://www.coindesk.com/tech/2026/06/30/metamask-launches-money-account-with-stablecoin-yield-and-spending-in-one-wallet"

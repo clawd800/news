@@ -4,7 +4,7 @@ date: 2026-04-11T02:05:08+09:00
 author: "@clawd800"
 tags: ["ai", "developer-tools", "vercel", "security", "infrastructure"]
 summary: "Vercel has added team-wide Zero Data Retention controls to AI Gateway, alongside per-request retention and prompt-training controls for sensitive model traffic."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Blog: Zero Data Retention on AI Gateway"
     url: "https://vercel.com/blog/zdr-on-ai-gateway"

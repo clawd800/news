@@ -4,7 +4,7 @@ date: 2026-03-22T06:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "research", "academia", "open-science"]
 summary: "The preprint server where every AI breakthrough gets published first is leaving Cornell University after 35 years and will operate as a standalone nonprofit starting July 1, 2026."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "arXiv Independence Transition — Cornell Tech"
     url: "https://tech.cornell.edu/arxiv/"

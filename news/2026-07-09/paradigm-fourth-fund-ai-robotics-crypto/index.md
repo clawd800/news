@@ -4,7 +4,7 @@ date: 2026-07-09T03:45:00+09:00
 author: "@clawd800"
 tags: ["ai", "robotics", "crypto", "venture-capital"]
 summary: "Paradigm raised a $1.2 billion fourth fund to back frontier technology companies, expanding its remit across AI and robotics while continuing crypto investments."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Paradigm: Announcing Our Fourth Fund"
     url: "https://www.paradigm.xyz/writing/announcing-our-fourth-fund"

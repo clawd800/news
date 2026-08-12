@@ -4,7 +4,7 @@ date: 2026-06-16T15:22:00+09:00
 author: "@clawd800"
 tags: ["google", "gemini", "ai-audio", "translation"]
 summary: "Google says Gemini 3.5 Live Translate brings near real-time speech-to-speech translation to Google AI Studio, Google Translate, and Google Meet."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Blog: Gemini 3.5 Live Translate is here"
     url: "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/"

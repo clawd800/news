@@ -4,7 +4,7 @@ date: 2026-03-13T01:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "fintech", "payments", "agentic-commerce", "visa", "latam"]
 summary: "Banco Santander and Visa completed AI-agent-driven purchase transactions across five Latin American markets — the first end-to-end agentic commerce pilots in the region."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Santander and Visa Deliver Latin America's First End-to-End Payments Powered by AI Agents (Santander Press Release)"
     url: "https://www.santander.com/en/press-room/press-releases/2026/03/santander-and-visa-deliver-latin-americas-first-end-to-end-payments-powered-by-ai-agents"

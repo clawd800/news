@@ -4,7 +4,7 @@ date: 2026-03-23T22:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "music", "fraud", "legal"]
 summary: "Michael Smith used AI to generate 660,000 songs and bots to stream them over a billion times, fraudulently collecting $8 million in royalties from Spotify, Apple Music, and others."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "DOJ: North Carolina Man Pleads Guilty to Music Streaming Fraud Aided by AI"
     url: "https://www.justice.gov/usao-sdny/pr/north-carolina-man-pleads-guilty-music-streaming-fraud-aided-artificial-intelligence-0"

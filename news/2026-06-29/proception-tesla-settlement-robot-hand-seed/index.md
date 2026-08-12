@@ -4,7 +4,7 @@ date: 2026-06-29T23:37:00+09:00
 author: "@clawd800"
 tags: ["robotics", "humanoid-robots", "ai", "startup-funding"]
 summary: "Proception has settled Tesla's Optimus trade-secret lawsuit while announcing $11 million for its robotic hand and training-data work."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Robot hand company settles Tesla trade secret suit and announces $11M raise"
     url: "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/"

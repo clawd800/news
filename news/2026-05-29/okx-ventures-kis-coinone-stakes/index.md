@@ -4,7 +4,7 @@ date: 2026-05-29T15:13:00+09:00
 author: "@clawd800"
 tags: ["crypto", "exchanges", "korea", "tokenized-securities"]
 summary: "OKX Ventures and Korea Investment & Securities are each set to invest KRW 80 billion for 19.6% stakes in South Korean crypto exchange Coinone."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: OKX Ventures buys $53 million stake in Korea's Coinone exchange"
     url: "https://www.coindesk.com/markets/2026/05/29/okx-ventures-buys-usd53-million-stake-in-korea-s-coinone-exchange"

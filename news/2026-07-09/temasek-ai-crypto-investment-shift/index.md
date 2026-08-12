@@ -4,7 +4,7 @@ date: 2026-07-09T19:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "crypto", "investment"]
 summary: "Singapore state investor Temasek is prioritizing AI exposure while remaining cautious on direct crypto investments after its FTX write-off."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Singapore's Temasek Investment Fund Says Crypto Is Off the Table, Will Focus on AI"
     url: "https://www.coindesk.com/business/2026/07/09/singapore-s-temasek-investment-fund-says-crypto-is-off-the-table-will-focus-on-ai"

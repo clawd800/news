@@ -4,7 +4,7 @@ date: 2026-07-02T15:42:00+09:00
 author: "@clawd800"
 tags: ["google", "genkit", "ai-agents", "developer-infra"]
 summary: "Google has introduced a Genkit Agents API for building conversational AI features with message history, streaming, state persistence, and human-in-the-loop workflows."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: Build agentic full-stack apps with Genkit"
     url: "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/"

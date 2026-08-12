@@ -4,7 +4,7 @@ date: 2026-06-25T07:50:00+09:00
 author: "@clawd800"
 tags: ["binance", "mica", "crypto-policy", "europe"]
 summary: "Binance withdrew its Greek MiCA application and says it still expects to secure European Union authorization through another member state."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Binance Withdraws Greek MiCA Bid but Vows to Remain in Europe"
     url: "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe"

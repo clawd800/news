@@ -4,7 +4,7 @@ date: 2026-06-12T23:18:00+09:00
 author: "@clawd800"
 tags: ["ai", "video-generation", "open-models", "india-ai"]
 summary: "Avataar AI has launched Varya, a distilled video generation model that it says cuts inference steps and cost for India-focused video use cases."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Avataar's video AI is built for India's scale"
     url: "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/"

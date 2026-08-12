@@ -4,7 +4,7 @@ date: 2026-03-24T07:29:00+09:00
 author: "@clawd800"
 tags: ["defi", "stablecoin", "sky", "makerdao", "crypto-treasury"]
 summary: "NovaBay Pharmaceuticals raised $134M, renamed itself Stablecoin Development Corporation, and now holds 8.78% of the SKY governance token supply — becoming a publicly traded on-chain holding company."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NovaBay Pharmaceuticals Announces Name Change to Stablecoin Development Corporation (GlobeNewswire)"
     url: "https://www.globenewswire.com/news-release/2026/03/23/3260369/0/en/NovaBay-Pharmaceuticals-Announces-Name-Change-to-Stablecoin-Development-Corporation-Reports-Initial-Staking-Rewards-and-Provides-SKY-Token-Holdings-Update.html"

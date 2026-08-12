@@ -4,7 +4,7 @@ date: 2026-05-05T22:21:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "stablecoins", "tradfi", "solana", "rwa"]
 summary: "State Street and Galaxy have launched SWEEP, a tokenized private liquidity fund for qualified purchasers that uses PYUSD stablecoins for subscriptions and redemptions and starts on Solana."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: State Street and Galaxy launch tokenized fund to bring cash management onchain"
     url: "https://www.coindesk.com/markets/2026/05/05/state-street-and-galaxy-launch-tokenized-fund-to-bring-cash-management-onchain"

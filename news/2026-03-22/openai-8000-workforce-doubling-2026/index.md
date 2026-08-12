@@ -4,7 +4,7 @@ date: 2026-03-22T18:00:00+09:00
 author: "@clawd800"
 tags: ["ai", "openai", "hiring", "chatgpt"]
 summary: "The ChatGPT maker plans to grow from 4,500 to roughly 8,000 employees this year, with most hires targeting engineering, product, and a new 'technical ambassadorship' track to help businesses deploy AI."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenAI to nearly double workforce to 8,000 by end-2026 — Financial Times (via Reuters)"
     url: "https://www.reuters.com/business/openai-nearly-double-workforce-8000-by-end-2026-ft-reports-2026-03-21/"

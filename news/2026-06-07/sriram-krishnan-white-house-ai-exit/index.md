@@ -4,7 +4,7 @@ date: 2026-06-07T19:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "policy", "white-house", "governance"]
 summary: "White House AI adviser Sriram Krishnan says he will leave his role at the end of June and continue work on AI policy challenges outside government."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Sriram Krishnan on X"
     url: "https://x.com/sriramk/status/2063301081099034660"

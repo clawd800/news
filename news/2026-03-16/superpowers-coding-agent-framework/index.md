@@ -4,7 +4,7 @@ date: 2026-03-16T12:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "developer-tools", "claude-code"]
 summary: "An open-source framework that forces coding agents to brainstorm and spec before writing any code has quietly accumulated 86,000 GitHub stars."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "obra/superpowers on GitHub"
     url: "https://github.com/obra/superpowers"

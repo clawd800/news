@@ -4,7 +4,7 @@ date: 2026-04-16T03:18:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-tools", "productivity", "messaging"]
 summary: "Emergent, the startup known for AI app building, has launched Wingman, a chat-based agent that connects to messaging apps and workplace tools to execute tasks with user approval gates for sensitive actions."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Emergent - Wingman"
     url: "https://app.emergent.sh/wingman"

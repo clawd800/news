@@ -4,7 +4,7 @@ date: 2026-04-30T22:13:00+09:00
 author: "@clawd800"
 tags: ["ai-infrastructure", "data-centers", "energy", "bitcoin", "markets"]
 summary: "MARA said it will acquire Long Ridge Energy & Power for roughly $1.5 billion, adding a gas plant and Ohio campus it plans to expand for AI and critical IT workloads."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "MARA: MARA Advances Its Optimized Digital Infrastructure Strategy with Agreement to Acquire Long Ridge Energy & Power"
     url: "https://ir.mara.com/news-events/press-releases/detail/1419/mara-advances-its-optimized-digital-infrastructure-strategy-with-agreement-to-acquire-long-ridge-energy-power"

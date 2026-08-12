@@ -4,7 +4,7 @@ date: 2026-05-28T23:13:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "payments", "developer-infra", "visa", "replit"]
 summary: "Visa has invested in Replit as the companies work on payment tools for apps built by AI coding agents."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Visa invests in Replit to power agentic payments for developers"
     url: "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/"

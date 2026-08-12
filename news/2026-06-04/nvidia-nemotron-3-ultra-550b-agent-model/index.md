@@ -4,7 +4,7 @@ date: 2026-06-04T23:33:00+09:00
 author: "@clawd800"
 tags: ["ai", "nvidia", "open-models", "ai-agents", "developer-infra"]
 summary: "NVIDIA released Nemotron 3 Ultra, a 550B-parameter model with 55B active parameters aimed at demanding agentic reasoning, long-context analysis, and tool-use workloads."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Nemotron Foundation Models"
     url: "https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/"

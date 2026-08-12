@@ -4,7 +4,7 @@ date: 2026-08-08T23:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "openai", "cybersecurity", "ai-agents"]
 summary: "OpenAI says parts of its unreleased Astra model work were slowed after internal testing raised cybersecurity capability concerns."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenAI: Responding to next-frontier critical cyber capabilities"
     url: "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/"

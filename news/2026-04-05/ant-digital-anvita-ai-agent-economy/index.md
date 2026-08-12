@@ -4,7 +4,7 @@ date: 2026-04-05T21:00:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "web3", "stablecoins", "ant-group", "blockchain", "rwa"]
 summary: "Ant Group's blockchain division has launched Anvita, a platform designed for AI agents to hold assets, execute trades, and settle payments autonomously using stablecoins — without human involvement."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ant Group's blockchain arm unveils platform for AI agents to transact on crypto rails (CoinDesk)"
     url: "https://www.coindesk.com/business/2026/04/02/ant-group-s-blockchain-arm-unveils-platform-for-ai-agents-to-transact-on-crypto-rails"

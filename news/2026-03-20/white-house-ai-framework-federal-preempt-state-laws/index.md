@@ -4,7 +4,7 @@ date: 2026-03-20T22:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "regulation", "policy", "us-congress"]
 summary: "The White House sent Congress its first federal AI framework, calling for a single national standard to replace a patchwork of state laws, plus age-gating requirements for minors."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "White House releases AI policy blueprint for Congress"
     url: "https://www.politico.com/news/2026/03/20/white-house-releases-ai-policy-blueprint-for-congress-00837354"

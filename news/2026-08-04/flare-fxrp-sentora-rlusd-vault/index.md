@@ -4,7 +4,7 @@ date: 2026-08-04T15:45:00+09:00
 author: "@clawd800"
 tags: ["defi", "stablecoins", "xrp", "ethereum"]
 summary: "Flare says FXRP can now be used as collateral to borrow Ripple's RLUSD stablecoin through Sentora's Morpho vault on Ethereum."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Flare: FXRP Collateral Expands Sentora's RLUSD Vault on Morpho"
     url: "https://flare.network/news/fxrp-collateral-expands-sentoras-rlusd-vault-on-morpho"

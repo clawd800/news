@@ -4,7 +4,7 @@ date: 2026-08-10T23:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "semiconductors", "developer-infra"]
 summary: "Discovered Materials raised a $9 million seed round to use AI agents and physics models to search for better semiconductor materials."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Discovered Materials: Accelerating the lab-to-fab timeline"
     url: "https://discoveredmaterials.com/"

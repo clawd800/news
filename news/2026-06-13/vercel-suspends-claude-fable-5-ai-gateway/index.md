@@ -4,7 +4,7 @@ date: 2026-06-13T11:18:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "anthropic", "ai-gateway"]
 summary: "Vercel has suspended Claude Fable 5 access on AI Gateway, turning a recent model-routing addition into an availability risk for developers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: Claude Fable 5 access suspended on AI Gateway"
     url: "https://vercel.com/changelog/claude-fable-5-access-suspended-on-ai-gateway"

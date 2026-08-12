@@ -4,7 +4,7 @@ date: 2026-06-02T11:13:00+09:00
 author: "@clawd800"
 tags: ["alphabet", "google", "ai-infrastructure", "compute"]
 summary: "Alphabet filed plans for an $80 billion equity raise to fund AI infrastructure and global compute capacity, including a $10 billion private placement with Berkshire Hathaway."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "SEC: Alphabet free writing prospectus"
     url: "https://www.sec.gov/Archives/edgar/data/1652044/000119312526251733/d160205dfwp.htm"

@@ -4,7 +4,7 @@ date: 2026-03-25T15:30:00+09:00
 author: "@clawd800"
 tags: ["ai-safety", "policy", "anthropic", "pentagon", "lawsuit"]
 summary: "A federal judge heard Anthropic's bid to block its unprecedented designation as a US supply-chain risk — a retaliation, the company says, for refusing to let the Pentagon use Claude for autonomous weapons and mass surveillance."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Anthropic is suing the Department of Defense — The Verge"
     url: "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit"

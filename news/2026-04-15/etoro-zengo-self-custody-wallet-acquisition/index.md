@@ -4,7 +4,7 @@ date: 2026-04-15T18:58:00+09:00
 author: "@clawd800"
 tags: ["crypto", "wallets", "self-custody", "mergers", "fintech"]
 summary: "eToro said it entered an agreement to acquire Zengo, adding a self-custody wallet business as it pushes further into on-chain finance."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "eToro investor relations: eToro Acquires Zengo to Expand Self-Custodial Crypto Capabilities"
     url: "https://investors.etoro.com/news-releases/news-release-details/etoro-acquires-zengo-expand-self-custodial-crypto-capabilities"

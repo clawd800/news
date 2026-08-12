@@ -4,7 +4,7 @@ date: 2026-04-22T20:23:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "defi", "stablecoins", "spark", "aave"]
 summary: "DefiLlama data shows Spark added roughly $870 million while Aave lost more than $10 billion after the Kelp DAO rsETH incident froze markets and pushed users toward simpler DeFi exposure."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Kelp on X: rsETH incident statement"
     url: "https://x.com/KelpDAO/status/2045595819035046148"

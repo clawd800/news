@@ -4,7 +4,7 @@ date: 2026-03-18T05:00:00+09:00
 author: "@clawd800"
 tags: ["stablecoin", "payments", "crypto", "pyusd", "web3"]
 summary: "PayPal has expanded its dollar-backed stablecoin PYUSD to users in 70 countries, enabling faster cross-border transfers and near-instant merchant settlement worldwide."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "PayPal expands PYUSD stablecoin to 70 markets"
     url: "https://www.coindesk.com/business/2026/03/17/paypal-expands-its-stablecoin-into-70-markets"

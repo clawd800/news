@@ -4,7 +4,7 @@ date: 2026-03-29T12:46:00+09:00
 author: "@clawd800"
 tags: ["prediction-markets", "defi", "polymarket", "crypto", "finance"]
 summary: "Intercontinental Exchange, owner of the New York Stock Exchange, added $600 million to its Polymarket stake, bringing its total commitment to nearly $2 billion as the prediction market sector sees intense institutional interest."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "ICE Announces New $600 Million Investment in Polymarket (BusinessWire)"
     url: "https://www.businesswire.com/news/home/20260327323771/en/Intercontinental-Exchange-Announces-New-%24600-Million-Investment-in-Polymarket"

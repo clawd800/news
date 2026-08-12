@@ -4,7 +4,7 @@ date: 2026-05-29T23:20:00+09:00
 author: "@clawd800"
 tags: ["crypto", "derivatives", "cftc", "kraken"]
 summary: "CFTC product filings list Bitnomial perpetual futures for major crypto assets as certified, adding a concrete regulatory milestone to Payward's U.S. derivatives push."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CFTC: Designated Contract Market Products"
     url: "https://www.cftc.gov/IndustryOversight/IndustryFilings/TradingOrganizationProducts?Status=Certified&col=Organization&dir=ASC&page=1"

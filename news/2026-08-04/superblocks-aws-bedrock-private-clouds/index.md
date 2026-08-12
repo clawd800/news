@@ -4,7 +4,7 @@ date: 2026-08-04T07:42:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "aws", "agents"]
 summary: "Superblocks and AWS announced a collaboration that will make Superblocks available for governed AI app development inside customer AWS environments."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Business Wire: Superblocks and AWS Announce Strategic Collaboration to Bring Secure Enterprise AI App Development to Amazon Bedrock"
     url: "https://www.businesswire.com/news/home/20260728384521/en/Superblocks-and-AWS-Announce-Strategic-Collaboration-to-Bring-Secure-Enterprise-AI-App-Development-to-Amazon-Bedrock"

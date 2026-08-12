@@ -4,7 +4,7 @@ date: 2026-06-08T15:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "robotics", "nvidia", "developer-infra"]
 summary: "NVIDIA and Doosan are widening an existing physical AI partnership across robotics, construction equipment, power systems, and AI data-center materials."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Blog: NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure"
     url: "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/"

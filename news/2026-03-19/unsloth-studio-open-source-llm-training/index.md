@@ -4,7 +4,7 @@ date: 2026-03-19T08:20:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "llm"]
 summary: "Unsloth AI releases Studio, a free open-source web interface that lets users train and run large language models locally with 2x speed and 70% less VRAM."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Unsloth AI announcement on X"

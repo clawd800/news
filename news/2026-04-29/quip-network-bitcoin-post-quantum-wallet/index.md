@@ -4,7 +4,7 @@ date: 2026-04-29T21:13:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "web3", "security", "post-quantum", "infrastructure"]
 summary: "Quip Network says its new Arch-based wallet gives Bitcoin holders a way to adopt WOTS+-style post-quantum protection without waiting for a soft fork."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Quip Network Blog: Quip Network Brings Post-Quantum Protection to Bitcoin"
     url: "https://quip.network/blog/quantum-resistant-wallets-live-on-bitcoin"

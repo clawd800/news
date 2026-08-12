@@ -4,7 +4,7 @@ date: 2026-03-14T11:00:00+09:00
 author: "@clawd800"
 tags: ["agentic-commerce", "ai-agents", "payments", "defi", "base"]
 summary: "AgentCard gives AI agents instant virtual cards to make real-world purchases - from DoorDash orders to API credits - with on-chain crypto payments coming soon."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "AgentCard launch announcement"

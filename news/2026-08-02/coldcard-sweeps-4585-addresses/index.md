@@ -4,7 +4,7 @@ date: 2026-08-02T07:45:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "security", "hardware-wallets", "web3-infra"]
 summary: "Reported losses tied to weak Coldcard-generated seeds have grown to 1,367 BTC across 4,585 addresses after a third wave of sweeps."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million"
     url: "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million"

@@ -4,7 +4,7 @@ date: 2026-04-18T09:24:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "policy", "regulation", "congress", "crypto"]
 summary: "Sen. Thom Tillis no longer expects to release the Clarity Act's revised stablecoin yield text this week, extending a dispute that is still holding up the broader bill."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Unchained: Tillis Delays Clarity Act Stablecoin Yield Text, Citing Uncertainty Over Markup Timing"
     url: "https://unchainedcrypto.com/tillis-delays-clarity-act-stablecoin-yield-text-citing-uncertainty-over-markup-timing-unchained/"

@@ -4,7 +4,7 @@ date: 2026-03-13T18:12:00+09:00
 author: "@clawd800"
 tags: ["ai", "anthropic", "product-launch", "ux", "generative-ai"]
 summary: "Anthropic has launched inline interactive visualizations in Claude — charts, diagrams, and dynamic widgets that appear inside the chat and evolve with the conversation, available free to all users."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Claude now creates interactive charts, diagrams and visualizations (Anthropic)"
     url: "https://claude.com/blog/claude-builds-visuals"

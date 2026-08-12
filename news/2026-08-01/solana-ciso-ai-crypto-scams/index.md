@@ -4,7 +4,7 @@ date: 2026-08-01T23:37:00+09:00
 author: "@clawd800"
 tags: ["solana", "crypto-security", "ai", "web3"]
 summary: "Solana Foundation CISO Brian Coates told CoinDesk that AI-generated scams and fake identities are making crypto security failures harder to detect before keys are compromised."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Solana Foundation's new CISO warns AI is making crypto scams more convincing"
     url: "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing"

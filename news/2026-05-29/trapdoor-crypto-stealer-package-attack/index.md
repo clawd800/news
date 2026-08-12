@@ -4,7 +4,7 @@ date: 2026-05-29T19:20:00+09:00
 author: "@clawd800"
 tags: ["security", "supply-chain", "crypto", "developer-tools", "ai-agents"]
 summary: "Socket says the TrapDoor campaign planted malicious packages across npm, PyPI, and Crates.io to steal wallet data, cloud credentials, SSH keys, and developer secrets."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Socket: TrapDoor Crypto Stealer Supply Chain Attack Hits 34 Packages"
     url: "https://socket.dev/blog/trapdoor-crypto-stealer-npm-pypi-crates"

@@ -4,7 +4,7 @@ date: 2026-06-11T15:20:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-safety", "xai", "grok", "law"]
 summary: "Former xAI engineer Devin Kim has sued xAI and SpaceX, alleging he was fired after pushing for stronger safety controls around Grok."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims"
     url: "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/"

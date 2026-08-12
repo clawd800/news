@@ -4,7 +4,7 @@ date: 2026-07-21T15:37:00+09:00
 author: "@clawd800"
 tags: ["crypto", "uk", "policy", "banking"]
 summary: "A UK parliamentary crypto group has begun an inquiry into whether banks are restricting crypto firms' access to accounts and payment rails."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: UK Parliament begins inquiry into banking chokepoint for crypto businesses"
     url: "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses"

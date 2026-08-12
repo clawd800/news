@@ -4,7 +4,7 @@ date: 2026-06-22T07:37:00+09:00
 author: "@clawd800"
 tags: ["crypto", "derivatives", "cftc"]
 summary: "CME is asking a federal court to unwind the CFTC's approval of Kalshi's bitcoin perpetual futures contract, arguing the product should be treated as a swap."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CME complaint in Chicago Mercantile Exchange Inc. v. Selig"
     url: "https://storage.courtlistener.com/recap/gov.uscourts.dcd.293632/gov.uscourts.dcd.293632.1.0.pdf"

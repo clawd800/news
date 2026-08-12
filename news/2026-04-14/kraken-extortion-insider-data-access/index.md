@@ -4,7 +4,7 @@ date: 2026-04-14T02:03:00+09:00
 author: "@clawd800"
 tags: ["crypto", "security", "exchanges", "kraken", "cybersecurity"]
 summary: "Kraken says a criminal group is threatening to release videos showing internal systems after two limited insider-related data access incidents, while the exchange says client funds were never at risk."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Nick Percoco on X: Kraken Security Update"
     url: "https://x.com/c7five/status/2043720915330969743"

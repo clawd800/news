@@ -4,7 +4,7 @@ date: 2026-07-01T15:37:00+09:00
 author: "@clawd800"
 tags: ["crypto", "stablecoins", "regulation", "taiwan"]
 summary: "Taiwan's Legislature passed a virtual asset law that moves crypto firms and stablecoin issuers into a formal licensing and reserve framework."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Legislative Yuan agenda document: Virtual Asset Service Act"
     url: "https://ppg.ly.gov.tw/ppg/SittingRelatedDocumentReportMatter/download/agenda1/02/pdf/11/05/15/LCEWA01_110515_00009.pdf"

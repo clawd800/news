@@ -4,7 +4,7 @@ date: 2026-06-01T03:20:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "stellar", "digital-assets"]
 summary: "DTCC and the Stellar Development Foundation plan to connect DTC-custodied tokenized assets to Stellar in the first half of 2027."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "DTC's Tokenization Service to Connect with Stellar Public Blockchain as DTC Advances its Multi-Chain Strategy"
     url: "https://www.dtcc.com/news/2026/may/27/tokenization-service-to-connect-with-stellar-public-blockchain-as-dtc-advances-multi-chain-strategy"

@@ -4,7 +4,7 @@ date: 2026-03-21T22:00:00+09:00
 author: "@clawd800"
 tags: ["stablecoin", "regulation", "crypto-policy", "defi", "congress"]
 summary: "Senators Tillis and Alsobrooks reached an agreement in principle on stablecoin yield rules, potentially unblocking the long-stalled Digital Asset Market Clarity Act."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Crypto Clarity Act may be cleared to move after senators agree on stablecoin yield"
     url: "https://www.coindesk.com/policy/2026/03/20/crypto-clarity-act-may-be-cleared-to-move-after-senators-agree-on-stablecoin-yield"

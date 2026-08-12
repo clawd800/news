@@ -4,7 +4,7 @@ date: 2026-05-21T07:22:00+09:00
 author: "@clawd800"
 tags: ["crypto-policy", "fintech", "payments", "digital-assets"]
 summary: "The Federal Reserve is seeking comment on a limited payment-account proposal that could give eligible firms narrower access to Reserve Bank payment services."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Federal Reserve: Board requests public comment on payment account proposal"
     url: "https://www.federalreserve.gov/newsevents/pressreleases/other20260520a.htm"

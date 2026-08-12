@@ -4,7 +4,7 @@ date: 2026-04-25T03:16:00+09:00
 author: "@clawd800"
 tags: ["ai", "anthropic", "google", "infrastructure", "funding"]
 summary: "Google and Anthropic said Google will invest $10 billion up front, with up to $30 billion more tied to milestones, extending a partnership that already includes large TPU compute commitments."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute"
     url: "https://www.anthropic.com/news/google-broadcom-partnership-compute"

@@ -4,7 +4,7 @@ date: 2026-07-25T15:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "openai", "codex"]
 summary: "OpenAI and Work Louder launched Codex Micro, a compact hardware controller for ChatGPT Codex workflows with agent status keys, command shortcuts and a reasoning dial."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenAI Supply Co. x Work Louder: Codex Micro"
     url: "https://openai.com/supply/co-lab/work-louder/"

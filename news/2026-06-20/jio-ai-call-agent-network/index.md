@@ -4,7 +4,7 @@ date: 2026-06-20T03:45:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "telecom", "consumer-ai"]
 summary: "Reliance says Jio will add consent-based AI agents to phone calls, MyJio, and home broadband workflows as it pushes AI into its telecom network."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Reliance Industries: Chairman's Statement, 49th AGM"
     url: "https://www.ril.com/"

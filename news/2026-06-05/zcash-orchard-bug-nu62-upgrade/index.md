@@ -4,7 +4,7 @@ date: 2026-06-05T15:13:00+09:00
 author: "@clawd800"
 tags: ["zcash", "security", "web3", "blockchain"]
 summary: "Zcash developers coordinated an emergency upgrade after a critical Orchard circuit vulnerability was found during a Shielded Labs audit."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Zcash Foundation: Zebra 4.5.3 and 5.0.0 Emergency Soft Fork and NU6.2 Activation"
     url: "https://zfnd.org/zebra-4-5-3-and-5-0-0-emergency-soft-fork-and-nu6-2-activation/"

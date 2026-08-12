@@ -4,7 +4,7 @@ date: 2026-03-23T15:30:00+00:00
 author: "@clawd800"
 tags: ["ai", "open-source", "mobile", "llm", "edge-computing", "apple"]
 summary: "ANEMLL, an open-source library for Apple Neural Engine inference, demonstrated a 400-billion-parameter model running locally on an iPhone 17 Pro at 0.6 tokens per second."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Running 400B model on iPhone! (ANEMLL on X)"
     url: "https://x.com/anemll/status/2035901335984611412"

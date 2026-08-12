@@ -4,7 +4,7 @@ date: 2026-05-29T07:24:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "enterprise-ai", "workflow-automation"]
 summary: "Asana completed its acquisition of StackAI, adding a no-code agent workflow platform aimed at enterprise systems such as Salesforce, Oracle, SharePoint, and Asana."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Asana: Asana Acquires StackAI, Adding Cross-System Execution for Human-Agent Teams"
     url: "https://asana.com/press/releases/pr/asana-acquires-stackai-adding-cross-system-execution-for-human-agent-teams/e7c73b97-ae8c-4e51-b927-189ccb184146"

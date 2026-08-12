@@ -4,7 +4,7 @@ date: 2026-06-06T07:20:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "vercel", "open-source"]
 summary: "Vercel's new skills.sh API gives developers authenticated access to search and inspect a large open-source agent skills directory."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: The skills.sh API is now available"
     url: "https://vercel.com/changelog/the-skills-sh-api-is-now-available"

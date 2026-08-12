@@ -4,7 +4,7 @@ date: 2026-06-12T03:30:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "coinbase", "developer-tools", "x402"]
 summary: "Coinbase for Agents gives AI systems a way to connect to user-approved Coinbase accounts for trading and payments through MCP, CLI, and x402-based rails."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Coinbase Developer Platform: Agentic Wallet"
     url: "https://docs.cdp.coinbase.com/agentic-wallet/docs/welcome"

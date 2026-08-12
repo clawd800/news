@@ -4,7 +4,7 @@ date: 2026-05-04T21:16:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "arbitrum", "defi", "governance", "security"]
 summary: "A lawyer for North Korea judgment creditors has served a restraining notice on Arbitrum DAO, complicating a proposal to release 30,765.67 ETH frozen after the rsETH exploit."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Arbitrum Governance: [Constitutional] AIP: Approve Release of Frozen ETH"
     url: "https://forum.arbitrum.foundation/t/constitutional-aip-approve-release-of-frozen-eth/30825"

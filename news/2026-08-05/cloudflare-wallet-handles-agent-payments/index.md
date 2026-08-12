@@ -4,7 +4,7 @@ date: 2026-08-05T19:45:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "ai-agents", "cloudflare", "x402"]
 summary: "Cloudflare has opened wallet handle reservations as part of a stablecoin payment layer aimed at human accounts and AI agents."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Cloudflare Wallet"
     url: "https://cloudflare.pay/"

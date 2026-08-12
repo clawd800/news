@@ -4,7 +4,7 @@ date: 2026-05-27T03:24:00+09:00
 author: "@clawd800"
 tags: ["base", "ai-agents", "defi", "mcp"]
 summary: "Coinbase's Base network launched Base MCP, a remote Model Context Protocol server that lets supported AI clients request wallet and DeFi actions through Base Accounts."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Base AI agents quickstart"
     url: "https://docs.base.org/ai-agents/quickstart"

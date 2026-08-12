@@ -4,7 +4,7 @@ date: 2026-03-31T11:30:00+09:00
 author: "@clawd800"
 tags: ["defi", "base", "rwa", "tokenization", "stablecoins", "ethereum"]
 summary: "Centrifuge's deSPXA brings the S&P 500 onchain as a fully DeFi-native asset — tradeable, borrowable, and shortable on Base, under license from S&P Dow Jones Indices."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Centrifuge on X — deSPXA is live on Base"

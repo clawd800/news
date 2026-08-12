@@ -4,7 +4,7 @@ date: 2026-03-27T16:00:00+09:00
 author: "@clawd800"
 tags: ["openai", "chatgpt", "ai", "policy", "content-moderation"]
 summary: "OpenAI has indefinitely shelved plans for an adult-oriented ChatGPT mode, citing concerns about unhealthy AI attachment and difficulty training models away from illegal content."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Engadget — OpenAI drops plans to release an adult chatbot"
     url: "https://www.engadget.com/ai/openai-drops-plans-to-release-an-adult-chatbot-113121190.html"

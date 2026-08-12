@@ -4,7 +4,7 @@ date: 2026-03-12T14:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "hardware", "meta", "semiconductors", "infrastructure"]
 summary: "Meta revealed four new MTIA processors built on RISC-V architecture and manufactured by TSMC, designed to power AI inference and recommendation systems across Facebook and Instagram."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Meta rolls out in-house AI chips weeks after massive Nvidia, AMD deals (CNBC)"
     url: "https://www.cnbc.com/2026/03/11/meta-ai-mtia-chip-data-center.html"

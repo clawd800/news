@@ -4,7 +4,7 @@ date: 2026-08-09T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai-infrastructure", "nvidia", "data-centers"]
 summary: "Firebird launched an AI factory in Armenia backed by NVIDIA accelerated computing and Dell infrastructure, with larger Rubin and Blackwell deployments planned."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Blog: Firebird Launches CIS Region's Largest AI Factory in Armenia"
     url: "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/"

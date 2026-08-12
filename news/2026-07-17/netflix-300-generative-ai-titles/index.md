@@ -4,7 +4,7 @@ date: 2026-07-17T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "streaming", "media"]
 summary: "Netflix disclosed that roughly 300 titles on its service used generative AI, mostly in post-production work."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "The Verge - Netflix says around 300 titles used generative AI"
     url: "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings"

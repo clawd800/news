@@ -4,7 +4,7 @@ date: 2026-04-15T04:58:00+09:00
 author: "@clawd800"
 tags: ["xrp", "ripple", "payments", "japan", "consumer-crypto"]
 summary: "Rakuten Wallet says XRP is being added on April 15, with Ripple's Tatsuya Kohrogi describing point-to-XRP purchases and Rakuten Pay spending through Rakuten Cash."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Tatsuya Kohrogi on X"
     url: "https://x.com/tatsuya_kohrogi/status/2043717542297116688"

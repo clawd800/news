@@ -4,7 +4,7 @@ date: 2026-03-22T05:29:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "payments", "stripe", "stablecoins", "agentic"]
 summary: "Stripe and Tempo have launched the Machine Payments Protocol, an open standard that lets AI agents pay for APIs and services autonomously — in fiat or stablecoins — without human intervention."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Stripe: Introducing the Machine Payments Protocol"
     url: "https://stripe.com/blog/machine-payments-protocol"

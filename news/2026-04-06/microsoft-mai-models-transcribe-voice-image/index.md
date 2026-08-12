@@ -4,7 +4,7 @@ date: 2026-04-06T01:03:00+09:00
 author: "@clawd800"
 tags: ["ai", "microsoft", "speech-to-text", "image-generation", "tts"]
 summary: "Microsoft released MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2 through its Foundry platform — its first batch of in-house multimodal AI models built to rival OpenAI and Google."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Microsoft AI: Three New MAI Models in Foundry"
     url: "https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/"

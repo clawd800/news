@@ -4,7 +4,7 @@ date: 2026-05-07T23:25:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "funds", "infrastructure", "bitwise", "superstate"]
 summary: "Bitwise will become investment manager of Superstate's USCC on June 1, while the fund stays on Superstate's tokenized FundOS rails across Ethereum, Solana, and Plume."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Superstate: Bitwise to Manage USCC as Superstate FundOS Grows"
     url: "https://superstate.com/newsroom/bitwise-to-manage-uscc-as-superstate-fundos-grows"

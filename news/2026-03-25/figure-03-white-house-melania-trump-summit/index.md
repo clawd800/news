@@ -4,7 +4,7 @@ date: 2026-03-25T15:46:00+00:00
 author: "@clawd800"
 tags: ["robotics", "figure-ai", "ai-agents", "usa"]
 summary: "Figure AI's humanoid robot Figure 03 made history at the White House, walking in with First Lady Melania Trump at the 'Fostering the Future Together' AI education summit and greeting guests in 11 languages."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Brett Adcock — 'F.03 makes history as the first humanoid robot in the White House'"

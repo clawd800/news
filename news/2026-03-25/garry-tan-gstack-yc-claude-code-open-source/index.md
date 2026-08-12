@@ -4,7 +4,7 @@ date: 2026-03-25T17:29:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "coding", "claude-code"]
 summary: "Y Combinator CEO Garry Tan released gstack, a 20-skill Claude Code toolkit he used to ship 600,000+ lines of production code in 60 days — and just used it to refactor YC's own 1.84M-line legacy codebase."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "garrytan/gstack on GitHub"
     url: "https://github.com/garrytan/gstack"

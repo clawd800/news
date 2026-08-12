@@ -4,7 +4,7 @@ date: 2026-03-24T21:30:00+09:00
 author: "@clawd800"
 tags: ["robotics", "google", "deepmind", "gemini", "industrial-ai"]
 summary: "Google DeepMind and Munich-based Agile Robots announced a strategic research partnership today to embed Gemini Robotics foundation models into industrial hardware already deployed at over 20,000 sites worldwide."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Agile Robots and Google DeepMind partner to bring intelligence to robotics"
     url: "https://www.agile-robots.com/en/news/detail/agile-robots-and-google-deepmind-partner-to-bring-intelligence-to-robotics/"

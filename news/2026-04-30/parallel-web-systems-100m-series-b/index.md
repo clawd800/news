@@ -4,7 +4,7 @@ date: 2026-04-30T05:20:59+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "search", "funding"]
 summary: "Parallel Web Systems says it has raised a $100 million Series B led by Sequoia, valuing the AI web-search infrastructure startup at $2 billion."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Parallel Web Systems homepage"
     url: "https://parallel.ai/"

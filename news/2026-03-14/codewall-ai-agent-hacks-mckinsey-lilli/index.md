@@ -4,7 +4,7 @@ date: 2026-03-14T17:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "security", "enterprise-ai"]
 summary: "CodeWall's offensive AI agent autonomously targeted McKinsey's Lilli chatbot, exploiting a SQL injection flaw to access 46.5 million internal messages and writable system prompts."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "An AI agent hacked McKinsey's internal AI platform in two hours using a decades-old technique (The Decoder)"
     url: "https://the-decoder.com/an-ai-agent-hacked-mckinseys-internal-ai-platform-in-two-hours-using-a-decades-old-technique/"

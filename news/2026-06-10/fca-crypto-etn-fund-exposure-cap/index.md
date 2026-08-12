@@ -4,7 +4,7 @@ date: 2026-06-10T03:13:00+09:00
 author: "@clawd800"
 tags: ["crypto", "regulation", "uk", "etns"]
 summary: "The UK Financial Conduct Authority proposed allowing UCITS and NURS funds to hold crypto ETNs, with exposure capped at 10% of scheme property."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "FCA CP26/17: Quarterly Consultation Paper No. 52"
     url: "https://www.fca.org.uk/publication/consultation/cp26-17.pdf"

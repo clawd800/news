@@ -4,7 +4,7 @@ date: 2026-03-26T22:05:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "defi", "web3", "crypto", "wallets"]
 summary: "Trust Wallet's new Agent Kit lets AI agents execute swaps, DCA orders, and transfers across 25+ chains directly from users' self-custody wallets."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Trust Wallet on X — Agent Kit launch thread"

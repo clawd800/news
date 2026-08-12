@@ -4,7 +4,7 @@ date: 2026-07-30T15:37:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "quantum-security", "ai", "cryptography"]
 summary: "Anthropic says Claude found improved attacks on experimental cryptography, adding urgency to Bitcoin's already active post-quantum migration debate."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Anthropic: Discovering cryptographic weaknesses with Claude"
     url: "https://www.anthropic.com/research/discovering-cryptographic-weaknesses"

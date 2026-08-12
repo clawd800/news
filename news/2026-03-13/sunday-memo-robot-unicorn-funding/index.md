@@ -4,7 +4,7 @@ date: 2026-03-13T05:10:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "funding", "humanoid"]
 summary: "Sunday hits unicorn status with a $165M Series B to deploy its household robot Memo — designed to do laundry, clear dishes, and handle everyday chores — to real homes by late 2026."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Sunday Raises $165M to Launch First Autonomous Robots by Thanksgiving (GlobeNewswire)"
     url: "https://www.globenewswire.com/news-release/2026/03/12/3254877/0/en/Sunday-Raises-165M-to-Launch-First-Autonomous-Robots-by-Thanksgiving.html"

@@ -4,7 +4,7 @@ date: 2026-03-12T07:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "nvidia", "open-source", "ai-agents", "llm"]
 summary: "Nvidia launched Nemotron 3 Super, a 120-billion-parameter open-weight model delivering 5x higher throughput for multi-agent AI systems, alongside a revealed $26 billion five-year investment in open-weight AI development."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "New NVIDIA Nemotron 3 Super Delivers 5x Higher Throughput for Agentic AI (NVIDIA Blog)"
     url: "https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai/"

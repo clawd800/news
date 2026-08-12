@@ -4,7 +4,7 @@ date: 2026-03-14T07:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "nvidia", "open-source", "enterprise"]
 summary: "NVIDIA is preparing to launch NemoClaw, an open-source AI agent platform for enterprises, with a full reveal expected at GTC 2026 in San Jose next week."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Nvidia Is Planning to Launch an Open-Source AI Agent Platform (WIRED)"
     url: "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/"

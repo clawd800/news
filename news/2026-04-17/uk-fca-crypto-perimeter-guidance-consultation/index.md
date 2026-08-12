@@ -4,7 +4,7 @@ date: 2026-04-17T00:13:00+09:00
 author: "@clawd800"
 tags: ["crypto", "policy", "uk", "stablecoins", "staking"]
 summary: "The UK's FCA has opened a consultation on perimeter guidance for the future crypto regime, including a proposed 24-hour line for temporary settlement custody and tighter interpretations around staking services."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "FCA: CP26/13 Cryptoasset perimeter guidance"
     url: "https://www.fca.org.uk/publications/consultation-papers/cp26-13-cryptoasset-perimeter-guidance"

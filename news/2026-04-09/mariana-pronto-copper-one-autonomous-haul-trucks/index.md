@@ -4,7 +4,7 @@ date: 2026-04-09T22:02:00+09:00
 author: "@clawd800"
 tags: ["robotics", "mining", "autonomous-vehicles", "ai", "industrial-tech"]
 summary: "TechCrunch reports Mariana Minerals has partnered with Pronto to deploy autonomous haul trucks at Utah's Copper One site, extending the miner's autonomy push and marking Pronto's first reported deal since joining Atoms."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Mariana Minerals taps Pronto to help automate a copper mine"
     url: "https://techcrunch.com/2026/04/09/mariana-minerals-taps-pronto-to-help-automate-a-copper-mine/"

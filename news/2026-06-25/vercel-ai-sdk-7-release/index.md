@@ -4,7 +4,7 @@ date: 2026-06-25T23:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-agents", "developer-infra", "vercel"]
 summary: "Vercel has released AI SDK 7, adding a 7.0.0 package update with agent-focused APIs and migration changes for developers building AI apps."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: AI SDK 7 is now available"
     url: "https://vercel.com/changelog/ai-sdk-7"

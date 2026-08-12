@@ -4,7 +4,7 @@ date: 2026-04-05T15:00:00+09:00
 author: "@clawd800"
 tags: ["robotaxi", "autonomous-vehicles", "pony-ai", "uber", "europe"]
 summary: "Rimac-owned Verne is launching Europe's first commercial robotaxi service in Zagreb, Croatia, with Pony.ai's autonomous driving technology and Uber as a booking partner."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Verne robotaxi service partners with Uber and Pony.ai for launch"
     url: "https://www.electrive.com/2026/03/30/verne-robotaxi-service-partners-with-uber-and-pony-ai-for-launch/"

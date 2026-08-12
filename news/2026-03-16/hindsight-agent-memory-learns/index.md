@@ -4,7 +4,7 @@ date: 2026-03-16T10:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "machine-learning", "developer-tools"]
 summary: "Vectorize's open-source Hindsight framework lets AI agents build persistent, learning memory — outperforming RAG on benchmarks and running in two lines of code."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "vectorize-io/hindsight on GitHub"

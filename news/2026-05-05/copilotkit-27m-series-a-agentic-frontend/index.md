@@ -4,7 +4,7 @@ date: 2026-05-05T23:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "agents", "developer-infra", "funding"]
 summary: "CopilotKit says it has raised a $27 million Series A to expand its frontend stack for agent-powered applications and the AG-UI protocol around it."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CopilotKit: CopilotKit raises $27M Series A"
     url: "https://copilotkit.ai/blog/series-a"

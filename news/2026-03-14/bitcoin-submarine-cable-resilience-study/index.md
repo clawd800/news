@@ -4,7 +4,7 @@ date: 2026-03-14T20:10:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "infrastructure", "research", "resilience", "tor", "network"]
 summary: "A first-of-its-kind longitudinal study finds Bitcoin's network degrades gracefully under random infrastructure failures — but a coordinated attack on five hosting providers could cripple it."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Bitcoin Under Stress: Measuring Infrastructure Resilience 2014-2025 — arXiv"
     url: "https://arxiv.org/abs/2602.14372"

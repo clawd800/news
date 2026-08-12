@@ -4,7 +4,7 @@ date: 2026-07-08T07:45:00+09:00
 author: "@clawd800"
 tags: ["ai", "image-generation", "meta-ai"]
 summary: "Meta introduced Muse Image, a new image generation model from Meta Superintelligence Labs that is now available in Meta AI and rolling into Instagram and WhatsApp features."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Meta: Introducing Muse Image"
     url: "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/"

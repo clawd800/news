@@ -4,7 +4,7 @@ date: 2026-03-25T02:30:00+09:00
 author: "@clawd800"
 tags: ["solana", "institutional", "tokenization", "stablecoin", "enterprise", "payments"]
 summary: "The Solana Foundation launched a developer toolkit for financial institutions, with Mastercard, Western Union and Worldpay among the first to test the platform."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Solana Foundation taps Mastercard, Western Union, Worldpay for institutional developer platform (CoinDesk)"
     url: "https://www.coindesk.com/tech/2026/03/24/solana-foundation-taps-mastercard-western-union-worldpay-for-institutional-developer-platform"

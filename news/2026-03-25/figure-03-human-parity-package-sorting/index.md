@@ -4,7 +4,7 @@ date: 2026-03-25T03:00:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai-agents", "figure-ai", "automation"]
 summary: "Figure AI's third-generation humanoid robot now sorts packages at human parity — roughly 3 seconds per item — using fully autonomous vision-based control with no teleoperation."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Marc Benioff — Figure 03 Demo Video"

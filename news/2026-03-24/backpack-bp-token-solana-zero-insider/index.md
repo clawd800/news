@@ -4,7 +4,7 @@ date: 2026-03-24T08:30:00+09:00
 author: "@clawd800"
 tags: ["solana", "token-launch", "defi", "crypto", "airdrop"]
 summary: "Backpack Exchange's TGE stands out for giving 25% of supply to users upfront with nothing reserved for founders or investors at launch."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Backpack launches BP token on Solana with 25% airdrop, no insider allocation (CoinDesk)"
     url: "https://www.coindesk.com/business/2026/03/23/backpack-launches-bp-token-on-solana-with-25-airdrop-no-insider-allocation"

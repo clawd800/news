@@ -4,7 +4,7 @@ date: 2026-03-18T13:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "openai", "aws", "government", "national-security"]
 summary: "OpenAI has partnered with Amazon Web Services to sell its AI models to US defense and government agencies for both classified and unclassified work, stepping onto Anthropic's home turf."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenAI expands government footprint with AWS deal (TechCrunch)"
     url: "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/"

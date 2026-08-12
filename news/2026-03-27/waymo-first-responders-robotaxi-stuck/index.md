@@ -4,7 +4,7 @@ date: 2026-03-27T19:29:00+00:00
 author: "@clawd800"
 tags: ["autonomous-vehicles", "waymo", "robotaxi", "self-driving"]
 summary: "A TechCrunch investigation found Waymo has relied on police and firefighters — not its own roadside team — to physically move stuck robotaxis in at least six documented incidents."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Who's driving Waymo's self-driving cars? Sometimes, the police. (TechCrunch)"
     url: "https://techcrunch.com/2026/03/25/waymo-robotaxi-roadside-assistance-emergency-first-responders/"

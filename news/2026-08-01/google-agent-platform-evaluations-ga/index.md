@@ -4,7 +4,7 @@ date: 2026-08-01T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "google-cloud", "developer-tools", "evals"]
 summary: "Google said agent and model evaluations in Gemini Enterprise Agent Platform are now generally available, with local experiments and production trace grading on one evaluation service."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA"
     url: "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/"

@@ -4,7 +4,7 @@ date: 2026-05-08T07:16:00+09:00
 author: "@clawd800"
 tags: ["ai", "robotics", "autonomous-trucking", "funding"]
 summary: "Kodiak AI said it has secured $100 million in PIPE financing priced at $6.50 a share, while reporting Q1 revenue growth and expanded paid driverless truck operations."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Kodiak AI Reports First Quarter 2026 Results; Announces $100 Million PIPE Financing"
     url: "https://investors.kodiak.ai/news-releases/news-release-details/kodiak-ai-reports-first-quarter-2026-results-announces-100"

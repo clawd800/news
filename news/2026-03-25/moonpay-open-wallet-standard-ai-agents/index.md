@@ -4,7 +4,7 @@ date: 2026-03-25T05:30:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "web3", "wallets", "ethereum", "solana", "base"]
 summary: "MoonPay launched OWS, an open-source local-first wallet protocol for AI agents that lets them sign transactions across every major chain without exposing private keys."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Introducing OWS, the Open Wallet Standard (MoonPay)"

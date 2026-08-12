@@ -4,7 +4,7 @@ date: 2026-05-06T20:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "europe", "enterprise", "quantum", "infrastructure"]
 summary: "TechCrunch and The Next Web report that Peter Sarlin's Finnish AI lab QuTwo raised a €25 million angel round at a €325 million valuation as it builds orchestration software for hybrid AI and quantum workloads."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "QUTWO — Next-generation AI for a quantum world"
     url: "https://qutwo.com/"

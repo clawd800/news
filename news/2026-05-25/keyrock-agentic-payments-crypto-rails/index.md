@@ -4,7 +4,7 @@ date: 2026-05-25T03:20:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "stablecoins", "payments", "crypto"]
 summary: "Keyrock says agentic payments are still early, but crypto payment rails are becoming a serious design path for autonomous AI spending."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Who Pays the Agent?"
     url: "https://keyrock.com/who-pays-the-agent/"

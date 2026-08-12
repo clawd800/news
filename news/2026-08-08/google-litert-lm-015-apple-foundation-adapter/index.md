@@ -4,7 +4,7 @@ date: 2026-08-08T15:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "on-device-ai", "developer-infra"]
 summary: "Google AI Edge's LiteRT-LM 0.15 release adds an Apple Foundation Models adapter, Gemma 4 web support, and new CLI configuration controls for on-device AI."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google AI Edge LiteRT-LM v0.15.0 Release"
     url: "https://github.com/google-ai-edge/LiteRT-LM/releases/tag/v0.15.0"

@@ -4,7 +4,7 @@ date: 2026-06-30T19:45:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "crypto-policy", "uk", "regulation"]
 summary: "The FCA has reportedly lowered its proposed capital buffer for stablecoin issuers to 1% as the UK moves toward a fuller crypto rulebook."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: UK to Lower Stablecoin Capital Buffers, Undercutting EU's MiCA Requirements"
     url: "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements"

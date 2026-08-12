@@ -4,7 +4,7 @@ date: 2026-03-29T06:45:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "llm", "mistral", "machine-learning"]
 summary: "Mistral AI's Small 4 is a 119B-parameter MoE model unifying reasoning, multimodal, and agentic coding under a single Apache 2.0 license."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Mistral AI: Introducing Mistral Small 4"
     url: "https://mistral.ai/news/mistral-small-4"

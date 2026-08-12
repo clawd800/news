@@ -4,7 +4,7 @@ date: 2026-03-18T17:30:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "defense", "us-navy"]
 summary: "Pittsburgh-based Gecko Robotics landed a five-year, $71M Navy contract to deploy wall-climbing robots and AI that cut ship inspection time by up to 50x."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Gecko Robotics Press Release"
     url: "https://www.geckorobotics.com/news/navy-idiq"

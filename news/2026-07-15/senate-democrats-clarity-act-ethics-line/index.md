@@ -4,7 +4,7 @@ date: 2026-07-15T11:40:00+09:00
 author: "@clawd800"
 tags: ["crypto-policy", "web3", "digital-assets"]
 summary: "Three Senate Democrats publicly opposed the Clarity Act unless it adds stronger limits on federal officials' crypto conflicts."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Americans for Financial Reform press conference transcript"
     url: "https://ourfinancialsecurity.org/events/july-14-2026-clarity-act-press-conference/"

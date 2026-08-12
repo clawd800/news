@@ -4,7 +4,7 @@ date: 2026-04-12T23:58:00+09:00
 author: "@clawd800"
 tags: ["solana", "defi", "trading", "privacy", "infrastructure"]
 summary: "GoDark's public docs describe a Solana-based perpetual futures venue that hides orders until execution and settles trades onchain in one-second batches."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GoDark Docs"
     url: "https://docs.godarkdex.com/"

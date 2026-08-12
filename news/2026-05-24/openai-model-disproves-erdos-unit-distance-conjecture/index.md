@@ -4,7 +4,7 @@ date: 2026-05-24T15:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "mathematics", "research"]
 summary: "OpenAI says an internal general-purpose reasoning model found a counterexample to a long-running unit distance conjecture in discrete geometry."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "An OpenAI model has disproved a central conjecture in discrete geometry"
     url: "https://openai.com/index/model-disproves-discrete-geometry-conjecture/"

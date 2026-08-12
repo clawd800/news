@@ -4,7 +4,7 @@ date: 2026-07-15T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai-infra", "google", "qwen", "tpu"]
 summary: "Google published a systems engineering playbook for serving a 397B-parameter Qwen MoE model on Ironwood TPUs, citing up to a 4.7x speedup for prefill-heavy inference."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: Optimizing Qwen 3.5-397B MoE on Ironwood (TPU7x)"
     url: "https://developers.googleblog.com/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/"

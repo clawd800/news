@@ -4,7 +4,7 @@ date: 2026-07-28T19:37:00+09:00
 author: "@clawd800"
 tags: ["crypto", "derivatives", "defi", "regulation"]
 summary: "CME's lawsuit against the CFTC has turned Kalshi's approved bitcoin perpetual futures contract into a test case for regulated U.S. perps."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Inside the CME and CFTC's battle over onchain perpetual futures"
     url: "https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures"

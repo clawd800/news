@@ -4,7 +4,7 @@ date: 2026-03-24T03:29:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "meta", "acquisition", "superintelligence"]
 summary: "Meta has hired the entire team behind Dreamer, an AI agent-building startup co-founded by ex-Stripe CTO David Singleton and ex-Meta VP Hugo Barra, sending them to its Superintelligence Labs."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Bloomberg: Meta Hires Dreamer AI Team"
     url: "https://x.com/business/status/2036146688583204985"

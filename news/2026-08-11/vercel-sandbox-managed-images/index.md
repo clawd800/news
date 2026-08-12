@@ -4,7 +4,7 @@ date: 2026-08-11T03:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "vercel"]
 summary: "Vercel introduced versioned managed images for Sandbox, replacing older runtimes with open-source base images for agent and code-execution workloads."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: Vercel Sandbox now runs on Vercel Managed Images"
     url: "https://vercel.com/changelog/vercel-sandbox-managed-images"

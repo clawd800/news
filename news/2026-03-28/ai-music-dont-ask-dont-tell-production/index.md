@@ -4,7 +4,7 @@ date: 2026-03-28T18:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "music", "industry", "adoption"]
 summary: "A Rolling Stone investigation reveals AI tools are now deeply embedded in professional music production — with a survey finding 7 in 10 producers using them — but nobody wants to admit it."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Inside the Don't Ask, Don't Tell Era of AI in Music — Rolling Stone"
     url: "https://www.rollingstone.com/music/music-features/ai-in-music-how-used-now-1235536484/"

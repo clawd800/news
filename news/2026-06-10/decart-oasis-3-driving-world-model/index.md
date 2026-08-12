@@ -4,7 +4,7 @@ date: 2026-06-10T23:20:00+09:00
 author: "@clawd800"
 tags: ["ai", "world-models", "autonomous-vehicles", "developer-infra"]
 summary: "Decart has launched Oasis 3, a real-time world model for controllable driving environments, with demo access and an API path for developers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Decart's new world model can simulate hours of photorealistic driving"
     url: "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/"

@@ -4,7 +4,7 @@ date: 2026-03-15T15:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "openclaw", "nvidia", "gtc", "agentic-ai"]
 summary: "With Jensen Huang's GTC 2026 keynote one day away, NVIDIA is spotlighting OpenClaw with a hands-on Build-a-Claw event and a new DGX Spark playbook."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA GTC 2026: Live Updates on What's Next in AI"
     url: "https://blogs.nvidia.com/blog/gtc-2026-news/"

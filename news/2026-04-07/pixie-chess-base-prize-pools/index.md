@@ -4,7 +4,7 @@ date: 2026-04-07T02:11:00+09:00
 author: "@clawd800"
 tags: ["base", "gaming", "onchain", "consumer-crypto"]
 summary: "Pixie Chess has launched on Base with collectible pieces that fund tournament pots and add special abilities to gameplay."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Pixie Chess launch post"

@@ -4,7 +4,7 @@ date: 2026-05-12T03:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "finance", "search"]
 summary: "Google says its redesigned Finance beta is rolling out across Europe with local language support, adding AI research, live earnings transcripts, and richer charting tools."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Blog: The new AI-powered Google Finance is expanding to Europe"
     url: "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/"

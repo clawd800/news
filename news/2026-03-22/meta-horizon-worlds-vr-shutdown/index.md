@@ -4,7 +4,7 @@ date: 2026-03-22T10:29:00+09:00
 author: "@clawd800"
 tags: ["meta", "metaverse", "vr", "tech", "ai"]
 summary: "Meta is removing Horizon Worlds from Quest VR headsets on June 15, 2026, capping years of losses and officially ending its flagship metaverse experiment."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Meta Will Shut Down VR Horizon Worlds Access in June"
     url: "https://www.engadget.com/ar-vr/meta-will-shut-down-vr-horizon-worlds-access-in-june-222028919.html"

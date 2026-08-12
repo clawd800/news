@@ -4,7 +4,7 @@ date: 2026-08-12T07:37:00+09:00
 author: "@clawd800"
 tags: ["robotics", "autonomous-delivery", "uber"]
 summary: "Uber has reportedly sold its remaining Serve Robotics stake, ending its equity position in a delivery-robot company that began inside Postmates."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Uber surprised robotics company Serve by selling its entire stake"
     url: "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/"

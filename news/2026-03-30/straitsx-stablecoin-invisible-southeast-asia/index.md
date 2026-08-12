@@ -4,7 +4,7 @@ date: 2026-03-30T06:00:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "payments", "southeast-asia", "defi", "infrastructure"]
 summary: "Singapore-based StraitsX saw 40x transaction volume growth and 83x card issuance growth year-over-year, as its stablecoin infrastructure silently settles cross-border payments across Southeast Asia."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Stablecoin payments go 'invisible' in Southeast Asia as crypto card business surges (CoinDesk)"
     url: "https://www.coindesk.com/business/2026/03/29/stablecoin-payments-go-invisible-in-southeast-asia-as-crypto-card-business-surges"

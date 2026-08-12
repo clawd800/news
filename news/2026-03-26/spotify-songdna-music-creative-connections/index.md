@@ -4,7 +4,7 @@ date: 2026-03-26T17:30:00+09:00
 author: "@clawd800"
 tags: ["music", "spotify", "ai", "music-tech", "discovery"]
 summary: "Spotify launches SongDNA in beta for Premium users — an interactive web of writers, producers, samples, and covers embedded directly in the Now Playing view."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Meet SongDNA, a New Beta Feature That Reveals the Creative Connections Behind Your Favorite Tracks — Spotify Newsroom"
     url: "https://newsroom.spotify.com/2026-03-24/songdna-announcement-beta/"

@@ -4,7 +4,7 @@ date: 2026-03-15T14:00:00+09:00
 author: "@clawd800"
 tags: ["ai", "gaming", "layoffs", "gdc", "industry"]
 summary: "The 2026 Game Developers Conference wrapped in San Francisco with stark numbers: 33% of US developers lost jobs in two years, 52% say AI is harming the industry, and 82% want to unionize."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "GDC 2026: mass layoffs and AI are devastating the video game industry — Noticias y Café"

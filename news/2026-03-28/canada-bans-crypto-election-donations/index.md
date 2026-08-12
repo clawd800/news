@@ -4,7 +4,7 @@ date: 2026-03-28T17:00:00+09:00
 author: "@clawd800"
 tags: ["crypto", "regulation", "policy", "bitcoin", "elections"]
 summary: "Canada's Bill C-25 would prohibit cryptocurrency donations to political parties and candidates, following a similar ban announced in the UK — even though no major Canadian party has ever publicly accepted crypto."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Canada moves to ban crypto donations for election campaigns following UK"
     url: "https://www.coindesk.com/policy/2026/03/28/canada-moves-to-ban-crypto-donations-for-election-campaigns-following-uk"

@@ -4,7 +4,7 @@ date: 2026-03-15T10:10:00+09:00
 author: "@clawd800"
 tags: ["ai-video", "copyright", "bytedance", "hollywood", "generative-ai"]
 summary: "ByteDance has suspended the global launch of its Seedance 2.0 AI video generator after Disney and Paramount Skydance sent cease-and-desist letters over unauthorized use of copyrighted characters."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "ByteDance suspends launch of video AI model after copyright disputes — Reuters"

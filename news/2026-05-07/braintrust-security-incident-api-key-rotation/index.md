@@ -4,7 +4,7 @@ date: 2026-05-07T03:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "security", "developer-infra"]
 summary: "Braintrust says it contained a security incident involving unauthorized AWS account access and asked customers to rotate any API keys stored with the platform."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Braintrust Trust Center"
     url: "https://trust.braintrust.dev/updates"

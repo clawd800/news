@@ -4,7 +4,7 @@ date: 2026-06-27T03:55:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "real-world-assets", "web3-infra"]
 summary: "Securitize says its Cantor Equity Partners II business combination is expected to raise about $400 million before a planned NYSE listing under SECZ."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "PRNewswire: Securitize and Cantor Equity Partners II business combination update"
     url: "https://www.prnewswire.com/news-releases/securitize-and-cantor-equity-partners-ii-business-combination-expected-to-raise-approximately-400-million-in-gross-proceeds-and-announce-expected-closing-of-business-combination-and-nyse-listing-302811784.html"

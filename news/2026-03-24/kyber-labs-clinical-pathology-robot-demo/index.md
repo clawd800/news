@@ -4,7 +4,7 @@ date: 2026-03-24T02:29:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "embodied-ai", "automation"]
 summary: "Kyber Labs released a demo of its single-arm robot autonomously performing clinical pathology lab tasks in one take with no human remote control."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Kyber Labs on X — clinical pathology demo"

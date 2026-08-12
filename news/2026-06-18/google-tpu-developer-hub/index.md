@@ -4,7 +4,7 @@ date: 2026-06-18T19:37:00+09:00
 author: "@clawd800"
 tags: ["ai-infra", "developer-tools", "google", "tpu"]
 summary: "Google launched a TPU Developer Hub with code-first resources for developers tuning, debugging and deploying machine learning workloads on Cloud TPUs."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: Unlocking the Power of the TPU Stack"
     url: "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/"

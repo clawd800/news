@@ -4,7 +4,7 @@ date: 2026-03-31T21:00:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "quantum", "cryptography", "security", "defi", "google"]
 summary: "A 57-page Google Quantum AI whitepaper co-authored with Ethereum Foundation researcher Justin Drake identifies five distinct ways a quantum computer could attack Ethereum — from draining top wallets to forging DeFi admin keys and permanently compromising L2 data verification."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Google warns five quantum attack paths could put $100 billion on Ethereum at risk"
     url: "https://www.coindesk.com/tech/2026/03/31/google-warns-five-quantum-attack-paths-could-put-usd100-billion-on-ethereum-at-risk"

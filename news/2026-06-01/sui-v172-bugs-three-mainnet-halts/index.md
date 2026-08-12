@@ -4,7 +4,7 @@ date: 2026-06-01T15:20:00+09:00
 author: "@clawd800"
 tags: ["sui", "layer-1", "web3-infra"]
 summary: "Sui's core team traced three May 28-29 mainnet outages to bugs connected to its v1.72 release and emergency restart path."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Sui Mainnet Halts Resolved After Major Upgrade"
     url: "https://blog.sui.io/sui-mainnet-halts-resolved-after-major-upgrade/"

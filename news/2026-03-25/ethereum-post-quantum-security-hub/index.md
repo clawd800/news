@@ -4,7 +4,7 @@ date: 2026-03-25T01:29:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "cryptography", "security", "post-quantum"]
 summary: "The Ethereum Foundation launched pq.ethereum.org — a public hub coordinating its quantum-safe migration roadmap across four upcoming hard forks and more than 10 client teams."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ethereum Foundation on X"
     url: "https://x.com/ethereumfndn/status/2036464704235692454"

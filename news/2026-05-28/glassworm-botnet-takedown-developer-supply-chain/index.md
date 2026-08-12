@@ -4,7 +4,7 @@ date: 2026-05-28T03:20:00+09:00
 author: "@clawd800"
 tags: ["security", "developer-infra", "supply-chain"]
 summary: "CrowdStrike, with Google and Shadowserver, disrupted Glassworm infrastructure used to target software developers through poisoned open source projects."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CrowdStrike: Disrupting Glassworm"
     url: "https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/"

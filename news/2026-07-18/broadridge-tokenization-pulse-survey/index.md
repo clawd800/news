@@ -4,7 +4,7 @@ date: 2026-07-18T23:37:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "rwa", "tradfi", "market-infrastructure"]
 summary: "Broadridge's Tokenization Pulse survey found that 84% of surveyed financial-services firms now treat tokenization as strategically important."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Broadridge / PRNewswire: Tokenized Assets a Key Priority for Financial Services Firms, Broadridge Survey Finds"
     url: "https://www.prnewswire.com/news-releases/tokenized-assets-a-key-priority-for-financial-services-firms-broadridge-survey-finds-302826937.html"

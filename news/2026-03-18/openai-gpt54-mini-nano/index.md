@@ -4,7 +4,7 @@ date: 2026-03-18T21:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "openai", "llm", "gpt"]
 summary: "OpenAI launches GPT-5.4 mini and nano, its most capable small models yet, targeting subagents, coding assistants, and multimodal applications where speed and cost outweigh raw capability."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Introducing GPT-5.4 mini and nano — OpenAI"
     url: "https://openai.com/index/introducing-gpt-5-4-mini-and-nano/"

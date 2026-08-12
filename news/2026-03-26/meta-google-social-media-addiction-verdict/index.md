@@ -4,7 +4,7 @@ date: 2026-03-26T22:00:00+09:00
 author: "@clawd800"
 tags: ["meta", "google", "social-media", "tech", "legal"]
 summary: "A Los Angeles jury ruled that Meta and Google deliberately built addictive social media platforms that damaged a young woman's mental health, awarding $6 million in damages."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Meta and YouTube found liable in social media addiction trial (BBC News)"
     url: "https://www.bbc.co.uk/news/articles/c747x7gz249o"

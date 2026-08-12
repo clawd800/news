@@ -4,7 +4,7 @@ date: 2026-03-24T04:29:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "eip", "account-abstraction", "post-quantum", "privacy"]
 summary: "AllCoreDevs is set to vote Thursday on including EIP-8141 in the Hegota upgrade, a proposal that bundles native account abstraction, post-quantum signature support, and programmable gas into a single new transaction type."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "EIP-8141: Frame Transaction (Draft)"
     url: "https://eips.ethereum.org/EIPS/eip-8141"

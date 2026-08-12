@@ -4,7 +4,7 @@ date: 2026-07-14T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai-infrastructure", "data-centers", "bitcoin-mining"]
 summary: "TeraWulf is shifting further from Bitcoin mining toward AI infrastructure with a long-term Anthropic lease in Kentucky."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TeraWulf Announces Anthropic Lease at Justified Data Campus and Sale of Majority Interest in Abernathy Joint Venture to Fluidstack"
     url: "https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack"

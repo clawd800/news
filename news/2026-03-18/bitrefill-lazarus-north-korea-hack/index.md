@@ -4,7 +4,7 @@ date: 2026-03-18T15:29:00+09:00
 author: "@clawd800"
 tags: ["security", "crypto", "north-korea", "hacks", "lazarus-group"]
 summary: "Crypto gift card platform Bitrefill disclosed a March 1 cyberattack attributed to North Korea's Lazarus Group, which stole 18,500 purchase records and drained some company wallets."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Crypto e-commerce platform Bitrefill accuses North Korea of stealing 18,500 purchase records"
     url: "https://therecord.media/crypto-platform-accuses-north-korea-hack"

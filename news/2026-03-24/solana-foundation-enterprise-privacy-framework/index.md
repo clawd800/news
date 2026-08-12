@@ -4,7 +4,7 @@ date: 2026-03-24T13:00:00+09:00
 author: "@clawd800"
 tags: ["solana", "privacy", "enterprise", "zero-knowledge", "institutional"]
 summary: "The Solana Foundation released a report framing blockchain privacy as a customizable spectrum for enterprises, arguing institutions need selective disclosure, not just pseudonymity."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Solana Foundation targets institutions with new privacy framework (CoinDesk)"
     url: "https://www.coindesk.com/tech/2026/03/23/solana-foundation-targets-institutions-with-new-privacy-framework"

@@ -4,7 +4,7 @@ date: 2026-03-15T16:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "social-media", "bots", "dead-internet", "tech"]
 summary: "Kevin Rose's rebooted Digg is laying off staff and pulling its app after AI-driven bots overwhelmed the platform's voting and moderation systems within hours of launch."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Digg lays off staff and shuts down app as company retools"
     url: "https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/"

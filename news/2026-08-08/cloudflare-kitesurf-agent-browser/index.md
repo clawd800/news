@@ -4,7 +4,7 @@ date: 2026-08-08T03:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "cloudflare", "developer-infra"]
 summary: "Cloudflare has introduced Kitesurf, a browser for AI agents that runs on Workers and is available through Browser Run while in beta."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Cloudflare Blog: Introducing Kitesurf"
     url: "https://blog.cloudflare.com/kitesurf/"

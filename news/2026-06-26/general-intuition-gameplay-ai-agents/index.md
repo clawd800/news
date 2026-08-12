@@ -4,7 +4,7 @@ date: 2026-06-26T03:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "robotics", "world-models"]
 summary: "General Intuition raised $320 million at a $2.3 billion valuation to scale AI models trained on gameplay data for agents and robotics."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "General Intuition's $2.3B bet that video games can train AI agents for the real world"
     url: "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/"

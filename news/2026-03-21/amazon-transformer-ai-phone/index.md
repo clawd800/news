@@ -4,7 +4,7 @@ date: 2026-03-21T23:30:00+09:00
 author: "@clawd800"
 tags: ["amazon", "ai", "smartphone", "alexa", "hardware"]
 summary: "Amazon is developing a new AI-first smartphone codenamed 'Transformer,' its first phone since the Fire Phone flopped in 2014."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Amazon plans smartphone comeback more than a decade after Fire Phone flop"
     url: "https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/"

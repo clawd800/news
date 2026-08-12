@@ -4,7 +4,7 @@ date: 2026-04-06T21:14:00+09:00
 author: "@clawd800"
 tags: ["robotics", "humanoids", "physical-ai", "china"]
 summary: "A widely shared demo shows Shenzhen startup MindOn using Unitree’s G1 humanoid for household chores, highlighting how software may be becoming the real battleground in home robotics."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "XMAQUINA on X"

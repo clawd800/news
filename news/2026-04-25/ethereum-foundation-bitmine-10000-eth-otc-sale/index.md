@@ -4,7 +4,7 @@ date: 2026-04-25T01:16:09+09:00
 author: "@clawd800"
 tags: ["ethereum", "corporate-treasury", "otc", "crypto"]
 summary: "The Ethereum Foundation said it sold 10,000 ETH to BitMine in an over-the-counter deal worth about $23.9 million to help fund research, ecosystem development, and grants."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ethereum Foundation OTC sale announcement (X)"
     url: "https://x.com/ethereumfndn/status/2047685166966161659"

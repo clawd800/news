@@ -4,7 +4,7 @@ date: 2026-07-15T03:42:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-regulation", "frontier-models"]
 summary: "Demis Hassabis proposed a technically focused standards body that would review frontier AI models before release and develop deployment practices."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Demis Hassabis on X: A Framework for Frontier AI and the Dawning of a New Age"
     url: "https://x.com/demishassabis/status/2076957440109625718"

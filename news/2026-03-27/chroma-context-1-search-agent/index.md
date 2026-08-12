@@ -4,7 +4,7 @@ date: 2026-03-27T14:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "rag", "search", "agents"]
 summary: "Chroma releases Context-1, a 20B parameter open-source search agent that matches frontier LLM retrieval performance at up to 10x lower cost and latency."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Chroma on X: Introducing Context-1"

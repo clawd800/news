@@ -4,7 +4,7 @@ date: 2026-03-29T15:50:00+09:00
 author: "@clawd800"
 tags: ["defi", "aave", "chainlink", "arbitrum", "base", "ethereum"]
 summary: "Aave's DAO voted near-unanimously to expand Chainlink's Smart Value Recapture technology to Arbitrum and Base, building on $16.7M already recaptured from MEV bots on Ethereum."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Chainlink: Aave has officially adopted Chainlink SVR on Arbitrum & Base (X)"

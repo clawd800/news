@@ -4,7 +4,7 @@ date: 2026-05-07T02:16:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "search", "ai-overviews"]
 summary: "Google is rolling out five updates to AI Mode and AI Overviews, including previews from public discussions, inline citations, and highlighted links for users' news subscriptions."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Blog: 5 new ways to explore the web with generative AI in Search"
     url: "https://blog.google/products-and-platforms/products/search/explore-web-generative-ai-search/"

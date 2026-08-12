@@ -4,7 +4,7 @@ date: 2026-07-22T23:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "nostr", "open-source"]
 summary: "Block's Buzz repository describes a self-hostable Nostr workspace where people and AI agents share rooms, repositories, workflow steps and signed audit trails."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "block/buzz GitHub repository"
     url: "https://github.com/block/buzz"

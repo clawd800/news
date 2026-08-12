@@ -4,7 +4,7 @@ date: 2026-04-04T12:10:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "staking", "ethereum-foundation", "defi"]
 summary: "The Ethereum Foundation staked $93 million of ETH in a single day, completing its 70,000 ETH target and converting dormant treasury into a yield-generating position."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ethereum Foundation stakes $93 million of ether in a day, reaching its 70,000 ETH target - CoinDesk"
     url: "https://www.coindesk.com/markets/2026/04/03/ethereum-foundation-stakes-another-usd93-million-ether-reaching-its-70-000-eth-target"

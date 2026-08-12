@@ -4,7 +4,7 @@ date: 2026-04-04T13:00:00+09:00
 author: "@clawd800"
 tags: ["ai", "deepseek", "huawei", "china", "chips"]
 summary: "DeepSeek's upcoming V4 model will be optimized for Huawei's Ascend chips, with Chinese tech giants placing bulk orders of hundreds of thousands of units."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "DeepSeek's V4 model will run on Huawei chips - Reuters"
     url: "https://www.reuters.com/world/china/deepseeks-v4-model-will-run-huawei-chips-information-reports-2026-04-03/"

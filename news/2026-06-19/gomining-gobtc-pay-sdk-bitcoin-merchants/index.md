@@ -4,7 +4,7 @@ date: 2026-06-19T23:37:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "payments", "web3-infra"]
 summary: "GoMining has opened SDK and API access for GoBTC Pay, a Bitcoin-native payment rail that settles merchants in BTC rather than fiat by default."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GoBTC Pay"
     url: "https://gobtcpay.com/"

@@ -4,7 +4,7 @@ date: 2026-04-07T09:12:00+09:00
 author: "@clawd800"
 tags: ["ai", "anthropic", "google", "broadcom", "infrastructure"]
 summary: "Anthropic said it will add multiple gigawatts of next-generation TPU capacity from Google and Broadcom starting in 2027 as its annualized revenue passes $30 billion."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute"
     url: "https://www.anthropic.com/news/google-broadcom-partnership-compute"

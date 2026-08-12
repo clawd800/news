@@ -4,7 +4,7 @@ date: 2026-07-11T15:37:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "circle", "payments", "web3"]
 summary: "Open Standard's planned Open USD stablecoin is drawing market attention because it would waive mint and redemption fees while passing reserve earnings to partners."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Open Standard: Introducing Open USD"
     url: "https://joinopenstandard.com/blog/introducing-open-usd"

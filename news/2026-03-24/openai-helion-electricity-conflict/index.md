@@ -4,7 +4,7 @@ date: 2026-03-24T05:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "openai", "energy", "fusion", "governance"]
 summary: "OpenAI is reportedly in talks to purchase electricity from Helion Energy, a fusion startup where CEO Sam Altman previously served as board chair — raising conflict of interest concerns."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "The Verge: Sam Altman's AI company is in talks to buy electricity from Sam Altman's fusion startup"
     url: "https://www.theverge.com/ai-artificial-intelligence"

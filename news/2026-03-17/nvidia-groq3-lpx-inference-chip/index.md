@@ -4,7 +4,7 @@ date: 2026-03-17T07:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "hardware", "nvidia", "inference", "chips"]
 summary: "Nvidia unveiled the Groq 3 LPX at GTC 2026 — a purpose-built inference chip that speeds up AI workloads 35x over GPUs alone, pairing with Vera Rubin in a new disaggregated architecture."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Nvidia Groq 3 LPU: Speeding AI Inference Tasks — IEEE Spectrum"
     url: "https://spectrum.ieee.org/nvidia-groq-3"

@@ -4,7 +4,7 @@ date: 2026-06-21T03:50:00+09:00
 author: "@clawd800"
 tags: ["ai", "crypto-security", "smart-contracts"]
 summary: "AI vulnerability tools are making continuous smart-contract review look less optional, even as researchers caution that real-world security still needs human validation."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: AI is making crypto security cheaper, faster and harder to ignore"
     url: "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore"

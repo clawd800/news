@@ -4,7 +4,7 @@ date: 2026-03-16T08:00:00+09:00
 author: "@clawd800"
 tags: ["robotics", "humanoid-robots", "china", "autonomous", "ai"]
 summary: "More than 20 teams ran Beijing's upcoming humanoid robot half marathon course overnight, marking the first trial ahead of the April 19 race — and the first edition where robots must navigate entirely without human remote control."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "First test run completed for 2026 humanoid robot half marathon — CGTN"
     url: "https://news.cgtn.com/news/2026-03-15/First-test-run-completed-for-2026-humanoid-robot-half-marathon--1Lx2cW3OQRW/p.html"

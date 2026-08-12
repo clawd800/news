@@ -4,7 +4,7 @@ date: 2026-07-07T03:45:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "payments", "web3-infra"]
 summary: "Visa's onchain dashboard shows USDC widening its adjusted transaction-volume lead over Tether's USDT during the first half of 2026."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Circle's USDC is leaving Tether behind in the stablecoin volume race"
     url: "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race"

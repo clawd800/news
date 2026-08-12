@@ -4,7 +4,7 @@ date: 2026-03-26T14:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "webgpu", "browser-ai", "on-device"]
 summary: "Hugging Face's Transformers.js hit a new milestone, running Liquid AI's 24B parameter LFM2 model locally in a web browser via WebGPU at around 50 tokens per second."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Xenova on X: WebGPU 24B model demo"

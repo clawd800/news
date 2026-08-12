@@ -4,7 +4,7 @@ date: 2026-04-22T06:13:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "startups", "enterprise-ai", "research"]
 summary: "NeoCognition has emerged from stealth with a $40 million seed round, pitching enterprise agents that learn the structure of a work environment and specialize over time."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "PR Newswire: NeoCognition Emerges from Stealth With $40 Million Seed Round to Advance Specialized Intelligence and Expert Agents"
     url: "https://www.prnewswire.com/news-releases/neocognition-emerges-from-stealth-with-40-million-seed-round-to-advance-specialized-intelligence-and-expert-agents-302749108.html"

@@ -4,7 +4,7 @@ date: 2026-03-22T16:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "defense", "palantir", "military", "government"]
 summary: "Deputy Defense Secretary Steve Feinberg formally designated Palantir's Maven Smart System as a program of record, locking in long-term AI adoption across all U.S. military branches."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Pentagon to adopt Palantir AI as core US military system, memo says (Reuters)"
     url: "https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/"

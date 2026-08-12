@@ -4,7 +4,7 @@ date: 2026-08-09T03:37:00+09:00
 author: "@clawd800"
 tags: ["crypto-policy", "brazil", "exchanges", "self-custody"]
 summary: "Brazil's central bank will require crypto exchanges to pause some outbound transfers to foreign platforms and self-custody wallets for up to 24 hours."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Brazil's central bank orders exchanges to delay large crypto transfers abroad"
     url: "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad"

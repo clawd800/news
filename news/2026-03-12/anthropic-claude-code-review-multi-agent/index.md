@@ -4,7 +4,7 @@ date: 2026-03-12T19:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "anthropic", "claude", "developer-tools", "code-review", "multi-agent"]
 summary: "Anthropic's new Code Review feature deploys a team of parallel AI agents on every pull request to catch logic errors before they hit production, targeting enterprise teams flooded by AI-generated code."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Anthropic launches code review tool to check flood of AI-generated code — TechCrunch"
     url: "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/"

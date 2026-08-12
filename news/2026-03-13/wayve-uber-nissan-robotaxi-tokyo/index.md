@@ -4,7 +4,7 @@ date: 2026-03-13T06:10:00+09:00
 author: "@clawd800"
 tags: ["robotics", "autonomous-vehicles", "ai", "uber", "transportation"]
 summary: "UK self-driving startup Wayve has teamed up with Uber and Nissan to pilot autonomous taxi services in Tokyo by late 2026, marking Uber's first AV partnership in Japan."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Wayve, Uber and Nissan Announce Collaboration on Robotaxis — Nissan Newsroom"
     url: "https://usa.nissannews.com/en-US/releases/wayve-uber-and-nissan-announce-collaboration-on-robotaxis"

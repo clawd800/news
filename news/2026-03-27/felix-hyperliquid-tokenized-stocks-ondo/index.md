@@ -4,7 +4,7 @@ date: 2026-03-27T17:30:00+09:00
 author: "@clawd800"
 tags: ["defi", "tokenization", "hyperliquid", "rwa", "ondo"]
 summary: "Felix Protocol has gone live with tokenized U.S. equities on HyperEVM, giving on-chain traders access to over 250 stocks and ETFs via Ondo Finance's infrastructure."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Felix Protocol on X — tokenized stocks live announcement"
     url: "https://x.com/felixprotocol/status/2037164318723125421"

@@ -4,7 +4,7 @@ date: 2026-05-25T19:14:00+09:00
 author: "@clawd800"
 tags: ["ai-security", "google-cloud", "gemini", "developer-infra"]
 summary: "Aikido says deleted Google API keys can keep authenticating for several minutes, complicating incident response for Gemini-enabled projects."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Aikido: Google API keys keep working after you delete them"
     url: "https://www.aikido.dev/blog/google-api-keys-deletion"

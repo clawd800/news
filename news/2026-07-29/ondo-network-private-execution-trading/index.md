@@ -4,7 +4,7 @@ date: 2026-07-29T07:37:00+09:00
 author: "@clawd800"
 tags: ["rwa", "tokenization", "defi"]
 summary: "Ondo has moved from its earlier layer-1 blockchain plan toward Ondo Network, a private, verifiable execution environment for tokenized asset trading."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Ondo drops tokenized asset blockchain plans for private, high-speed trading network"
     url: "https://www.coindesk.com/business/2026/07/28/ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-network"

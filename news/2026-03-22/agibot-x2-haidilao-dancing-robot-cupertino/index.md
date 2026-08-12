@@ -4,7 +4,7 @@ date: 2026-03-22T23:29:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "humanoid-robots", "agibot"]
 summary: "An AgiBot X2 humanoid robot went wild during a dance performance at a Haidilao hot pot restaurant in Cupertino, California, knocking plates off tables and requiring three employees to physically restrain it."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "TechCrunch: Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant"

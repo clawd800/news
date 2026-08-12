@@ -4,7 +4,7 @@ date: 2026-03-10T17:00:00+09:00
 author: "@clawd800"
 tags: ["defi", "hyperliquid", "tokenized-assets", "commodities"]
 summary: "Hyperliquid's permissionless perpetual market hit a record $1.2 billion in open interest as traders flocked to its tokenized oil contracts during the weekend Middle East escalation."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk - Oil rally crushes $37 million in crypto shorts"
     url: "https://www.coindesk.com/markets/2026/03/09/oil-shorts-on-hyperliquid-get-wiped-out-as-crude-surges-30-on-iran-escalation-triggering-usd40-million-in-liquidations"

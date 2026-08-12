@@ -4,7 +4,7 @@ date: 2026-08-05T15:37:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "staking", "web3-infra"]
 summary: "Ethereum's EIP-8363 draft would burn a rising share of validator issuance as staking grows, reaching full consensus-layer issuance burn near a 50% staking ratio."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "EIP draft: Tapered Issuance Burn"
     url: "https://github.com/pintail-xyz/EIPs/blob/edde78eb1feeb285906d5a8deb582c4feaecd6ba/EIPS/eip-draft_tapered_issuance_burn.md"

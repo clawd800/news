@@ -4,7 +4,7 @@ date: 2026-03-24T23:29:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "nyse", "rwa", "tradfi", "blockchain", "web3", "defi"]
 summary: "The New York Stock Exchange has signed an MOU with BlackRock-backed Securitize to design a Digital Trading Platform where US stocks and ETFs can be issued and traded as blockchain tokens around the clock."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "New York Stock Exchange taps Securitize to build its tokenized stock platform — CoinDesk"
     url: "https://www.coindesk.com/business/2026/03/24/new-york-stock-exchange-taps-securitize-to-build-its-tokenized-stock-platform"

@@ -4,7 +4,7 @@ date: 2026-03-18T09:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "copyright", "bytedance", "hollywood", "regulation"]
 summary: "Senators Blackburn and Welch are calling for an immediate shutdown of ByteDance's Seedance 2.0 AI video generator after it produced unauthorized likenesses of Tom Cruise, Brad Pitt, and Stranger Things characters."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Senators tell ByteDance to 'immediately shut down' Seedance AI video app (CNBC)"
     url: "https://www.cnbc.com/2026/03/17/bytedance-seedance-shut-down-tiktok-marsha-blackburn-peter-welch.html"

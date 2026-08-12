@@ -4,7 +4,7 @@ date: 2026-07-07T23:45:00+09:00
 author: "@clawd800"
 tags: ["crypto-infra", "institutional-crypto", "stablecoins"]
 summary: "EDX Markets closed a $76 million Series C led by SBI Holdings as it builds institutional crypto trading, clearing, settlement, and custody infrastructure."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "EDX Markets Raises $76M in Series C Led by SBI Holdings"
     url: "https://edxmarkets.com/edx-markets-closes-76-million-series-c-funding-round-led-by-sbi-holdings-to-enhance-institutional-digital-asset-infrastructure/"

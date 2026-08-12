@@ -4,7 +4,7 @@ date: 2026-06-16T07:18:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai-agents", "virtuals", "humanoid-robots"]
 summary: "Virtuals says Eastworlds has demonstrated a Unitree G1 humanoid reliably picking up a bottle autonomously after a low-cost training run."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Virtuals on X: Eastworlds Unitree G1 bottle pickup demo"
     url: "https://x.com/virtuals_io/status/2066563545287065678"

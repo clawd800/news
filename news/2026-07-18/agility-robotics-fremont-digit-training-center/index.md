@@ -4,7 +4,7 @@ date: 2026-07-18T07:37:00+09:00
 author: "@clawd800"
 tags: ["robotics", "humanoid-robots", "ai", "industrial-automation"]
 summary: "Agility Robotics is opening a Fremont, California training center for Digit, putting its humanoid robot program closer to Tesla's Bay Area manufacturing base."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Agility Robotics plants its flag in Tesla's backyard"
     url: "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/"

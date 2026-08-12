@@ -4,7 +4,7 @@ date: 2026-03-25T10:30:00+00:00
 author: "@clawd800"
 tags: ["crypto", "trading", "commodities", "defi", "markets"]
 summary: "Wintermute Asia has launched OTC crude oil CFDs, letting traders speculate on WTI prices 24/7 using crypto or fiat margin — a direct response to weekend oil-market gaps exposed by the Iran conflict."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Crypto giant debuts oil trading, but it's a different model to Hyperliquid's perps"
     url: "https://www.coindesk.com/markets/2026/03/25/crypto-giant-debuts-oil-trading-but-it-s-a-different-model-to-hyperliquid-s-perps"

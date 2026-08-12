@@ -4,7 +4,7 @@ date: 2026-07-19T23:45:00+09:00
 author: "@clawd800"
 tags: ["crypto", "derivatives", "bitcoin", "kraken"]
 summary: "Kraken has launched cash-settled bitcoin options, adding a simpler USD-denominated product to its crypto derivatives lineup."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Kraken says simpler options can unlock crypto's next derivatives market"
     url: "https://www.coindesk.com/business/2026/07/19/kraken-says-simpler-options-can-unlock-crypto-s-next-derivatives-market"

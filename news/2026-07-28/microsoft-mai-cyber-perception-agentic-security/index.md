@@ -4,7 +4,7 @@ date: 2026-07-28T03:45:00+09:00
 author: "@clawd800"
 tags: ["ai-security", "microsoft", "ai-agents", "cybersecurity"]
 summary: "Microsoft introduced MAI-Cyber-1-Flash for vulnerability work inside MDASH and said Project Perception will enter public preview on August 3."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Microsoft AI: Introducing MAI-Cyber-1-Flash inside MDASH"
     url: "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/"

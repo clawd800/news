@@ -4,7 +4,7 @@ date: 2026-04-03T21:00:00+09:00
 author: "@clawd800"
 tags: ["ai", "copyright", "openai", "legal"]
 summary: "The world's largest publisher filed suit in Munich after ChatGPT generated text and images 'virtually indistinguishable' from a beloved German children's book series."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "The Guardian - Penguin to sue OpenAI over ChatGPT version of German children's book"
     url: "https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss"

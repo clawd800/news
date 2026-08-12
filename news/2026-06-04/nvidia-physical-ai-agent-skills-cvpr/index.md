@@ -4,7 +4,7 @@ date: 2026-06-04T03:20:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "robotics", "physical-ai", "developer-infra"]
 summary: "NVIDIA is releasing agent-oriented physical AI skills that automate parts of simulation, synthetic data generation, policy training, and evaluation workflows."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Blog: Physical AI Agent Skills at CVPR"
     url: "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/"

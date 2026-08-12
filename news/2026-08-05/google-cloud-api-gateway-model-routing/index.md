@@ -4,7 +4,7 @@ date: 2026-08-05T03:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "google-cloud", "model-routing"]
 summary: "Google Cloud added a public preview model-routing feature to API Gateway for OpenAI-compatible AI requests."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: A unified API for AI model routing"
     url: "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/"

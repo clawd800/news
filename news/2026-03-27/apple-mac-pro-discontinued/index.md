@@ -4,7 +4,7 @@ date: 2026-03-27T08:30:00+09:00
 author: "@clawd800"
 tags: ["apple", "hardware", "mac", "mac-pro", "mac-studio"]
 summary: "Apple has confirmed to 9to5Mac that the Mac Pro is discontinued and permanently removed from its lineup, with no successor planned — ending a product line that debuted in the 1990s."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Apple discontinues the Mac Pro with no plans for future hardware"
     url: "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/"

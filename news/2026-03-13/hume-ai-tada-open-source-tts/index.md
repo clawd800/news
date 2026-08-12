@@ -4,7 +4,7 @@ date: 2026-03-13T03:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "voice-ai", "tts", "on-device"]
 summary: "Hume AI released TADA, an open-source text-to-speech model with a novel architecture that synchronizes text and audio one-to-one, eliminating hallucinations and running 5x faster than comparable systems."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Opensourcing TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization (Hume AI Blog)"
     url: "https://www.hume.ai/blog/opensource-tada"

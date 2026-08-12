@@ -4,7 +4,7 @@ date: 2026-03-19T14:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "nvidia", "telecom", "physical-ai", "robotics", "edge-computing"]
 summary: "NVIDIA, T-Mobile, and Nokia are building an AI-RAN network that runs physical AI applications — robots, self-driving cars, smart cities — directly from cell towers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA, T-Mobile and Partners Integrate Physical AI Applications on AI-RAN-Ready Infrastructure (BusinessWire)"
     url: "https://www.businesswire.com/news/home/20260315470404/en/NVIDIA-T-Mobile-and-Partners-Integrate-Physical-AI-Applications-on-AI-RAN-Ready-Infrastructure"

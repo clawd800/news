@@ -4,7 +4,7 @@ date: 2026-05-28T11:22:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "payments", "mcp"]
 summary: "Google introduced a Pay and Wallet Developer MCP server that lets AI coding tools inspect payment integrations, search docs, and monitor merchant errors."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: The latest updates to Google Pay"
     url: "https://developers.googleblog.com/the-latest-updates-to-google-pay/"

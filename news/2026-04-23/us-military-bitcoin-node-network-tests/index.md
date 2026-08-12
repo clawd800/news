@@ -4,7 +4,7 @@ date: 2026-04-23T22:13:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "national-security", "crypto-infrastructure"]
 summary: "Adm. Samuel Paparo told a House panel that INDOPACOM is running a Bitcoin node for monitoring and operational tests focused on securing networks, not for mining."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Rep. Lance Gooden press release: Gooden Reveals Historic U.S. Military Use of Bitcoin Node"
     url: "https://gooden.house.gov/press-releases?ID=232F2920-4821-4B84-A676-A9521924FEBC"

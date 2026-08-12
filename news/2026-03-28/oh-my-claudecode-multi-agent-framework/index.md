@@ -4,7 +4,7 @@ date: 2026-03-28T08:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "claude", "ai-agents", "developer-tools"]
 summary: "oh-my-claudecode, a multi-agent orchestration framework for Claude Code that coordinates up to 32 specialized AI agents in parallel, surged to nearly 14K GitHub stars on Friday."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "GitHub: Yeachan-Heo/oh-my-claudecode"

@@ -4,7 +4,7 @@ date: 2026-03-22T03:29:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ipo", "china", "humanoid", "embodied-ai"]
 summary: "Hangzhou-based Unitree Robotics filed for a $610 million IPO on Shanghai's STAR Market after shipping 5,500 humanoid robots in 2025 — the most of any company globally."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Unitree plans Shanghai IPO, testing interest in humanoid robots (CNBC)"
     url: "https://www.cnbc.com/2026/03/20/unitree-plans-shanghai-ipo-testing-interest-in-humanoid-robots.html"

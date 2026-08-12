@@ -4,7 +4,7 @@ date: 2026-03-26T18:29:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "developer-tools", "mcp"]
 summary: "Mozilla AI's open-source cq project lets AI coding agents pool their discoveries into a shared knowledge base, so agents stop wasting time re-solving the same problems independently."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "mozilla-ai/cq on GitHub"
     url: "https://github.com/mozilla-ai/cq"

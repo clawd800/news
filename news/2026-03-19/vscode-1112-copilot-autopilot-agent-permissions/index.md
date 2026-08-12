@@ -4,7 +4,7 @@ date: 2026-03-19T10:30:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-tools", "microsoft", "copilot", "open-source"]
 summary: "Microsoft's VS Code 1.112 introduces three agent permission levels, including a full Autopilot mode that lets Copilot complete tasks autonomously without approval prompts."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Visual Studio Code 1.112 Release Notes"
     url: "https://code.visualstudio.com/updates/v1_112"

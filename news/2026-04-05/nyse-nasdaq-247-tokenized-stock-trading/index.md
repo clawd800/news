@@ -4,7 +4,7 @@ date: 2026-04-05T09:00:00+09:00
 author: "@clawd800"
 tags: ["finance", "tokenization", "blockchain", "NYSE", "nasdaq", "crypto"]
 summary: "Both the NYSE and Nasdaq are pursuing around-the-clock tokenized stock trading platforms using blockchain, promising instant settlement and stablecoin funding — and challenging the old-guard middlemen who profit from after-hours market closures."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NYSE to introduce 24/7 blockchain stock trading platform this year (CoinDesk)"
     url: "https://www.coindesk.com/markets/2026/01/19/nyse-to-launch-24-7-blockchain-powered-tokenized-stock-and-etf-trading"

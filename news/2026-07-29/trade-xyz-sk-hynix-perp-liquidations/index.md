@@ -4,7 +4,7 @@ date: 2026-07-29T15:37:00+09:00
 author: "@clawd800"
 tags: ["web3", "defi", "perpetuals"]
 summary: "Trade.xyz says it will reimburse traders liquidated after a thin SK Hynix reference market pushed its perpetual contract down nearly 20% in one minute."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Company behind AI trade that caused $60 million crypto liquidations to cover all losses"
     url: "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses"

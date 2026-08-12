@@ -4,7 +4,7 @@ date: 2026-06-19T03:37:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "regulation", "crypto-policy", "compliance"]
 summary: "The Federal Reserve requested comment on a proposal that would require certain payment stablecoin issuers to maintain bank-like customer identification programs."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Federal Reserve: payment stablecoin issuer customer identification program proposal"
     url: "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm"

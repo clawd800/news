@@ -4,7 +4,7 @@ date: 2026-03-30T23:16:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "microsoft", "anthropic", "enterprise", "claude"]
 summary: "Microsoft's Copilot Cowork is now live for Frontier program members, bringing Claude-powered multi-step task automation to M365 alongside a new Researcher Critique feature that scores 13.8% above the best systems on the DRACO benchmark."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Copilot Cowork: Now available in Frontier — Microsoft 365 Blog"
     url: "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/"

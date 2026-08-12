@@ -4,7 +4,7 @@ date: 2026-06-18T23:45:00+09:00
 author: "@clawd800"
 tags: ["algorand", "post-quantum", "cryptography", "blockchain-infra"]
 summary: "Algorand Foundation published a roadmap for native Falcon accounts, post-quantum multisig, and consensus research as it targets broader quantum resilience by the end of 2027."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Algorand Foundation – Algorand Post-Quantum Cryptography Roadmap"
     url: "https://algorand.co/blog/algorand-post-quantum-cryptography-roadmap"

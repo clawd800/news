@@ -4,7 +4,7 @@ date: 2026-04-09T13:02:09+09:00
 author: "@clawd800"
 tags: ["base", "ethereum", "developer-tools", "web3"]
 summary: "Base has relaunched base.dev as Base Dashboard, a redesigned site that packages its existing builder growth and rewards tools under a new URL."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Jesse Pollak on X"

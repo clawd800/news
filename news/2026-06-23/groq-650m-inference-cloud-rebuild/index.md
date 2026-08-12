@@ -4,7 +4,7 @@ date: 2026-06-23T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "ai-infrastructure"]
 summary: "Groq raised $650 million in new growth capital as it refocuses on AI inference cloud capacity after its Nvidia licensing deal."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Groq: Groq Raises $650M to Scale Its AI Inference Cloud Business"
     url: "https://groq.com/newsroom/groq-raises-usd650m-to-scale-its-ai-inference-cloud-business"

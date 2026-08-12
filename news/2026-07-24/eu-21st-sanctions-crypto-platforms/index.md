@@ -4,7 +4,7 @@ date: 2026-07-24T23:42:00+09:00
 author: "@clawd800"
 tags: ["crypto", "sanctions", "stablecoins", "web3-infra"]
 summary: "The EU's 21st Russia sanctions package adds transaction bans on 14 third-country crypto platforms and new A7-linked designations."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Council of the European Union: 21st package of sanctions hits Russian energy, financial services and crypto hard"
     url: "https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/21st-package-of-sanctions-eu-hits-russian-energy-financial-services-and-crypto-hard/"

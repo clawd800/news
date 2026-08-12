@@ -4,7 +4,7 @@ date: 2026-07-10T23:37:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "circle", "usdc", "regulation"]
 summary: "Circle received final OCC approval to establish a national trust bank, putting part of its USDC infrastructure under direct federal bank supervision."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Circle: Circle Receives Final OCC Approval to Establish National Trust Bank"
     url: "https://www.circle.com/pressroom/circle-receives-final-occ-approval-to-establish-national-trust-bank"

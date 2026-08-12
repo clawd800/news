@@ -4,7 +4,7 @@ date: 2026-07-09T23:44:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "open-source"]
 summary: "Ollama has raised a reported $65 million as its local AI developer tool grows to 8.9 million developers and $88 million in total funding."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: Ollama raises $65M, grows to nearly 9M users"
     url: "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/"

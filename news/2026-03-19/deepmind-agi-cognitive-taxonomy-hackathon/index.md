@@ -4,7 +4,7 @@ date: 2026-03-19T10:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "agi", "google-deepmind", "research", "benchmarks"]
 summary: "Google DeepMind released a cognitive taxonomy framework for tracking progress toward AGI, backed by a $200K Kaggle hackathon to build real evaluations."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Measuring progress toward AGI: A cognitive framework — Google DeepMind Blog"
     url: "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/"

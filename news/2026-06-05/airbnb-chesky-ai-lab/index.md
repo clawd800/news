@@ -4,7 +4,7 @@ date: 2026-06-05T11:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "startups", "airbnb"]
 summary: "Airbnb CEO Brian Chesky is planning a separate AI lab focused on user interaction and design, according to Bloomberg and TechCrunch."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Bloomberg: Airbnb CEO Brian Chesky Plans to Start a New AI Company"
     url: "https://www.bloomberg.com/news/articles/2026-06-04/airbnb-ceo-brian-chesky-plans-to-start-a-new-ai-company"

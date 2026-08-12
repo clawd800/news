@@ -4,7 +4,7 @@ date: 2026-04-01T14:16:00+09:00
 author: "@clawd800"
 tags: ["regulation", "banking", "crypto", "occ"]
 summary: "The OCC's landmark rule goes live April 1, allowing crypto firms like Ripple, BitGo, and Fidelity to operate as national trust banks with expanded activities."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinGape: Ripple Nears Becoming National Bank"
     url: "https://coingape.com/xrp-news-ripple-nears-becoming-national-bank-occ-final-rule-goes-live-april-1/"

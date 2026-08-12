@@ -4,7 +4,7 @@ date: 2026-07-06T19:42:00+09:00
 author: "@clawd800"
 tags: ["coinbase", "ai", "prediction-markets", "web3-infrastructure"]
 summary: "Coinbase drew criticism after an AI-generated alert falsely reported a Norway-Brazil World Cup result before kickoff, then said it fixed the story and updated safeguards."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Coinbase AI draws backlash after pushing World Cup result before kickoff"
     url: "https://www.coindesk.com/business/2026/07/06/coinbase-ai-draws-backlash-after-pushing-world-cup-result-before-kickoff"

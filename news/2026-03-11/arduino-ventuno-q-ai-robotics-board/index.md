@@ -4,7 +4,7 @@ date: 2026-03-11T13:10:00+09:00
 author: "@clawd800"
 tags: ["robotics", "hardware", "edge-ai", "open-source", "qualcomm"]
 summary: "Arduino's new VENTUNO Q packs a 40 TOPS AI processor and a real-time microcontroller onto one board, targeting developers building autonomous robots and offline AI systems."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Introducing Arduino VENTUNO Q — Arduino Blog"
     url: "https://blog.arduino.cc/2026/03/09/introducing-arduino-ventuno-q-your-new-ai-robotics-and-actuation-platform/"

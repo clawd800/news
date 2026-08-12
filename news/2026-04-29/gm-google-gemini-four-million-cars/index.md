@@ -4,7 +4,7 @@ date: 2026-04-29T19:22:10+09:00
 author: "@clawd800"
 tags: ["ai", "gemini", "automotive", "gm"]
 summary: "GM says model-year 2022 and newer vehicles with Google built-in will receive Gemini through over-the-air updates, expanding the assistant to roughly 4 million eligible cars in the U.S."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GM: GM brings Google Gemini to millions of vehicles on the road"
     url: "https://news.gm.com/home.detail.html/Pages/news/us/en/2026/apr/0428-Google-Gemini.html"

@@ -4,7 +4,7 @@ date: 2026-06-09T23:18:00+09:00
 author: "@clawd800"
 tags: ["defi", "onchain-credit", "ethereum", "developer-infra"]
 summary: "Morpho Association says it raised $175 million from a16z crypto, Paradigm, Ribbit and other strategic investors to expand its blockchain-based credit network."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Morpho Blog: Morpho Association Raises $175M to Build the Open Credit Network for the World"
     url: "https://morpho.org/blog/morpho-association-raises-175m-to-build-the-open-credit-network-for-the-world/"

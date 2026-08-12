@@ -4,7 +4,7 @@ date: 2026-07-04T23:37:00+09:00
 author: "@clawd800"
 tags: ["crypto-policy", "uk", "regulation", "crypto-infra"]
 summary: "The FCA's new crypto regime gives trading platforms a clearer UK path, but firms still face authorization, capital, conduct, and market-abuse obligations."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "FCA: FCA Sets Landmark Crypto Rules to Cement the UK's Place as a Global Hub"
     url: "https://www.fca.org.uk/news/press-releases/fca-sets-landmark-crypto-rules-cement-uks-place-global-hub"

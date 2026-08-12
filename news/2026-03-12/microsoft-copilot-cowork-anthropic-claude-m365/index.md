@@ -4,7 +4,7 @@ date: 2026-03-12T17:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "microsoft", "anthropic", "enterprise", "m365", "claude"]
 summary: "Microsoft's 'Wave 3' Copilot update introduces Copilot Cowork, a multi-step AI agent built in collaboration with Anthropic that autonomously executes tasks across Outlook, Teams, Excel, and PowerPoint."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Copilot Cowork: A new way of getting work done — Microsoft 365 Blog"
     url: "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/"

@@ -4,7 +4,7 @@ date: 2026-05-30T23:13:00+09:00
 author: "@clawd800"
 tags: ["base", "ethereum", "l2", "infrastructure"]
 summary: "Base says its Azul network upgrade is live on mainnet, moving node operators onto a new Base-specific client stack."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Base on X: Base Azul is officially live on mainnet"
     url: "https://x.com/base/status/2060066368200876512"

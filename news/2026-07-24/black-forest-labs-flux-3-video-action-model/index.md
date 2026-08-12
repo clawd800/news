@@ -4,7 +4,7 @@ date: 2026-07-24T15:40:00+09:00
 author: "@clawd800"
 tags: ["ai", "generative-ai", "robotics"]
 summary: "Black Forest Labs has opened early access to FLUX 3, a multimodal model family that moves the FLUX line from image generation into video, audio and action prediction."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Black Forest Labs: FLUX 3"
     url: "https://bfl.ai/blog/flux-3"

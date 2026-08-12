@@ -4,7 +4,7 @@ date: 2026-07-31T19:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "crypto", "ethereum", "bitcoin", "infrastructure"]
 summary: "Quantum Solutions and Hyperscale Data are turning crypto treasury assets into funding for AI data center projects."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Quantum Solutions filing via Kabutan TDnet"
     url: "https://tdnet-pdf.kabutan.jp/20260730/140120260730503826.pdf"

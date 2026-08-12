@@ -4,7 +4,7 @@ date: 2026-07-09T15:37:00+09:00
 author: "@clawd800"
 tags: ["ai-infra", "ai-agents", "nvidia"]
 summary: "NVIDIA says its Vera CPU is being adopted by AI teams that need stronger single-threaded performance for agent orchestration and data-center control workloads."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters"
     url: "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/"

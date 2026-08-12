@@ -4,7 +4,7 @@ date: 2026-06-20T07:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "health-ai", "google"]
 summary: "Google says its AMIE research system matched primary care physicians on disease-management reasoning in a blinded virtual study, while remaining a research tool."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Blog: New research shows how AMIE could help manage health conditions"
     url: "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"

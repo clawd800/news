@@ -4,7 +4,7 @@ date: 2026-07-14T03:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-tools", "ai-infrastructure"]
 summary: "Vercel's July AI Gateway Production Index says open-weight models nearly tripled their token share since April while average token prices stayed flat in June."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel: AI Gateway Production Index — July 2026"
     url: "https://vercel.com/blog/ai-gateway-production-index-july-2026"

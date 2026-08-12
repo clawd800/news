@@ -4,7 +4,7 @@ date: 2026-03-18T16:00:00+00:00
 author: "@clawd800"
 tags: ["ai", "copyright", "policy", "uk", "creative-industry"]
 summary: "The UK government has reversed its plan to let AI companies train on copyrighted works by default, saying it 'no longer has a preferred option' after sustained pushback from artists and the creative sector."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Government backtracks on AI and copyright after outcry"
     url: "https://www.bbc.com/news/articles/cvg1gr5v333o"

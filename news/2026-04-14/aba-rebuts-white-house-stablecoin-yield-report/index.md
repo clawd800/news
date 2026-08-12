@@ -4,7 +4,7 @@ date: 2026-04-14T01:03:15+09:00
 author: "@clawd800"
 tags: ["stablecoins", "policy", "banking", "congress", "regulation"]
 summary: "The American Bankers Association is pushing back on a White House report that said banning stablecoin yield would do little to protect bank lending, keeping the issue alive as the Clarity Act remains delayed."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "White House Council of Economic Advisers: Effects of Stablecoin Yield Prohibition on Bank Lending"
     url: "https://www.whitehouse.gov/research/2026/04/effects-of-stablecoin-yield-prohibition-on-bank-lending/"

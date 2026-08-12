@@ -4,7 +4,7 @@ date: 2026-04-13T06:58:00+09:00
 author: "@clawd800"
 tags: ["ai", "anthropic", "cybersecurity", "developer-tools", "finance"]
 summary: "Anthropic says its Mythos Preview model is being deployed for defensive security work, while Bloomberg reports more Wall Street banks have begun internal testing beyond JPMorgan."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Anthropic: Project Glasswing"
     url: "https://www.anthropic.com/glasswing"

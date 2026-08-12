@@ -4,7 +4,7 @@ date: 2026-06-11T19:20:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "web3", "banking", "singapore"]
 summary: "DBS plans to offer tokenized physical gold through its digibank app in Singapore, extending tokenized-asset access from institutions toward retail customers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "DBS Newsroom: DBS expands gold offerings with market-first tokenised physical gold for customers in Singapore"
     url: "https://www.dbs.com/newsroom/DBS_expands_gold_offerings_with_market_first_tokenised_physical_gold_for_customers_in_Singapore"

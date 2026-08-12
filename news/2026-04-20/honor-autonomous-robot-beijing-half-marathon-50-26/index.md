@@ -4,7 +4,7 @@ date: 2026-04-20T04:13:00+09:00
 author: "@clawd800"
 tags: ["robotics", "humanoid-robots", "china", "autonomous-systems", "ai"]
 summary: "An autonomous humanoid robot from Honor officially won Beijing E-Town's 2026 robot half marathon in 50 minutes and 26 seconds under the event's published weighted scoring rules."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Beijing Economic-Technological Development Area: 2026 Beijing E-Town humanoid half marathon rules"
     url: "https://kfqgw.beijing.gov.cn/ywdt/gsprcgd/lxyz/202604/t20260415_4582486.html"

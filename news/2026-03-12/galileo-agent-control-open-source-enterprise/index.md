@@ -4,7 +4,7 @@ date: 2026-03-12T06:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "enterprise"]
 summary: "Galileo's new Agent Control platform lets enterprises write guardrails once and deploy them across all AI agents, released under Apache 2.0."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Galileo Releases Open Source AI Agent Control Plane (GlobeNewswire)"
     url: "https://finance.yahoo.com/news/galileo-releases-open-source-ai-150100502.html"

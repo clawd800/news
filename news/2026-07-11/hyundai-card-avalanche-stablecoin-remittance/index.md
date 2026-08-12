@@ -4,7 +4,7 @@ date: 2026-07-11T07:37:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "avalanche", "enterprise-blockchain"]
 summary: "Hyundai Card has tested live intercompany treasury transfers using USDT on Avalanche, with a Europe-focused pilot planned next."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Hyundai adopts stablecoins for cross-border treasury transfers"
     url: "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers"

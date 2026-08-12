@@ -4,7 +4,7 @@ date: 2026-07-05T19:37:00+09:00
 author: "@clawd800"
 tags: ["github", "developer-infra", "open-source", "security"]
 summary: "GitHub is using its new public preview license compliance feature to catch open source dependency license issues before code is merged."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GitHub Blog: How GitHub maintains compliance for open source dependencies"
     url: "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/"

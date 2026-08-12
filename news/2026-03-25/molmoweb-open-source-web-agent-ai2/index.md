@@ -4,7 +4,7 @@ date: 2026-03-25T10:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "ai-agents", "browser-automation", "multimodal"]
 summary: "Allen Institute for AI releases MolmoWeb, an open visual web agent built on Molmo 2 that achieves new open-weight SOTA across four major web-agent benchmarks and outperforms OpenAI CUA on three of them."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ai2 Blog: MolmoWeb — An open agent for automating web tasks"
     url: "https://allenai.org/blog/molmoweb"

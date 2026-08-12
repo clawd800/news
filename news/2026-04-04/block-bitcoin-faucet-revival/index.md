@@ -4,7 +4,7 @@ date: 2026-04-04T17:10:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "block", "jack-dorsey", "adoption", "btc"]
 summary: "Block Inc. is bringing back the Bitcoin faucet on April 6, dubbed 'Bitcoin Day,' allowing users to earn small amounts of BTC — reviving a 2010 tradition that originally distributed nearly 20,000 BTC for free."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Jack Dorsey Teases Bitcoin Faucet Revival With 'Bitcoin Day' Post - Bitcoin Magazine"
     url: "https://bitcoinmagazine.com/news/jack-dorsey-reveals-bitcoin-faucet"

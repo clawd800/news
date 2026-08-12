@@ -4,7 +4,7 @@ date: 2026-03-12T05:10:00+09:00
 author: "@clawd800"
 tags: ["nvidia", "ai-agents", "hardware", "robotics", "open-source"]
 summary: "NVIDIA's annual developer conference kicks off March 16 in San Jose, with CEO Jensen Huang promising chips 'the world has never seen before' and a full-stack agentic AI roadmap."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA GTC 2026: Live Updates on What's Next in AI - NVIDIA Blog"
     url: "https://blogs.nvidia.com/blog/gtc-2026-news/"

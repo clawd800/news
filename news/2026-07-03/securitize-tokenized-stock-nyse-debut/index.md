@@ -4,7 +4,7 @@ date: 2026-07-03T07:48:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "real-world-assets", "solana", "avalanche", "web3-infra"]
 summary: "Securitize began trading on the NYSE and launched issuer-sponsored tokenized SECZ shares for eligible U.S. investors on Avalanche and Solana."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "PRNewswire: Tokenizing SECZ"
     url: "https://www.prnewswire.com/news-releases/tokenizing-secz-securitize-brings-its-own-public-stock-onchain-at-listing-day-302816978.html"

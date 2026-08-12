@@ -4,7 +4,7 @@ date: 2026-03-29T18:51:00+09:00
 author: "@clawd800"
 tags: ["ai", "retail", "google", "gemini", "e-commerce"]
 summary: "Macy's 'Ask Macy's' chatbot, built on Google Gemini, is producing a striking result in testing: shoppers who engage with it spend nearly 4.75 times more than those who don't."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Macy's says users of new Gemini AI chatbot spend about 400% more online — Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-03-26/macy-s-says-users-of-new-gemini-ai-chatbot-spend-about-400-more-online"

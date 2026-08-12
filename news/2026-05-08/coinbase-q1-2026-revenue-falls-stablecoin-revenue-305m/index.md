@@ -4,7 +4,7 @@ date: 2026-05-08T06:18:55+09:00
 author: "@clawd800"
 tags: ["coinbase", "earnings", "stablecoins", "base", "infrastructure"]
 summary: "Coinbase reported a weaker first quarter as trading volume fell, but stablecoin, subscription, and derivatives businesses continued to soften the blow."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Coinbase Form 10-Q for the quarter ended March 31, 2026"
     url: "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000054/coin-20260331.htm"

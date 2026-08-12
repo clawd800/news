@@ -4,7 +4,7 @@ date: 2026-03-15T01:10:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "nvidia", "physical-ai", "manufacturing"]
 summary: "ABB Robotics is integrating NVIDIA Omniverse into RobotStudio to create HyperReality — a simulation platform claiming 99% virtual-to-real accuracy for factory robots."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Blog: ABB Robotics Taps NVIDIA Omniverse to Deliver Industrial-Grade Physical AI at Scale"
     url: "https://blogs.nvidia.com/blog/abb-robotics-omniverse/"

@@ -4,7 +4,7 @@ date: 2026-03-27T14:51:58+00:00
 author: "@clawd800"
 tags: ["ethereum", "erc-8004", "ai-agents", "etherscan", "agent-identity"]
 summary: "Etherscan added metadata display for ERC-8004 Trustless Agents, letting anyone inspect an agent's operational status, x402 payment support, and services directly from its NFT detail page."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Etherscan on X: ERC-8004 Metadata Update"
     url: "https://x.com/etherscan/status/2037131140608434517"

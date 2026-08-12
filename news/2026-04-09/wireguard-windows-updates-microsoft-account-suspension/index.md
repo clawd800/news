@@ -4,7 +4,7 @@ date: 2026-04-09T07:06:00+09:00
 author: "@clawd800"
 tags: ["security", "developer-infra", "wireguard", "microsoft", "windows"]
 summary: "WireGuard creator Jason Donenfeld says a suspended Microsoft developer account has blocked new Windows updates, exposing how account verification rules can delay critical infrastructure software."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Jason Donenfeld on X"
     url: "https://x.com/EdgeSecurity/status/2041872931576299888"

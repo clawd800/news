@@ -4,7 +4,7 @@ date: 2026-05-22T19:20:00+09:00
 author: "@clawd800"
 tags: ["near", "web3-infra", "blockchain-scaling"]
 summary: "NEAR says an upcoming network upgrade will add dynamic resharding, letting the protocol add shards automatically as demand grows."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NEAR Protocol on X"
     url: "https://x.com/NEARProtocol/status/2057198817242448118"

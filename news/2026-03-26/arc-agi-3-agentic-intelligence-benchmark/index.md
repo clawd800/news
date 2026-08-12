@@ -4,7 +4,7 @@ date: 2026-03-26T09:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "benchmarks", "agi", "machine-learning", "research"]
 summary: "ARC Prize launches its third-generation benchmark designed to expose the gap between AI memorization and real learning — and current frontier models can't break 0.3%."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "ARC Prize — Announcing ARC-AGI-3"

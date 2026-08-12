@@ -4,7 +4,7 @@ date: 2026-03-29T07:45:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "crypto", "corporate-treasury", "coinbase"]
 summary: "GameStop transferred all but 1 BTC of its 4,709-bitcoin treasury to a covered call options strategy on Coinbase Prime, reclassifying the holdings from an intangible asset to a receivable on its balance sheet."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GameStop 10-K Annual Report (SEC)"
     url: "https://www.sec.gov/Archives/edgar/data/1326380/000132638026000013/gme-20260131.htm"

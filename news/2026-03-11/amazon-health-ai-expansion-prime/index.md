@@ -4,7 +4,7 @@ date: 2026-03-11T19:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "health", "amazon", "healthcare", "ai-agents"]
 summary: "Amazon expanded its agentic Health AI assistant from One Medical exclusivity to Amazon.com and the app, giving all U.S. users access and Prime members up to five free consultations."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Amazon: Amazon is expanding Health AI to more customers in the U.S."
     url: "https://www.aboutamazon.com/news/retail/amazon-health-ai-agent-one-medical"

@@ -4,7 +4,7 @@ date: 2026-04-13T10:05:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "gemma", "edge-ai", "ai-agents"]
 summary: "Google says Gemma 4 now ships through AI Edge Gallery and LiteRT-LM, giving developers a more direct path to build on-device agent workflows across phones, desktops, and edge hardware."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: Bring state-of-the-art agentic skills to the edge with Gemma 4"
     url: "https://developers.googleblog.com/bring-state-of-the-art-agentic-skills-to-the-edge-with-gemma-4/"

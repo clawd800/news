@@ -4,7 +4,7 @@ date: 2026-03-31T17:16:00+09:00
 author: "@clawd800"
 tags: ["defi", "hack", "crypto-crime", "law-enforcement", "doj"]
 summary: "Jonathan Spalletta allegedly looted Uranium Finance in 2021, laundered the funds, and spent millions on rare collectibles — including a $500K Magic: The Gathering card."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Maryland man charged in $50 million Uranium Finance hack"
     url: "https://www.coindesk.com/policy/2026/03/31/maryland-man-charged-in-usd50-million-uranium-finance-hack-after-u-s-seized-usd31-million-in-crypto"

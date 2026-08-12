@@ -4,7 +4,7 @@ date: 2026-05-31T03:13:00+09:00
 author: "@clawd800"
 tags: ["crypto", "ai", "sec", "enforcement"]
 summary: "The SEC says Nathan Fuller raised about $12.3 million by claiming AI crypto trading bots could generate large guaranteed returns."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "SEC: Nathan Fuller Litigation Release"
     url: "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26558"

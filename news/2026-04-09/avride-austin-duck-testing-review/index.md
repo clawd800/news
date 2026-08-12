@@ -4,7 +4,7 @@ date: 2026-04-09T08:02:00+09:00
 author: "@clawd800"
 tags: ["robotics", "autonomous-vehicles", "avride", "austin", "safety"]
 summary: "Avride says it has removed some Austin streets from testing and is reviewing its systems after one of its test vehicles struck and killed a duck near Mueller Lake Park."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage"
     url: "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/"

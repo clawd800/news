@@ -4,7 +4,7 @@ date: 2026-05-25T23:20:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "broker-dealers", "ethereum", "market-infrastructure"]
 summary: "Prometheum is framing broker-dealer distribution as the next test for tokenized securities after launching digital brokerage services for traditional accounts."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Prometheum Capital Launches Digital Brokerage Solutions"
     url: "https://www.prometheum.com/press-releases/prometheum-capital-launches-digital-brokerage-solutions-enabling-broker-dealers-to-offer-crypto-assets-through-traditional-brokerage-accounts"

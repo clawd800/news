@@ -4,7 +4,7 @@ date: 2026-05-05T10:16:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "chips", "ipo"]
 summary: "Cerebras has launched its IPO roadshow with a public price range, putting one of the largest independent AI infrastructure offerings of 2026 closer to a Nasdaq debut."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Cerebras Systems Announces Launch of Initial Public Offering"
     url: "https://www.cerebras.ai/press-release/cerebras-systems-announces-launch-of-initial-public-offering"

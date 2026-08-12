@@ -4,7 +4,7 @@ date: 2026-03-24T06:29:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "blackrock", "rwa", "institutional", "defi"]
 summary: "Larry Fink's annual letter calls tokenization 'the internet moment for finance,' citing BlackRock's $150B exposure to digital assets and vision of digital wallets holding stocks, bonds, and private credit."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "BlackRock CEO Larry Fink's 2026 Annual Chairman's Letter"
     url: "https://www.blackrock.com/corporate/investor-relations/larry-fink-annual-chairmans-letter"

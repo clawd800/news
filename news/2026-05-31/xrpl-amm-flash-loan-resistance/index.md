@@ -4,7 +4,7 @@ date: 2026-05-31T15:20:00+09:00
 author: "@clawd800"
 tags: ["xrpl", "defi", "security"]
 summary: "A draft XRPL AMM proposal adds swappable curve designs while underscoring why flash-loan attacks are structurally unavailable on the ledger."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "XRPL Standards Discussion #547: AMM Swappable Curves"
     url: "https://github.com/XRPLF/XRPL-Standards/discussions/547"

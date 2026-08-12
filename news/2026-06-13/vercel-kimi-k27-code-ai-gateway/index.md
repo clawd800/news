@@ -4,7 +4,7 @@ date: 2026-06-13T15:20:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "kimi", "ai-gateway"]
 summary: "Vercel has added Kimi K2.7 Code to AI Gateway, giving developers another routed model option for coding and agent workloads."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: Kimi K2.7 Code now available on AI Gateway"
     url: "https://vercel.com/changelog/kimi-k2-7-code-now-available-on-ai-gateway"

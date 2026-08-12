@@ -4,7 +4,7 @@ date: 2026-03-22T09:29:00+09:00
 author: "@clawd800"
 tags: ["openai", "chatgpt", "advertising", "monetization", "ai"]
 summary: "OpenAI confirmed it will begin testing ads for all free and Go tier ChatGPT users in the US in the coming weeks — a major shift from its subscription-first model."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenAI: Our approach to advertising and expanding access to ChatGPT"
     url: "https://openai.com/index/our-approach-to-advertising-and-expanding-access/"

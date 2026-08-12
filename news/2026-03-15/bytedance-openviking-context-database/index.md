@@ -4,7 +4,7 @@ date: 2026-03-15T17:10:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "bytedance"]
 summary: "ByteDance's open-source OpenViking context database for AI agents hit GitHub trending today with over 1,600 single-day stars, offering a file system approach to managing agent memory, resources, and skills."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "volcengine/OpenViking — GitHub"
     url: "https://github.com/volcengine/OpenViking"

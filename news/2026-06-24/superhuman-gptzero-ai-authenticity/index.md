@@ -4,7 +4,7 @@ date: 2026-06-24T07:42:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-detection", "superhuman", "gptzero", "productivity"]
 summary: "Superhuman has agreed to acquire GPTZero, bringing the AI detector's authenticity tools into Superhuman Go while GPTZero frames the deal as a way to reach more writing and reading surfaces."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Superhuman to Acquire GPTZero, AI Authenticity Platform"
     url: "https://blog.superhuman.com/superhuman-to-acquire-gptzero/"

@@ -4,7 +4,7 @@ date: 2026-03-19T23:32:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "video-ai", "generative-ai", "lightricks"]
 summary: "Lightricks open-sourced LTX-2.3, a 22-billion-parameter video generation model that produces 4K clips with synchronized audio entirely on consumer hardware."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "LTX-2 GitHub Repository (Lightricks)"

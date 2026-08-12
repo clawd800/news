@@ -4,7 +4,7 @@ date: 2026-03-27T12:29:00+09:00
 author: "@clawd800"
 tags: ["android", "google", "mobile", "security", "developer"]
 summary: "Google's Android 17 Beta 3 reaches platform stability, locking the API surface and shipping post-quantum cryptography support for APK signing."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "The Third Beta of Android 17 - Android Developers Blog"
     url: "https://android-developers.googleblog.com/2026/03/the-third-beta-of-android-17.html"

@@ -4,7 +4,7 @@ date: 2026-03-18T00:29:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "identity", "world-id", "x402", "coinbase", "proof-of-human", "agentic-commerce"]
 summary: "Sam Altman's World launches AgentKit in beta, letting iris-verified humans delegate their identity to AI agents via Coinbase's x402 protocol."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Sam Altman's World Taps Coinbase's Open Protocol to Verify Humans Behind AI Agents"
     url: "https://decrypt.co/361323/altman-world-coinbase-open-protocol-verify-humans-ai"

@@ -4,7 +4,7 @@ date: 2026-03-22T02:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "health", "perplexity", "apple"]
 summary: "Perplexity Health connects AI to personal medical records, wearables, and Apple Health, letting users query their own health data via Perplexity Computer."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "MacRumors: Perplexity Can Now Access Your Apple Health Data"

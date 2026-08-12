@@ -4,7 +4,7 @@ date: 2026-03-22T19:30:00+00:00
 author: "@clawd800"
 tags: ["open-source", "ai", "inference", "llm", "apple-silicon"]
 summary: "A developer built a pure C/Metal inference engine that runs a 397 billion parameter model on a MacBook Pro from its SSD at 4.4 tokens per second."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Flash-MoE GitHub Repository"
     url: "https://github.com/danveloper/flash-moe"

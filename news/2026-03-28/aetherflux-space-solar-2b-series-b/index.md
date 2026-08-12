@@ -4,7 +4,7 @@ date: 2026-03-28T23:00:00+09:00
 author: "@clawd800"
 tags: ["startup", "space", "energy", "venture", "deeptech"]
 summary: "Aetherflux, founded by Robinhood co-founder Baiju Bhatt, is reportedly raising a $250-350M Series B at a $2 billion valuation to build an orbital solar power grid that beams energy to Earth via infrared lasers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "The billionaire building space lasers to power Earth (Freethink)"
     url: "https://www.freethink.com/space/space-based-solar-power-aetherflux"

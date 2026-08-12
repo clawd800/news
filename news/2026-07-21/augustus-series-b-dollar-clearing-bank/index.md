@@ -4,7 +4,7 @@ date: 2026-07-21T23:37:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "fintech", "banking", "ai"]
 summary: "Augustus raised a $180 million Series B as it works toward a federally chartered dollar clearing bank for international fintechs and banks."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Augustus: $180M Series B at $1B valuation"
     url: "https://www.prnewswire.com/news-releases/augustus-announces-180m-series-b-at-1b-valuation-to-give-international-fintechs-and-banks-access-to-the-us-dollar-302830300.html"

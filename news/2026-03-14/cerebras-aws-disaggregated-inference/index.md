@@ -4,7 +4,7 @@ date: 2026-03-14T10:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "cloud", "aws", "chips", "inference"]
 summary: "Amazon Web Services and Cerebras Systems announced a collaboration to deliver what they call the fastest AI inference in the cloud by splitting workloads across Trainium and CS-3 chips."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "AWS Press Release"
     url: "https://press.aboutamazon.com/aws/2026/3/aws-and-cerebras-collaboration-aims-to-set-a-new-standard-for-ai-inference-speed-and-performance-in-the-cloud"

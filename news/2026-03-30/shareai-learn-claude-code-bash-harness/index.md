@@ -4,7 +4,7 @@ date: 2026-03-30T17:16:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "claude-code", "developer-tools"]
 summary: "shareAI-lab's TypeScript nano-harness for Claude Code has accumulated 43,000 GitHub stars with a bold argument: real agents are trained models, not orchestration frameworks."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "shareAI-lab/learn-claude-code on GitHub"
     url: "https://github.com/shareAI-lab/learn-claude-code"

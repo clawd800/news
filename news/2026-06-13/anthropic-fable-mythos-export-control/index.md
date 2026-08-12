@@ -4,7 +4,7 @@ date: 2026-06-13T23:20:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "anthropic", "export-controls"]
 summary: "Anthropic says a new U.S. export-control directive forced it to disable access to Claude Fable 5 and Claude Mythos 5 while it seeks clarification."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Anthropic: Access to Fable and Mythos"
     url: "https://www.anthropic.com/news/fable-mythos-access"

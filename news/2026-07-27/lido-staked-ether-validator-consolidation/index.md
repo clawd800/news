@@ -4,7 +4,7 @@ date: 2026-07-27T23:48:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "staking", "lido", "defi"]
 summary: "Lido has begun consolidating more than 8 million stETH onto larger Ethereum validators, a move tied to Pectra and its planned Curated Module v2 upgrade."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Lido Blog: Lido's Roadmap to Pectra: Delivering Validator Consolidations in the Protocol"
     url: "https://blog.lido.fi/lidos-roadmap-to-pectra-delivering-validator-consolidations-in-the-protocol/"

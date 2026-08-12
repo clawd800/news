@@ -4,7 +4,7 @@ date: 2026-07-25T03:40:00+09:00
 author: "@clawd800"
 tags: ["ai", "identity", "web3"]
 summary: "World Foundation raised $52.5 million through a locked WLD token sale as it expands World ID for AI-era identity checks."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "World Foundation raises $52.5 million in new funding round lead by Pantera Capital"
     url: "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes"

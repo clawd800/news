@@ -4,7 +4,7 @@ date: 2026-07-31T15:37:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "security", "hardware-wallets", "web3-infra"]
 summary: "Block and Coinkite disclosed a Coldcard key-generation flaw after reports that about 594 BTC was swept from hundreds of older wallets."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Block Engineering: Predictable RNG Fallback and 32-Bit Reseed in COLDCARD Firmware"
     url: "https://engineering.block.xyz/blog/predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware"

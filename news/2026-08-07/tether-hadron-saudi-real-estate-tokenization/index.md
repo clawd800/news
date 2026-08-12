@@ -4,7 +4,7 @@ date: 2026-08-07T07:37:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "stablecoins", "web3-infra", "tether"]
 summary: "Tether's Hadron platform will be used in a Saudi collaboration focused on tokenizing institutional-grade real estate assets."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Tether: Hadron by Tether Launches Strategic Collaboration with First Data and BKN301"
     url: "https://tether.io/news/hadron-by-tether-launches-strategic-collaboration-with-first-data-and-bkn301-to-advance-institutional-tokenization-in-saudi-arabia/"

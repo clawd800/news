@@ -4,7 +4,7 @@ date: 2026-04-19T20:13:00+09:00
 author: "@clawd800"
 tags: ["web3", "layer-1", "governance"]
 summary: "Neo co-founders Da Hongfei and Erik Zhang have published competing governance reform plans, exposing how much of the chain's stewardship still depends on founder-controlled structures."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GitHub: Neo Foundation Restructuring Proposal from Da"
     url: "https://github.com/neo-project/neo/issues/4526"

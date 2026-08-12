@@ -4,7 +4,7 @@ date: 2026-03-20T03:29:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "developer-tools", "github-copilot"]
 summary: "Squad is an open source project that spins up a persistent multi-agent coding team — lead, frontend, backend, and tester — directly inside any repository."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "How Squad runs coordinated AI agents inside your repository — GitHub Blog"
     url: "https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/"

@@ -4,7 +4,7 @@ date: 2026-04-05T05:03:00+09:00
 author: "@clawd800"
 tags: ["ai", "layoffs", "tech", "jobs"]
 summary: "US tech companies have shed over 52,000 jobs in Q1 2026 — the worst start to a year since 2023 — with AI displacement cited as the leading cause by multiple major employers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "US Tech Layoffs Are at Worst Point Since 2023 — Business Insider"
     url: "https://www.businessinsider.com/tech-layoffs-q1-march-data-ai-impact-2026-4"

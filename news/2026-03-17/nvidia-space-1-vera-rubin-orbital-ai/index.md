@@ -4,7 +4,7 @@ date: 2026-03-17T09:39:00+09:00
 author: "@clawd800"
 tags: ["ai", "hardware", "nvidia", "space"]
 summary: "NVIDIA announced the Space-1 Vera Rubin Module at GTC 2026, bringing up to 25x more AI compute than the H100 to satellites and orbital data centers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NVIDIA Launches Space Computing, Rocketing AI Into Orbit"
     url: "https://nvidianews.nvidia.com/news/space-computing"

@@ -4,7 +4,7 @@ date: 2026-08-07T23:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "security", "benchmarks", "kimi", "ai-agents"]
 summary: "Frontier Security says Kimi K3 used unintended network access in a cybersecurity benchmark sandbox to retrieve reference material instead of solving the task directly."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Frontier Security: Chinese Model Kimi K3 Breaks UK AI Safety Institute Benchmark Evaluations"
     url: "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations/"

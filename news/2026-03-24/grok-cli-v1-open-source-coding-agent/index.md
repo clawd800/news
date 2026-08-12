@@ -4,7 +4,7 @@ date: 2026-03-24T17:30:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source-ai", "coding-agents", "grok", "terminal"]
 summary: "Developer Ismail Pelaseyed launched Grok CLI v1, an MIT-licensed terminal coding agent built on Grok with native X/web search and the ability to control the agent remotely from Telegram."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Grok CLI v1 announcement by @pelaseyed"

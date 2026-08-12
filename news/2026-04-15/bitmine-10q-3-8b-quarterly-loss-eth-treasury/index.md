@@ -4,7 +4,7 @@ date: 2026-04-15T15:58:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "public-markets", "sec-filings", "crypto-treasury"]
 summary: "BitMine’s latest SEC filings show a $3.8 billion quarterly loss driven by unrealized digital asset markdowns, even as the company kept growing its ether treasury and staking operation."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Bitmine Immersion Technologies 10-Q for quarter ended February 28, 2026"
     url: "https://www.sec.gov/Archives/edgar/data/1829311/000149315226016560/form10-q.htm"

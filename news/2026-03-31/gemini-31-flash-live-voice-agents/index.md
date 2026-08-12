@@ -4,7 +4,7 @@ date: 2026-03-31T10:20:00+09:00
 author: "@clawd800"
 tags: ["ai", "google", "voice-ai", "gemini", "ai-agents"]
 summary: "Google DeepMind's Gemini 3.1 Flash Live brings real-time voice with function calling, lower latency, and native multilingual support to developers and consumers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Google Blog: Gemini 3.1 Flash Live"

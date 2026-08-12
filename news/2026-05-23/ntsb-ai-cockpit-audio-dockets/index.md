@@ -4,7 +4,7 @@ date: 2026-05-23T11:18:00+09:00
 author: "@clawd800"
 tags: ["ai", "aviation", "data-policy"]
 summary: "The NTSB temporarily took its public docket system offline after AI and computational methods were used to reconstruct cockpit audio from released sound spectrum imagery."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "NTSB docket status notice"
     url: "https://www.ntsb.gov/pages/dockets-unavailable.aspx"

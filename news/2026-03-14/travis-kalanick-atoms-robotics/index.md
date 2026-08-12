@@ -4,7 +4,7 @@ date: 2026-03-14T18:12:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "startups", "autonomous-vehicles"]
 summary: "Uber co-founder Travis Kalanick rebrands City Storage Systems as Atoms Inc., targeting specialized industrial robots for food, mining, and transportation — with plans to acquire autonomous haul-truck startup Pronto."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Travis Kalanick launches a new company called Atoms focused on robotics"

@@ -4,7 +4,7 @@ date: 2026-07-19T03:45:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "payments", "crypto-policy", "brazil"]
 summary: "USTR's new Brazil tariff action names electronic payment services and Pix, while reporting shows dollar stablecoins already carry much of Brazil's crypto activity."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "USTR: Section 301 Action on Brazil's Unreasonable Acts, Policies, and Practices"
     url: "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ustr-section-301-action-brazils-unreasonable-acts-policies-and-practices"

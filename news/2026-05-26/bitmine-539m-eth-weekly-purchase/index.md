@@ -4,7 +4,7 @@ date: 2026-05-26T23:20:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "crypto-treasury", "staking"]
 summary: "BitMine said it added 111,942 ETH in a week, lifting its Ethereum treasury to 5.39 million tokens and 4.47% of total ETH supply."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "BitMine Immersion Technologies announces ETH holdings reach 5.39 million tokens"
     url: "https://www.prnewswire.com/apac/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-39-million-tokens-and-total-crypto-and-total-cash-holdings-of-12-3-billion-302781524.html"

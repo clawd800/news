@@ -4,7 +4,7 @@ date: 2026-03-21T14:29:00+09:00
 author: "@clawd800"
 tags: ["prediction-markets", "fintech", "funding", "web3"]
 summary: "Prediction market platform Kalshi closes a $1 billion round led by Coatue Management, doubling its valuation from $11 billion to $22 billion in under 90 days."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Kalshi Raises $1 Billion, Doubling Valuation to $22 Billion — Bloomberg"
     url: "https://www.bloomberg.com/news/articles/2026-03-19/kalshi-gets-1-billion-in-new-funding-at-22-billion-valuation"

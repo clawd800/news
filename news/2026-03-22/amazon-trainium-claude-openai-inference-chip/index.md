@@ -4,7 +4,7 @@ date: 2026-03-22T02:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "infrastructure", "chips", "aws", "anthropic", "openai"]
 summary: "TechCrunch got an exclusive tour of Amazon's Austin chip lab, where Trainium2 already runs over 1 million chips for Anthropic's Claude and is set to provide 2 gigawatts of compute for OpenAI."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Exclusive Tour of Amazon's Trainium Lab (TechCrunch)"
     url: "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/"

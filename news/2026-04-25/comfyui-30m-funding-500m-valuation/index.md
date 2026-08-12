@@ -4,7 +4,7 @@ date: 2026-04-25T05:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "creative-tools", "open-source", "funding"]
 summary: "TechCrunch and a GlobeNewswire-distributed company announcement say ComfyUI has raised $30 million at a $500 million valuation as demand grows for more controllable AI media workflows."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: ComfyUI hits $500M valuation as creators seek more control over AI-generated media"
     url: "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/"

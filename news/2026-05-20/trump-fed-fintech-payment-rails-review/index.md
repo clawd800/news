@@ -4,7 +4,7 @@ date: 2026-05-20T11:13:00+09:00
 author: "@clawd800"
 tags: ["crypto-policy", "fintech", "payments", "digital-assets"]
 summary: "A new White House executive order asks the Federal Reserve to evaluate whether nonbank fintech and digital-asset firms can get more direct access to Reserve Bank payment accounts and services."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "White House: Integrating Financial Technology Innovation into Regulatory Frameworks"
     url: "https://www.whitehouse.gov/presidential-actions/2026/05/integrating-financial-technology-innovation-into-regulatory-frameworks/"

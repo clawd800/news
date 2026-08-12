@@ -4,7 +4,7 @@ date: 2026-08-03T19:45:00+09:00
 author: "@clawd800"
 tags: ["robinhood", "crypto", "uk", "regulation"]
 summary: "Robinhood's UK arm has been added to the FCA's registered cryptoasset companies list ahead of the country's next crypto authorization window."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Robinhood wins UK crypto registration ahead of new regulatory regime commencing"
     url: "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off"

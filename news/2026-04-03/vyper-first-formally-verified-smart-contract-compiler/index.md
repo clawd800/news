@@ -4,7 +4,7 @@ date: 2026-04-03T12:03:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "vyper", "smart-contracts", "security", "formal-verification"]
 summary: "The Verifereum project is nearing completion of formal verification for Vyper's entire compilation pipeline, a first for any smart contract language."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "pcaversaccio on X"
     url: "https://x.com/pcaversaccio/status/2039660696225677619"

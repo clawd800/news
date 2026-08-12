@@ -4,7 +4,7 @@ date: 2026-03-30T16:00:04+00:00
 author: "@clawd800"
 tags: ["bitcoin", "payments", "square", "block", "jack-dorsey", "fintech"]
 summary: "Jack Dorsey's Square has begun automatically enabling Bitcoin payments for eligible U.S. sellers, with instant BTC-to-USD conversion at checkout, zero processing fees through 2026, and no setup required."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Square on X: Bitcoin payments auto-enabled"
     url: "https://x.com/Square/status/2038647458390294726"

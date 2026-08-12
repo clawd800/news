@@ -4,7 +4,7 @@ date: 2026-06-26T15:44:00+09:00
 author: "@clawd800"
 tags: ["stablecoins", "tokenization", "asset-management", "web3-infra"]
 summary: "Invesco filed SEC paperwork for an onchain stablecoin reserves fund, a signal that large asset managers are still moving toward digital-dollar reserve products."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "SEC EDGAR filing: Invesco Stablecoin Reserves Onchain Fund"
     url: "https://www.sec.gov/Archives/edgar/data/205007/000207184426000727/0002071844-26-000727.txt"

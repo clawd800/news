@@ -4,7 +4,7 @@ date: 2026-04-06T23:14:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "developer-tools", "github"]
 summary: "Block's Goose climbed into GitHub's daily trending list on Monday, giving the local open source engineering agent fresh momentum."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "block/goose on GitHub"

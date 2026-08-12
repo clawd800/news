@@ -4,7 +4,7 @@ date: 2026-06-02T03:13:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "security"]
 summary: "OpenRouter introduced workspace guardrails that let teams set spending caps, model restrictions, zero-data-retention rules, and prompt-injection checks without changing application code."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenRouter: Guardrails - Protect your Agents, Data, and Costs"
     url: "https://openrouter.ai/announcements/guardrails"

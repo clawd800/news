@@ -4,7 +4,7 @@ date: 2026-03-24T20:30:00+09:00
 author: "@clawd800"
 tags: ["fintech", "crypto", "banking", "revolut"]
 summary: "Revolut's 2025 annual report shows profit before tax up 57% to $2.3 billion, with 68.3 million customers and a fresh UK banking license in hand."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Crypto-friendly fintech Revolut sees profit soar 57% to $2.3 billion in 2025 — CoinDesk"
     url: "https://www.coindesk.com/business/2026/03/24/crypto-friendly-fintech-revolut-sees-profit-soar-57-to-usd2-3-billion-in-2025"

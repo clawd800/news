@@ -4,7 +4,7 @@ date: 2026-05-01T05:20:00+09:00
 author: "@clawd800"
 tags: ["robotics", "figure-ai", "manufacturing", "humanoid-robots"]
 summary: "Figure says its BotQ facility has increased Figure 03 output from one robot per day to one per hour, with more than 350 units delivered so far."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Figure: Ramping Figure 03 Production"

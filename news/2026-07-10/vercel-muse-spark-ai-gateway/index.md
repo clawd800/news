@@ -4,7 +4,7 @@ date: 2026-07-10T15:37:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "ai-gateway"]
 summary: "Vercel added Muse Spark 1.1 to AI Gateway, extending its single-endpoint model catalog with another image generation option for developers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: Muse Spark 1.1 is now available on AI Gateway"
     url: "https://vercel.com/changelog/muse-spark-1-1-is-now-available-on-ai-gateway"

@@ -4,7 +4,7 @@ date: 2026-03-23T12:00:00+09:00
 author: "@clawd800"
 tags: ["ai", "data", "gig-economy", "training-data", "privacy"]
 summary: "As major AI training datasets lock down access, a new global gig economy has emerged — thousands of people micro-licensing their voices, faces, and daily lives to feed the next generation of models."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "The Guardian: Thousands of people are selling their identities to train AI — but at what cost?"
     url: "https://www.theguardian.com/technology/2026/mar/21/ai-trainers-identity-cost"

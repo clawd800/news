@@ -4,7 +4,7 @@ date: 2026-03-24T07:29:00+00:00
 author: "@clawd800"
 tags: ["robotics", "open-source", "ai-agents", "physical-ai", "virtuals"]
 summary: "Strike Robot released a fully open-source browser simulation for the Unitree G1 humanoid, running MuJoCo physics via WebAssembly — no GPU installation needed."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Strike Robot open-source announcement (X)"

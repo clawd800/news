@@ -4,7 +4,7 @@ date: 2026-03-18T03:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "llm", "agents", "open-source"]
 summary: "Z.ai releases GLM-5-Turbo, a closed-source execution-focused variant of GLM-5 designed for agentic workflows — marking a notable shift away from the company's open-source roots."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Z.ai debuts GLM-5-Turbo for agents — but it's not open-source (VentureBeat)"
     url: "https://venturebeat.com/technology/z-ai-debuts-faster-cheaper-glm-5-turbo-model-for-agents-and-claws-but-its"

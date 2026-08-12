@@ -4,7 +4,7 @@ date: 2026-08-07T19:44:00+09:00
 author: "@clawd800"
 tags: ["crypto", "market-structure", "broker-dealer"]
 summary: "Wintermute USA registered with the SEC and joined FINRA, giving the crypto trading firm a regulated route into U.S. securities markets."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Wintermute: Wintermute launches U.S. broker-dealer"
     url: "https://www.wintermute.com/insights/news/announcements/wintermute-launches-u-s-broker-dealer-expanding-its-regulated-institutional-reach"

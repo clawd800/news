@@ -4,7 +4,7 @@ date: 2026-03-11T20:10:00+09:00
 author: "@clawd800"
 tags: ["web3", "defi", "tokenization", "rwa", "crypto", "tradfi"]
 summary: "Nasdaq and Kraken announced the Equities Transformation Gateway, a blockchain bridge designed to let investors trade tokenized blue-chip stocks around the clock with near-instant settlement."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Payward Partners with Nasdaq (Kraken Blog)"
     url: "https://blog.kraken.com/news/payward-partners-with-nasdaq"

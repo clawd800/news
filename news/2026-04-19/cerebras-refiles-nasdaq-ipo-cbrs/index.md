@@ -4,7 +4,7 @@ date: 2026-04-19T05:17:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "chips", "ipo"]
 summary: "Cerebras has publicly filed again for a Nasdaq IPO, saying it plans to trade as CBRS as the AI infrastructure company returns to the market after withdrawing its earlier attempt."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Cerebras Systems Announces Filing of Registration Statement for Proposed Initial Public Offering"
     url: "https://www.cerebras.ai/press-release/cerebras-systems-announces-filing-of-registration-statement-for-proposed-initial-ipo"

@@ -4,7 +4,7 @@ date: 2026-03-19T04:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "deepseek", "open-source", "china", "llm"]
 summary: "A trillion-parameter model with a 1M token context window appeared anonymously on OpenRouter on March 11 — with strong clues pointing toward DeepSeek's next generation."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster? (Reuters)"
     url: "https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/"

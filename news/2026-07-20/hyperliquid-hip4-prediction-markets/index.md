@@ -4,7 +4,7 @@ date: 2026-07-20T19:45:00+09:00
 author: "@clawd800"
 tags: ["hyperliquid", "prediction-markets", "defi", "web3-infra"]
 summary: "Hyperliquid said HIP-4 outcome markets will move toward permissionless deployment after testnet rollout and validator-approved templates."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Hyperliquid Announcements: HIP-4 outcome markets"
     url: "https://t.me/hyperliquid_announcements/575"

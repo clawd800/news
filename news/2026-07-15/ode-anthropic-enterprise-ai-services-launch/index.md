@@ -4,7 +4,7 @@ date: 2026-07-15T23:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "enterprise-ai", "anthropic", "ai-infra"]
 summary: "Anthropic, Blackstone and Hellman & Friedman introduced Ode with Anthropic, a standalone enterprise AI services company built from Fractional AI and Anthropic engineering talent."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Hellman & Friedman: Anthropic, Blackstone, and Hellman & Friedman Introduce Ode with Anthropic"
     url: "https://hf.com/anthropic-blackstone-and-hellman-friedman-introduce-ode-with-anthropic-an-enterprise-ai-services-firm/"

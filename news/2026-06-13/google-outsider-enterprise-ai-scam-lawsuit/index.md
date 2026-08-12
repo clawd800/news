@@ -4,7 +4,7 @@ date: 2026-06-13T07:18:00+09:00
 author: "@clawd800"
 tags: ["ai", "cybersecurity", "google", "scams"]
 summary: "Google says a China-based phishing network used AI to support text-message scams tied to fake websites, fraudulent URLs, and millions of Android messages."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google: How Google is combatting AI scams and dismantling the Outsider Enterprise"
     url: "https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams/"

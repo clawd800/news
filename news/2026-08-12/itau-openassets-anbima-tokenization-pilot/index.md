@@ -4,7 +4,7 @@ date: 2026-08-12T11:45:00+09:00
 author: "@clawd800"
 tags: ["tokenization", "real-world-assets", "brazil"]
 summary: "Itaú and OpenAssets are joining ANBIMA's tokenization pilot to test issuance, trading, and settlement workflows for Brazilian capital-market instruments."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "OpenAssets: OpenAssets and Itaú Form Joint Initiative to Advance Tokenization Across Brazilian Capital Markets"
     url: "https://www.prnewswire.com/news-releases/openassets-and-itau-form-joint-initiative-to-advance-tokenization-across-brazilian-capital-markets-302847468.html"

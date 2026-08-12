@@ -4,7 +4,7 @@ date: 2026-05-30T15:13:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "quantum", "security", "crypto-infra"]
 summary: "A new CoinDesk report argues Bitcoin's quantum risk is not limited to exposed wallet keys, as payment messages, exchange authentication, and custody signing traffic may already be collectible for later decryption."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: Bitcoin's Biggest Quantum Risk May Not Be Wallet Keys"
     url: "https://www.coindesk.com/tech/2026/05/30/bitcoin-s-biggest-quantum-risk-may-not-be-wallet-keys-an-early-investor-fears-something-bigger"

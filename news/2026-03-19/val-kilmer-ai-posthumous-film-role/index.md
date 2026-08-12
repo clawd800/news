@@ -4,7 +4,7 @@ date: 2026-03-19T17:30:00+09:00
 author: "@clawd800"
 tags: ["ai", "entertainment", "generative-ai", "film", "digital-actor"]
 summary: "Val Kilmer's estate has approved an AI-generated version of the late actor for the indie film 'As Deep As The Grave,' using family-provided photos and audio for a role he was cast in before his death."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Val Kilmer in 'As Deep As the Grave,' His Performance Was AI Generated"
     url: "https://variety.com/2026/film/news/val-kilmer-ai-film-as-deep-as-the-grave-1236691042/"

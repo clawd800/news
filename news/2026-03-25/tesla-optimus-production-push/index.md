@@ -4,7 +4,7 @@ date: 2026-03-25T23:35:00+09:00
 author: "@clawd800"
 tags: ["robotics", "tesla", "optimus", "ai", "manufacturing"]
 summary: "Tesla's official Optimus account called the humanoid robot 'the biggest product ever made' and announced a high-volume production push, as Elon Musk amplified the message to over 160,000 likes."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Tesla Optimus on X"

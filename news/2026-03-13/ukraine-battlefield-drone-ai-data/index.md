@@ -4,7 +4,7 @@ date: 2026-03-13T15:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "drones", "defense", "ai-agents", "robotics"]
 summary: "Ukraine's defence minister opened access to millions of annotated combat drone images for allied companies to train AI models — a world-first initiative."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ukraine opens battlefield data access to allies' AI models — Reuters"
     url: "https://www.reuters.com/business/aerospace-defense/ukraine-opens-battlefield-data-access-allies-ai-models-2026-03-12/"

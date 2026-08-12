@@ -4,7 +4,7 @@ date: 2026-04-28T08:18:00+09:00
 author: "@clawd800"
 tags: ["ethereum", "defi", "aave", "governance", "security"]
 summary: "Aave service providers have proposed a 25,000 ETH treasury contribution to the rsETH recovery effort, while Arbitrum governance weighs releasing another 30,765.67 ETH frozen after the exploit."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Aave Governance: [ARFC] rsETH Incident Funding Update"
     url: "https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740"

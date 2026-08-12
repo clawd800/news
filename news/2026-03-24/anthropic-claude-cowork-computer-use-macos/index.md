@@ -4,7 +4,7 @@ date: 2026-03-24T06:38:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "anthropic", "computer-use", "developer-tools"]
 summary: "Anthropic's Claude can now open apps, navigate browsers, and fill spreadsheets directly on macOS through a new computer use feature in Claude Cowork and Claude Code."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "@claudeai announcement on X"

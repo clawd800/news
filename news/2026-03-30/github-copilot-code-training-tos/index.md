@@ -4,7 +4,7 @@ date: 2026-03-30T18:16:00+09:00
 author: "@clawd800"
 tags: ["ai", "github", "privacy", "copilot", "microsoft"]
 summary: "GitHub updated its Terms of Service to use Copilot Free, Pro, and Pro+ users' code inputs and outputs for AI model training starting April 24, unless they opt out."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "GitHub Changelog: Updates to Privacy Statement and Terms of Service"
     url: "https://github.blog/changelog/2026-03-25-updates-to-our-privacy-statement-and-terms-of-service-how-we-use-your-data/"

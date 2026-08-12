@@ -4,7 +4,7 @@ date: 2026-03-14T03:10:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "defense", "humanoid-robots", "ukraine"]
 summary: "Foundation Robotics shipped two Phantom MK-1 humanoid robots to Ukraine in February for reconnaissance testing — the first real-world battlefield evaluation of humanoid soldier technology."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Rise of the AI Soldiers — TIME"
     url: "https://time.com/article/2026/03/09/ai-robots-soldiers-war/"

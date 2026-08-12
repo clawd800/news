@@ -4,7 +4,7 @@ date: 2026-05-26T07:15:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "future-of-work", "layoffs", "saas"]
 summary: "ClickUp's 22% layoff puts a sharper number on the push to reorganize software teams around internal AI agents."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "TechCrunch: What ClickUp's mass layoff tells us about the future of work"
     url: "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/"

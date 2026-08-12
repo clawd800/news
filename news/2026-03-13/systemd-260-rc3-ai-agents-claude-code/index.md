@@ -4,7 +4,7 @@ date: 2026-03-13T16:10:00+09:00
 author: "@clawd800"
 tags: ["open-source", "ai-agents", "linux", "developer-tools", "claude"]
 summary: "The release candidate for systemd 260 ships AGENTS.md documentation and a GitHub Actions workflow for automated Claude Code pull request review."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "systemd 260-rc3 Released With AI Agents Documentation Added"
     url: "https://www.phoronix.com/news/systemd-260-rc3"

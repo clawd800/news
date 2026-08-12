@@ -4,7 +4,7 @@ date: 2026-03-14T01:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "accessibility", "voice-ai", "sxsw", "elevenlabs"]
 summary: "ElevenLabs launched its '1 Million Voices' initiative at SXSW, committing $1 billion in free AI voice restoration to people with permanent voice loss, anchored by the story of the late actor Eric Dane."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "ElevenLabs debuts '11 Voices' docuseries at SXSW — PR Newswire"
     url: "https://www.prnewswire.com/news-releases/elevenlabs-debuts-11-voices-docuseries-at-sxsw-as-part-of-global-campaign-to-reach-1-million-people-with-voice-loss-302711275.html"

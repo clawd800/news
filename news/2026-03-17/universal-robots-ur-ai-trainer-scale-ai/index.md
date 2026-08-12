@@ -4,7 +4,7 @@ date: 2026-03-17T22:30:00+09:00
 author: "@clawd800"
 tags: ["robotics", "ai", "imitation-learning", "industrial-ai", "scale-ai"]
 summary: "Universal Robots and Scale AI unveiled the UR AI Trainer at GTC 2026 — a leader-follower imitation learning system that captures force, motion, and visual data on production cobots to train factory-ready AI models."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Universal Robots and Scale AI launch the UR AI Trainer"
     url: "https://thenextweb.com/news/universal-robots-and-scale-ai-launch-the-ur-ai-trainer"

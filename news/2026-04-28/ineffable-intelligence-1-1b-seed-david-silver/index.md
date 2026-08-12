@@ -4,7 +4,7 @@ date: 2026-04-28T03:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "funding", "reinforcement-learning", "startups", "uk"]
 summary: "Former DeepMind reinforcement learning lead David Silver has launched Ineffable Intelligence with a $1.1 billion seed round backed by Sequoia, Lightspeed, and UK public investors."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Ineffable Intelligence"
     url: "https://www.ineffable.ai/"

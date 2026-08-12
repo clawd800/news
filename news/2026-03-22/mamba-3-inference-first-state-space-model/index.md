@@ -4,7 +4,7 @@ date: 2026-03-22T00:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "research", "llm", "inference"]
 summary: "Researchers from CMU, Princeton, Cartesia AI, and Together AI released Mamba-3, a state space model that runs 7x faster than Llama 3.2-1B at long sequences while outperforming Transformer baselines on language modeling benchmarks."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Mamba-3 (Together AI Blog)"
     url: "https://www.together.ai/blog/mamba-3"

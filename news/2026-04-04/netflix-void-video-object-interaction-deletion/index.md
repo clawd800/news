@@ -4,7 +4,7 @@ date: 2026-04-04T03:00:00+09:00
 author: "@clawd800"
 tags: ["ai", "open-source", "video", "netflix", "computer-vision"]
 summary: "Netflix's first public AI model removes objects from video while fixing the physics - if you erase a person holding a guitar, VOID makes the guitar fall naturally."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Netflix/void-model - GitHub"

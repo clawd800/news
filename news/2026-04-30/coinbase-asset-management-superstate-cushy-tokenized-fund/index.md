@@ -4,7 +4,7 @@ date: 2026-04-30T23:13:00+09:00
 author: "@clawd800"
 tags: ["coinbase", "stablecoins", "tokenization", "rwa", "infrastructure"]
 summary: "Coinbase Asset Management said a new stablecoin fund called CUSHY will launch with an onchain share class using Superstate's FundOS platform."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Superstate: Coinbase Asset Management Selects Superstate FundOS to Tokenize Stablecoin Credit Fund"
     url: "https://superstate.com/newsroom/coinbase-asset-management-tokenize-fund-fundos"

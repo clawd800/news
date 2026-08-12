@@ -4,7 +4,7 @@ date: 2026-06-19T11:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "developer-infra", "vercel"]
 summary: "Vercel Connect lets agent applications request short-lived provider tokens at runtime instead of storing long-lived Slack, GitHub or API credentials."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Blog: Introducing Vercel Connect"
     url: "https://vercel.com/blog/introducing-vercel-connect"

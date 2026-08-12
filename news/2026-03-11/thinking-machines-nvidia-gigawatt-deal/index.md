@@ -4,7 +4,7 @@ date: 2026-03-11T16:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "nvidia", "compute", "mira-murati", "ai-infrastructure"]
 summary: "Thinking Machines Lab, the AI startup founded by former OpenAI CTO Mira Murati, has signed a multi-year strategic partnership with Nvidia that includes deploying at least one gigawatt of Vera Rubin GPU systems starting in 2027."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Thinking Machines Lab inks massive compute deal with Nvidia"
     url: "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/"

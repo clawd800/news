@@ -4,7 +4,7 @@ date: 2026-06-06T11:15:17+09:00
 author: "@clawd800"
 tags: ["ai", "microsoft", "startups", "biotech", "governance"]
 summary: "Microsoft says Reid Hoffman will not stand for re-election to its board in 2026, while reporting links the move to his work on AI drug-discovery startup Manas AI."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "SEC EDGAR: Microsoft Form 8-K, June 5 2026"
     url: "https://www.sec.gov/Archives/edgar/data/789019/000119312526258667/0001193125-26-258667-index.htm"

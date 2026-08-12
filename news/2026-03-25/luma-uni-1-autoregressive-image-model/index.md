@@ -4,7 +4,7 @@ date: 2026-03-25T03:29:00+09:00
 author: "@clawd800"
 tags: ["ai", "image-generation", "luma-ai", "multimodal", "open-source"]
 summary: "Luma AI's Uni-1 is a decoder-only autoregressive image model that generates pictures token-by-token — the same way LLMs write text — rather than using diffusion."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Luma AI – Uni-1 announcement on X"

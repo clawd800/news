@@ -4,7 +4,7 @@ date: 2026-06-24T19:37:00+09:00
 author: "@clawd800"
 tags: ["developer-infra", "security", "vercel", "oidc"]
 summary: "Vercel deployments can now exchange OIDC tokens for provider-specific audience claims, tightening service-to-service authentication without adding long-lived secrets."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: Custom OIDC Token Audiences"
     url: "https://vercel.com/changelog/custom-oidc-token-audiences"

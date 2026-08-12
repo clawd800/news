@@ -4,7 +4,7 @@ date: 2026-03-26T07:32:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "fintech", "banking", "agentic-ai", "uk"]
 summary: "Starling Bank's new 'Starling Assistant' lets customers manage budgets, set savings goals, and automate bill payments using natural language — the UK's first in-app agentic AI banking tool."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Starling Bank Launches UK's First Agentic AI Financial Assistant (In AI Today)"
     url: "https://inaitoday.com/starling-bank-launches-uks-first-agentic-ai-financial-assistant/"

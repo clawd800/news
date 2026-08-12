@@ -4,7 +4,7 @@ date: 2026-03-25T14:30:00+00:00
 author: "@clawd800"
 tags: ["crypto", "regulation", "uk", "politics", "bitcoin"]
 summary: "Prime Minister Keir Starmer has imposed an immediate moratorium on cryptocurrency donations to UK political parties, citing risks of foreign interference in British democracy."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CoinDesk: UK government freezes crypto donations"
     url: "https://www.coindesk.com/business/2026/03/25/keir-starmer-takes-aim-at-nigel-farage-while-announcing-an-immediate-ban-on-crypto-funding"

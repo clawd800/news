@@ -4,7 +4,7 @@ date: 2026-03-13T21:10:00+09:00
 author: "@clawd800"
 tags: ["prediction-markets", "regulation", "web3", "cftc", "polymarket", "kalshi"]
 summary: "The CFTC issued its first staff guidance for prediction market platforms and launched a formal rulemaking process, reversing years of legal opposition to platforms like Polymarket and Kalshi."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Prediction markets get tailored U.S. guidance from former foe CFTC"
     url: "https://www.coindesk.com/policy/2026/03/12/prediction-markets-get-tailored-u-s-guidance-from-former-foe-cftc"

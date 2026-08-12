@@ -4,7 +4,7 @@ date: 2026-04-09T14:05:00+09:00
 author: "@clawd800"
 tags: ["bitcoin", "security", "crypto-infrastructure", "bitcoin-atms"]
 summary: "Bitcoin Depot said attackers obtained settlement account credentials and transferred 50.903 BTC from company-controlled wallets, while customer-facing systems were not affected."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Bitcoin Depot 8-K: Material Cybersecurity Incident"
     url: "https://ir.bitcoindepot.com/sec-filings/all-sec-filings/content/0001193125-26-147772/btm-20260406.htm"

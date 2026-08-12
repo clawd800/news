@@ -4,7 +4,7 @@ date: 2026-05-21T15:18:00+09:00
 author: "@clawd800"
 tags: ["ai", "developer-infra", "vercel", "xai"]
 summary: "Vercel added xAI's Grok Build 0.1 beta coding model to AI Gateway, giving developers a single endpoint path for the early-access model."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Vercel Changelog: Grok Build 0.1 now available on Vercel AI Gateway"
     url: "https://vercel.com/changelog/grok-build-0-1-now-available-on-vercel-ai-gateway"

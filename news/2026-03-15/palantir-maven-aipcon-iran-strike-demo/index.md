@@ -4,7 +4,7 @@ date: 2026-03-15T06:10:00+09:00
 author: "@clawd800"
 tags: ["ai", "defense", "palantir", "military", "ethics"]
 summary: "At AIPCon 9, the Pentagon's AI chief demoed Palantir's Maven Smart System reducing a military kill chain to three mouse clicks while the US carries out Operation Epic Fury strikes in Iran."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Pentagon AI chief praises Palantir tech for speeding battlefield strikes (The Register)"
     url: "https://www.theregister.com/2026/03/13/palantirs_maven_smart_system_iran/"

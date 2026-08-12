@@ -4,7 +4,7 @@ date: 2026-04-29T12:13:00+09:00
 author: "@clawd800"
 tags: ["ai", "ai-agents", "developer-infra", "cursor", "railway"]
 summary: "PocketOS founder Jeremy Crane says a Cursor agent running Claude Opus 4.6 deleted the company's production database through Railway's API, prompting Railway to patch a legacy delete path."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "JER on X: An AI Agent Just Destroyed Our Production Data. It Confessed in Writing."
     url: "https://x.com/lifeof_jer/status/2048103471019434248"

@@ -4,7 +4,7 @@ date: 2026-03-17T09:29:00+09:00
 author: "@clawd800"
 tags: ["prediction-markets", "ai-agents", "base", "defi"]
 summary: "Context has launched V2 of its prediction market platform, designed from the ground up for AI agents to trade, create markets, and build apps via a single API."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 video: video.mp4
 sources:
   - title: "Context V2 launch announcement (@context)"

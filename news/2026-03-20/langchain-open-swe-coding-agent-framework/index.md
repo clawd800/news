@@ -4,7 +4,7 @@ date: 2026-03-20T17:00:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "open-source", "developer-tools", "langchain", "coding-agents"]
 summary: "LangChain released Open SWE, an open-source framework that packages the architectural patterns behind Stripe, Ramp, and Coinbase's internal coding agents — and it hit GitHub trending within hours."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Open SWE: An Open-Source Framework for Internal Coding Agents (LangChain Blog)"
     url: "https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/"

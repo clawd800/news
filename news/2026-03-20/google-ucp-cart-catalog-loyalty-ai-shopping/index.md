@@ -4,7 +4,7 @@ date: 2026-03-20T20:29:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "agentic-commerce", "google", "open-standard", "shopping"]
 summary: "Google's Universal Commerce Protocol gains cart management, real-time catalog access, and identity linking — letting AI agents shop like humans across thousands of retailers."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "AI shopping gets simpler with Universal Commerce Protocol updates (Google Blog)"
     url: "https://blog.google/products-and-platforms/products/shopping/ucp-updates/"

@@ -4,7 +4,7 @@ date: 2026-07-20T23:37:00+09:00
 author: "@clawd800"
 tags: ["ai-agents", "google", "developer-infra", "enterprise"]
 summary: "Google Cloud has added Parallel Web Systems as a native grounding provider for Gemini Enterprise Agent Platform, giving developers another way to connect agents to live web results with citations."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "Google Developers Blog: Introducing Grounding with Parallel Web Search"
     url: "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/"

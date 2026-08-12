@@ -4,7 +4,7 @@ date: 2026-04-03T13:03:00+09:00
 author: "@clawd800"
 tags: ["prediction-markets", "regulation", "cftc", "polymarket", "kalshi"]
 summary: "The DOJ and CFTC filed lawsuits against Illinois, Arizona, and Connecticut, arguing the federal government has exclusive authority to regulate prediction markets like Polymarket and Kalshi."
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
 sources:
   - title: "CFTC sues Arizona, Connecticut, Illinois over prediction market regulation"
     url: "https://www.cnbc.com/2026/04/02/prediction-market-lawsuit-regulation-arizona-coonecticut-illinois.html"
